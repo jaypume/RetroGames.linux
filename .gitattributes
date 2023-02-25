@@ -1,0 +1,5 @@
+* annex.backend=SHA256
+*.log annex.largefiles=nothing
+*.txt annex.largefiles=nothing
+*.lpl annex.largefiles=nothing
+*.csv annex.largefiles=nothing
