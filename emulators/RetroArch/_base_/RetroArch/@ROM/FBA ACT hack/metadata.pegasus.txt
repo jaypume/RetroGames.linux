@@ -1,0 +1,286 @@
+collection:动作街机
+sort-by:001
+extensions: 7z, zip
+ignore-files: 
+  pgm.zip
+  kov2nl.zip
+  orleg2.zip
+  neogeo.zip
+  wofj.zip
+  wof.zip
+  lightbr.zip
+  stvbios.zip
+  2\wof.zip
+  3\wof.zip
+  4\wof.zip
+  5\wof.zip
+  6\wof.zip
+  7\wof.zip
+  8\wof.zip
+  9\wof.zip
+  10\wof.zip
+  12\wof.zip
+  13\wof.zip
+launch: "{env.appdir}\RetroArch\retroarch.exe" -L "{env.appdir}\RetroArch\cores\fbalpha_libretro.dll" "{file.path}"
+
+game: 西游释厄传1 群魔乱舞
+file: oldsplus.zip
+sort-by: 121
+developer: 西游释厄传1 群魔乱舞
+publisher: IGS
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 《西游释厄传群魔乱舞》是鈊象电子于2004年发行的一款街机游戏，以《西游记》中的角色以及部分原创游戏角色为主要人物，故事则是从幻魔与火龙两大BOSS抓走唐僧作为起点，玩家通过操控人物一路过关斩将达到最终胜利游戏风格，属于横版动作通关游戏，一共有八大关卡。游戏是在《西游释厄传SUPER》的基础上进行扩充改变，自200版开始，群魔乱舞目前以发售多个版本。游戏系统相比SUPER亦有改进，如群魔乱舞中添加了六位魔族角色，彼此之间有着各不相同的特色，难度方面也追加了新隐藏难度“究极难”，并且追加了新系统“变身大法”。
+
+game: 机甲战士(全屏攻击版)
+file: armwar.zip
+sort-by: 084
+developer: 机甲战士(全屏攻击版)
+publisher: Capcom
+genre: Platform
+x-id: FBA ACT hack
+description: CAPCOM于1994年作品的游戏，游戏采用了CPS2引擎，所以画面非常华丽。难得一见的以机器人为主角的动作过关游戏，当然机器人是由人类控制的，每个机器人都有自己的招数，敌方的BOSS也是各种能力各异的机器人，游戏支持三人同时进行，也是一个打得很过瘾的过关游戏。装甲勇士攻关版(Armored Warriors)是一个国内罕见的横版动作游戏，主角的机甲战士就是后来格斗游戏 CyberBot的主角。游戏不是很容易上手，同时道具系统异常繁杂，但是画面非常优秀，而且游戏的进度、爽快感、平衡性极佳。游戏可选人物和敌人以及BOSS等都是机器人。游戏的最大特色就是可以选择机体的手臂武器、支架、肩部武器(有弹药限制)，这三种类型的武器种类非常多且招示丰富，比如可以将敌人砍成两半的激光剑，在空中可以发射定向导弹的浮空支架，还有导弹发射器等，使游戏玩起来非常丰富，完全可以自行选择来组成一个更强的机体，过把DIY的瘾。而且双打或三打时在对付BOSS时可以合体成更强大的机器人。
+
+game: 三国志2  飞刀版
+file: 13\wofj.zip
+sort-by: 029
+developer: 三国志2  飞刀版
+assets.box_front: media\wofj\boxfront.png
+assets.logo: media\wofj\logo.png
+assets.video: media\wofj\video.mp4
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 出招会伴随飞刀出现
+
+game: 三国志2  张飞冲拳+飞箭
+file: 2\wofj.zip
+sort-by: 030
+developer: 三国志2  张飞冲拳+飞箭
+assets.box_front: media\wofj\boxfront.png
+assets.logo: media\wofj\logo.png
+assets.video: media\wofj\video.mp4
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 出招会伴随弓箭出现，张飞冲拳持续时间大大延长
+
+game: 三国志2  剑气横飞
+file: 1\wofj.zip
+sort-by: 025
+developer: 三国志2  剑气横飞
+assets.box_front: media\wofj\boxfront.png
+assets.logo: media\wofj\logo.png
+assets.video: media\wofj\video.mp4
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 出招会伴随剑气发生
+
+game: 三国志2  夏侯惇无双版
+file: 10\wofj.zip
+sort-by: 026
+developer: 三国志2  夏侯惇无双版
+assets.box_front: media\wofj\boxfront.png
+assets.logo: media\wofj\logo.png
+assets.video: media\wofj\video.mp4
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 非常罕见，也非常好玩的一个版本。游戏把选人画面中的关羽和张飞换成了李典和夏侯惇。不过这个版的主角始终是夏侯惇，这个版本的独眼要比三国英雄传中的夏侯惇要好玩得多。首先夏侯惇在很多关都可以骑马，非常的有意思。而且夏侯的向前冲拳的威力很大，并且在这版中，夏侯惇还可以像原版角色一样在出拳的过程中把敌人摔过去，出拳的速度也快了很多，这也更加增强了游戏的乐趣。游戏中最经典的画面，莫过于第二关的关底，三个夏侯惇同屏！\n\n夏侯惇出招：\n↓↑A：冲拳\nA+B：扔炸弹\n↓↑B：吐火
+
+game: 三国志2  火凤凰
+file: 5\wofhfh.zip
+sort-by: 033
+developer: 三国志2  火凤凰
+assets.box_front: media\wofj\boxfront.png
+assets.logo: media\wofj\logo.png
+assets.video: media\wofj\video.mp4
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 可选夏侯惇和吕布
+
+game: 三国志2  三美无双2017
+file: 7\wofj.zip
+sort-by: 035
+developer: 三国志2  三美无双2017
+assets.box_front: media\wofj\boxfront.png
+assets.logo: media\wofj\logo.png
+assets.video: media\wofj\video.mp4
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 可以使用三美boss
+
+game: 三国志2  许褚版2018
+file: 11\wofj.zip
+sort-by: 027
+developer: 三国志2  许褚版2018
+assets.box_front: media\wofj\boxfront.png
+assets.logo: media\wofj\logo.png
+assets.video: media\wofj\video.mp4
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 可以使用许诸进行游戏
+
+game: 圆桌骑士(全屏攻击版)
+file: knights.zip
+sort-by: 073
+developer: 圆桌骑士(全屏攻击版)
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 快速升级，同时下方显示乱步值。保险几乎不扣血。
+
+game: 异形大战铁血战士(全屏攻击版)
+file: avsp.zip
+sort-by: 086
+developer: 异形大战铁血战士(全屏攻击版)
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 全屏攻击所有敌人
+
+game: 名将全屏攻击版
+file: captcomm.zip
+sort-by: 003
+developer: 名将全屏攻击版
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 全屏攻击所有敌人
+
+game: 龙与地下城:暗黑秘影全屏攻击版
+file: ddsom.zip
+sort-by: 012
+developer: 龙与地下城:暗黑秘影全屏攻击版
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 全屏攻击所有敌人
+
+game: 龙与地下城:毁灭之塔全屏攻击版
+file: ddtod.zip
+sort-by: 009
+developer: 龙与地下城:毁灭之塔全屏攻击版
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 全屏攻击所有敌人
+
+game: 惩罚者(全屏攻击版)
+file: punisher.zip
+sort-by: 080
+developer: 惩罚者(全屏攻击版)
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 全屏攻击所有敌人
+
+game: 三国志2 (全屏攻击版)
+file: wof.zip
+sort-by: 038
+developer: 三国志2 (全屏攻击版)
+assets.box_front: media\wof\boxfront.png
+assets.logo: media\wof\logo.png
+assets.video: media\wof\video.mp4
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 全屏攻击所有敌人
+
+game: 恐龙新世纪全屏攻击版
+file: 恐龙快打全屏攻击版\dino.zip
+sort-by: 021
+developer: 恐龙新世纪全屏攻击版
+assets.box_front: media\dino2\boxfront.png
+assets.logo: media\dino2\logo.png
+assets.video: media\dino2\video.mp4
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 全屏无视判断攻击。可以空连。怪物数量为3倍，攻击力降低75%。很解压的一顿揍就是了。
+
+game: 三国志2  三国志圣剑无敌版
+file: 8\wof3jsa.zip
+sort-by: 036
+developer: 三国志2  三国志圣剑无敌版
+assets.box_front: media\wofj\boxfront.png
+assets.logo: media\wofj\logo.png
+assets.video: media\wofj\video.mp4
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 圣剑无敌的几大特点：\n1、拿圣剑或者草薙的时候，按下右上+a，就能发出传说中的半月斩！（月牙波）\n2、草薙砍人只能砍掉半管血。剑气为蓝色！\n3、游戏音效和之前的那款一样，也是盗版音效！\n\n\n打开fbas模拟器后，直接按F6就可以打开游戏列表，然后选择红色框框的这个rom，就是圣剑无敌了！
+
+game: 三国志2  晕锤拳
+file: 12\wofj.zip
+sort-by: 028
+developer: 三国志2  晕锤拳
+assets.box_front: media\wofj\boxfront.png
+assets.logo: media\wofj\logo.png
+assets.video: media\wofj\video.mp4
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 随便打都能打晕小兵
+
+game: 三国志2  射击版
+file: 3\wofj.zip
+sort-by: 031
+developer: 三国志2  射击版
+assets.box_front: media\wofj\boxfront.png
+assets.logo: media\wofj\logo.png
+assets.video: media\wofj\video.mp4
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 头上无限飞箭
+
+game: 三国志2  赵云升龙脚版
+file: 4\wofj.zip
+sort-by: 032
+developer: 三国志2  赵云升龙脚版
+assets.box_front: media\wofj\boxfront.png
+assets.logo: media\wofj\logo.png
+assets.video: media\wofj\video.mp4
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 赵云和其他角色的下上攻击加强
+
+game: 三国志2  马战无双版
+file: 6\wofj.zip
+sort-by: 034
+developer: 三国志2  马战无双版
+assets.box_front: media\wofj\boxfront.png
+assets.logo: media\wofj\logo.png
+assets.video: media\wofj\video.mp4
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 这个版本的三国志还是值得一玩的，最大的惊喜是里面最历害的角色居然是黄忠，真的超牛！和原版相比变动如下：\n\n1、角色下马时，会发出一道光波。\n\n2、所有的敌人加倍，关底都是双BOSS，很多场景都会多出赵家兄弟和美美姐妹。\n\n3、黄忠超级加强，黄忠的普通攻击射出的不是箭，而是光波，三连发的时候会射出三道光波，而且攻击力巨大，敌人基本近不了身。\n\n4、之所以叫马战无双，是因为骑马的时候，用前+跳，马撞人的时候，敌人会少好多血，甚至可以秒杀BOSS。
+
+game: 三国志2  无双加强版2 2018
+file: 9\wofj.zip
+sort-by: 037
+developer: 三国志2  无双加强版2 2018
+assets.box_front: media\wofj\boxfront.png
+assets.logo: media\wofj\logo.png
+assets.video: media\wofj\video.mp4
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 这个三国志2 的改版很不错，本身也是无双的版本，不过在无双的基础上加了不少新鲜的元素，玩后的体验如下：\n\n1、基本上每关都有马可以骑，而且骑马转兵器的时候，可以向前方发出火箭，这样大大增强了马战的威力，转一圈可以倒下一片。\n\n2、很多关卡都有圣剑或草薙剑，除了第五关挨打会消失外，其余的关卡挨打后剑并不会消失，这样打BOSS会简单一些，也大大降低了游戏的难度，增加了普通玩家的乐趣。\n\n3、晏明同志做为一个常驻小BOSS，基本上在每个关卡都会三三两两的出现。\n\n4、第七关居然BOSS是曹操，这简直就是在送。\n\n5、我方的很多招式都会带有红色的剑气，这也大大增强了我方角色的威力。\n\n6、有些小关卡过了后千万不要忘记了下马，否则的话可能会引起不能过关的BUG。
+
+game: 恐龙新世纪AB无限版
+file: dino.zip
+sort-by: 020
+developer: 恐龙新世纪AB无限版
+publisher: Capcom
+genre: Beat-'Em-Up
+x-id: FBA ACT hack
+description: 子弹修改，UZI每颗子弹都变成了喷枪的，步枪可以一次射出很多喷枪子弹。小手枪一次射出多枚火箭弹，喷枪每次射出一枚火箭弹，巴祖卡一次可以射出两枚火箭弹。UZI和步枪两把武器，子弹像暴雨一样招呼在敌人身上，非常有爽快感。因为我方太过强大，敌人人太少了打得不过瘾，故修改5倍兵力，金手指开启敌人掉落武器，可以爽玩。
+

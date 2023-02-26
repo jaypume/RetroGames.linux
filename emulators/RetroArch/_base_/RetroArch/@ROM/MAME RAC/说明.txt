@@ -1,0 +1,1 @@
+控制器修改方法：按投币+X进入mame菜单，选择input settings-input Assignments（this system）-将steering wheel analog设置为None。将steering wheel analog inc设置为摇杆方向右，steering wheel analog dec设置为摇杆方向左。设置十字键会卡死。其他默认就可以了。

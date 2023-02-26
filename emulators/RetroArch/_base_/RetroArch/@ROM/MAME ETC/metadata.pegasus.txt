@@ -1,0 +1,264 @@
+collection: 休闲街机
+sort-by: 007
+extensions: 7z, zip
+ignore-files: 
+  pgm.zip
+  neogeo.zip
+  drgnwrld.zip
+  kingdrby.zip
+  crysbios.zip
+  namcoc76.zip
+  ym2413.zip
+  coh1002m.zip
+  sys573.zip
+  segabill.zip
+  konamigx.7z
+  aleck64.zip
+  stvbios.zip
+  m68705p5.zip
+launch: "{env.appdir}\RetroArch\retroarch.exe" -L "{env.appdir}\RetroArch\cores\mame_libretro.dll" "{file.path}"
+
+game: 益智麻将砖块
+file: jongbou.zip
+sort-by: 011
+developer: 益智麻将砖块
+description: Mahjong Block Jongbou 是 Breakout 风格的街机游戏和麻将游戏的结合。玩家可以通过从屏幕上移除所有砖块来通关，也可以通过收集掉落的变成麻将棋子的砖块来完成一手有效的麻将牌。在最初的街机版本中，玩家在每个级别后都会获得一张穿着性感服装的动漫风格女孩的照片。这些奖励图片已从 Nintendo Famicom 版本中删除。
+
+game: 泡泡龙2 汉化版
+file: bubsymphj.zip
+sort-by: 024
+developer: 泡泡龙2 汉化版
+description: 盛大汉化版
+
+game: 锤锤帮 汉化版
+file: dondokodj.zip
+sort-by: 036
+developer: 锤锤帮 汉化版
+description: 盛大汉化版
+
+game: 仙境物语 汉化版
+file: flstoryj.zip
+sort-by: 038
+developer: 仙境物语 汉化版
+description: 盛大汉化版
+
+game: 黄金赛马86
+file: kingdrbb.zip
+sort-by: 055
+developer: 黄金赛马86
+description: 黄金赛马86是80年代风靡全国街机房的一款赛马游戏，原名是国王德比赛马，出品于1981年的游戏，后来台湾盗版1986年版在国内普及。本游戏使用MAME运行，仍不完美，进入游戏时需要重启一次才能正常使用，而且背景的草坪贴图只能显示为土黄色。好在可以听一听熟悉的音乐感受一下当年街机房的气氛。如果想体会到正常画面的赛马游戏，可以在本整合包“其他游戏”文件夹里找到黄金赛马的pc版体验。
+
+game: 急速赛马
+file: glpracr.zip
+sort-by: 059
+developer: 急速赛马
+description: 急速赛马是一款来自街机平台的赛马题材作品，其中把真实的赛马比赛与街机操作相结合，这种玩法比想象的更具挑战性，同时难度也更高，若你也是的赛马爱好者的话绝对不容错过。该游戏中玩家将扮演一名传奇赛马选手，通过选择自己的马匹参加各种富有挑战性的赛马比赛，每场比赛中都会有各种来自世界各地的选手，随着玩家战胜它们，赛马的难度也会变得越来越高，对于马匹与赛道的把握要求也将更强。
+
+game: 急速赛马2
+file: glpracr2.zip
+sort-by: 060
+developer: 急速赛马2
+description: 奔驰赛马2 Gallop Racer 2是一款来自街机平台的赛马题材作品，其中把真实的赛马比赛与街机操作相结合，这种玩法比想象的更具挑战性，同时难度也更高，若你也是的赛马爱好者的话绝对不容错过。
+
+game: 急速赛马2 日版
+file: glpracr2j.zip
+sort-by: 061
+developer: 急速赛马2 日版
+description: 奔驰赛马2 Gallop Racer 2是一款来自街机平台的赛马题材作品，其中把真实的赛马比赛与街机操作相结合，这种玩法比想象的更具挑战性，同时难度也更高，若你也是的赛马爱好者的话绝对不容错过。
+
+game: 急速赛马3
+file: glpracr3.zip
+sort-by: 062
+developer: 急速赛马3
+description: 急速赛马3是一款来自街机平台的赛马题材游戏，这是该系列的第三部作品，相比前作不论是画面还是玩法上都有了很大的提升，不过作为街机有游戏，其难度依然保持了高标准，对于赛马爱好者来说绝对不容错过。该游戏中玩家将接触到最真实的赛马玩法，精准的控制马匹越过各种障碍并取得胜利即可，同时其中结合了最前沿的竞速操作，虽然玩家们将可以在高速奔跑中获得很棒的乐趣，喜欢的玩家就一起了解吧。
+
+game: 天蚕变3D 舞动之眼
+file: danceyes.zip
+sort-by: 065
+developer: 天蚕变3D 舞动之眼
+description: Namco于1996年推出的3d天蚕变，虽说是天蚕变，但因为是街机大厂，也只能打打擦边球，过关后并没有进一步深入性地“奖励”玩家。
+
+game: 泡泡堂
+file: bballoon.zip
+sort-by: 072
+developer: 泡泡堂
+description: 玩家在一个小岛上的八个不同场景中控制可爱的卡通人物。环境包括冰川、带风车的围墙村庄、地下火车隧道、森林、炸弹工厂、沙漠绿洲和
+
+game: 噗呦噗呦 3
+file: puyosun.zip
+sort-by: 078
+developer: 噗呦噗呦 3
+description: “Puyo Puyo”系列的第三个游戏。
+
+game: 魔法宝石 '97
+file: colmns97.zip
+sort-by: 085
+developer: 魔法宝石 '97
+description: 成套的彩色珠宝以随机顺序掉落。游戏的目的是将珠宝垂直、水平或对角排列成三排或更多排，使它们消失。
+
+game: 埃及艳后宝石方块
+file: cleopatr.zip
+sort-by: 086
+developer: 埃及艳后宝石方块
+description: Cleopatra Fortune 是一款具有古埃及风情的益智三消游戏，拥有美妙的音乐。
+
+game: 埃及艳后宝石方块 汉化版
+file: cleopatr\cleopatr.zip
+sort-by: 087
+developer: 埃及艳后宝石方块 汉化版
+assets.box_front: media\cleopatr\boxFront.png
+assets.logo: media\cleopatr\logo.png
+assets.video: media\cleopatr\video.mp4
+launch: "{env.appdir}\RetroArch\retroarch.exe" -L "{env.appdir}\RetroArch\cores\mame2003_plus_libretro.dll" "{file.path}"
+description: 盛大汉化版
+
+game: 樱大战 - 花组对战方块
+file: hanagumi.zip
+sort-by: 088
+developer: 樱大战 - 花组对战方块
+description: Columns 的竞争变体，以樱花大战系列中的角色为特色。
+
+game: 心跳回忆 对战解迷球
+file: tkmmpzdm.zip
+sort-by: 089
+developer: 心跳回忆 对战解迷球
+description: Tokimeki Memorial Taisen Puzzle-dama 是 Taisen Puzzle-dama 系列中的一款游戏，以 Konami 约会模拟游戏“Tokimeki Memorial”中的女性角色为特色。该游戏设置为单人游戏的 CPU 对手的两人对战益智游戏。“硬币”从屏幕顶部以两个一组的形式掉落，玩家必须形成三个或更多相同颜色硬币的链条才能使它们消失。一次清除多个链会将锁定的硬币发送到另一侧。这些锁定的硬币被封闭在透明的球体中，当附近的硬币从屏幕上清除时，这些球体就会被移除。这可以引发更多的链条，从而增加游戏的策略。如果硬币堆积到屏幕顶部，则玩家输掉游戏。继续后，玩家将重新开始同一场比赛。
+
+game: 块块消 汉化版
+file: plottinga.zip
+sort-by: 114
+developer: 块块消 汉化版
+description: 盛大汉化版
+
+game: 陆地创造者 汉化版
+file: landmakrj.zip
+sort-by: 116
+developer: 陆地创造者 汉化版
+description: 盛大汉化版
+
+game: 天旋地转 汉化版
+file: cameltryj.zip
+sort-by: 122
+developer: 天旋地转 汉化版
+description: 盛大汉化版
+
+game: 所罗门之钥 汉化版
+file: solomonj.zip
+sort-by: 130
+developer: 所罗门之钥 汉化版
+description: 盛大汉化版
+
+game: 钻地先生
+file: mrdrillr.zip
+sort-by: 131
+developer: 钻地先生
+description: 一款非常容易上瘾的益智游戏，玩家必须在无尽的方块冲击中向下钻取，试图让相同颜色的方块接触并随后使它们消失。可以领取“Undergrounder”奖励以获得奖励积分，并且必须收集气囊以恢复玩家不断减少的空气供应。
+
+game: 动力射击弹珠
+file: pwrflip.zip
+sort-by: 143
+developer: 动力射击弹珠
+description: Power Flipper Pinball Shooting是由Excellent Systems于1994年制作的。
+
+game: 究极徐徐大作战
+file: hyperbbc.zip
+sort-by: 145
+developer: 究极徐徐大作战
+description: 究极徐徐大作战是由KONAMI公司开发的由众多恶搞小游戏组成的休闲游戏，玩法类似瓦里奥制造，不!应该是瓦里奥制造象它，究极徐徐大作战诞生那时任天堂还没有瓦里奥制造。此款游戏非常代表日本人恶搞的精神，独乐乐不如众乐乐，一款嬉皮搞怪的游戏。《究极徐徐大作战》没有什么大牌的制作人，也没有什么华丽的画面，一切都显得那么的平淡，那么的不起眼，似乎注定这款游戏从诞生到这个世上起，就应该湮没在时间的洪流之中。然而是金子就必然有其闪光的地方，这个游戏的亮点就是休闲。该游戏的第一作收录了40多个迷你游戏，分别为玩家的反应能力、判断能力、大脑协调能力等众多能力做出了考验。究极徐徐大作战系列有点类似于经典的热血高校，游戏中有非常多有意思的小游戏给玩家来挑战比赛，想要赢得最后的胜利，就必须在每一个小游戏中都有出色的表现。
+
+game: 冒险小子
+file: twrshaft.zip
+sort-by: 148
+developer: 冒险小子
+description: Tower&Shaft英语本地化本系列补丁将Aleck64标题“Tower&Shaft”本地化为北美英语，并可选择将其修改为在任天堂64硬件上运行。使用的是经过修订的盒式磁带转换方法，与后来的转换版本一致。这应该可以替代原来的N64转换版本。游戏是Mac游戏NS Tower和NS Shaft的街机许可证，最初由Nagi-P Software的Akihiko Kusangi编写，并通过NIFTY Serve发行。游戏再简单不过了。在塔中，当Aleck自动左右移动时，按住并松开按钮1即可跳跃。在竖井中，向左和向右移动以落在平台上。不要从屏幕上掉下来或被上面的尖刺压扁。无尽模式是无尽的。是的，它在999层停止计数，但会一直持续到你死。高分只会一直保持下去。
+
+game: 益智游戏
+file: maruchan.zip
+sort-by: 153
+developer: 益智游戏
+description: Maru-Chan de Goo! 是一款以 Maruchan Noodle 为背景的迷你游戏。
+
+game: 寻宝记 - 解谜与行动
+file: sandor.zip
+sort-by: 154
+developer: 寻宝记 - 解谜与行动
+description: 一款包含益智、测验和动作游戏的游戏。
+
+game: 冷冻' 狂怒
+file: fishfren.zip
+sort-by: 158
+developer: 冷冻' 狂怒
+description: 您的目标基本上是在不被任何敌方生物捕获的情况下尽可能多地捕获鱼。
+
+game: 爆转陀螺 V
+file: topbladv.zip
+sort-by: 159
+developer: 爆转陀螺 V
+description: 一款陀螺陀螺战斗游戏，基于成功的动漫和玩具。
+
+game: 大-大-革命
+file: dai2kaku.zip
+sort-by: 160
+developer: 大-大-革命
+description: Dai-Dai-Kakumei (c) 2004 SystemBit。 - TRIVIA - 2004 年 6 月发布。 - 来源 - 游戏的 rom。
+
+game: 南梦宫迷你游戏 '98
+file: tenkomor.zip
+sort-by: 161
+developer: 南梦宫迷你游戏 '98
+description: Tenkomori Shooting 是一款 3D（具有 2D 游戏玩法）街机游戏。它是各种射击迷你游戏的集合 - 其中一些是经典的 shmups。该游戏的结构和呈现类似于 Point Blank，因为它完全由迷你游戏组成，每个游戏都有一定的配额要完成。
+
+game: 中国龙1
+file: drgnwrldv10c.zip
+sort-by: 166
+developer: 中国龙1
+description: 游戏的玩法非常简单，下面能储存七张牌，只需要找出同样的三张牌就可以消除如果，一时半会没找到合适的组合，本局就结束。必须先从面上的牌开始抽取，下面的牌有部分都是隐藏的，高手的话会进行预判到了后面的关卡，游戏难度变得非常大，很多玩家甚至会觉得眼花缭乱。
+
+game: 五子棋
+file: othellos.zip
+sort-by: 174
+developer: 五子棋
+description: 奥赛罗或黑白棋是一款适合两人的策略棋盘游戏，在 8×8 的非棋盘上进行。有 64 个相同的游戏棋子，称为圆盘（通常拼写为“圆盘”），一侧是浅色的，另一侧是深色的。玩家轮流将磁盘放在棋盘上，分配给他们的颜色面朝上。在游戏过程中，任何处于一条直线上且被刚刚放置的棋子和当前玩家颜色的另一个棋子所包围的对手颜色的棋子都将被翻回当前玩家的颜色。
+
+game: 五子棋 - 连珠贵族
+file: renju.zip
+sort-by: 175
+developer: 五子棋 - 连珠贵族
+description: Gomoku 游戏（日本连接四类游戏）。
+
+game: 问答365
+file: quiz365t.zip
+sort-by: 186
+developer: 问答365
+description: Nakanihon于1994年出品的问答类小游戏，比民国教育委员会晚一年出品，属于精神续作。
+
+game: 民国教育委员会
+file: quizchql.zip
+sort-by: 187
+developer: 民国教育委员会
+description: 台湾游乐场中非常少见的益智问答机台(但是日本此类游戏机台倒是不少), 这款问答游戏也是将日本知名游戏中文化后, 加入适合台湾本土的题目, 便成了游乐场中的新宠儿---民国教育委员会. 这款机台在目前的游乐场中还是非常普遍的机台, 由此可知在台湾受欢迎的程度. 整体风格非常可爱, 各种人物的表情也多样化. 游戏采用问答的方式, 玩家从题目中来选择正确答案. 玩法主要有两类, 一种是民国教育委员会模式, 题目比较适合学生, 玩家要一路升到大学; 一种则是买卖能力模式, 题目比较适合成人. 无论何种模式, 玩家在玩的时候不但能从中获得知识, 更能享受到玩电玩的乐趣, 若是跟朋友家人一起玩更是乐趣无穷。
+
+game: 空中自行车
+file: propcycl.zip
+sort-by: 201
+developer: 空中自行车
+description: 1996年由Namco出品的飞行游戏，玩家骑在一辆自行车框体，控制飞行的自行车完成赛道，撞击气球得分。
+
+game: 进化足球
+file: evosocc.zip
+sort-by: 207
+developer: 进化足球
+description: Evoga\BrezzaSoft于2001年推出的2.5D足球游戏，画面还不错。
+
+game: 灌篮高手
+file: suprslam.zip
+sort-by: 209
+developer: 灌篮高手
+description: 灌篮高手街机版是一款移植于街机平台的篮球游戏，这款游戏是根据经典动漫作品《灌篮高手》改编而来，这是部神奇的动漫，不知改变了多少人的人生，有许多人正是因为这部动漫而开始打篮球。游戏的画面属于经典的街机风，其中的人物与场景都根据原作进行了还原，玩家不仅会看到熟悉的人物，还会体验到各个人物的那些经典招式，如樱木花道的神一样的防守、三井寿的三分球、赤木的暴力灌篮等等，绝对是灌篮高手爱好者们不能错过的作品。
+
+game: 虚拟保龄球
+file: vbowl.zip
+sort-by: 211
+developer: 虚拟保龄球
+description: IGS于1996年推出的一款保龄球游戏，漫画风格，人物表情生动，风靡一时。
+

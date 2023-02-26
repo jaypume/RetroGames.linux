@@ -1,0 +1,123 @@
+SMB1 and Lost Level start at index $00
+SMB2 at index $20
+SMB3 at index $40
+SMB3 Level at index $60
+Menu at index $80
+
+nt: native track
+it: indexed track (hex)
+dt: indexed track (dec)
+
+Use the nt to cheat for the music (to map correctly),
+e.g., SMB3 game over is nt: 09, cheat with 7e1202-09 in a level to hear it
+Use the dt for your pcm, so the it is $09+$60=$69 is dec (dt) 105, so the track is sma-msu1-105.pcm
+
+
+SMB1 and Lost Levels
+CHEAT with 7e1602-nt to map the themes correctly
+
+nt     it      dt      loop     title
+01     01      01      yes      bonus level?
+02     02      02      yes      overworld
+03     03      03      yes      water?
+04     04      04      yes      boss?
+05     05      05      yes      boss?
+06     06      06      yes      underworld 
+07     07      07      yes      underworld
+08     08      08      yes      castle?
+09     09      09      no       died
+0A     0A      10      no       ending? wrong is game over..
+0B     0B      11      no       died?
+0C     0C      12      no       fanfare ,passed stage
+0D     0D      13      yes      star
+0E     0E      14      yes      chime 
+0F     0F      15      yes      chime
+10     10      16      yes      chime
+11     11      17      no       died
+12     12      18      no       gameover?
+13     13      19      yes      starting overworld twice
+14     14      20      yes      title screen SMB1
+15     15      21      yes      title screen Lost Levels
+
+
+SMB2 
+CHEAT with 7e1de2-nt to map the themes correctly
+
+nt     it      dt      loop     title
+01     21      33      yes      Overworld
+02     22      34      yes      overworld
+03     23      35      yes      Overworld
+04     24      36      yes      name select
+05     25      37      yes      indoors shadow world  
+06     26      38      yes      indoor cave 
+07     27      39      yes      boss battle
+08     28      40      yes      birdo battle egg monster
+09     29      41      no       died
+0A     2A      42      no       game over?
+0B     2B      43      no       full stage completed
+0C     2C      44      no       fanfare
+0D     2D      45      yes      star
+0E     2E      46      yes      ending
+0F     2F      47      no       fanfare
+10     30      48      no       slots win
+11     31      49      no       Title Screen
+12     32      50      no       fanfare
+13     33      51      no       falldown
+
+
+SMB3 Overworld 
+CHEAT with 7e1202-nt on the OVERWORLD to map the themes correctly
+
+nt     it      dt      loop     title
+01     41      65      yes      Chime
+02     42      66      yes      grass land - larry
+03     43      67      yes      desert land - morton jr.
+04     44      68      yes      water land - wendy o.
+05     45      69      yes      giant land - iggy
+06     46      70      yes      sky world - roy 
+07     47      71      no        got the prize?
+08     48      72      yes      Ice land - Lemmy
+09     49      73      yes      Pipe Maze - ludwig
+0A     4A      74      yes      Dark land- bowser
+0B     4B      75      yes      flute
+0C     4C      76      yes      pick a box
+0D     4D      77      yes      flower,star,musroom bonus
+0E     4E      78      yes      sleeping music
+0F     4F      79      yes       inside the pipe
+10     50      80      yes       bonus on clouds
+11     51      81      no       ahh whistle -? no idea
+
+
+SMB3 LEVEL 
+CHEAT with 7e1202-nt in a LEVEL to map the themes correctly
+
+nt     it      dt      loop     title
+01     61      97      yes      Level  1-2 song is a grassy stage
+02     62      98      yes      first level
+03     63      99      yes      water level
+04     64      100     yes      pick A BOX
+05     65      101     yes      KOOPA FIGHT
+06     66      102     yes      Underworld Level 
+07     67      103     no       GOT THE PRIZE?
+08     68      104     yes      minicastle?
+09     69      105     no       died
+0A     6A      106     no       game over
+0B     6B      107     no       fanfare
+0C     6C      108     no       Level Complete?
+0D     6D      109     yes      Star
+0E     6E      110     no       BOWSER DIED
+0F     6F      111     yes      TOAD CIRES IN CASTLE FOR KING
+10     70      112     yes      BATTLE STAGE-- BOSSES BOAT LVLS
+11     71      113     yes      boomerang bros?
+12     72      114     yes      MINI CASTLE BOSS
+13     73      115     no       CASTLE KING RESTORED
+14     74      116     yes      SKY MUSIC
+15     75      117     yes      Title Screen    
+16     76      118     yes      Battle mode theme   
+17     77      119     no       starting smthing? battle
+18     78      120     no       P-wings gift
+
+Menu
+CHEAT with 7e0062-nt in a LEVEL to map the themes correctly
+01     81      129      yes      Title
+02     82      130      yes      Game Select

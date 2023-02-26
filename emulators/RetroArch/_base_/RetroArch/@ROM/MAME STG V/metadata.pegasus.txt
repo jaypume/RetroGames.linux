@@ -1,0 +1,54 @@
+collection:射击街机
+sort-by:003
+extensions: 7z, zip
+ignore-files: 
+  neogeo.zip
+  pgm.zip
+  stvbios.zip
+  coh1002m.zip
+  namcoc74.7z
+  m68705p5.zip
+  qsound_hle.7z
+  segabill.zip
+launch: "{env.appdir}\RetroArch\retroarch.exe" -L "{env.appdir}\RetroArch\cores\mame_libretro.dll" "{file.path}"
+
+game: 守护者
+file: asylum.zip
+sort-by: 167
+developer: 守护者
+publisher: Leland Corp.
+genre: Shoot-'Em-Up
+release: 91-1-1
+x-id: MAME STG V
+description: 俯视图射击游戏。玩家控制三个角色中的一个来选择，一个名叫“Rip”的性感女孩拿着刀，一个名叫“Rak”的枪手拿着一把枪，一个名叫“Rol”的强壮男人拿着一把锁链狼牙棒，他们必须逃离一个阴暗晦暗的地方，由邪恶的“先生”建造的庇护大楼。 G' 将我们的英雄囚禁在其中。你必须在跳跃和射击所有令人毛骨悚然的生物的同时穿越迷宫般的水平，直到你找到电梯出口到下一个水平，然后他们战斗到庇护所的顶部以摧毁 G 先生并活着逃脱地方。游戏特色，血腥场景和美妙的声音！
+
+game: 奇奇怪界 汉化版
+file: kikikai.zip
+sort-by: 039
+developer: 奇奇怪界 汉化版
+publisher: Taito
+genre: 2
+release: 86-1-1
+x-id: MAME STG V
+description: 盛大官方汉化版
+
+game: 战场之狼2 汉化版
+file: mercsj.zip
+sort-by: 061
+developer: 战场之狼2 汉化版
+publisher: Capcom
+genre: Shoot-'Em-Up
+release: 90-1-1
+x-id: MAME STG V
+description: 盛大官方汉化版
+
+game: 魂斗罗1 汉化版
+file: contraj.zip
+sort-by: 076
+developer: 魂斗罗1 汉化版
+publisher: Konami
+genre: Platform
+release: 87-1-1
+x-id: MAME STG V
+description: 盛大官方汉化版
+
