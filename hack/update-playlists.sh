@@ -8,9 +8,10 @@ update_sorted_csv() {
     lines=
     # _dir_rom: ".../@ROM/Nintendo - GBA"
     for f in "$_dir_rom"/*; do
+        #如果是目录的话，则表示还有下一级目录。
         if [[ -d "$f" ]]; then
             # boot_file is like xx.zip, xx.cue, cc.lst
-            boot_file="$(find -E "$f" -regex '.*\.(cue|m3u|cdi|gdi|lst|bin|zip)' -exec basename {} \; | head -n 1)"
+            boot_file="$(find "$f" -regex '.*\.(cue|m3u|cdi|gdi|lst|bin|zip)' -exec basename {} \; | head -n 1)"
             _dir=$(basename "$f")
             file="$_dir/$boot_file"
             echo "$file"
@@ -29,12 +30,12 @@ update_sorted_csv() {
             extension="${file##*.}"
             filename="${file%.*}"
             echo "$file"
-            # TODO: 换用更快速的go-pinyin版本
             #只把title转换为拼音
             if [[ $_dir_rom == *ALL ]]; then
                 # if it is end with "ALL", it shows that all filenames are in Englinsh.
                 file_py="$file"
             else
+                # TODO: 换用更快速的go-pinyin版本
                 # Chinese filename included, need to transfer to pinyin
                 file_py=$(echo $(pypinyin -s zhao "$filename") | awk '{$1=$1};1').$extension
             fi
@@ -56,9 +57,10 @@ update_playlists_from_csv() {
         echo "$cn_name"
         # 不要用path这个变量，会修改环境变量"$PATH"
         _path="$prefix/$emulator/$cn_name"
-        if [ "$platform" = "Windows" ]; then
-            _path="${_path//\//\\\\}"
-        fi
+        # 在Windows上斜杠也是能工作的，可以删掉下面注释的代码
+        # if [ "$platform" = "Windows" ]; then
+        #     _path="${_path//\//\\\\}"
+        # fi
         # TODO: 如果是Swtich, 下面这行要改为py_name
         lines+=$(jq -n -c --arg path "$_path" \
             --arg label "${$(echo $cn_name| cut -d'/' -f1)%.*}" \
@@ -70,6 +72,7 @@ update_playlists_from_csv() {
     done < <(tail -n +1 "$csv_file.csv")
     lines_json=$(jq -s '.' <<<$lines)
 
+    # TODO，后续可以添加默认的core：防止被绝对路径覆盖；省掉默认配置参数
     # The final json in *.lpl playlists file.
     lpl_json=$(jq -n --arg version "1.2" \
         --arg default_core_path "" \
@@ -77,6 +80,7 @@ update_playlists_from_csv() {
         --arg label_display_mode 0 \
         --arg right_thumbnail_mode 1 \
         --arg left_thumbnail_mode 0 \
+        --arg sort_mode 2 \
         --argjson items "$lines_json" \
         '$ARGS.named')
 

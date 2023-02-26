@@ -2,7 +2,8 @@
 
 # ！！！需要提前把boxFront.jpg转换为boxFront.png
 
-
+ROOT_PATH=$(git rev-parse --show-toplevel)
+source "$ROOT_PATH/hack/config.sh"
 
 read_pegasus_metadata() {
     while read -r line; do
@@ -44,6 +45,22 @@ read_pegasus_metadata() {
         elif [[ "$line" == files:* ]]; then
             # TODO: 如何处理一个游戏有多个文件？
             # echo "multiple files, skip"
+            # !!!注意read line的时候会把space省略掉，这里要加上IFS=空
+            while IFS= read -r line; do
+                if [[ "$line" == " "* ]];then 
+                    echo "started with \s： $line"
+                else
+                    echo "not started with \s, break： $line"    
+                    break
+                fi
+            done
+
+            # 比如：Yu Yu Hakusho (Japan).chd
+            rom_file=${line#*:\ }
+            # 比如：Yu Yu Hakusho (Japan)
+            rom_name=${rom_file%.*}
+            # 比如：chd
+            rom_ext=${rom_file##*.}    
         fi
     done <"$pg_matadata_file"
 }
@@ -52,7 +69,8 @@ read_pegasus_metadata() {
 RA_BASE_DIR=./emulators/RetroArch/_base_/RetroArch
 convert_all_emulators() {
     # ./emulators/RetroArch/_base_/RetroArch/@ROM/3DO
-    for emulator_roms_dir in "$RA_BASE_DIR"/@ROM/*; do        
+    for emulator in "${emulators[@]}"; do  
+        emulator_roms_dir="$RA_BASE_DIR/@ROM/$emulator"
         emulator_name=$(basename $emulator_roms_dir)
         # ./emulators/RetroArch/_base_/RetroArch/thumbnails/3DO/Named_Boxarts
         emulator_boxarts=$RA_BASE_DIR/thumbnails/$emulator_name/Named_Boxarts
@@ -66,6 +84,7 @@ convert_all_emulators() {
         fi
         
         read_pegasus_metadata
+        break
     done
 }
 
