@@ -29,8 +29,6 @@ update_sorted_csv() {
         elif [[ -d "$f" ]]; then
             # boot_file is like xx.zip, xx.cue, cc.lst
             boot_file=$(find "$f" -regextype posix-egrep -regex '.*\.(zip|chd|cue|cdi|gdi|lst|bin)' | head -n 1)
-            echo $boot_file
-            # exit
             rom_name=$(basename "$f")
             rom_path=$rom_name/$(basename "$boot_file")
             echo "$rom_path"
