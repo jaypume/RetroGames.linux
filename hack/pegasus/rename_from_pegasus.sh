@@ -11,11 +11,17 @@ read_pegasus_metadata() {
         if [[ -z "$line" ]]; then
             # echo $rom_title $rom_name $rom_ext
             # 把英文名或者标号的rom文件改名为rom_title            
-            if [[ -f "$emulator_roms_dir/$rom_file" ]]; then                
-                mv "$emulator_roms_dir/$rom_file" "$emulator_roms_dir/$rom_title.$rom_ext"
-                echo moving:$'\t' "$emulator_roms_dir/$rom_file" "$emulator_roms_dir/$rom_title.$rom_ext"
-            else 
-                echo skip:$'\t' $rom_title $rom_name $rom_ext
+            if [[ -f "$emulator_roms_dir/$rom_file" ]] && [[ ! -z $rom_file ]]; then
+                if [[ "$emulator_roms_dir/$rom_file" != "$emulator_roms_dir/$rom_title$rom_ext" ]]; then
+                    mv "$emulator_roms_dir/$rom_file" "$emulator_roms_dir/$rom_title$rom_ext"
+                    echo moving:$'\t' "$emulator_roms_dir/$rom_file" "$emulator_roms_dir/$rom_title$rom_ext"
+                fi
+            # 把包含子目录的文件夹按照title重新命名
+            elif [[ -d "$emulator_roms_dir/$rom_file" ]]; then
+                if [[ $emulator_roms_dir/$rom_file != "$emulator_roms_dir/$rom_title" ]] && [[ ! -z $rom_file ]]; then
+                    mv "$emulator_roms_dir/$rom_file" "$emulator_roms_dir/$rom_title"
+                    echo moving:$'\t' "$emulator_roms_dir/$rom_file" "$emulator_roms_dir/$rom_title"
+                fi
             fi
 
             # 批量移动图片到RetroArch的目录格式
@@ -34,33 +40,43 @@ read_pegasus_metadata() {
             # 删除第一个“: ”及前面的字符
             # 比如：幽游白书
             rom_title=${line#*:\ }
-        # 获取文件名称。如果包含子文件夹，则需要提取文件夹
+            # 替换/为-，防止有的名字中有斜杠
+            rom_title=${rom_title//\//-}
+        # 获取文件名称。
         elif [[ "$line" == file:* ]]; then
             # 比如：Yu Yu Hakusho (Japan).chd
             rom_file=${line#*:\ }
             # 比如：Yu Yu Hakusho (Japan)
             rom_name=${rom_file%.*}
-            # 比如：chd
-            rom_ext=${rom_file##*.}            
+            # 比如：.chd
+            rom_ext=.${rom_file##*.}            
+        # 获取文件名称。如果包含子文件夹，则需要提取文件夹
         elif [[ "$line" == files:* ]]; then
             # TODO: 如何处理一个游戏有多个文件？
             # echo "multiple files, skip"
             # !!!注意read line的时候会把space省略掉，这里要加上IFS=空
+            discs=""
             while IFS= read -r line; do
                 if [[ "$line" == " "* ]];then 
-                    echo "started with \s： $line"
+                    # echo "started with \s： $line"
+                    # 比如：Yu Yu Hakusho (Japan)
+                    rom_file=${line%%/*}
+                    discs+=${line#*/}$'\n'
+                    rom_file=${rom_file##*\ \ }
                 else
-                    echo "not started with \s, break： $line"    
+                    if [[ -d  "$emulator_roms_dir/$rom_file" ]]; then
+                        echo $discs > "$emulator_roms_dir/$rom_file/menu.m3u"
+                    else
+                        echo "$emulator_roms_dir/$rom_file" >> missing.txt
+                    fi
+
                     break
                 fi
             done
-
-            # 比如：Yu Yu Hakusho (Japan).chd
-            rom_file=${line#*:\ }
             # 比如：Yu Yu Hakusho (Japan)
-            rom_name=${rom_file%.*}
-            # 比如：chd
-            rom_ext=${rom_file##*.}    
+            rom_name=$rom_file
+            # 此处为文件夹，所以没有扩展名
+            rom_ext=""   
         fi
     done <"$pg_matadata_file"
 }
@@ -84,7 +100,6 @@ convert_all_emulators() {
         fi
         
         read_pegasus_metadata
-        break
     done
 }
 

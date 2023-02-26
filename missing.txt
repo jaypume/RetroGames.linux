@@ -1,0 +1,165 @@
+./emulators/RetroArch/_base_/RetroArch/@ROM/DC/生化危机 代号维罗妮卡 汉化加强版
+./emulators/RetroArch/_base_/RetroArch/@ROM/DC hack/机动战士高达 联邦VS吉翁
+./emulators/RetroArch/_base_/RetroArch/@ROM/DC hack/永恒的阿卡迪亚 汉化版
+./emulators/RetroArch/_base_/RetroArch/@ROM/DC hack/莎木1 最终版 英字日音
+./emulators/RetroArch/_base_/RetroArch/@ROM/DC hack/莎木2 汉化版
+./emulators/RetroArch/_base_/RetroArch/@ROM/DC hack/黑色矩阵 日文版
+./emulators/RetroArch/_base_/RetroArch/@ROM/DC hack/猎头者
+./emulators/RetroArch/_base_/RetroArch/@ROM/DC hack/D之食卓2 英文版
+./emulators/RetroArch/_base_/RetroArch/@ROM/NGC/霸天开拓史1 永恒之翼与失落之海 英文版 DiscB.rvz
+./emulators/RetroArch/_base_/RetroArch/@ROM/NGC/霸天开拓史2 创始之翼与诸神之子 英文版 DiscB.rvz
+./emulators/RetroArch/_base_/RetroArch/@ROM/NGC/仙乐传说 英文版 DiscB.rvz
+./emulators/RetroArch/_base_/RetroArch/@ROM/NGC/生化危机0 汉化版 DiscB.iso
+./emulators/RetroArch/_base_/RetroArch/@ROM/NGC/生化危机1 汉化版 DiscB.iso
+./emulators/RetroArch/_base_/RetroArch/@ROM/NGC/生化危机4 英文版 DiscB.rvz
+./emulators/RetroArch/_base_/RetroArch/@ROM/NGC/生化危机 代号维罗妮卡 汉化版 DiscB.iso
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1/北欧女神 HACK
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1/合金装备 HACK
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1/生化危机2 导剪版 HACK
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1/最终幻想7 HACK
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1/最终幻想8 HACK
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1/最终幻想9 HACK
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1/寄生前夜1 HACK
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1/寄生前夜2 HACK
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1 hack/异度装甲 汉化版
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1 hack/合金装备 索利德 汉化版
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1 hack/生化危机2 汉化版 震动版
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1 hack/最终幻想8 汉化版
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1 hack/街~命运的交叉点 汉化版
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1 hack/露娜1 银河之星 英文版
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1 hack/露娜2 永恒蔚蓝 英文版
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1 hack/奇异世界 阿比逃亡记
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1 hack/SD高达G世代 F 日文版
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1 hack/SD高达G世代 ZERO 日文版
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1 hack/高达 Z高达 日文版
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1 hack/高达 基连的野望 吉翁的系谱 日文版
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1 hack/高达0079 地球之战 日文版
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS1 hack/狂热节拍 日文版
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS2/033
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS2/078
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS2/084
+./emulators/RetroArch/_base_/RetroArch/@ROM/PS2/145
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/175
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/176
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/178
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/191
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/228
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/240
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/242
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/243
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/245
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/247
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/251
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/256
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/265
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/275
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/286
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/289
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/293
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/294
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/295
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/309
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/315
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/317
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/326
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/330
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/331
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/332
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/340
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/341
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/342
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/344
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/345
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/349
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/350
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/351
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/355
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/358
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/359
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/362
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/371
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/372
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/381
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/384
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/399
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/401
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/406
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/408
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/411
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/413
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/415
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/416
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/419
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/421
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/423
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/424
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/425
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/428
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/429
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/430
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/432
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/435
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/443
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/459
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/460
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/461
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/482
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/484
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/485
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/499
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/503
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/517
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/521
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/526
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/544
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/568
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/613
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/633
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/634
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/635
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/636
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/644
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/648
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/649
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/650
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/655
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/705
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/708
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS/733
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/009
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/012
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/013
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/014
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/017
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/018
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/048
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/080
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/093
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/101
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/105
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/127
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/136
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/242
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/293
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/309
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/326
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/330
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/331
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/332
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/344
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/345
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/351
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/371
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/372
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/399
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/406
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/419
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/423
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/633
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/635
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/644
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/648
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/649
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/650
+./emulators/RetroArch/_base_/RetroArch/@ROM/SS plus/733
+./emulators/RetroArch/_base_/RetroArch/@ROM/psp/我的妹妹不可能那么可爱 不可能有续作 汉化版 Disc2.iso
