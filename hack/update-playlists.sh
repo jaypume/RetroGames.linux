@@ -9,42 +9,61 @@ update_sorted_csv() {
     # _dir_rom: ".../@ROM/Nintendo - GBA"
     for f in "$_dir_rom"/*; do
         #如果是目录的话，则表示还有下一级目录。
-        if [[ -d "$f" ]]; then
+        if [[ -f "$f"/menu.m3u ]]; then
+            rom_name=$(basename "$f")
+            rom_path=$(basename "$f")/menu.m3u
+            rom_ext=.m3u
+            echo $rom_path
+            #只把rom_name转换为拼音
+            if [[ $_dir_rom == *ALL ]]; then
+                # if it is end with "ALL", it shows that all filenames are in Englinsh.
+                rom_name_py="$rom_name"
+            else
+                # TODO: 换用更快速的go-pinyin版本; Switch 估计这里会有bug
+                # Chinese filename included, need to transfer to pinyin
+                rom_name_py=$(echo $(pypinyin -s zhao "$rom_name") | awk '{$1=$1};1')
+            fi
+            # should no space here
+            lines+="$rom_name,$rom_path,$rom_name_py"$'\n'
+            
+        elif [[ -d "$f" ]]; then
             # boot_file is like xx.zip, xx.cue, cc.lst
-            boot_file="$(find "$f" -regex '.*\.(cue|m3u|cdi|gdi|lst|bin|zip)' -exec basename {} \; | head -n 1)"
-            _dir=$(basename "$f")
-            file="$_dir/$boot_file"
-            echo "$file"
+            boot_file=$(find "$f" -regextype posix-egrep -regex '.*\.(zip|chd|cue|cdi|gdi|lst|bin)' | head -n 1)
+            echo $boot_file
+            # exit
+            rom_name=$(basename "$f")
+            rom_path=$rom_name/$(basename "$boot_file")
+            echo "$rom_path"
             # #只把title转换为拼音
             if [[ $_dir_rom == *ALL ]]; then
                 # if it is end with "ALL", it shows that all filenames are in Englinsh.
-                file_py="$file"
+                rom_name_py="$rom_name"
             else
                 # Chinese filename included, need to transfer to pinyin
-                file_py=$(echo $(pypinyin -s zhao "$_dir") | awk '{$1=$1};1')
+                rom_name_py=$(echo $(pypinyin -s zhao "$rom_name") | awk '{$1=$1};1')
             fi
             # should no space here
-            lines+="$file,$file_py"$'\n'
+            lines+="$rom_name,$rom_path,$rom_name_py"$'\n'
         else
-            file=$(basename "$f")
-            extension="${file##*.}"
-            filename="${file%.*}"
-            echo "$file"
-            #只把title转换为拼音
+            rom_path=$(basename "$f")
+            rom_ext="${rom_path##*.}"
+            rom_name="${rom_path%.*}"
+            echo "$rom_path"
+            #只把rom_name转换为拼音
             if [[ $_dir_rom == *ALL ]]; then
                 # if it is end with "ALL", it shows that all filenames are in Englinsh.
-                file_py="$file"
+                rom_name_py="$rom_name"
             else
                 # TODO: 换用更快速的go-pinyin版本
                 # Chinese filename included, need to transfer to pinyin
-                file_py=$(echo $(pypinyin -s zhao "$filename") | awk '{$1=$1};1').$extension
+                rom_name_py=$(echo $(pypinyin -s zhao "$rom_name") | awk '{$1=$1};1').$rom_ext
             fi
             # should no space here
-            lines+="$file,$file_py"$'\n'
+            lines+="$rom_name,$rom_path,$rom_name_py"$'\n'
         fi
     done
     echo -n "$lines" >"$csv_file".unsort.csv
-    sorted="$(sort -k 2 -t ',' "$csv_file".unsort.csv)"
+    sorted="$(sort -k 3 -t ',' "$csv_file".unsort.csv)"
     echo "$sorted" >"$csv_file.csv"
     rm -f "$csv_file".unsort.csv
 }
@@ -53,17 +72,15 @@ update_playlists_from_csv() {
     # A line in csv file is like:
     # 龙珠大冒险.gba, long zhu da mao xian
     lines=""
-    while IFS=',' read -r cn_name py_name; do
-        echo "$cn_name"
-        # 不要用path这个变量，会修改环境变量"$PATH"
-        _path="$prefix/$emulator/$cn_name"
+    while IFS=',' read -r rom_name rom_path rom_name_py; do
+        echo "$rom_name"
         # 在Windows上斜杠也是能工作的，可以删掉下面注释的代码
         # if [ "$platform" = "Windows" ]; then
-        #     _path="${_path//\//\\\\}"
+        #     rom_path="${rom_path//\//\\\\}"
         # fi
-        # TODO: 如果是Swtich, 下面这行要改为py_name
-        lines+=$(jq -n -c --arg path "$_path" \
-            --arg label "${$(echo $cn_name| cut -d'/' -f1)%.*}" \
+        # TODO: 如果是Swtich, 下面这行要改为rom_name_py
+        lines+=$(jq -n -c --arg path "$prefix/$emulator/$rom_path" \
+            --arg label "$rom_name" \
             --arg core_path "" \
             --arg core_name "" \
             --arg crc32 '00000000|crc' \
@@ -74,7 +91,7 @@ update_playlists_from_csv() {
 
     # TODO，后续可以添加默认的core：防止被绝对路径覆盖；省掉默认配置参数
     # The final json in *.lpl playlists file.
-    lpl_json=$(jq -n --arg version "1.2" \
+    lpl_json=$(jq -n --arg version "1.5" \
         --arg default_core_path "" \
         --arg default_core_name "" \
         --arg label_display_mode 0 \
