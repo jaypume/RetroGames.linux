@@ -1,0 +1,1899 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "ux0:/+ROM/GBA.CN/召唤之夜铸剑物语3起源之石.gba",
+      "label": "001 召唤之夜铸剑物语3起源之石",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/CT特种部队.gba",
+      "label": "002 CT特种部队",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/CT特种部队2.gba",
+      "label": "003 CT特种部队2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/DOOM毁灭战士2.gba",
+      "label": "004 DOOM毁灭战士2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/FIFA足球2006.gba",
+      "label": "005 FIFA足球2006",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/GTA职业概念赛车3.gba",
+      "label": "006 GTA职业概念赛车3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/X战警2狼人之复仇.gba",
+      "label": "007 X战警2狼人之复仇",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/X战警官方游戏.gba",
+      "label": "008 X战警官方游戏",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/奥特曼警备队怪兽袭击.gba",
+      "label": "009 奥特曼警备队怪兽袭击",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/暴力摩托.gba",
+      "label": "010 暴力摩托",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/爆裂陀螺V力量之最终冲击.gba",
+      "label": "011 爆裂陀螺V力量之最终冲击",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/超级大金刚.gba",
+      "label": "012 超级大金刚",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/超级大金刚3.gba",
+      "label": "013 超级大金刚3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/超级机器人大战A.gba",
+      "label": "014 超级机器人大战A",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/超级机器人大战D.gba",
+      "label": "015 超级机器人大战D",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/超级机器人大战OG2.gba",
+      "label": "016 超级机器人大战OG2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/超级机器人大战R.gba",
+      "label": "017 超级机器人大战R",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/超级街头霸王2复苏.gba",
+      "label": "018 超级街头霸王2复苏",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/超级马里奥3耀奇岛.gba",
+      "label": "019 超级马里奥3耀奇岛",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/超级马里奥4.gba",
+      "label": "020 超级马里奥4",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/超级马里奥A.gba",
+      "label": "021 超级马里奥A",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/吃豆小精灵世界2.gba",
+      "label": "022 吃豆小精灵世界2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/电梯大作战.gba",
+      "label": "023 电梯大作战",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/东京终极赛车手.gba",
+      "label": "024 东京终极赛车手",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/对决奥特曼之激斗英雄.gba",
+      "label": "025 对决奥特曼之激斗英雄",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/俄罗斯方块.gba",
+      "label": "026 俄罗斯方块",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/恶灵骑士.gba",
+      "label": "027 恶灵骑士",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/恶魔城晓月之圆舞曲.gba",
+      "label": "028 恶魔城晓月之圆舞曲",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/恶魔城月之轮回.gba",
+      "label": "029 恶魔城月之轮回",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/光明之魂2.gba",
+      "label": "030 光明之魂2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/鬼武者战略版.gba",
+      "label": "031 鬼武者战略版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/鬼眼狂刀京.gba",
+      "label": "032 鬼眼狂刀京",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/海贼王少年跳跃.gba",
+      "label": "033 海贼王少年跳跃",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/合金弹头A.gba",
+      "label": "034 合金弹头A",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/华容道.gba",
+      "label": "035 华容道",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/幻影丹尼终极敌人.gba",
+      "label": "036 幻影丹尼终极敌人",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/黄金太阳1开启的封印.gba",
+      "label": "037 黄金太阳1开启的封印",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/火焰纹章封印之剑.gba",
+      "label": "038 火焰纹章封印之剑",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/火焰纹章烈火之剑.gba",
+      "label": "039 火焰纹章烈火之剑",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/火焰纹章圣魔光石.gba",
+      "label": "040 火焰纹章圣魔光石",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/火影忍者木叶战记.gba",
+      "label": "041 火影忍者木叶战记",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/火影忍者最强忍者大结集.gba",
+      "label": "042 火影忍者最强忍者大结集",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/火影忍者最强忍者大结集2.gba",
+      "label": "043 火影忍者最强忍者大结集2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/机动人机器人的攻击.gba",
+      "label": "044 机动人机器人的攻击",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/极品飞车地下狂飙.gba",
+      "label": "045 极品飞车地下狂飙",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/极品飞车地下狂飙2.gba",
+      "label": "046 极品飞车地下狂飙2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/极品飞车卡本峡谷.gba",
+      "label": "047 极品飞车卡本峡谷",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/极品飞车最高通缉.gba",
+      "label": "048 极品飞车最高通缉",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/加菲猫的九条命.gba",
+      "label": "049 加菲猫的九条命",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/加勒比海盗2亡者宝盒.gba",
+      "label": "050 加勒比海盗2亡者宝盒",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/街头篮球.gba",
+      "label": "051 街头篮球",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/街头赛车.gba",
+      "label": "052 街头赛车",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/究级截拳道.gba",
+      "label": "053 究级截拳道",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/恐龙战队雷电.gba",
+      "label": "054 恐龙战队雷电",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/口袋妖怪不可思议的迷宫红色救助队.gba",
+      "label": "055 口袋妖怪不可思议的迷宫红色救助队",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/口袋妖怪火红.gba",
+      "label": "056 口袋妖怪火红",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/口袋妖怪漆黑的魅影DP.gba",
+      "label": "057 口袋妖怪漆黑的魅影DP",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/快打旋风ONE.gba",
+      "label": "058 快打旋风ONE",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/李小龙传说中的英雄再现.gba",
+      "label": "059 李小龙传说中的英雄再现",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/龙战士.gba",
+      "label": "060 龙战士",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/龙战士2使命之子.gba",
+      "label": "061 龙战士2使命之子",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/龙珠GT.gba",
+      "label": "062 龙珠GT",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/龙珠Z对决.gba",
+      "label": "063 龙珠Z对决",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/龙珠Z舞空斗剧.gba",
+      "label": "064 龙珠Z舞空斗剧",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/龙珠Z悟空的遗产2.gba",
+      "label": "065 龙珠Z悟空的遗产2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/龙珠大冒险A.gba",
+      "label": "066 龙珠大冒险A",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/洛克人EXE5普洛特曼之队.gba",
+      "label": "067 洛克人EXE5普洛特曼之队",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/洛克人Zero4.gba",
+      "label": "068 洛克人Zero4",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/马里奥赛车.gba",
+      "label": "069 马里奥赛车",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/马里奥与路易RPG.gba",
+      "label": "070 马里奥与路易RPG",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/迷你赛车.gba",
+      "label": "071 迷你赛车",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/名侦探柯南被狙击的侦探.gba",
+      "label": "072 名侦探柯南被狙击的侦探",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/名侦探柯南黎明之碑.gba",
+      "label": "073 名侦探柯南黎明之碑",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/逆转裁判.gba",
+      "label": "074 逆转裁判",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/逆转裁判2.gba",
+      "label": "075 逆转裁判2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/逆转裁判3.gba",
+      "label": "076 逆转裁判3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/百战天虫.gba",
+      "label": "077 百战天虫",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/汽车总动员.gba",
+      "label": "078 汽车总动员",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/青蛙冒险2魔法国大冒险.gba",
+      "label": "079 青蛙冒险2魔法国大冒险",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/拳皇EX2咆哮之血2.gba",
+      "label": "080 拳皇EX2咆哮之血2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/拳皇EX新血.gba",
+      "label": "081 拳皇EX新血",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/热血物语EX.gba",
+      "label": "082 热血物语EX",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/玛亚历险记迷失的探险队.gba",
+      "label": "083 玛亚历险记迷失的探险队",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/忍者神龟2.gba",
+      "label": "084 忍者神龟2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/荣誉勋章渗透者.gba",
+      "label": "085 荣誉勋章渗透者",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/塞尔达传说众神的三角力量与四支剑.gba",
+      "label": "086 塞尔达传说众神的三角力量与四支剑",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/三国志.gba",
+      "label": "087 三国志",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/三国志孔明传.gba",
+      "label": "088 三国志孔明传",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/三维台球杀手.gba",
+      "label": "089 三维台球杀手",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/神奇四侠.gba",
+      "label": "090 神奇四侠",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/世嘉街机动作类游戏合集.gba",
+      "label": "091 世嘉街机动作类游戏合集",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/数码宝贝赛车.gba",
+      "label": "092 数码宝贝赛车",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/数码宝贝战斗之魂2.gba",
+      "label": "093 数码宝贝战斗之魂2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/数码宝贝战魂.gba",
+      "label": "094 数码宝贝战魂",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/双截龙.gba",
+      "label": "095 双截龙",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/双截龙A.gba",
+      "label": "096 双截龙A",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/汤姆和杰利逃出地狱欧版.gba",
+      "label": "097 汤姆和杰利逃出地狱欧版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/铁臂阿童木原子之心的秘密.gba",
+      "label": "098 铁臂阿童木原子之心的秘密",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/铁拳A.gba",
+      "label": "099 铁拳A",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/头文字D另一个故事.gba",
+      "label": "100 头文字D另一个故事",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/无敌风火轮赛车全部出局.gba",
+      "label": "101 无敌风火轮赛车全部出局",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/侠盗猎车A.gba",
+      "label": "102 侠盗猎车A",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/小拳王赤热之战.gba",
+      "label": "103 小拳王赤热之战",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/星球大战3西斯的复仇.gba",
+      "label": "104 星球大战3西斯的复仇",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/星球大战前传II克隆人的进攻.gba",
+      "label": "105 星球大战前传II克隆人的进攻",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/勇者斗恶龙之元气史莱姆冲击的尾巴团.gba",
+      "label": "106 勇者斗恶龙之元气史莱姆冲击的尾巴团",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/CT特种部队3.gba",
+      "label": "107 CT特种部队3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/游戏王怪兽决斗GX决战王者.gba",
+      "label": "108 游戏王怪兽决斗GX决战王者",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/侦探学院Q挑战最强诡计.gba",
+      "label": "109 侦探学院Q挑战最强诡计",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/真人快打.gba",
+      "label": "110 真人快打",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/真人快打格斗大赛.gba",
+      "label": "111 真人快打格斗大赛",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/真三国无双A.gba",
+      "label": "112 真三国无双A",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/正义联盟英雄.gba",
+      "label": "113 正义联盟英雄",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/正义双亲之过关斩将.gba",
+      "label": "114 正义双亲之过关斩将",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/蜘蛛侠3.gba",
+      "label": "115 蜘蛛侠3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/指环王王者归来.gba",
+      "label": "116 指环王王者归来",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/致命的天空.gba",
+      "label": "117 致命的天空",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/终极蜘蛛人.gba",
+      "label": "118 终极蜘蛛人",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/重装机兵2改.gba",
+      "label": "119 重装机兵2改",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/重装骑士闪光英雄的诞生.gba",
+      "label": "120 重装骑士闪光英雄的诞生",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/侏罗纪公园3DNA基因.gba",
+      "label": "121 侏罗纪公园3DNA基因",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/最终幻想6.gba",
+      "label": "122 最终幻想6",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/最终幻想5.gba",
+      "label": "123 最终幻想5",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/VR网球.gba",
+      "label": "124 VR网球",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/X战警启示录.gba",
+      "label": "125 X战警启示录",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/波斯王子时之沙.gba",
+      "label": "126 波斯王子时之沙",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/不可能完成任务.gba",
+      "label": "127 不可能完成任务",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/超级火枪英雄.gba",
+      "label": "128 超级火枪英雄",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/雷曼3暴徒大破坏.gba",
+      "label": "129 雷曼3暴徒大破坏",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/超级马里奥2.gba",
+      "label": "130 超级马里奥2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/超级马里奥弹珠台.gba",
+      "label": "131 超级马里奥弹珠台",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/超魔界村R.gba",
+      "label": "132 超魔界村R",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/超人回到地球.gba",
+      "label": "133 超人回到地球",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/超人特工队.gba",
+      "label": "134 超人特工队",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/成龙冒险黑手党传说.gba",
+      "label": "135 成龙冒险黑手党传说",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/纯情房东俏房客.gba",
+      "label": "136 纯情房东俏房客",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/恶魔城白夜协奏曲.gba",
+      "label": "137 恶魔城白夜协奏曲",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/风之克罗诺亚G2.gba",
+      "label": "138 风之克罗诺亚G2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/古惑狼无尽大冒险.gba",
+      "label": "139 古惑狼无尽大冒险",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/古墓丽影预言.gba",
+      "label": "140 古墓丽影预言",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/光明之魂.gba",
+      "label": "141 光明之魂",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/鬼太郎危机一发.gba",
+      "label": "142 鬼太郎危机一发",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/哈利波特和火焰杯.gba",
+      "label": "143 哈利波特和火焰杯",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/海贼王目标赏金之王.gba",
+      "label": "144 海贼王目标赏金之王",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/海贼王热血棒球.gba",
+      "label": "145 海贼王热血棒球",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/核心台球.gba",
+      "label": "146 核心台球",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/幻想传说FINAL.gba",
+      "label": "147 幻想传说FINAL",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/幻影丹尼密林城市.gba",
+      "label": "148 幻影丹尼密林城市",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/皇牌空战A.gba",
+      "label": "149 皇牌空战A",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/黄金太阳2失落的时代.gba",
+      "label": "150 黄金太阳2失落的时代",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/毁灭公爵.gba",
+      "label": "151 毁灭公爵",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/会员.gba",
+      "label": "152 会员",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/火热飞轮世界赛车.gba",
+      "label": "153 火热飞轮世界赛车",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/火热赛车.gba",
+      "label": "154 火热赛车",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/火焔之紋章-聖邪的意志.gba",
+      "label": "155 火焔之紋章-聖邪的意志",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/极道无间3.gba",
+      "label": "156 极道无间3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/极品飞车宝石捷之旅.gba",
+      "label": "157 极品飞车宝石捷之旅",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/加菲猫寻找波基.gba",
+      "label": "158 加菲猫寻找波基",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/加勒比海盗.gba",
+      "label": "159 加勒比海盗",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/口袋妖怪 火红_2012中文版_最终珍藏版.gba",
+      "label": "160 口袋妖怪 火红_2012中文版_最终珍藏版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/口袋妖怪 叶绿_2012中文版_最终珍藏版.gba",
+      "label": "161 口袋妖怪 叶绿_2012中文版_最终珍藏版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/口袋妖怪_红宝石.gba",
+      "label": "162 口袋妖怪_红宝石",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/口袋妖怪--焱の冒险之心魂之羽.gba",
+      "label": "163 口袋妖怪--焱の冒险之心魂之羽",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/雷曼A.gba",
+      "label": "164 雷曼A",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/雷曼疯狂兔子.gba",
+      "label": "165 雷曼疯狂兔子",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/雷神.gba",
+      "label": "166 雷神",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/洛克人Zero.gba",
+      "label": "167 洛克人Zero",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/洛克人Zero2.gba",
+      "label": "168 洛克人Zero2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/洛克人Zero3.gba",
+      "label": "169 洛克人Zero3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/洛克人与佛鲁迪.gba",
+      "label": "170 洛克人与佛鲁迪",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/洛克人战斗网络6电脑兽法尔扎.gba",
+      "label": "171 洛克人战斗网络6电脑兽法尔扎",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/漫画地带.gba",
+      "label": "172 漫画地带",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/妹妹公主.gba",
+      "label": "173 妹妹公主",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/摩登原始人.gba",
+      "label": "174 摩登原始人",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/牧场物语-女孩版.gba",
+      "label": "175 牧场物语-女孩版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/棋魂.gba",
+      "label": "176 棋魂",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/青蛙过街伟大的冒险.gba",
+      "label": "177 青蛙过街伟大的冒险",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/全民麻将.gba",
+      "label": "178 全民麻将",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/人形电脑天使心.gba",
+      "label": "179 人形电脑天使心",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/荣誉勋章地下抵抗.gba",
+      "label": "180 荣誉勋章地下抵抗",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/三角洲空军部队2.gba",
+      "label": "181 三角洲空军部队2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/上海.gba",
+      "label": "182 上海",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/射鸡英雄传2.gba",
+      "label": "183 射鸡英雄传2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/神游之极速零式未来赛车.gba",
+      "label": "184 神游之极速零式未来赛车",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/兽王记王国的守卫者.gba",
+      "label": "185 兽王记王国的守卫者",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/松鼠大冒险.gba",
+      "label": "186 松鼠大冒险",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/索尼克.gba",
+      "label": "187 索尼克",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/索尼克A2.gba",
+      "label": "188 索尼克A2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/淘金者.gba",
+      "label": "189 淘金者",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/星球大战三部曲-学徒的原力.gba",
+      "label": "190 星球大战三部曲-学徒的原力",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/瓦力欧寻宝记.gba",
+      "label": "191 瓦力欧寻宝记",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/王国之心_记忆之链.gba",
+      "label": "192 王国之心_记忆之链",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/卧虎藏龙.gba",
+      "label": "193 卧虎藏龙",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/无敌风火轮疾速赛车X.gba",
+      "label": "194 无敌风火轮疾速赛车X",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/舞之刃.gba",
+      "label": "195 舞之刃",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/细胞分裂.gba",
+      "label": "196 细胞分裂",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/蝎子王大地之剑.gba",
+      "label": "197 蝎子王大地之剑",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/新约圣剑传说.gba",
+      "label": "198 新约圣剑传说",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/星球大战新帝国军队.gba",
+      "label": "199 星球大战新帝国军队",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/星之卡比 镜之迷宫.gba",
+      "label": "200 星之卡比 镜之迷宫",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/眼睛君.gba",
+      "label": "201 眼睛君",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/游戏王8_破灭之大邪神.gba",
+      "label": "202 游戏王8_破灭之大邪神",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/召唤之夜_铸剑物语1.0修复版.gba",
+      "label": "203 召唤之夜_铸剑物语1.0修复版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/侦探学院Q名侦探就是你.gba",
+      "label": "204 侦探学院Q名侦探就是你",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/召唤之夜铸剑物语2.gba",
+      "label": "205 召唤之夜铸剑物语2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/真人快打致命联盟.gba",
+      "label": "206 真人快打致命联盟",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/正义双亲的反斗家族反物质世界的突变.gba",
+      "label": "207 正义双亲的反斗家族反物质世界的突变",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/正义双亲之叛逆的惩罚.gba",
+      "label": "208 正义双亲之叛逆的惩罚",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/蜘蛛人-电影版gba",
+      "label": "209 蜘蛛人-电影版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/蜘蛛侠2.gba",
+      "label": "210 蜘蛛侠2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/蜘蛛侠-为纽约而战.gba",
+      "label": "211 蜘蛛侠-为纽约而战",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/蜘蛛侠-未知的威胁.gba",
+      "label": "212 蜘蛛侠-未知的威胁",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/指环王第三纪元.gba",
+      "label": "213 指环王第三纪元",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/指环王魔戒现身.gba",
+      "label": "214 指环王魔戒现身",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/指环王双塔.gba",
+      "label": "215 指环王双塔",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/重装骑士出击战斗团队.gba",
+      "label": "216 重装骑士出击战斗团队",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/牧场物语矿石镇的伙伴们.gba",
+      "label": "217 牧场物语矿石镇的伙伴们",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/最终幻想4.gba",
+      "label": "218 最终幻想4",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/实况足球胜利11人.gba",
+      "label": "219 实况足球胜利11人",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/最终幻想1+2.gba",
+      "label": "220 最终幻想1+2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/最终幻想战略版.gba",
+      "label": "221 最终幻想战略版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/忍者神龟.gba",
+      "label": "222 忍者神龟",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/罪恶装备X.gba",
+      "label": "223 罪恶装备X",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/超级大金刚2.gba",
+      "label": "224 超级大金刚2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/超级机器人大战OG.gba",
+      "label": "225 超级机器人大战OG",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/超级机器人大战J.gba",
+      "label": "226 超级机器人大战J",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/超人正义同盟.gba",
+      "label": "227 超人正义同盟",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/超人归来.gba",
+      "label": "228 超人归来",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/风之克罗诺亚-梦见帝国.gba",
+      "label": "229 风之克罗诺亚-梦见帝国",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/古惑狼赛车.gba",
+      "label": "230 古惑狼赛车",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/古惑狼暴跳的罗彼德与紫色宝贝龙.gba",
+      "label": "231 古惑狼暴跳的罗彼德与紫色宝贝龙",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/宝贝龙与橙色古惑狼.gba",
+      "label": "232 宝贝龙与橙色古惑狼",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/古惑狼泰坦.gba",
+      "label": "233 古惑狼泰坦",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/古惑狼a友情大作战.gba",
+      "label": "234 古惑狼a友情大作战",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/古墓丽影.gba",
+      "label": "235 古墓丽影",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA.CN/雷曼阿飞复仇.gba",
+      "label": "236 雷曼阿飞复仇",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": "GBA.CN.lpl"
+    }
+  ]
+}

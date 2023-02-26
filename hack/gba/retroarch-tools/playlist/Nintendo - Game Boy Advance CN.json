@@ -1,0 +1,987 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Castlevania - Akatsuki no Minuet(JP)(64Mb).gba",
+      "label": "Castlevania - Akatsuki no Minuet (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "284E3092|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Zelda no Densetsu - Fushigi no Boushi(JP)(128Mb).gba",
+      "label": "Zelda no Densetsu - Fushigi no Boushi (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6CE771A5|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/WarioWare, Inc. - Minigame Mania(EU)(M5)(64Mb).gba",
+      "label": "WarioWare, Inc. - Minigame Mania (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "500CA178|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/WarioWare, Inc. - Mega Microgame$!(US)(64Mb).gba",
+      "label": "WarioWare, Inc. - Mega Microgame$! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "785D8B8C|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/WarioWare - Twisted!(US)(128Mb).gba",
+      "label": "WarioWare - Twisted! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CB4E844B|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Wario Land 4(UE)(64Mb).gba",
+      "label": "Wario Land 4 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D6141609|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Sword of Mana(US)(128Mb).gba",
+      "label": "Sword of Mana (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7F1EAC75|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Sword of Mana(EU)(M2)(128Mb).gba",
+      "label": "Sword of Mana (Europe) (Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5EE17ED1|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Sword of Mana(EU)(128Mb).gba",
+      "label": "Sword of Mana (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "88E64A8A|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Shining Soul(US)(64Mb).gba",
+      "label": "Shining Soul (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E95BBA0C|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Shining Soul(JP)(64Mb).gba",
+      "label": "Shining Soul (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "521450D1|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Shining Soul(EU)(M5)(64Mb).gba",
+      "label": "Shining Soul (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "74B5D069|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Shining Soul II(US)(128Mb).gba",
+      "label": "Shining Soul II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4038E282|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Shining Soul II(JP)(128Mb).gba",
+      "label": "Shining Soul II (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7B39A7B2|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Shining Soul II(EU)(M5)(128Mb).gba",
+      "label": "Shining Soul II (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "55E503C1|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Rhythm Tengoku(JP)(128Mb).gba",
+      "label": "Rhythm Tengoku (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "349D7025|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon Pinball - Ruby & Sapphire(US)(64Mb).gba",
+      "label": "Pokemon Pinball - Ruby & Sapphire (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B992A3C0|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon Pinball - Ruby & Sapphire(JP)(64Mb).gba",
+      "label": "Pokemon Pinball - Ruby & Sapphire (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8AF1EC73|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon Pinball - Ruby & Sapphire(EU)(M5)(128Mb).gba",
+      "label": "Pokemon Pinball - Ruby & Sapphire (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A53AC14B|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon Mystery Dungeon - Red Rescue Team(US)(256Mb).gba",
+      "label": "Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DD0AC86C|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon Mystery Dungeon - Red Rescue Team(EU)(M5)(256Mb).gba",
+      "label": "Pokemon Mystery Dungeon - Red Rescue Team (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C1D18FE4|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon Fushigi no Dungeon - Aka no Kyuujotai(JP)(256Mb).gba",
+      "label": "Pokemon Fushigi no Dungeon - Aka no Kyuujotai (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1A1BAA50|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Versione Zaffiro(IT)(128Mb).gba",
+      "label": "Pokemon - Versione Zaffiro (Italy)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0C7992A9|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Versione Verde Foglia(IT)(128Mb).gba",
+      "label": "Pokemon - Versione Verde Foglia (Italy)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "16974506|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Versione Smeraldo(IT)(128Mb).gba",
+      "label": "Pokemon - Versione Smeraldo (Italy)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A0AEC80A|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Versione Rubino(IT)(128Mb).gba",
+      "label": "Pokemon - Versione Rubino (Italy)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C18231A9|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Versione Rosso Fuoco(IT)(128Mb).gba",
+      "label": "Pokemon - Versione Rosso Fuoco (Italy)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "73A72167|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Version Vert Feuille(FR)(128Mb).gba",
+      "label": "Pokemon - Version Vert Feuille (France)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BA3285E3|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Version Saphir(FR)(128Mb).gba",
+      "label": "Pokemon - Version Saphir (France)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3581A05F|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Version Rubis(FR)(128Mb).gba",
+      "label": "Pokemon - Version Rubis (France)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "690FD310|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Version Rouge Feu(FR)(128Mb).gba",
+      "label": "Pokemon - Version Rouge Feu (France)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5DC668F6|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Version Emeraude(FR)(128Mb).gba",
+      "label": "Pokemon - Version Emeraude (France)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A3FDCCB1|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Smaragd-Edition(DE)(128Mb).gba",
+      "label": "Pokemon - Smaragd-Edition (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "34C9DF89|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Sapphire Version(US)(128Mb).gba",
+      "label": "Pokemon - Sapphire Version (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "554DEDC4|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Sapphire Version(UE)(128Mb).gba",
+      "label": "Pokemon - Sapphire Version (USA, Europe) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9CC4410E|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Sapphire Version(EU)(128Mb).gba",
+      "label": "Pokemon - Sapphire Version (USA, Europe) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BAFEDAE5|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Saphir-Edition(DE)(128Mb).gba",
+      "label": "Pokemon - Saphir-Edition (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6FCD7A98|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Ruby Version(US)(128Mb).gba",
+      "label": "Pokemon - Ruby Version (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F0815EE7|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Ruby Version(EU)(128Mb).gba",
+      "label": "Pokemon - Ruby Version (USA, Europe) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "61641576|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Rubin-Edition(DE)(128Mb).gba",
+      "label": "Pokemon - Rubin-Edition (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "15E1E280|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Leaf Green Version(US)(128Mb).gba",
+      "label": "Pokemon - LeafGreen Version (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D69C96CC|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Leaf Green Version(EU)(128Mb).gba",
+      "label": "Pokemon - LeafGreen Version (USA, Europe) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DAFFECEC|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Fire Red Version(US)(128Mb).gba",
+      "label": "Pokemon - FireRed Version (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DD88761C|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Fire Red Version(UE)(128Mb).gba",
+      "label": "Pokemon - FireRed Version (USA, Europe) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "84EE4776|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Feuerrote Edition(DE)(128Mb).gba",
+      "label": "Pokemon - Feuerrote Edition (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1A81EEDF|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Emerald Version(UE)(128Mb).gba",
+      "label": "Pokemon - Emerald Version (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1F1C08FB|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Edicion Zafiro(ES)(128Mb).gba",
+      "label": "Pokemon - Edicion Zafiro (Spain)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A04F5F0B|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Edicion Verde Hoja(ES)(128Mb).gba",
+      "label": "Pokemon - Edicion Verde Hoja (Spain)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2CA11D59|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Edicion Rubi(ES)(128Mb).gba",
+      "label": "Pokemon - Edicion Rubi (Spain)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EB0729CF|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Edicion Rojo Fuego(ES)(128Mb).gba",
+      "label": "Pokemon - Edicion Rojo Fuego (Spain)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9F08064E|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Edicion Esmeralda(ES)(128Mb).gba",
+      "label": "Pokemon - Edicion Esmeralda (Spain)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8C4D3108|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Pokemon - Blattgrune Edition(DE)(128Mb).gba",
+      "label": "Pokemon - Blattgruene Edition (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D12F1FDD|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Mawaru - Made in Wario(JP)(128Mb).gba",
+      "label": "Mawaru - Made in Wario (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E69964F1|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Made in Wario(JP)(64Mb).gba",
+      "label": "Made in Wario (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "87A0EEA0|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Legend of Zelda, The - The Minish Cap(US)(128Mb).gba",
+      "label": "Legend of Zelda, The - The Minish Cap (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ABCEBBB1|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Legend of Zelda, The - The Minish Cap(EU)(M5)(128Mb).gba",
+      "label": "Legend of Zelda, The - The Minish Cap (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E8637292|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Legend of Zelda, The - A Link to the Past & Four Swords(US)(64Mb).gba",
+      "label": "Legend of Zelda, The - A Link to the Past & Four Swords (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8E91CD13|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Legend of Zelda, The - A Link to the Past & Four Swords(EU)(M5)(64Mb).gba",
+      "label": "Legend of Zelda, The - A Link to the Past & Four Swords (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5A164321|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Gyakuten Saiban(JP)(64Mb).gba",
+      "label": "Gyakuten Saiban (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C88F0952|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Gyakuten Saiban 3(JP)(64Mb).gba",
+      "label": "Gyakuten Saiban 3 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "51B6CF22|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Gyakuten Saiban 2(JP)(64Mb).gba",
+      "label": "Gyakuten Saiban 2 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "191AD26A|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Golden Sun(UE)(64Mb).gba",
+      "label": "Golden Sun (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E1FB68E8|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Golden Sun(IT)(64Mb).gba",
+      "label": "Golden Sun (Italy)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F3128812|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Golden Sun(FR)(64Mb).gba",
+      "label": "Golden Sun (France)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F6521161|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Golden Sun(ES)(64Mb).gba",
+      "label": "Golden Sun (Spain)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C63008D6|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Golden Sun(DE)(64Mb).gba",
+      "label": "Golden Sun (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1053DCE4|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Golden Sun 2 - Die Vergessene Epoche(DE)(128Mb).gba",
+      "label": "Golden Sun - Die Vergessene Epoche (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D981D889|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Golden Sun - The Lost Age(UE)(128Mb).gba",
+      "label": "Golden Sun - The Lost Age (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "606A1C4D|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Golden Sun - La Edad Perdida(ES)(128Mb).gba",
+      "label": "Golden Sun - La Edad Perdida (Spain)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EE38BA94|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Golden Sun - L'Era Perduta(IT)(128Mb).gba",
+      "label": "Golden Sun - L'Era Perduta (Italy)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A3E49743|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Golden Sun - L'Age Perdu(FR)(128Mb).gba",
+      "label": "Golden Sun - L'Age Perdu (France)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1090BD33|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Fire Emblem(US)(128Mb).gba",
+      "label": "Fire Emblem (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2A524221|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Fire Emblem(EU)(M3)(128Mb).gba",
+      "label": "Fire Emblem (Europe) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4A805ED1|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Fire Emblem - The Sacred Stones(US)(128Mb).gba",
+      "label": "Fire Emblem - The Sacred Stones (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A47246AE|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Fire Emblem - The Sacred Stones(EU)(M5)(256Mb).gba",
+      "label": "Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B3005195|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Fire Emblem - Seima no Kouseki(JP)(128Mb).gba",
+      "label": "Fire Emblem - Seima no Kouseki (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9D76826F|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Fire Emblem - Rekka no Ken(JP)(128Mb).gba",
+      "label": "Fire Emblem - Rekka no Ken (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F0C10E72|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Fire Emblem - Fuuin no Tsurugi(JP)(64Mb).gba",
+      "label": "Fire Emblem - Fuuin no Tsurugi (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D38763E1|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Final Fantasy VI Advance(US)(64Mb).gba",
+      "label": "Final Fantasy VI Advance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D708F5AB|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Final Fantasy VI Advance(JP)(64Mb).gba",
+      "label": "Final Fantasy VI Advance (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D67478FE|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Final Fantasy VI Advance(EU)(M5)(128Mb).gba",
+      "label": "Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D15DEBA5|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Final Fantasy V Advance(US)(64Mb).gba",
+      "label": "Final Fantasy V Advance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7A24AB0C|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Final Fantasy V Advance(JP)(64Mb).gba",
+      "label": "Final Fantasy V Advance (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FC7909A7|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Final Fantasy V Advance(EU)(M5)(128Mb).gba",
+      "label": "Final Fantasy V Advance (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7197117E|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Final Fantasy Tactics Advance(US)(128Mb).gba",
+      "label": "Final Fantasy Tactics Advance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5645E56C|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Final Fantasy Tactics Advance(JP)(128Mb).gba",
+      "label": "Final Fantasy Tactics Advance (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A57B0034|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Final Fantasy Tactics Advance(EU)(M5)(128Mb).gba",
+      "label": "Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BA5DE047|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Final Fantasy IV Advance(US)(64Mb).gba",
+      "label": "Final Fantasy IV Advance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FEEEBDE4|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Final Fantasy IV Advance(JP)(64Mb).gba",
+      "label": "Final Fantasy IV Advance (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "17036E02|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Final Fantasy IV Advance(EU)(M5)(64Mb).gba",
+      "label": "Final Fantasy IV Advance (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "27F2BC67|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Final Fantasy I & II Advance(JP)(128Mb).gba",
+      "label": "Final Fantasy I, II Advance (Japan) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0F3BD723|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Final Fantasy I & II - Dawn of Souls(US)(128Mb).gba",
+      "label": "Final Fantasy I & II - Dawn of Souls (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1B39CDAB|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Final Fantasy I & II - Dawn of Souls(EU)(M5)(128Mb).gba",
+      "label": "Final Fantasy I & II - Dawn of Souls (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7C9854C6|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Famicom Mini Vol. 25 - The Legend of Zelda 2 - Link no Bouken(JP)(32Mb).gba",
+      "label": "Famicom Mini 25 - The Legend of Zelda 2 - Link no Bouken (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1CBE712A|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Famicom Mini Vol. 05 - The Hyrule Fantasy - Zelda no Densetsu 1(JP)(32Mb).gba",
+      "label": "Famicom Mini 05 - Zelda no Densetsu 1 - The Hyrule Fantasy (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "114E37A1|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Dragon Ball Z - The Legacy of Goku(US)(64Mb).gba",
+      "label": "Dragon Ball Z - The Legacy of Goku (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D47CCFF4|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Dragon Ball Z - The Legacy of Goku(EU)(M5)(64Mb).gba",
+      "label": "Dragon Ball Z - The Legacy of Goku (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CA6E149C|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Dragon Ball Z - The Legacy of Goku II(US)(64Mb).gba",
+      "label": "Dragon Ball Z - The Legacy of Goku II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "204142E1|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Dragon Ball Z - The Legacy of Goku II(EU)(M5)(64Mb).gba",
+      "label": "Dragon Ball Z - The Legacy of Goku II (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "20684433|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Dragon Ball Z - The Legacy of Goku II International(JP)(64Mb).gba",
+      "label": "Dragon Ball Z - The Legacy of Goku II International (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B3297D59|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Dragon Ball Z - Taiketsu(US)(64Mb).gba",
+      "label": "Dragon Ball Z - Taiketsu (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "64EC07E7|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Dragon Ball Z - Taiketsu(EU)(M5)(64Mb).gba",
+      "label": "Dragon Ball Z - Taiketsu (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D0E79665|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Dragon Ball Z - Supersonic Warriors(US)(128Mb).gba",
+      "label": "Dragon Ball Z - Supersonic Warriors (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9A857A70|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Dragon Ball Z - Supersonic Warriors(EU)(M5)(128Mb).gba",
+      "label": "Dragon Ball Z - Supersonic Warriors (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B4D9572C|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Dragon Ball Z - Moogongtoogeuk(KS)(128Mb).gba",
+      "label": "Dragon Ball Z - Moogongtoogeuk (Korea)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E4893DD7|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Dragon Ball Z - Collectible Card Game(US)(64Mb).gba",
+      "label": "Dragon Ball Z - Collectible Card Game (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F6124D7F|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Dragon Ball Z - Buu's Fury(US)(64Mb).gba",
+      "label": "Dragon Ball Z - Buu's Fury (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "01C1707F|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Dragon Ball Z - Bukuu Tougeki(JP)(128Mb).gba",
+      "label": "Dragon Ball Z - Bukuu Tougeki (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6C0F0B86|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Dragon Ball GT - Transformation(US)(64Mb).gba",
+      "label": "Dragon Ball GT - Transformation (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AD964A91|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Dragon Ball - Advanced Adventure(US)(128Mb).gba",
+      "label": "Dragon Ball - Advanced Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7D7306DF|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Dragon Ball - Advanced Adventure(KS)(128Mb).gba",
+      "label": "Dragon Ball - Advance Adventure (Korea)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4E2CC84D|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Dragon Ball - Advanced Adventure(JP)(128Mb).gba",
+      "label": "Dragon Ball - Advance Adventure (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8A06337A|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Dragon Ball - Advanced Adventure(EU)(M5)(128Mb).gba",
+      "label": "Dragon Ball - Advanced Adventure (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6C135820|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Classic NES Series - Zelda II - The Adventure of Link(UE)(32Mb).gba",
+      "label": "Classic NES Series - Zelda II - The Adventure of Link (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F2DC3B09|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Classic NES Series - The Legend of Zelda(UE)(32Mb).gba",
+      "label": "Classic NES Series - The Legend of Zelda (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "68B1B7A8|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Castlevania - Harmony of Dissonance(US)(64Mb).gba",
+      "label": "Castlevania - Harmony of Dissonance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "88C1B562|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Castlevania - Harmony of Dissonance(EU)(64Mb).gba",
+      "label": "Castlevania - Harmony of Dissonance (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "521B3091|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Castlevania - Circle of the Moon(EU)(64Mb).gba",
+      "label": "Castlevania (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "611535DC|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Castlevania - Byakuya no Concerto(JP)(64Mb).gba",
+      "label": "Castlevania - Byakuya no Concerto (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "379B3248|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Castlevania - Aria of Sorrow(US)(64Mb).gba",
+      "label": "Castlevania - Aria of Sorrow (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "35536183|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Castlevania - Aria of Sorrow(EU)(M3)(64Mb).gba",
+      "label": "Castlevania - Aria of Sorrow (Europe) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D0C91F74|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    },
+    {
+      "path": "ux0:/+ROM/GBA Faverate/Zelda no Densetsu - Kamigami no Triforce & 4tsu no Tsurugi(JP)(64Mb).gba",
+      "label": "Zelda no Densetsu - Kamigami no Triforce & 4tsu no Tsurugi (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "81E42BEE|crc",
+      "db_name": "Nintendo - Game Boy Advance CN.lpl"
+    }
+  ]
+}

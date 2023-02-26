@@ -1,0 +1,799 @@
+1942.nes
+1943.nes
+1944.nes
+1945.nes
+1991賭馬.nes
+4人麻將.nes
+B計劃.nes
+CAPCOM音樂30合一.nes
+F-1賽車.nes
+F15戰机.nes
+FC原人.nes
+JuJu傳説.nes
+SD英雄總決戰 打倒邪惡軍團.nes
+X戰警.nes
+gamef.txt
+怒1.nes
+怒2.nes
+第2次超級机器人大戰.nes
+怒3.nes
+第3次超級机器人大戰.nes
+第4次超級机器人大戰.nes
+甲A.nes
+數獨 & 五子棋.nes
+龍魂 新的傳説.nes
+侍魂 武道士列傳.nes
+侍魂 英雄大格斗.nes
+忍者 阿修羅之章.nes
+龍珠 孫悟空過關.nes
+雙鷹 喬兄弟的復仇.nes
+一揆.nes
+劍王.nes
+功夫.nes
+埃及.nes
+提王.nes
+撲克.nes
+斧王.nes
+暗棋.nes
+東風.nes
+棋王.nes
+水滸.nes
+火炮.nes
+火鳥.nes
+火龍.nes
+烈火.nes
+盜帥.nes
+紅豬.nes
+網球.nes
+藍博.nes
+賭神.nes
+超人.nes
+雙鷹.nes
+風云.nes
+飛狼.nes
+飛龍.nes
+魔塔.nes
+麻雀.nes
+黄帝.nes
+黑客.nes
+龍牙.nes
+伊蘇1.nes
+侍魂1.nes
+兵蜂1.nes
+脱獄1.nes
+伊蘇2.nes
+侍魂2.nes
+兵蜂2.nes
+脱獄2.nes
+鐵拳2.nes
+雷電2.nes
+伊蘇3.nes
+侍魂3.nes
+兵蜂3.nes
+異形3.nes
+鐵拳3.nes
+平成BT帝國戰.nes
+鋤大D.nes
+金曲KTV.nes
+喀拉OK.nes
+龍珠Z 超武斗傳2.nes
+龍珠Z 超武斗傳5.nes
+龍珠Z1 強襲！賽亞人.nes
+龍珠Z2 激戰弗利薩.nes
+龍珠Z3 列戰人造人間.nes
+龍珠Z4 賽亞人滅絶計劃.nes
+唐老鴨 怪鴨.nes
+惡魔城 王子.nes
+西游記 格斗.nes
+西遊記 孫孫.nes
+魂斗羅 快打.nes
+三國志 呂布傳.nes
+三國志 曹操傳.nes
+大金剛 香蕉船.nes
+火之鳥 鳳凰篇.nes
+魂斗羅 超級魂.nes
+三國志 傲視天地.nes
+三國志 群雄爭霸.nes
+三國志 赤壁之戰.nes
+三國志 雄霸天下.nes
+唐老鴨 跳躍賽鉋.nes
+魂斗羅 異形戰爭.nes
+魂斗羅 超級戰魂.nes
+封神榜 伏魔三太子.nes
+机器猫 超時空歴險.nes
+楚留香 香帥傳奇之血海飄零.nes
+加菲猫.nes
+包青天.nes
+喀諾夫.nes
+地道戰.nes
+夜明珠.nes
+大戰略.nes
+大白鯊.nes
+大蜜蜂.nes
+封神榜.nes
+尋秦記.nes
+小博士.nes
+小瑪麗.nes
+小紅帽.nes
+小蜜蜂.nes
+屠龍刀.nes
+岳飛傳.nes
+幻世禄.nes
+彈珠臺.nes
+彩虹島.nes
+忍者蛙.nes
+恐龍島.nes
+懲罰者.nes
+戈德曼.nes
+打磚塊.nes
+推箱子.nes
+摩艾君.nes
+救世主.nes
+敲冰塊.nes
+新人類.nes
+机器猫.nes
+机器鳥.nes
+楊家將.nes
+水滸傳.nes
+法老王.nes
+漢劉邦.nes
+漢堡包.nes
+潛水艇.nes
+澎澎車.nes
+火箭人.nes
+火鳳凰.nes
+獸王記.nes
+究極虎.nes
+突然君.nes
+筋肉人.nes
+紅樓夢.nes
+索尼克.nes
+羅賓漢.nes
+美女拳.nes
+美猴王.nes
+英雄傳.nes
+藍精靈.nes
+蜘蛛侠.nes
+財神到.nes
+超級忍.nes
+跳舞机.nes
+迷魂車.nes
+遊園地.nes
+遊戲王.nes
+銀影侠.nes
+銀河號.nes
+鏡花源.nes
+霍元甲.nes
+頑皮狗.nes
+飛翼人.nes
+馬戲團.nes
+高爾夫.nes
+魔界村.nes
+魔道劫.nes
+鹿鼎記.nes
+黄飛鴻.nes
+黑白棋.nes
+龍戰士.nes
+魂斗羅1 歐版.nes
+米老鼠1 大冒險.nes
+三國志1 中原之霸者.nes
+冒險島1.nes
+原始人1.nes
+唐老鴨1.nes
+大金剛1.nes
+孔雀王1.nes
+屠龍記1.nes
+惡魔城1.nes
+打空氣1.nes
+泡泡龍1.nes
+洛克人1.nes
+炸彈人1.nes
+獅子王1.nes
+終結者1.nes
+蝙蝠侠1.nes
+西遊記1.nes
+送報童1.nes
+鐵板陣1.nes
+長靴猫1.nes
+阿拉丁1.nes
+雙截龍1.nes
+魂斗羅1.nes
+洛克人2 Dr.Wily之謎.nes
+魂斗羅2 歐版.nes
+終結者2 審判日.nes
+三國志2 霸王的大陸.nes
+米老鼠2 數字島大冒險.nes
+冒險島2.nes
+原始人2.nes
+唐老鴨2.nes
+大金剛2.nes
+孔雀王2.nes
+屠龍記2.nes
+惡魔城2.nes
+打空氣2.nes
+泡泡龍2.nes
+炸彈人2.nes
+蝙蝠侠2.nes
+西遊記2.nes
+送報童2.nes
+鐵板陣2.nes
+長靴猫2.nes
+阿拉丁2.nes
+雙截龍2.nes
+魂斗羅2.nes
+洛克人3 Dr.Wily的末日.nes
+魂斗羅3 力量.nes
+米老鼠3 夢幻氣球.nes
+冒險島3.nes
+大金剛3.nes
+惡魔城3.nes
+獅子王3.nes
+蝙蝠侠3.nes
+阿拉丁3.nes
+雙截龍3.nes
+三國志4 赤壁風云.nes
+洛克人4 新的野心.nes
+冒險島4.nes
+屠龍記4.nes
+惡魔城4.nes
+阿拉丁4.nes
+雙截龍4.nes
+洛克人5 布魯斯的圈套.nes
+獅子王5.nes
+洛克人6 史上最長的戰斗.nes
+獅子王6.nes
+洛克人7.nes
+洛克人Exile.nes
+洛克人X.nes
+魂斗羅X.nes
+街頭霸王 ZERO2'97.nes
+街頭霸王 ZERO2.nes
+口袋怪獸 綠 綠葉版.nes
+口袋寵物 紅.nes
+口袋寶石 紅.nes
+口袋寶石 藍.nes
+口袋寶石 金.nes
+口袋寶石 銀.nes
+口袋精靈 金.nes
+刀鋒戰士 日版.nes
+口袋寵物 翡翠.nes
+口袋精靈 水晶.nes
+鳥人戰隊 格斗1.nes
+撞球傳説 花撞2.nes
+鳥人戰隊 格斗2.nes
+三國春秋 四川省.nes
+三國無雙 猛將傳.nes
+口袋妖怪 四合一.nes
+口袋妖怪 寶石版.nes
+口袋妖怪 綠葉版.nes
+口袋怪獸 綠葉版.nes
+四川麻將 制服篇.nes
+最終幻想 黑暗篇.nes
+口袋妖怪 皮喀丘Y2K.nes
+企鵝先生 冒險之旅.nes
+大話西游 南晶科技.nes
+大話西游 火星電子.nes
+拯救世紀 光明之神.nes
+火炎紋章 聖戰系譜.nes
+魔獸世界 惡魔獵人.nes
+光之神話 天使島傳説.nes
+口袋妖怪 皮喀丘傳説.nes
+孤獨戰士 惑星戒嚴令.nes
+幽幽白書 暗黑武道會.nes
+星之喀比 星之泉物語.nes
+淘氣廚師 食物的世界.nes
+麻雀世界 歌舞伎町篇.nes
+幽游白書 魔界最強列傳.nes
+七國大戰.nes
+三侠五義.nes
+三十六計.nes
+三眼神童.nes
+三隻小豬.nes
+上尉密令.nes
+上海大亨.nes
+上海教父.nes
+中國大亨.nes
+中國象棋.nes
+中東戰爭.nes
+中華大仙.nes
+中華英雄.nes
+亂世三國.nes
+人間兵器.nes
+仙劍奇侠.nes
+偸看撲克.nes
+傲劍江湖.nes
+光明之神.nes
+公路賽車.nes
+六三四劍.nes
+六角方塊.nes
+劍侠情源.nes
+加納戰机.nes
+半熟英雄.nes
+南極冒險.nes
+口袋寶石.nes
+口袋水晶.nes
+古墓麗影.nes
+古巴戰士.nes
+合金風暴.nes
+哈利傳奇.nes
+哥倫布傳.nes
+嘉蒂外傳.nes
+四人麻將.nes
+四川麻將.nes
+國際象棋.nes
+圍棋大戰.nes
+圖形推理.nes
+地球冒險.nes
+坦克大戰.nes
+坦克風云.nes
+城堡探險.nes
+夢之勇士.nes
+夢境之王.nes
+夢幻仙境.nes
+大力水手.nes
+大話水滸.nes
+天神之劍.nes
+天龍八部.nes
+太空哈利.nes
+太空幻想.nes
+太空戰机.nes
+威洛傳奇.nes
+宇宙刑警.nes
+將棋秘傳.nes
+小美人魚.nes
+少年遊侠.nes
+少年邦德.nes
+少林武者.nes
+帝國戰机.nes
+帝國時代.nes
+帝國風暴.nes
+幻想傳説.nes
+幽靈列車.nes
+康體舞王.nes
+影子傳説.nes
+忍者刑警.nes
+忍者特訓.nes
+快打傳説.nes
+快打旋風.nes
+恐龍戰隊.nes
+愛的小屋.nes
+成吉思汗.nes
+成龍之龍.nes
+戰國無雙.nes
+戰場之狼.nes
+拿咤傳奇.nes
+撲克精靈.nes
+撲克集錦.nes
+撲克麻雀.nes
+救火英雄.nes
+數碼寶貝.nes
+數碼暴龍.nes
+斗智評盤.nes
+新月劍痕.nes
+新英雄傳.nes
+星空飛箭.nes
+星際之門.nes
+星際武士.nes
+時空之輪.nes
+時空地帶.nes
+時空小子.nes
+時空斗士.nes
+月之撞球.nes
+月之水晶.nes
+月風魔傳.nes
+未來小子.nes
+東方傳説.nes
+格蘭蒂亞.nes
+梁山英雄.nes
+楚漢爭霸.nes
+楚漢風云.nes
+歐陸之戰.nes
+武侠天地.nes
+武林外傳.nes
+殺戮戰場.nes
+殺蟲大戰.nes
+殺蟲戰記.nes
+毀滅之神.nes
+氣球大戰.nes
+水滸神獸.nes
+沙灘排球.nes
+沙羅曼蛇.nes
+波斯王子.nes
+混沌世界.nes
+火影忍者.nes
+火箭飛車.nes
+炸彈之王.nes
+無極魔界.nes
+無賴戰士.nes
+熊猫太子.nes
+熱血物語.nes
+熱血硬派.nes
+熱血籃球.nes
+熱血足球.nes
+爆笑三國.nes
+爭霸世紀.nes
+牧場物語.nes
+特救指令.nes
+猫捉老鼠.nes
+獅王傳奇.nes
+王者無雙.nes
+生化危机.nes
+異域誅魂.nes
+百萬富翁.nes
+盧邦三世.nes
+真假猴王.nes
+石器時代.nes
+神奇寶貝.nes
+神探柯南.nes
+神鬼傳奇.nes
+神鷹戰机.nes
+禁毒衛士.nes
+空中要塞.nes
+笑傲江湖.nes
+絲路傳奇.nes
+絶代雙嬌.nes
+絶對合體.nes
+綠色兵團.nes
+綠野仙蹤.nes
+美國富豪.nes
+聖劍傳説.nes
+聖火列傳.nes
+聖火少侠.nes
+聖火徽章.nes
+聖鈴傳説.nes
+臺灣麻雀.nes
+花式九球.nes
+英雄傳奇.nes
+荊軻新傳.nes
+葫蘆金剛.nes
+虎穴行動.nes
+虎膽龍威.nes
+蝋筆小新.nes
+西楚霸王.nes
+象棋學園.nes
+赤色要塞.nes
+越野戰車.nes
+趣味方塊.nes
+轟天至尊.nes
+迷宮封印.nes
+遊戲寶貝.nes
+重裝机兵.nes
+金屬風暴.nes
+金鷹之劍.nes
+銀河戰士.nes
+銀河武士.nes
+鐵血戰士.nes
+隋唐演義.nes
+隋唐英雄.nes
+雪人兄弟.nes
+電梯大盜.nes
+電視瑪麗.nes
+霹靂神兵.nes
+靈幻道士.nes
+靈界護法.nes
+風色幻想.nes
+飛人戰士.nes
+香帥傳奇.nes
+鬼屋冒險.nes
+鬼魅戰記.nes
+魁梧男人.nes
+魔天童子.nes
+魔幻世界.nes
+魔界塔士.nes
+魔神法師.nes
+鳥人戰隊.nes
+麻將方塊.nes
+麻雀世界.nes
+黄金太陽.nes
+黑暗之蠱.nes
+齊天大聖.nes
+齶魚先生.nes
+龍之忍者.nes
+七寶奇謀1.nes
+公路之星1.nes
+冲破火網1.nes
+刀鋒戰士1.nes
+北斗神拳1.nes
+口袋怪獸1.nes
+合金裝備1.nes
+呑食天地1.nes
+地底探險1.nes
+外星戰士1.nes
+大力工頭1.nes
+天使之翼1.nes
+奪寶奇兵1.nes
+女神轉生1.nes
+忍者神龜1.nes
+成龍提館1.nes
+捍衛戰士1.nes
+星際戰机1.nes
+最終幻想1.nes
+机械戰警1.nes
+猫和老鼠1.nes
+真人快打1.nes
+西天取經1.nes
+超级玛丽1.nes
+飛龍之拳1.nes
+街頭霸王2 12人(6人).nes
+街頭霸王2 16人(8人).nes
+街頭霸王2 18人(9人).nes
+街頭霸王2 20人(10人).nes
+街頭霸王2 4人.nes
+街頭霸王2 56人(13人).nes
+街頭霸王2 5人.nes
+街頭霸王2 60人(10人).nes
+街頭霸王2 8人.nes
+街頭霸王2 9人.nes
+人間兵器2 雷霆任務.nes
+魔城傳説2 大魔司教.nes
+七寶奇謀2.nes
+世界英雄2.nes
+公路之星2.nes
+冲破火網2.nes
+刀鋒戰士2.nes
+北斗神拳2.nes
+口袋怪獸2.nes
+合金裝備2.nes
+呑食天地2.nes
+地底探險2.nes
+外星戰士2.nes
+大力工頭2.nes
+天使之翼2.nes
+奪寶奇兵2.nes
+女神轉生2.nes
+忍者神龜2.nes
+成龍提館2.nes
+捍衛戰士2.nes
+數碼戰隊2.nes
+星際戰机2.nes
+最終幻想2.nes
+机械戰警2.nes
+真人快打2.nes
+蚯蚓戰士2.nes
+西天取經2.nes
+飛龍之拳2.nes
+餓狼傳説2.nes
+街頭戰士2010.nes
+未來戰爭2020.nes
+快樂比奇3 地球戰士.nes
+北斗神拳3.nes
+口袋怪獸3.nes
+奪寶奇兵3.nes
+女警刑事3.nes
+忍者神龜3.nes
+快打旋風3.nes
+最終幻想3.nes
+猫和老鼠3.nes
+真人快打3.nes
+神話劍云3.nes
+聖火徽章3.nes
+蚯蚓戰士3.nes
+飛龍之拳3.nes
+北斗神拳4.nes
+大唐風雲4.nes
+忍者神龜4.nes
+數碼暴龍4.nes
+最終幻想4.nes
+真人快打4.nes
+飛龍之拳4.nes
+最終幻想5.nes
+真人快打5.nes
+真人快打6.nes
+最終幻想7.nes
+格斗之王96.nes
+格斗之王97.nes
+沙羅曼蛇Q版.nes
+格斗之王R1 最強格斗王.nes
+格斗之王R2 大蛇四天王.nes
+變形戰机Z.nes
+三國大亂斗 戰國.nes
+假面的忍者 花丸.nes
+假面的忍者 赤影.nes
+忍者龍劍傳 女忍.nes
+超級馬力欧 耀奇.nes
+超級馬力欧 神風1999.nes
+超級馬力欧 神風2000.nes
+塞爾達傳説 縮小帽.nes
+聖斗士星矢 北歐篇.nes
+聖斗士星矢 黄金篇.nes
+超級馬力欧 索尼克.nes
+不動明王傳 惡魔之劍.nes
+寵物大家族 部落紛爭.nes
+水上魂斗羅 赤影戰士.nes
+泰坦尼克號 南晶科技.nes
+泰坦尼克號 火星電子.nes
+生命的奇跡 超級寶寶.nes
+超級馬力欧 新的冒險.nes
+超級馬力欧 神風路奇.nes
+勇者斗惡龍 勇者的試練.nes
+聖斗士星矢 天馬之幻想.nes
+超級馬力欧 路易基之謎.nes
+奪寶小英豪 光明与黑暗傳説.nes
+三國忠烈傳.nes
+三國群侠傳.nes
+不動明王傳.nes
+中國兔寶寶.nes
+任天堂戰爭.nes
+企鵝夢物語.nes
+侏羅紀公園.nes
+俄羅斯方塊.nes
+倚天屠龍記.nes
+冰山登山者.nes
+刀劍英雄傳.nes
+前線大作戰.nes
+地底大作戰.nes
+地獄極樂丸.nes
+塞外奇侠傳.nes
+天國与地獄.nes
+天王降魔傳.nes
+太陽系戰机.nes
+失落的神器.nes
+女神的救贖.nes
+守護者坦克.nes
+射雕英雄傳.nes
+巴特龍戰机.nes
+布魯斯兄弟.nes
+希特勒復活.nes
+帝國直升机.nes
+忍者茶茶丸.nes
+戰國四川省.nes
+戰國群雄傳.nes
+戰斗原始人.nes
+戰斗直升机.nes
+拉格朗日點.nes
+拉迪亞戰記.nes
+推倒胡麻將.nes
+提督的決斷.nes
+摩托車大賽.nes
+斗者的挽歌.nes
+星際魂斗羅.nes
+暗黑破壞神.nes
+最後的忍者.nes
+机器子戰記.nes
+東周列國志.nes
+林則徐禁煙.nes
+櫻桃小丸子.nes
+決戰太平洋.nes
+湯姆厲險記.nes
+激斗聖戰士.nes
+熱血新記禄.nes
+熱血時代劇.nes
+熱血曲棍球.nes
+熱血躱避球.nes
+熱血進行曲.nes
+王子復仇記.nes
+瘋狂鷄蛋仔.nes
+盟軍赶死隊.nes
+真本西游記.nes
+真田十勇士.nes
+神勇小白兔.nes
+神密金三角.nes
+空中魂斗羅.nes
+紅巾特攻隊.nes
+紐約大拳猫.nes
+耀西的餅干.nes
+興奮摩托車.nes
+英烈群侠傳.nes
+荊軻刺秦王.nes
+荒野大嫖客.nes
+菲利克斯猫.nes
+西游記后傳.nes
+超人狼戰記.nes
+超惑星戰記.nes
+超時空要塞.nes
+超級大富翁.nes
+超級大戰略.nes
+超級沖刺賽.nes
+超級貪吃蛇.nes
+超級阿拉丁.nes
+超越地平線.nes
+超魔獸大戰.nes
+趣味成語屋.nes
+農場小精靈.nes
+里見八犬傳.nes
+野狼特工隊.nes
+金庸群侠傳.nes
+銀白色沙加.nes
+長槍手傳奇.nes
+餐廳爭奪戰.nes
+魔域英雄傳.nes
+魔女小紅帽.nes
+魔法總動員.nes
+魔神英雄傳.nes
+魔道士陰謀.nes
+麥當勞世界.nes
+龍珠大冒險.nes
+塞爾達傳説1 幻想大陸海爾拉.nes
+勇者斗惡龍1.nes
+吃豆小精靈1.nes
+大航海時代1.nes
+宇宙巡航机1.nes
+忍者龍劍傳1.nes
+快杰洋槍丸1.nes
+怪物制造者1.nes
+憤怒的小鳥1.nes
+捉鬼敢死隊1.nes
+摩登原始人1.nes
+暴走淘金者1.nes
+松鼠大作戰1.nes
+科樂美世界1.nes
+羅羅大冒險1.nes
+超級中國人1.nes
+捉鬼敢死隊2 新.nes
+塞爾達傳説2 林克冒險.nes
+快杰洋槍丸2 机關之地大冒險.nes
+勇者斗惡龍2.nes
+吃豆小精靈2.nes
+宇宙巡航机2.nes
+寵物小精靈2.nes
+忍者龍劍傳2.nes
+怪物制造者2.nes
+憤怒的小鳥2.nes
+所羅門之匙2.nes
+捉鬼敢死隊2.nes
+摩登原始人2.nes
+暴走淘金者2.nes
+松鼠大作戰2.nes
+科樂美世界2.nes
+羅羅大冒險2.nes
+超級中國人2.nes
+超級馬力欧2.nes
+快杰洋槍丸3 對決!相凌軒.nes
+勇者斗惡龍3 罪惡淵源.nes
+勇者斗惡龍3.nes
+忍者龍劍傳3.nes
+羅羅大冒險3.nes
+超級中國人3.nes
+超級馬力欧3.nes
+勇者斗惡龍4.nes
+寵物小精靈4.nes
+寵物小精靈6.nes
+大航海時代7.nes
+勇者斗惡龍8.nes
+聖火徽章外傳 索非亞復蘇.nes
+匹諾槽的復蘇.nes
+口袋里的魔鬼.nes
+唐伯虎點秋香.nes
+基督山恩仇記.nes
+孫小毛奇幻島.nes
+寵物高達戰記.nes
+机器戰士高達.nes
+机器猫小叮当.nes
+榮耀之騎士團.nes
+熱血格斗傳説.nes
+熱血足球聯盟.nes
+臺灣花牌麻雀.nes
+菩故須苛戰爭.nes
+街頭格斗小子.nes
+超級間諜獵人.nes
+阿爾戈斯戰士.nes
+兔寶寶大冒險1.nes
+大盜伍佑衛門1.nes
+大眼蛙大冒險1.nes
+大鼻子原始人1.nes
+兔寶寶大冒險2.nes
+大盜伍佑衛門2.nes
+大眼蛙大冒險2.nes
+大鼻子原始人2.nes
+加其夫天國地獄.nes
+忍者蛙和雙截龍.nes
+最後的動作英雄.nes
+最游記之唐三藏.nes
+游戲明星大亂斗.nes
+笑傲江湖群侠記.nes
+耀奇之神奇蛋仔.nes
+茶茶丸之大冒險.nes
+超級馬力欧兄弟.nes
+超級馬力欧醫生.nes
+飛龍之拳特別版.nes
+餓狼傳説特別版.nes
+眼鏡蛇特種部隊1.nes
+眼鏡蛇特種部隊2.nes
+超級机器人大戰A.nes
+九七港京拉力賽車.nes
+異形之太空探險者.nes
+魔法門之英雄無敵.nes
+特庫摩世界杯足球賽.nes
+軒轅劍外傳之天之痕.nes
+超級馬力欧兄弟拆屋工.nes
+大盜伍佑衛門之天下寶藏.nes

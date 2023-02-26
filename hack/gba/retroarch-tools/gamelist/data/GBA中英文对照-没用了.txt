@@ -1,0 +1,2797 @@
+0001-F-Zero (J)(最高时速赛车)(J)RCG 31.75
+0002-Super Mario Advance (J)(超级马里奥A)(J)ACT 31.50
+0003-Rockman EXE (J)(洛克人-网络战斗EXE1)(J)A·RPG 64.00
+0004-Kuru Kuru Kururin (J)(滚滚棒)(J)PUZ 30.50
+0005-Mr Driller 2 (J)(钻地先生2)(J)PUZ 30.75
+0006-Chu Chu Rocket (J)(咕噜咕噜火箭)(M)PUZ 32.00
+0007-Castlevania-Circle of the Moon (J)(恶魔城-月之轮回)(J)A·RPG 51.75
+0008-Advance GTA (J)(GTA职业概念赛车1)(E)RCG 56.25
+0009-Wai Wai Racing (J)(科纳米哇哇赛车)(J)RCG 32.00
+0010-Super Dodgeball Advance (J)(超级躲避球A)(J)SPG 32.00
+0011-Pinobee-Quest of Heart (J)(匹诺比之大冒险)(J)ACT 60.50
+0012-Powerful Pro Baseball 3 (J)(实况Q版口袋棒球3)(J)TCG 60.00
+0013-Napoleon (J)(拿破仑)(J)RTS 64.00
+0014-Top Gear All-Japan GT Championship (J)(全日本顶级GT锦标赛车)(E)RCG 32.00
+0015-Fire Pro Wrestling A (J)(火炎职业摔跤A)(J)SPG 64.00
+0016-Tweety and the Magical Jewel (J)(托蒂的欢乐派对之不可思议的宝石)(J)PUZ 30.00
+0017-Golf Master (J)(高尔夫大师)(J)SPG 63.25
+0018-Winning Post (J)(冠军赛马)(J)TCG 24.00
+0019-Silent Hill Play Novel (J)(寂静岭)(J)AVG 64.00
+0020-Yu-Gi-Oh! Dungeondice Monsters (J)(游戏王-地牢方块妖怪)(J)RPG 63.50
+0021-I Am An Air Traffic Controller (J)(我是航空管制官)(J)ETC 63.00
+0022-J-League Pocket (J)(J联盟足球口袋版)(J)TCG 53.50
+0023-Momotaro Festival (J)(桃太郎祭典)(J)RPG 31.00
+0024-Monster Guardians (J)(妖怪守护者)(J)SLG 59.25
+0025-Super Mario Advance (U)(超级马里奥A)(E)ACT 31.25
+0026-Final Fight One (J)(快打旋风ONE)(J)ACT 31.75
+0027-Bomberman Story (J)(炸弓单人传说)(J)A·RPG 32.00
+0028-Iridion 3D (U)(伊登战机)(E)STG 30.75
+0029-Pinobee-Wings of Adventure (U)(匹诺比的冒险徽章)(E)ACT 61.75
+0030-Ready 2 Rumble Boxing-Round 2 (U)(暴力拳击2)(E)SPG 32.00
+0031-Konami Krazy Racers (U)(科纳米疯狂赛车手)(E)RCG 32.00
+0032-Castlevania Circle Of The Moon (E)(恶魔城-月之轮回)(E)A·RPG 51.75
+0033-Tony Hawk's Pro Skater 2 (U)(托尼·霍克职业滑板2)(E)SPG 64.00
+0034-GT Championship Racing (U)(GT职业概念锦标赛车)(E)RCG 56.50
+0035-Namco Museum Advanced (U)(南梦宫经典博物馆)(E)ETC 22.25
+0036-Chu Chu Rocket (U)(咕噜咕噜火箭)(M)PUZ 32.00
+0037-Earthworm Jim (U)(蚯蚓吉姆)(E)ACT 37.00
+0038-Pitfall-The Mayan Adventure (U)(玛亚历险)(E)ACT 25.25
+0039-Army Men Advance (U)(玩具军人)(M)ACT 32.00
+0040-Super Dodgeball Advance (U)(超级躲避球A)(E)SPG 32.00
+0041-F-Zero-Maximum Velocity (U)(最高时速赛车)(E)RCG 31.75
+0042-Fire Pro Wrestling W (U)(火炎职业摔跤)(E)SPG 64.00
+0043-Konami Krazy Racers (E)(科拿米疯狂赛车手)(E)RCG 32.00
+0044-Ready 2 Rumble-Round 2 (E)(暴力拳击2)(M)SPG 32.00
+0045-Castlevania-Circle of the Moon (U)(恶魔城-月之轮回)(E)A·RPG 51.75
+0046-Rayman Advance (U)(雷曼A)(M)ACT 61.75
+0047-Tactics Ogre-Knight of Lodis (J)(皇家骑士团外传)(J)SLG 64.00
+0048-Kuru Kuru Kururin (E)(滚滚棒)(E)PUZ 30.75
+0049-Top Gear GT Championship (E)(全日本顶级GT锦标赛车)(E)RCG 31.25
+0050-Super Mario Advance (E)(超级马里奥A)(E)ACT 31.25
+0051-Rayman Advance (E)(雷曼A)(M)ACT 61.75
+0052-Tweety & The Magic Gems (E)(托蒂的欢乐派对之不可思议的宝石)(E)PUZ 30.25
+0053-Tony Hawk's Pro Skater 2 (G)(托尼·霍克职业滑板2)(G)SPG 64.00
+0054-Yushun Rhapsody (J)(优俊赛马)(J)TCG 62.50
+0055-Choro Q Advance (J)(Q版赛车A)(J)RCG 32.00
+0056-Toy Robot Force (J)(玩具机器人)(J)S·RPG 32.00
+0057-Hot Potato (U)(火热的马铃薯)(E)PUZ 31.75
+0058-Bomberman Tournament (U)(炸弓单人传说)(E)A·RPG 30.25
+0059-Tony Hawks Pro Skater 2 (F)(托尼·霍克职业滑板2)(F)SPG 64.00
+0060-Breath of Fire (J)(龙战士)(J)RPG 24.75
+0061-Yu-Gi-Oh! Duel Monsters 5 Expert 1 (J)(游戏王5-双重恶魔)(J)CAG 64.00
+0062-Super Street Fighter II X Revival (J)(街霸II X复苏)(J)FTG 64.00
+0063-Mahjong DetETCive (J)(麻雀刑事)(J)TAB 28.50
+0064-Pac-Man CollETCion (U)(吃豆小精灵全集)(E)ETC 32.00
+0065-Tweety & The Magic Gems (F)(托蒂的欢乐派对之不可思议的宝石)(F)TAB 30.00
+0066-EX Monopoly (J)(大富翁EX垄断)(J)TAB 30.75
+0067-Our Breeding Series-My Beetle (J)(大家一起养系列-我的甲虫)(J)TAB 31.25
+0068-Get Backers-Jigoku no Sukaramushu (J)(闪灵二人组)(J)RPG 31.50
+0069-Space Hexcite X (J)(宇宙战舰EX)(J)TAB 30.75
+0070-Klonoa-Empire of Dreams (J)(风之克罗帝亚-梦见帝国)(J)ACT 27.25
+0071-Mario Kart Advance (J)(马里奥赛车A超级巡回赛)(J)RCG 32.00
+0072-Doraemon Midori No Wakusei (J)(机器猫-绿之惑星拯救作战)(J)A·RPG 54.00
+0073-Jurassic Park 3-DNA Factor (U)(侏罗纪公园3-DNA基因)(E)ACT 55.00
+0074-Muscular Ranking (J)(筋番付肉-金刚君的大冒险)(J)ETC 55.25
+0075-JGTO Golf Master Mobile (J)(高尔夫达人)(J)SPG 63.25
+0076-Zero Tours (J)(零度旅行)(J)RPG 32.00
+0077-Star Communicator (J)(星际通讯战)(J)TCG 64.00
+0078-Mobile Pro Baseball (J)(职业棒球-行动版)(J)SPG 64.00
+0079-Ougon no Taiyo (Golden Sun) (J)(黄金的太阳-开启的封印)(J)RPG 64.00
+0080-Dokapon Q Monster Hunter (J)(多卡邦Q怪物猎人)(J)RPG 49.00
+0081-Our Breeding Series-My Ameba (J)(大家一起养系列-我的变形虫)(J)TCG 32.00
+0082-Jurassic Park 3-Park Builder (J)(侏罗纪公园3-公园建设者)(J)SLG 29.50
+0083-Final Fight One (J)(快打旋风ONE)(E)ACT 30.75
+0084-Super Black Bass Advance (J)(超级黑巴斯钓鱼)(J)ETC 22.50
+0085-Meine Liebe (Angel League) (J)(耽美梦想)(J)TCG 54.25
+0086-Mario Kart Super Circuit (U)(马里奥赛车超级巡回赛)(E)RCG 32.00
+0087-Extreme Mahjong Deluxe-Terminator 21 (J)(究级麻将-未来战士21杯)(J)TAB 54.75
+0088-Fortress (U)(堡垒)(E)TAB 32.00
+0089-Jurassic Park 3-DNA Factor (E)(侏罗纪公园3-DNA基因)(M)ACT 56.25
+0090-Wario Land 4 (J)(马里奥世界4)(J)ACT 60.50
+0091-Tweety & The Magic Gems (G)(托蒂的欢乐派对之不可思议的宝石)(G)TAB 30.00
+0092-Jurassic Park 3-Advanced Action (J)(侏罗纪公园3高级行动-岛屿的进攻)(J)ACT 62.50
+0093-ESPN Final Round Golf 2002 (U)(ESPN高尔夫总决赛2002)(E)SPG 60.75
+0094-Tang Tang (U)(轰炸索罗门)(E)ACT 12.75
+0095-Advance Wars (U)(高级战争)(E)SLG 31.75
+0096-F-14 Tomcat (U)(F-14雄猫)(E)STG 32.00
+0097-Love Hina Advance (J)(纯情房东俏房客-祝福之钟声)(J)TCG 60.50
+0098-Men in Black-The Series (E)(黑超特警组)(E)ACT 31.00
+0099-ESPN Final Round Golf (E)(ESPN高尔夫总决赛)(E)SPG 60.75
+0100-Medarot Navi-Kuwagata Version (J)(金属机器人大战-锹型虫版)(J)S·RPG 63.75
+0101-Medarot Navi-Kabuto Version (J)(金属机器人大战-甲胄版)(J)S·RPG 63.75
+0102-Atlantis-The Lost Empire (U)(迪斯尼亚特兰帝斯-失落的帝国)(E)ACT 31.25
+0103-Jurassic Park 3-Park Builder (E)(侏罗纪公园3-公园建设者)(E)SLG 31.75
+0104-Tetris Worlds (U)(俄罗斯方块)(E)TAB 28.75
+0105-Mario Kart Super Circuit (E)(马里奥赛车超级巡回赛)(E)RCG 32.00
+0106-Robot Ponkotto 2-Ring Version (J)(机甲宝贝兵2-铃铛版)(J)S·RPG 30.25
+0107-Robot Ponkotto 2-Cross Version (J)(机甲宝贝兵2-十字版)(J)S·RPG 30.25
+0108-NFL Blitz 2002 (U)(NFL橄榄球闪电大作战2002)(E)SPG 30.75
+0109-Gensou Suikoden Card Stories (J)(幻想水浒传-卡片传说)(J)CAG 32.00
+0110-ESPN X-Games Skateboarding (U)(ESPN X竞技滑板)(E)SPG 63.25
+0111-Super Robot Taisen A (J)(超级机器人大战A)(J)SLG 63.75
+0112-Rocket Power Dream Scheme (U)(急速动力-梦之计划)(E)ACT 32.00
+0113-Klonoa-Empire of Dreams (U)(风之克罗帝亚-梦见帝国)(E)ACT 27.25
+0114-Jurassic Park 3-Park Builder (U)(侏罗纪公园3-公园建设者)(E)SLG 29.00
+0115-Spiderman-Mysterio's Menace (U)(蜘蛛人-未知的威胁)(E)ACT 62.50
+0116-Caesar's Palace Advance (U)(凯撒的宫殿A赌博机游戏合集)(E)TAB 59.00
+0117-Field of Nine Digital Edition 2001 (J)(九局战场-数位版2001)(J)SLG 49.50
+0118-Backtrack (U)(撤退)(E)FPS 32.00
+0119-Morita Shogi Advance (J)(森田将棋)(J)TAB 16.50
+0120-Rugrats-Castle Capers (U)(小淘气-跳跃城堡)(E)ACT 31.25
+0121-Power Rangers Time Force (U)(鸟人战队-强力突击队员)(E)ACT 32.00
+0122-Z.O.E.2173 Testament (J)(星域毁灭者2173-遗嘱)(J)SLG 57.00
+0123-Lady Sia (E)(女神战士-西雅)(M)ACT 31.75
+0124-High Heat Baseball 2002 (U)(爆裂棒球2002)(E)SPG 32.00
+0125-X-Men-Reign of Apocalypse(X战警-启示录)(E)ACT 64.00
+0126-Dexter's Lab-Deesaster Strikes(德克斯特幸运的实验室)(M)ACT 31.50
+0127-MX 2K2 Featuring Ricky Carmichael (U)(MX2002未来机车赛)(E)RCG 29.50
+0128-Final Fight One (U)(快打旋风ONE)(E)ACT 30.75
+0129-Nobunaga no Yabou (J)(信长的野望)(J)SLG 26.00
+0130-Lego Bionicle (U)(乐高荒岛探险)(M)ACT 64.00
+0131-Lego Island 2 (U)(乐高积木岛2)(M)ACT 62.75
+0132-Kiki Kaikai Advance (J)(奇奇怪界)(J)ACT 30.50
+0133-Snood (U)(怪投射波)(E)PUZ 32.00
+0134-Sports Illustrated For Kids-Baseball (U)(儿童运动画刊-棒球)(E)SPG 32.00
+0135-Hatena Satena (J)(机智解迷)(J)TAB 31.50
+0136-The Wild Thornberrys-Chimp Chase (U)(狂野棘林-猎杀黑猩猩)(E)ACT 30.50
+0137-Scooby-Doo and the Cyber Chase (U)(史诺比鬼屋历险)(E)ACT 32.00
+0138-Sports Illustrated For Kids-Football (U)(儿童运动画刊-橄榄球)(E)SPG 28.50
+0139-Boxing fever (U)(狂热拳击)(E)SPG 61.50
+0140-Gyakuten Saiban (J)(逆转裁判1)(J)AVG 62.25
+0141-Lego Island 2 (E)(乐高积木岛2)(M)ACT 62.75
+0142-Lady Sia (U)(女神战士-西雅)(M)ACT 31.75
+0143-Minna de Puyo Puyo (J)(魔法气泡扑呦扑呦-气泡大会战1)(M)TAB 49.75
+0144-Steven Gerrard's Total Soccer 2002 (E)(史蒂文·甲尔德足球2002)(M)SPG 10.75
+0145-Denki Blocks (E)(合并电击方块)(M)TAB 30.75
+0146-Prehistorik Man (E)(摩登原始人)(M)ACT 26.75
+0147-Hello Kitty CollETCion Miracle (J)(凯蒂猫游戏精选-流行创造者)(J)TAB 63.50
+0148-European Super League (E)(欧洲超级联盟足球赛)(M)SPG 28.00
+0149-Phalanx (J)(银河战机)(J)STG 29.75
+0150-Nakayoshi Mahjan Kaburiichi (J)(友情麻将)(J)TAB 30.00
+0151-Hamster Monogatari 2 (J)(仓鼠物语2)(J)TCG 63.00
+0152-ESPN Xgames Skateboarding (J)(ESPN X游戏溜冰板)(E)SPG 63.25
+0153-Lego Bionicle (E)(乐高荒岛冒险)(M)ACT 64.00
+0154-Monsters Inc. (U)(迪斯尼怪兽公司)(E)ACT 30.25
+0155-Doom (U)(DOOM-毁灭战士)(E)FPS 58.50
+0156-Dokodemo Taikyoku Yakuman Advance (J)(随身对局役满)(J)TAB 49.25
+0157-Tang Tang (E)(轰炸索罗门)(M)ACT 32.00
+0158-Lucky Luke-Wanted！(E)(幸运木仓手路克-通缉犯)(M)ACT 31.50
+0159-Spyro-Season of Ice (E)(小龙斯派罗-冰冻的季节)(M)ACT 63.50
+0160-Spyro-Season of Ice (U)(小龙斯派罗-冰冻的季节)(E)ACT 62.50
+0161-Batman Vengeance (U)(蝙蝠侠-复仇)(M)ACT 63.50
+0162-Super Street Fighter II Turbo Revival (E)(超级街霸II-复苏)(E)FTG 64.00
+0163-Kao The Kangaroo (U)(小小袋鼠闯天关)(M)ACT 32.00
+0164-WWF-Road to Wrestlemania (U)(WWF摔跤之路)(E)SPG 27.50
+0165-MegaMan Battle Network (U)(洛克人-网络战斗EXE1)(E)A·RPG 62.00
+0166-Gadget Racers (U)(Q版赛车A)(E)RCG 31.75
+0167-Gradius Advance (E)(沙罗曼蛇A)(E)STG 24.75
+0168-M&M's Blast! (U)(M&M s巧克力旋风)(E)TAB 59.75
+0169-Wario Land 4 (E)(马里奥世界4)(E)ACT 60.50
+0170-Hikaru no Go (J)(棋灵王)(J)TAB 64.00
+0171-Golden Sun (U)(黄金的太阳-开启的封印)(E)RPG 64.00
+0172-Donald Duck Advance (E)(唐老鸭冒险)(M)ACT 60.75
+0173-Harry Potter and the Sorcerer's Stone (U)(哈利波特神秘的魔法石)(M)A·RPG 62.75
+0174-Batman Vengeance (E)(蝙蝠侠-复仇)(M)ACT 63.50
+0175-Jackie Chan Adventures-Legend Of The Dark Hand (U)(成龙冒险-黑手党传说)(E)ACT 30.25
+0176-Alienators-Evolution Continues (U)(进化特区)(E)ACT 28.25
+0177-Sponge Bob Square Pants-SuperSponge (U)(超级海绵巴伯)(E)ACT 30.75
+0178-Jimmy Neutron-Boy Genius (U)(天才男孩-吉米)(E)ACT 32.00
+0179-InspETCor Gadget-Advance Mission (E)(神探佳杰特-高级任务)(M)ACT 32.00
+0180-Tweety & The Magic Gems (U)(托蒂的欢乐派对之不可思议的宝石)(E)TAB 30.25
+0181-Star Wars-Jedi Power Battles (U)(星际大战首部曲-绝地武士)(E)ACT 62.50
+0182-Midnight Club Street Racing (U)(港湾深夜俱乐部-街头狂飙)(E)RCG 32.00
+0183-Mat Hoffman's Pro BMX (U)(马特·霍夫曼-自行车越野赛)(E)SPG 29.25
+0184-Razor Freestyle Scooter (U)(劲爆单脚滑行车)(E)SPG 32.00
+0185-Super Bust-A-Move (E)(超级泡泡龙)(M)PUZ 31.25
+0186-Dokapon Monster Hunter (U)(多卡邦怪物猎人)(E)RPG 49.25
+0187-International Superstar Soccer (E)(国际超级足球赛)(E)SPG 64.00
+0188-Atlantis-The Lost Empire (E)(迪斯尼亚特兰帝斯-失落的帝国)(M)ACT 32.00
+0189-4V4 Arashi Get The Goal (J)(友情足球-4V4岚)(J)SPG 35.25
+0190-Nancy Drew-Message in a Haunted Mansion (U)(南茜·德鲁-鬼屋里的讯息)(E)AVG 32.00
+0191-The Powerpuff Girls-Mojo Jojo A-Go-Go (U)(喷气女孩-魔女啾啾Go-Go)(M)ACT 32.00
+0192-Madden 2002 (U)(马顿橄榄球2002)(E)SPG 30.75
+0193-Froggers Adventures-Temple of the Frog (U)(青蛙冒险-蛙之殿堂)(M)ACT 31.00
+0194-No Rules Get Phat (U)(无规则-街头滑板小子)(M)ACT 50.50
+0195-Adventure of Tokyo Disney Sea (J)(东京迪斯尼大进击-海洋馆篇)(J)ACT 19.75
+0196-David Beckham Soccer (E)(大卫·贝克汗姆足球)(M)SPG 16.75
+0197-Tetris Worlds (E)(俄罗斯方块)(M)TAB 29.50
+0198-Rampage Puzzle Attack (U)(毁灭金刚方块)(E)PUZ 31.00
+0199-Midways Greatest Arcade Hits (U)(米德威精品电玩4合一)(E)ETC 32.00
+0200-Jurassic Park III-Island Attack (U)(侏罗纪公园3高级行动-岛屿的进攻)(E)ACT 63.75
+0201-Super Dodge Ball Advance (E)(超级躲避球A)(E)SPG 32.00
+0202-Lego Racers 2 (U)(乐高赛车手2)(M)RCG 63.25
+0203-ESPN Great Outdoor Games Bass 2002 (U)(ESPN非常户外运动巴斯钓鱼2002)(E)SPG 49.75
+0204-Ecks vs Sever (U)(艾克斯VS瑟娃)(M)FPS 63.50
+0205-Hot Wheels Burnin Rubber (U)(无敌风火轮赛车)(E)RCG 62.25
+0206-Mech Platoon (E)(机械化部队)(M)RTS 64.00
+0207-Phalanx (E)(银河战机)(M)STG 29.75
+0208-E.T. The Extra-Terrestrial (U)(外星人之陆地之外)(E)ACT 31.25
+0209-Dave Mirra Freestyle BMX 2 (U)(黛夫·米亚自由式自行车越野赛2)(E)SPG 62.25
+0210-Shaun Palmers Pro Snowboarder (U)(夏恩·派蒙的职业滑雪板)(E)SPG 64.00
+0211-Power Rangers-Time Force (G)(鸟人战队-时空大作战)(G)ACT 32.00
+0212-San Goku Shi (J)(三国志)(J)SLG 38.25
+0213-Planet of the Apes (E)(决战猩球)(M)ACT 18.75
+0214-Robot Wars-Advanced Destruction (E)(机器人大战-进化毁灭)(M)ACT 31.75
+0215-Cruis'n Velocity (U)(劲速狂飙车)(E)RCG 30.00
+0216-Tom and Jerry-The Magic Ring (U)(汤姆和杰瑞-魔法铃铛)(M)ACT 61.75
+0217-Monster Rancher Advance (U)(怪兽农场A)(E)TCG 54.00
+0218-International Karate Advanced (E)(国际空手道大赛)(E)FTG 20.00
+0219-Daisenryaku (J)(大战略)(J)SLG 64.00
+0220-Gradius Galaxies (U)(沙罗曼蛇之星系战争)(E)STG 24.75
+0221-EZ-Talk 1 (J)(简单说英语1)(J)ETC 44.75
+0222-EZ-Talk 2 (J)(简单说英语2)(J)ETC 55.50
+0223-Army Men-Operation Green (U)(玩具军人-绿色军事行动)(M)ACT 28.00
+0224-Driven (U)(生死极速车)(M)RCG 31.75
+0225-Mat Hoffman's Pro BMX (E)(马特·霍夫曼-自行车越野赛)(M)SPG 29.50
+0226-Super Bust-A-Move (U)(超级泡泡龙)(M)PUZ 31.25
+0227-Action Replay GBX (E)(GBA金手指工具)(M)ETC 1.25
+0228-Columns Crown (E)(宝石方块)(E)PUZ 63.25
+0229-Les Aventures De Jackie Chan (F)(成龙冒险-黑手党传说)(F)ACT 30.75
+0230-Magical Vacation (J)(魔法假期)(J)RPG 63.00
+0231-Advance Rally (J)(高级汽车拉力赛)(E)RCG 62.25
+0232-Gakkou o Tsukurou!Advance (J)(学校传说)(J)S·RPG 54.00
+0233-Monster Farm Advance (J)(怪兽农场A)(J)TCG 53.75
+0234-Thunderbirds-International Rescue (E)(雷鸟-国际救援组织)(E)STG 64.00
+0235-Action Replay GBX (E)(GBA金手指工具)(E)ETC 1.25
+0236-Game Shark (U)(鲨鱼金手指)(E)ETC 1.25
+0237-Xploder Advance (E)(GBA金手指密码工具)(E)ETC 1.00
+0238-Shaun Palmers Pro Snowboarder (G)(夏恩·派蒙的职业滑雪板)(G)SPG 64.00
+0239-World Advance Soccer-Road to Win (J)(世界足球-迈向胜利之路)(J)SPG 59.00
+0240-Namco Museum (J)(南梦宫经典博物馆)(E)ETC 24.00
+0241-Planet Monsters (U)(星球怪物)(M)ACT 26.25
+0242-Super Mario Advance (J)(超级马里奥A)(J)ACT 24.00
+0243-Battle Network RockMan EXE 2 (J)(洛克人网络大战EXE 2)(J)A·RPG 64.00
+0244-Action Replay GBX (E)(GBA金手指工具)(F)ETC 1.250
+0245-Breath of Fire (U)(龙战士)(E)RPG 25.00
+0246-Columns Crown (J)(宝石方块)(J)PUZ 63.25
+0247-Mortal Kombat Advance (U)(真人快打A)(E)FTG 63.75
+0248-Jikkyou World Soccer Pocket (J)(实况世界足球口袋版)(J)SPG 61.50
+0249-Megaman Battle Network (E)(洛克人-网络战斗EXE1)(E)A·RPG 62.25
+0250-American Bass Challenge (U)(美国巴斯钓鱼挑战赛)(E)ETC 22.75
+0251-Code Breaker (U)(GBA金手指密码工具)(E)ETC 0.509
+0252-Sonic Advance (J)(索尼克1)(M)ACT 64.00
+0253-Kinniku Banduke-Muscle Ranking 2 (J)(筋番付肉2)(J)ETC 61.25
+0254-Bakuten Shoot Beyblade-Gekitou! Saikyou Blade (J)(爆转陀螺王-激斗赛)(J)S·RPG 26.00
+0255-The Flintstones-Big Trouble in Bedrock (U)(石头乐园-岩床上的大麻烦)(E)ACT 30.75
+0256-Tekken Advance (J)(铁拳A)(E)FTG 63.75
+0257-Breath of Fire 2-Shimei no Ko (J)(龙战士2-使命之子)(J)RPG 30.75
+0258-Dragon Quest-Torneko's Adventure 2 Advance (J)(特鲁尼克大冒险2-不可思议的迷宫)(J)A·RPG 58.25
+0259-Zoids Saga (J)(机兽新世纪)(J)RPG 59.00
+0260-Flame of Recca (J)(烈火之炎)(J)FTG 61.00
+0261-ESPN Winter X-Games Snowboarding 2002 (J)(ESPN冬季运动会-滑雪板2002)(E)SPG 31.00
+0262-Yu-Gi-Oh! Duel Monsters 6 Expert 2 (J)(游戏王6)(J)CAG 97.75
+0263-Advanced Wars (E)(高级战争1)(M)SLG 46.25
+0264-Kao the Kangaroo (E)(小小袋鼠闯天关)(M)ACT 32.00
+0265-King Of Fighters EX-Neo Blood (J)(拳皇EX)(E)FTG 64.00
+0266-Angelic Layer (J)(机动天使领域)(J)FTG 48.00
+0267-Sansara Saga 1x2 (J)(育龙战记1x2)(J)RPG 44.00
+0268-EZ-Talk 3 (J)(简单说英语3)(J)ETC 60.50
+0269-EZ-Talk 4 (J)(简单说英语4)(J)ETC 61.50
+0270-Game Shark GBA (U)(游戏鲨鱼金手指)(E)ETC 1.25
+0271-Xploder Advance (E)(GBA金手指密码工具)(E)ETC 0.508
+0272-Mech Platoon (U)(机械化部队)(E)RTS 64.00
+0273-Dark Arena (U)(暗黑竞技场)(E)FPS 57.75
+0274-Creatures (E)(造物计划)(M)TCG 32.00
+0275-Pac-Man CollETCion (J)(吃豆小精灵全集)(E)ETC 31.25
+0276-The Flintstones-Big Trouble in Bedrock (E)(石头乐园-岩床上的大麻烦)(M)ACT 30.75
+0277-Snap Kids (J)(摄影小子)(J)TCG 128.00
+0278-Asterix & Obelix PAF! Them All! (E)(美丽新世界)(M)ACT 62.50
+0279-ESPN Winter X-Games Snowboarding 2002 (U)(ESPN冬季运动会-滑雪板2002)(E)SPG 31.00
+0280-Guilty Gear X (J)(罪恶克星X)(E)FTG 63.50
+0281-Gradius Generation (J)(沙罗曼蛇)(E)STG 26.75
+0282-Tomato Adventure (J)(西红柿冒险)(J)RPG 50.50
+0283-Hyper Sports 2002 Winter (J)(超级运动家2002冬季版)(E)SPG 31.25
+0284-Tekken Advance (U)(铁拳A)(E)FTG 63.75
+0285-ESPN International Winter Sports 2002 (U)(ESPN国际冬季运动会2002)(E)SPG 31.50
+0286-Salt Lake 2002 (U)(盐湖城2002)(M)SPG 31.00
+0287-Pac-Man CollETCion (E)(吃豆小精灵全集)(E)ETC 32.00
+0288-Wizardry Summoner (J)(辟邪除妖-召唤者)(J)RPG 28.75
+0289-Shanghai Advance (J)(上海)(J)TAB 12.00
+0290-Sonic Advance (U)(索尼克1)(M)ACT 64.00
+0291-Granbo (J)(格兰宝)(J)RPG 63.75
+0292-Jonny Moseley Mad Trix (U)(强尼·摩斯立之疯狂滑雪)(M)SPG 55.50
+0293-Puyo Pop (U)(魔法气泡大会战1)(M)PUZ 49.75
+0294-Okuman Chouja Game (J)(亿万长者游戏)(J)TAB 32.00
+0295-Pinky Monkey Town (J)(粉红猴庄)(J)PUZ 17.25
+0296-Harry Potter to Kenja no Ishi (J)(哈利波特-神秘的魔法石)(J)A·RPG 57.75
+0297-Super Mario World (U)(超级马里奥世界2)(E)ACT 24.25
+0298-Jurassic Park 3-Dino Attack (E)(侏罗纪公园3高级行动-岛屿的进攻)(M)ACT 63.75
+0299-Advance Wars (U)(高级战争1)(E)SLG 31.75
+0300-Columns Crown (U)(宝石方块)(E)PUZ 63.25
+0301-WTA Tour Tennis Pocket (J)(超真实女子网球赛-口袋版)(J)SPG 60.00
+0302-Dave Mirra Freestyle BMX 2 (E)(黛夫·米拉特技自行车2)(M)SPG 62.50
+0303-Peter Pan-Return to Neverland (U)(迪斯尼小飞侠-回到梦不落帝国)(E)ACT 63.00
+0304-Golden Sun (U)(黄金的太阳-开启的封印)(F)RPG 64.00
+0305-ESPN Great Outdoor Games-Bass Tournament (E)(ESPN户外运动-巴斯钓鱼2002)(E)SPG 49.75
+0306-EZ-Talk 5 (J)(简单说英语5)(J)ETC 60.25
+0307-EZ-Talk 6 (J)(简单说英语6)(J)ETC 63.75
+0308-NBA Jam 2002 (U)(劲爆NBA2002)(E)SPG 31.50
+0309-Captain Tsubasa-Eikou no Kiseki (J)(天使之翼-荣光的轨迹)(J)CAG 62.25
+0310-Pocket Music (E)(口袋音乐)(M)ETC 57.00
+0311-Virtual Kasparov (E)(虚拟西洋棋手)(M)TAB 31.25
+0312-Hot Wheels-Burnin Rubber (E)(无敌风火轮赛车)(M)RCG 64.00
+0313-Tom and Jerry-Magic Ring (E)(汤姆和杰瑞-魔法铃铛)(M)ACT 62.00
+0314-Planet Monsters (E)(星球怪物)(M)ACT 26.25
+0315-Jimmy Neutron-Boy Genius (E)(天才男孩-吉米)(M)ACT 31.25
+0316-Chu Chu Rocket (E)(咕噜咕噜火箭)(E)PUZ 32.00
+0317-Moto GP (E)(GP摩托车赛)(M)SPG 31.75
+0318-Bomberman Max 2-Bomberman Version (J)(炸弓单人马克思2-炸弓单人版)(J)ACT 58.75
+0319-Crash Bandicoot XS (E)(古惑狼-无尽的冒险)(M)ACT 63.25
+0320-Goemon New Age Shutsudou! (J)(大盗伍佑卫门新时代出动)(J)ACT 31.25
+0321-J-League Pocket 2 (J)(J联盟足球口袋版2)(J)TCG 59.25
+0322-The Land Before Time (E)(史前之岛)(M)ACT 32.00
+0323-Mike Tysons Boxing (E)(麦克·泰森拳击)(M)SPG 32.00
+0324-InspETCor Gadget-Advance Mission (U)(神探佳杰特-高级任务)(E)ACT 32.00
+0325-Phalanx (U)(银河战机)(E)STG 29.75
+0326-Zone of the Enders-The Fist of Mars (U)(星域毁灭者2173-火星的碰撞)(E)SLG 60.50
+0327-An American Tail-Fievels Gold Rush (E)(美国鼠潭)(M)ACT 25.50
+0328-Black Black (J)(魔笛师传说)(J)RPG 62.00
+0329-Super Street Fighter II Turbo Revival (U)(超级街霸II-复苏)(E)FTG 64.00
+0330-Yuure Yashiki no Nijuuyon Jikan (J)(幽灵屋缚之24小时)(J)AVG 31.00
+0331-Domo-Kun no Fushigi Terebi (J)(多摩君之不可思议的电视冒险)(J)PUZ 62.75
+0332-Mail de Cute (J)(可爱的邮递员)(J)TCG 59.25
+0333-Bomberman Max 2-Max Version (J)(炸弓单人马克思2-马克思版)(J)ACT 59.00
+0334-Planet Of The Apes (U)(决战猩球)(M)ACT 18.75
+0335-Tony Hawk Pro Skater 3 (U)(托尼·霍克职业滑板3)(E)SPG 64.00
+0336-High Heat Major League Baseball 2003 (U)(火热职业棒球联赛2003)(E)SPG 31.50
+0337-NHL 2002 (U)(美国冰上曲棍球2002)(E)SPG 27.75
+0338-Casper (E)(小精灵)(M)ACT 32.00
+0339-Sonic Advance (E)(索尼克1)(M)ACT 64.00
+0340-Men in Black-The Series (U)(黑超特警组-续作)(E)ACT 31.00
+0341-Star Wars-Jedi Power Battles (E)(星际大战首部曲-绝地武士)(M)ACT 63.75
+0342-Top Gear GT Championship (U)(全日本顶级GT锦标赛车)(E)RCG 31.25
+0343-Donald Duck Advance (J)(唐老鸭冒险)(J)ACT 60.75
+0344-Estopolis Densetsu (J)(四狂神战记外传-沉默的遗迹)(J)RPG 63.25
+0345-Crash Bandicoot-The Huge Adventure(古惑狼-无尽的冒险)(E)ACT 63.25
+0346-Mike Tysons Boxing (U)(麦克·泰森拳击)(M)SPG 32.00
+0347-Moto GP (U)(GP摩托车赛)(M)SPG 31.75
+0348-Rainbow Six Rogue Spear (U)(彩虹6号)(M)STG 63.25
+0349-Space Invaders (U)(太空侵略者)(E)STG 30.50
+0350-Super Robot Taisen A (C)(超级机器人大战A)(C)SLG 63.75
+0351-Driven (E)(生死时速车)(M)RCG 31.75
+0352-Mary Kate and Ashley Girls Night Out (U)(玛莉·凯特和艾希莉-外出的夜晚 )(E)ETC 32.00
+0353-Guloz Chang Poo (J)(旋转充填方块)(J)PUZ 30.75
+0354-Donald Duck Advance (U)(唐老鸭冒险)(E)ACT 60.75
+0355-Angelique (J)(安琪莉可之女王学院)(J)SLG 29.50
+0356-Power Pro Kun Pocket 4 (J)(实况Q版口袋棒球4)(J)TCG 64.00
+0357-Baseball Advance (U)(棒球A)(E)SPG 64.00
+0358-Rainbow Six Rogue Spear (E)(彩虹6号)(M)STG 63.25
+0359-Konami CollETCors Series-Arcade Advanced (U)(科拿米精品游戏合集6合一)(E)ETC 31.50
+0360-Motocross Maniacs Advance (U)(疯狂越野摩托车)(E)SPG 28.00
+0361-Akumajou Dracula-Circle of the Moon (C)(恶魔城-月之轮回)(C)A·RPG 64.00
+0362-Broken Sword-The Shadow of the Templars (E)(断剑-圣堂武士之迷)(M)AVG 64.00
+0363-Groove Adventure Rave (J)(圣石小子光与暗的大决战)(J)FTG 46.75
+0364-Ice Age (U)(冰河世纪)(M)ACT 27.75
+0365-Shrek-Swamp Kart Speedway (U)(怪物史瑞克沼泽赛车)(M)RCG 54.50
+0366-Chessmaster (E)(西洋棋大师)(E)TAB 25.75
+0367-Golden Sun (G)(黄金的太阳-开启的封印)(G)RPG 64.00
+0368-K-1 Pocket Grand Prix (J)(K-1口袋格斗大奖赛)(J)FTG 29.25
+0369-Super Puzzle Bobble Advance (J)(超级泡泡龙A)(E)PUZ 30.75
+0370-Slot-Pro Advance-Takarafune & Oedoshima Fubuki 2 (J)(专业柏青嫂游戏-宝船&大江户樱吹雪2)(J)PUZ 52.50
+0371-Nishihara Rieko no Tendou Maajan (J)(西原理惠子之殿堂麻雀)(J)TAB 32.00
+0372-Kikaika Gunta-Mech Platoon (J)(机械化军队)(J)RTS 64.00
+0373-Diadroids World (J)(危险的世界)(J)S·RPG 59.50
+0374-Jitsutou Pachislo Hisshouhou-Juuoh Advance (J)(实战柏青嫂必胜法-兽王A)(J)PUZ 20.25
+0375-Daimaajan (J)(大麻雀)(J)TAB 26.25
+0376-Broken Sword-The Shadow of the Templars (U)(断剑-圣堂武士之迷)(M)AVG 64.00
+0377-Maya the Bee (E)(玛雅蜜蜂-伟大的冒险)(M)ACT 29.75
+0378-Fire Emblem-Sealed Sword (J)(火炎之纹章-封印之剑)(J)S·RPG 64.00
+0379-Shining Soul (J)(光明之魂1)(J)A·RPG 51.00
+0380-Atari Anniversary Advance (U)(雅达利纪念游戏合集)(E)ETC 27.00
+0381-Britneys Dance Beat (U)(小甜甜布兰妮之舞蹈节拍)(E)ETC 64.00
+0382-Scrabble (E)(拼字游戏)(M)PUZ 50.25
+0383-Golden Sun (S)(黄金的太阳-开启的封印)(S)RPG 64.00
+0384-Monster Jam Maximum Destruction (U)(怪物卡车大毁灭)(E)A·RCG 63.75
+0385-FILA Decathlon (E)(十项全能)(M)SPG 32.00
+0386-Magical Fengshen (J)(魔法封神)(J)RPG 52.75
+0387-Extreme Ghostbusters-Code ETCo-1 (E)(捉鬼特工队-ETCo-1行动)(M)ACT 32.00
+0388-The Scorpion King-Sword of Osiris (U)(蝎子王-大地之剑)(E)ACT 32.00
+0389-Ikkoku Hattori-Kore 1 Hon de 8 Shurui! (J)(一石八鸟)(J)TAB 16.00
+0390-Peter Pan-Return to Neverland (E)(迪斯尼小飞侠-回到梦不落帝国)(M)ACT 64.00
+0391-Super Black Bass Advance (E)(超级黑巴斯钓鱼)(E)ETC 22.75
+0392-Breath Of Fire (E)(龙战士)(M)RPG 31.50
+0393-Tiny Toon Adventures-Wacky Stackers (E)(宾尼兔冒险-古怪蛋方块)(M)PUZ 29.50
+0394-Klonoa-Empire of Dreams (E)(风之克罗帝亚-梦见帝国)(E)ACT 27.25
+0395-Three Stooges (U)(三个帮手)(E)ETC 31.75
+0396-X-Bladez-Inline Skater (E)(X旋风直派轮溜冰板)(E)SPG 32.00
+0397-Virtual Kasparov (U)(虚拟西洋棋手)(M)TAB 31.25
+0398-Eigo Kubunhen (J)(高校受验加强系列-英语构文篇)(J)ETC 35.50
+0399-Wolfenstein 3D (U)(3D德军总部)(E)FPS 63.50
+0400-Card E Reader (J)(卡片读取机)(E)ETC 31.75
+0401-Lunar Legend (J)(银河之星-露娜传奇)(J)RPG 63.50
+0402-Super Mario World (E)(超级马里奥世界2)(M)ACT 26.00
+0403-Breath of Fire 2 (U)(龙战士2-使命之子)(E)RPG 31.50
+0404-Spider-Man-The Movie (U)(蜘蛛人-电影版)(E)ACT 63.50
+0405-Star X (U)(行星战机X)(M)STG 63.75
+0406-The Scorpion King-Sword of Osiris (E)(蝎子王-大地之剑)(M)ACT 32.00
+0407-Tetris Worlds (J)(方块世界)(J)PUZ 32.00
+0408-Spiderman-Mysterio's Menace (J)(蜘蛛人-未知的威胁)(J)ACT 63.50
+0409-Blender Bros. (U)(连体兄弟)(E)ACT 50.00
+0410-Rockman Zero (J)(洛克人ZERO1)(J)ACT 63.75
+0411-Advance GT2 (J)(GTA职业概念赛车2)(E)RCG 61.25
+0412-Winning Eleven World Soccer (J)(胜利11人世界足球)(J)SPG 64.00
+0413-Tennis no Oji Sama (J)(网球王子)(J)SPG 44.00
+0414-Kashiramoji D-Another Story (J)(头文字D赛车-另一个故事)(J)S·RCG 64.00
+0415-Penny Racers (E)(Q版赛车A)(E)RCG 31.75
+0416-Sweet Cookie Pie (J)(美味糕点)(J)TCG 26.25
+0417-Dinotopia-The Timestone Pirates (U)(时空英豪)(M)ACT 59.25
+0418-Koro Koro Puzzle Happy Panechu！(J)(滚滚解迷 快乐方块鼠转盘)(J)PUZ 30.50
+0419-Kurohige no Golf Shiyouyo (J)(黑胡子之大家来打高尔夫)(J)SPG 56.25
+0420-Keitai Denjuu Telefang 2-Power Version (J)(携带电兽2-力量版)(J)RPG 63.75
+0421-Keitai Denjuu Telefang 2-Speed Version (J)(携带电兽2-速度版)(J)RPG 63.75
+0422-Kaeru B Back (J)(青蛙回家)(J)RPG 54.25
+0423-Desert Strike Advance (U)(沙漠风暴)(E)STG 32.00
+0424-All-Star Baseball 2003 (U)(全美明星棒球2003)(E)SPG 31.25
+0425-NASCAR Heat 2002 (U)(云斯顿赛车2002)(E)RCG 32.00
+0426-Formation Soccer 2002 (J)(立体足球2002)(J)SPG 21.75
+0427-Doraemon Board Game (J)(机器猫棋盘游戏)(J)TAB 53.75
+0428-Animal Mania (J)(动物可爱占卜)(J)TCG 30.00
+0429-Kami no Kijutsu-Illusion of the Evil Eyes (J)(神之记述-邪恶之眼的幻影 )(J)CAG 47.00
+0430-Kawa no Nushi Tsuri 5 (J)(河川垂钓太郎5)(J)A·RPG 31.75
+0431-Gekitou! Card Battler Go! (J)(激斗遥控车战士GO)(J)RPG 58.75
+0432-Tactics Ogre-The Knight of Lodis (U)(皇家骑士团外传)(E)SLG 62.75
+0433-Tiger Woods PGA Tour Golf (U)(老虎伍兹PGA高尔夫球巡回赛)(E)SPG 55.75
+0434-Dragon Ball Z-The Legacy Of Goku (U)(七龙珠Z-悟空遗产传说)(E)A·RPG 61.25
+0435-Hitsuji no Kimochi (J)(绵羊之心)(J)PUZ 32.00
+0436-Jinsei Game Advance (J)(人生游戏)(J)TAB 31.50
+0437-Spy Hunter (U)(间谍猎人车)(M)RCG 62.00
+0438-Davis Cup (E)(戴维斯杯网球公开赛)(M)SPG 20.50
+0439-Total Soccer Manager (E)(冠军足球经理)(M)TCG 19.50
+0440-Downforce (U)(F1重装赛车)(M)RCG 31.75
+0441-Youkaidou (J)(妖怪道)(J)RPG 59.50
+0442-Backyard Baseball (U)(儿童后院棒球)(E)SPG 32.00
+0443-Golden Sun (I)(黄金的太阳-开启的封印)(I)RPG 64.00
+0444-GT Championship (E)(GT锦标赛车)(E)RCG 31.25
+0445-Sheep (E)(绵羊之心)(M)PUZ 32.00
+0446-Roland Garros 2002-Next Generation Tennis (E)(罗兰公开赛2002-次世代网球)(M)SPG 32.00
+0447-Dragon Ball Z-The CollETCible Card Game (U)(七龙珠Z-卡片收集游戏)(E)CAG 60.50
+0448-Tottoko Ham Tarou 3 (J)(哈姆太郎3-爱之冒险)(J)ACT 55.50
+0449-Star Wars Episode II-Attack Of The Clones(U)(星球大战前传II-克隆人的进攻)(E)ACT 62.00
+0450-Spirit-Stallion Of The Cimarron (U)(小马王)(E)AVG 31.75
+0451-Earthworm Jim 2 (U)(蚯蚓战士吉姆2)(E)ACT 64.00
+0452-Bomberman Max 2 Blue (U)(炸弓单人马克思2-蓝版)(E)ACT 59.00
+0453-Bomberman Max 2 Red (U)(炸弓单人马克思 2-红版)(E)ACT 59.00
+0454-Frogger Advance-The Great Quest (U)(青蛙过街-伟大的冒险)(E)ACT 62.75
+0455-Muppet Pinball Mayhem (U)(弓单珠台)(E)TAB 31.00
+0456-Hey Arnold! The Movie (U)(嘿阿诺德电影版)(E)ACT 31.00
+0457-Spider-Man-The Movie (F)(蜘蛛人-电影版)(F)ACT 63.75
+0458-Punch King (U)(击倒王)(E)SPG 62.75
+0459-Gremlins-Stripe vs Gizmo (E)(魔怪小精灵)(M)ACT 32.00
+0460-Castlevania-White Night Concerto (J)(恶魔城-白夜协奏曲)(J)A·RPG 53.00
+0461-ZooCube (U)(立体旋转方块)(E)PUZ 31.50
+0462-Disneys Lilo & Stitch (U)(迪斯尼星际宝贝1)(E)ACT 64.00
+0463-Scooby Doo-The Motion Picture (U)(史诺比鬼屋历险-真人照片版)(E)AVG 32.00
+0464-Zone of the Enders-The Fist of Mars (E)(星域毁灭者2173-火星的碰撞)(M)SLG 60.50
+0465-Scooby-Doo and the Cyber Chase (E)(史诺比鬼屋历险)(M)ACT 31.75
+0466-The Ripping Friends (E)(顶级朋友)(E)ACT 31.75
+0467-Tony Hawk's Pro Skater 3 (F)(托尼·霍克职业滑板3)(F)SPG 64.00
+0468-Megaman Battle Network 2 (U)(洛克人网络大战EXE 2)(E)A·RPG 63.75
+0469-Konami CollETCors Series-Arcade Advanced (J)(科拿米精品游戏合集6合一)(J)ETC 31.50
+0470-Motocross Maniacs Advance (J)(疯狂越野摩托车)(J)SPG 31.25
+0471-Ice Age (E)(冰河世纪)(M)ACT 27.75
+0472-Nicktoons Racing (U)(尼克卡通赛车)(E)RCG 31.75
+0473-V-Rally 3 (E)(V拉力赛车3)(M)RCG 32.00
+0474-Britneys Dance Beat (E)(小甜甜布兰妮之舞蹈节拍)(M)ETC 64.00
+0475-Robopon 2-Ring Version (U)(机甲宝贝2-铃铛版)(E)S·RPG 30.00
+0476-Robopon 2-Cross Version (U)(机甲宝贝2-十字版)(E)S·RPG 30.00
+0477-Family Tennis Advance (J)(家庭网球)(J)SPG 26.25
+0478-Droopys Tennis Open (E)(杜皮狗之网球公开赛)(M)SPG 31.25
+0479-CT Special Forces (E)(CT特种部队1)(M)STG 27.25
+0480-Pinball of the Dead (U)(死亡弓单珠台)(E)PUZ 61.75
+0481-GT Advance 2 Rally Racing (U)(GTA职业概念赛车2)(E)RCG 62.75
+0482-Star X (E)(行星战机X)(M)STG 63.75
+0483-LEGO Soccer Mania (E)(乐高疯狂足球)(M)SPG 63.25
+0484-Maniac Racer Advance (E)(疯狂越野摩托车)(M)SPG 30.75
+0485-Star Wars Episode II-Attack Of The Clones(E)(星球大战前传II-克隆人的攻击)(M)ACT 62.00
+0486-Dokapon Monster Hunter (E)(多卡邦怪物猎人)(M)RPG 55.00
+0487-Pro Tennis WTA Tour (E)(超真实女子网球-口袋版)(E)SPG 29.75
+0488-Disneys Lilo & Stitch (E)(迪斯尼星际宝贝1)(M)ACT 64.00
+0489-Golden Sun 2 (J)(黄金太阳2-失落的时代)(J)RPG 124.00
+0490-Aero The Acrobat (U)(蝙蝠侠)(E)ACT 26.75
+0491-Medabots AX-Rokusho Version (U)(金属机器人大战AX-六书版)(E)FTG 63.25
+0492-Medabots AX-Metabee Version (U)(金属机器人大战AX-蓝蜂版)(E)FTG 63.25
+0493-Yu-Gi-Oh! Duel Monsters 7: Kettou Toshi Densetsu (J)(游戏王7-决斗都市传说)(J)CAG 128.00
+0494-Pinball Of The Dead (J)(死亡弓单珠台)(J)PUZ 61.75
+0495-Beyblade-Ikuze! Gekitou! Chou Jiryoku Battle! (J)(爆转陀螺王)(J)RPG 48.00
+0496-Pinball Challenge Deluxe (E)(挑战弓单珠台-豪华版)(E)PUZ 31.25
+0497-Chessmaster (E)(西洋棋大师)(F)TAB 26.00
+0498-Stuart Little 2 (U)(一家之鼠2)(E)ACT 62.25
+0499-Monster Gate (J)(怪兽之门1)(J)A·RPG 64.00
+0500-Kong-The Animated Series (E)(金刚之旅)(M)ACT 63.25
+0501-Top Gun Firestorm Advance (U)(捍卫战士)(M)STG 32.00
+0502-Disney All-Star Sports Soccer (J)(迪斯尼全明星体育系列-足球)(J)SPG 117.75
+0503-Choh Makai-Mura R (J)(超魔界村R)(E)ACT 32.00
+0504-Final Fire Pro Wrestling (J)(终极火爆摔跤梦之团体运营)(J)FTG 128.00
+0505-Bubble Bobble-Old & New (J)(泡泡龙新版&旧版)(J)PUZ 32.00
+0506-Hikaru No Go 2 (J)(棋灵王2)(J)TAB 125.75
+0507-Tiny Toon Adventures-Busters Bad Dream (E)(兔宝宝大冒险-糟糕的梦)(M)ACT 31.25
+0508-Moorhen 3 Chicken Chase (E)(雷鸟3-猎鸡人)(M)FPS 25.75
+0509-Custom Robo GX (J)(组合机器人GX)(J)FTG 62.50
+0510-Breath Of Fire 2 (E)(龙战士2-使命之子)(E)RPG 31.75
+0511-Shaman King 2 (J)(超·占事略决2)(J)RPG 64.00
+0512-Ghost Trap (J)(幽灵陷阱)(J)AVG 63.50
+0513-Antz Extreme Racing (E)(蚂蚁Z赛车)(M)RCG 32.00
+0514-Super Robot Taisen R (J)(超级机器人大战R)(J)SLG 59.75
+0515-E.T.The Extra-Terrestrial (E)(外星人-着陆)(M)ACT 31.75
+0516-Konami CollETCors Series-Arcade Advanced (E)(科拿米精品游戏合集6合一)(M)ETC 31.75
+0517-xXx (U)(X传奇限制级战警)(E)ACT 61.25
+0518-La Famille De La Jungle-A La Poursuite De Darwin (F)(狂野丛林-猎杀黑猩猩)(F)ACT 30.50
+0519-Hot Potato (E)(火热的马铃薯)(M)PUZ 31.75
+0520-ESPN X-Games Skateboarding (E)(ESPN X-溜冰板游戏)(M)SPG 63.25
+0521-Pinobee & Phoebee (J)(匹诺比的大冒险)(J)ACT 61.75
+0522-Fushigi No Kuni Angelique (J)(安琪莉可女王)(J)SLG 32.00
+0523-Hot Wheels Advance (J)(无敌风火轮赛车)(E)RCG 62.25
+0524-Kurohige No Kurutto jintori (J)(黑胡子之转转碰碰球-转动取阵)(J)PUZ 32.00
+0525-Kaze no Klonoa 2 G2: Dream Champ Tournament(风之克罗帝亚2)(J)ACT 31.50
+0526-Space Invaders EX (J)(太空入侵者EX)(E)STG 25.50
+0527-Medabots AX-Rokusho Version (E)(金属机器人大战AX-六书版)(M)FTG 58.50
+0528-Manic Miner (E)(疯狂矿工)(M)PUZ 57.25
+0529-Kamaitachi no Yoru Advance (J)(恐怖惊魂夜)(J)AVG 128.00
+0530-San Goku Shi (C)(三国志)(C)SLG 54.50
+0531-Greatest Nine (J)(最强9人棒球)(J)SPG 64.00
+0532-V-Master Cross (J)(V-怪兽卡片斗士)(J)CAG 122.25
+0533-The King Of Fighters EX-Neo Blood (U)(拳皇EX-新血)(E)FTG 64.00
+0534-Cubix-Robots for Everyone-Clash'n Bash (U)(机械人大战-疯狂冲撞)(E)FTG 63.25
+0535-Disney's Magical Quest Starring Mickey and Minnie (J)(迪斯尼的米奇老鼠)(J)ACT 20.00
+0536-Rockman & Forte (J)(洛克人与佛鲁迪)(J)ACT 59.25
+0537-Hey Arnold! The Movie (E)(嘿阿诺得电影)(M)ACT 31.25
+0538-ZooCube (E)(立体旋转方块)(M)PUZ 31.75
+0539-Urban Yeti (U)(都市的雪人)(E)ACT 32.00
+0540-Madden NFL 2003 (U)(NFL橄榄球2003)(E)SPG 31.25
+0541-Disney's Magical Quest Starring Mickey and Minnie (J)(迪斯尼的米奇老鼠)(E)ACT 19.75
+0542-Spy Kids Challenger (U)(间谍小子跳高挑战者)(E)ACT 30.00
+0543-NFL Blitz 20-03 (U)(NFL橄榄球2003)(E)SPG 31.50
+0544-Combat Choro Q-Advance Battle (J)(Q版坦克大作战)(J)SLG 28.50
+0545-Crash Bandicoot Advance (J)(古惑狼-无尽的冒险)(J)ACT 63.75
+0546-Famista Advance (J)(棒球A)(J)SPG 31.75
+0547-Duke Nukem Advance (U)(毁灭公爵)(E)FPS 63.75
+0548-Mat Hoffman's Pro BMX 2 (U)(马特·霍夫曼的自行车越野赛2)(E)SPG 64.00
+0549-VIP (E)(会员)(M)ACT 31.50
+0550-Monster Force (U)(怪物力量)(M)ACT 61.75
+0551-Mini Moni-Mika No Happy Morning Chatty (J)(迷你早晨-迈克不快乐的饶舌口语)(J)ETC 64.00
+0552-Power Rangers-Wild Force (U)(鸟人战队-荒野力量)(E)ACT 31.75
+0553-Tetsuya Yomigaeru Densetsu (J)(胜负师传说-哲也苏醒传说)(J)TAB 61.50
+0554-ATV-Quad Power Racing (U)(越野车力量竞赛)(E)RCG 32.00
+0555-Mr. Driller Ace-Strange Bacteria (J)(钻地先生-陌生的细菌)(J)PUZ 58.25
+0556-Yakyutuku Advance (J)(育成棒球)(J)TCG 64.00
+0557-Turok Evolution (E)(恐龙猎人进化)(M)ACT 61.75
+0558-Monsters Inc. (J)(迪斯尼怪物公司)(J)ACT 31.75
+0559-Mutsu Water Looper Mutsu (J)(水环中的宠物)(J)TCG 23.75
+0560-V-Rally 3 (J)(V-拉力赛车3)(E)RCG 32.00
+0561-Medarot G-Kuwagata Version (J)(金属机器人G-锹型虫版)(J)FTG 62.75
+0562-Rocket Power-Le Cauchemar D'Otto (F)(疾速动力D奥托)(F)ACT 31.50
+0563-Monsters Inc. (E)(迪斯尼怪物公司)(M)ACT 32.00
+0564-Black Matrix Zero (J)(正邪幻想曲Zero)(J)SLG 47.00
+0565-Sabrina The Teenage Witch-Potion Commotion (U)(年轻的女巫塞布丽娜)(M)ACT 31.50
+0566-Sakura Momoko No Ukiuki Carnival (J)(嘉年华会)(J)RPG 63.25
+0567-Hamepane Tokyo Myumyu (J)(东京猫猫拼图)(J)PUZ 22.00
+0568-Les Razmoket Voler n'est pas Jouer (F)(小淘气-城堡冒险)(F)ACT 31.50
+0569-Aggressive Inline (U)(花样溜冰)(E)SPG 63.00
+0570-Pinky And The Brain-The Master Plan (U)(老鼠征服之综合计划)(M)ACT 32.00
+0571-Go! Go! Beckham! Adventure On Soccer Island (E)(贝克汗姆足球岛冒险)(M)ACT 31.00
+0572-Nobunaga Ibun (J)(信长异闻录)(J)S·RPG 38.25
+0573-Gachasute! Dino Device Red (J)(怪兽蛋红版)(J)S·RPG 58.25
+0574-Jurassic Park 3-DNA Factor (J)(侏罗纪公园3-DNA基因)(J)ACT 57.75
+0575-Tony Hawk's Pro Skater 2 (J)(托尼·霍克职业溜冰板2)(J)SPG 64.00
+0576-Castlevania: Harmony Of Dissonance (E)(恶魔城-白夜协奏曲)(E)A·RPG 53.00
+0577-J League Pro Soccer Club o Tsukurou Advance (J)(J联盟足球职业创造球会)(J)TCG 51.25
+0578-Nicktoons Racing (E)(尼克通赛车)(M)RCG 31.75
+0579-Densetsu no Stafy (J)(传说的斯塔非1)(J)ACT 55.00
+0580-Disney All-Star Football (J)(迪斯尼全明星运动系列-橄榄球)(J)SPG 116.75
+0581-Disney Sports Skateboarding (J)(迪斯尼全明星运动系列-滑板)(J)SPG 125.00
+0582-Aggressive Inline (E)(花样溜冰)(M)SPG 63.25
+0583-BMX Trick Racer (U)(BMX花式越野车大赛)(E)SPG 125.75
+0584-Matchbox Crosstown Heroes (U)(城市救火英雄车)(E)ETC 29.50
+0585-Silent Scope (U)(沉默的狙击手)(E)FPS 63.25
+0586-Tiger Woods PGA Tour Golf (E)(老虎伍兹高尔夫)(M)SPG 59.50
+0587-Speedball 2 (E)(速度橄榄球2)(M)SPG 28.25
+0588-Megaman Zero (U)(洛克人ZERO1)(E)ACT 63.75
+0589-Comix Zone (E)(漫画地带)(M)ACT 31.00
+0590-Natural 2 Duo (J)(双姝情缘)(J)TCG 53.50
+0591-Sabrina The Teenage Witch-Potion Commotion (E)(年轻的女巫塞布丽娜)(M)ACT 31.50
+0592-SpongeBob Square Pants-Revenge of The Flying Dutchman (U)(超级海绵巴伯-荷兰鬼魂的复仇)(E)ACT 62.25
+0593-Yoshi's Island-Super Mario Advance 3 (U)(超级马里奥-耀奇岛)(E)ACT 32.00
+0594-The Sum of All Fears (E)(恐惧的总和)(M)STG 61.50
+0595-Yossy Island-Super Mario Advance 3 (J)(超级马里奥-耀奇岛)(J)ACT 32.00
+0596-Airforce Delta Storm (U)(三角洲空军风暴)(M)STG 31.50
+0597-Boulder Dash EX (U)(推石小子EX)(E)PUZ 32.00
+0598-Backyard Football (U)(儿童后院足球)(E)SPG 32.00
+0599-Barbie Groovy Games (U)(芭比娃娃-益智小游戏合集)(E)PUZ 30.75
+0600-GT Advance 2-Rally Racing (E)(GTA职业概念赛车2)(E)RCG 62.75
+0601-Hanafuda Trump Mahjong Depachika Wayouchuu (J)(中日洋3国桌上游戏大合集)(J)PUZ 26.25
+0602-Egg Mania (U)(战斗蛋方块)(M)TAB 32.00
+0603-Super Ghouls N Ghosts (U)(超魔界村R)(E)ACT 32.00
+0604-Kelly Slaters Pro Surfer (U)(凯利·史雷特职业冲浪)(E)SPG 62.75
+0605-Smuggler’s Run (U)(逃跑走私犯车)(E)RCG 46.75
+0606-Duke Nukem Advance (E)(毁灭公爵A)(M)FPS 64.00
+0607-Colin McRae Rally 2.0 (E)(Colin McRae拉力赛车2)(M)RCG 30.25
+0608-Street Fighter Zero 3 Upper (J)(少年街霸3)(J)FTG 64.00
+0609-Samurai Evolution-Oukoku Gaist (J)(樱国之魂)(J)RPG 32.00
+0610-Sega Smash Pack (U)(世嘉街机动作类游戏合集)(E)ETC 63.75
+0611-Driver 2 Advance (E)(生死时速车2A)(M)RCG 56.50
+0612-Castlevania-Harmony Of Dissonance (U)(恶魔城-白夜协奏曲)(E)A·RPG 53.00
+0613-The Lord of The Rings-The Fellowship Of The Ring (U)(指环王-魔戒现身)(E)RPG 64.00
+0614-Tennis Masters Series 2003 (E)(网球征服系列2003)(M)SPG 29.75
+0615-Spyro 2-Season Of Flame (U)(小龙斯派罗2-火焰的季节)(E)ACT 64.00
+0616-Jimmy Neutron vs Jimmy Negatron (U)(天才男孩吉米中子VS吉米负电子)(E)ACT 31.75
+0617-Disney's Magical Quest Starring Mickey and Minnie (E)(迪斯尼的米奇老鼠)(M)ACT 22.75
+0618-Ohanaya-san ni narou! (J)(心跳系列-经营花店)(J)SLG 32.00
+0619-Card E-Reader (U)(E-Book浏览器)(E)ETC 56.75
+0620-Groove Adventure Rave-Hikari to Yami no Daikessen 2 (J)(光与暗大决战2)(J)FTG 59.00
+0621-Hugo-The Evil Mirror (E)(雨果-邪恶的镜子)(M)PUZ 30.75
+0622-Worms World Party (E)(百战天虫)(M)PUZ 31.00
+0623-Chobits (J)(人形电脑天使心)(J)TCG 57.75
+0624-Yoshi's Island-Super Mario Advance 3 (E)(超级马里奥3-耀奇岛)(M)ACT 37.00
+0625-Daisuki Teddy (J)(我爱泰迪熊)(J)TCG 60.00
+0626-Scooby Doo-The Motion Picture (F)(史诺比鬼屋历险-真人照片版)(F)AVG 32.00
+0627-Frogger Advance The Great Quest (E)(青蛙伟大的探索)(M)ACT 63.50
+0628-Gachasute! Dyna Device Blue (J)(怪兽蛋蓝版)(J)S·RPG 58.25
+0629-Harukanaru Jikuu No Naka De (J)(遥远的时空之中)(J)AVG 63.75
+0630-Butt Ugly Martians BKM Battles (U)(神勇火星人-反冲大作战)(J)STG 32.00
+0631-Nakayoshi Pet Advance Series 1-Kawaii Hamst (J)(动物伴侣系列一-可爱老鼠)(J)TCG 29.25
+0632-Nakayoshi Pet Advance Series 2-Kawaii Koinu (J)(动物伴侣系列二-可爱小狗)(J)TCG 30.50
+0633-Nakayoshi Pet Advance Series 3-Kawaii Konek (J)(动物伴侣系列三-可爱小猫)(J)TCG 30.75
+0634-Medarot G-Kabuto Version (J)(金属机器人G-甲冑版)(J)FTG 62.75
+0635-Hime Kishi Monogatari-Princess Blue (J)(姬骑士物语-蓝色的公主)(J)TCG 64.00
+0636-Guilty Gear X (E)(罪恶克星X)(E)FTG 63.50
+0637-Soccer Kid (U)(足球小子)(E)ACT 23.25
+0638-Ballistic-Ecks vs. Sever (U)(艾克斯VS瑟娃-弓单道专家)(E)FPS 64.00
+0639-Dragon Ball Z-The Legacy Of Goku (E) (七龙珠Z-悟空遗产传说)(M)A·RPG 63.25
+0640-Ecks vs. Sever (E)(艾克斯VS瑟娃)(M)FPS 63.50
+0641-Fire Pro Wrestling 2 (U)(火爆摔跤2)(E)SPG 62.75
+0642-Invader (E)(侵略者)(E)STG 59.25
+0643-Motoracer Advance (E)(越野摩托车A)(M)SPG 32.00
+0644-Army Men Turf Wars (U)(玩具军人之草场的战争)(E)ACT 63.50
+0645-Metalun Slinger (J)(合金射击者)(J)ACT 61.00
+0646-Airforce Delta II (J)(三角洲空军部队II)(M)STG 31.50
+0647-Turbo Turtle Adventure (U)(海龟的冒险)(E)ACT 28.50
+0648-The King Of Fighters EX-Neo Blood (E)(拳皇EX-新血)(E)FTG 64.00
+0649-Harobots-Robo Hero Battling (J)(哈罗机器人-机器人英雄大会战)(J)RPG 31.75
+0650-Monster Force (E)(怪物力量)(M)ACT 63.25
+0651-Barbie Groovy Games (E)(芭比益智小游戏合集)(M)ETC 31.75
+0652-The Revenge Of The Smurfs (E)(蓝精灵Smurfs的复仇)(M)ACT 30.50
+0653-Defender Of The Crown (U)(王冠的守护者)(E)SLG 32.00
+0654-Dual Blades (U)(双刃)(E)FTG 32.00
+0655-Ice Age (J)(冰河世纪)(J)ACT 27.75
+0656-J-League Winning Eleven Advance 2002 (J)(J-联盟足球胜利11人2002)(J)SPG 64.00
+0657-Pinball Advance (E)(弓单珠台A)(M)PUZ 63.50
+0658-Virtua Tennis (U)(虚拟网球)(E)SPG 62.75
+0659-Game And Watch Gallery Advance (E)(任天堂GAME&WATCH博物馆4)(E)ETC 31.75
+0660-Oshare Princess (J)(奥沙尔公主1)(J)PUZ 32.00
+0661-Shrek Hassle At The Castle (U)(怪物史瑞克在城堡的激战)(M)ACT 20.75
+0662-Galaxy Angel (J)(银河天使)(J)TAB 120.25
+0663-High Heat Major League Baseball 2003 (J)(火爆美国职业棒球联赛2003)(J)SPG 31.50
+0664-Zoocube (J)(立体旋转方块)(J)PUZ 31.50
+0665-Hamster Paradise Advance (J)(仓鼠天堂A)(J)TCG 63.75
+0666-Denki Blocks (J)(电击方块)(J)PUZ 31.50
+0667-PukuPuku Tennen Kairanban (J)(狗狗小镇)(J)TCG 32.00
+0668-Gachinko Pro Yakyuu (J)(Q版职业棒球)(J)SPG 60.00
+0669-Black Belt Challenge (E)(黑腰带挑战赛)(E)FTG 64.00
+0670-Yu-Gi-Oh-The Eternal Duelist Soul (U)(游戏王-永恒斗士之魂)(E)CAG 64.00
+0671-Robotech-The Macross Saga (U)(太空堡垒)(E)STG 57.50
+0672-xXx (F)(X传奇限制级战警)(F)ACT 61.50
+0673-Who Wants to be a Millionaire? (E)(谁想成为百万富翁)(E)PUZ 28.00
+0674-Gyakuten Saiban 2 (J)(逆转裁判2)(J)AVG 64.00
+0675-Oshaberi Inco Club (J)(鹦鹉俱乐部)(J)TCG 61.00
+0676-Crazy Chase (E)(疯狂的追击)(M)ACT 31.75
+0677-Spirit-L'etalon des Plaines (F)(小马王)(F)AVG 32.00
+0678-Nakayoshi Youchien (J)(小朋友幼稚园)(J)TCG 31.50
+0679-Robot Wars Extreme Destruction (E)(遥控机器人大战之无尽的毁灭)(E)FTG 32.00
+0680-Ace Lightning (E)(头号闪电)(E)ACT 31.50
+0681-SSX Tricky (U)(疾风滑雪板)(M)SPG 64.00
+0682-Hoshi no Kirby-Yume no Izumi Deluxe (J)(星之卡比-梦之泉蒂拉克丝)(J)ACT 63.25
+0683-Tarzan Return to the Jungle (U)(迪斯尼泰山重返丛林)(E)ACT 59.75
+0684-WWE Road To Wrestlemania X8 (U)(WWE疯狂摔跤之路X8)(E)SPG 30.50
+0685-LEGO Bionicle Matoran Adventures (E)(乐高斗牛士冒险)(M)ACT 31.00
+0686-Doom II (U)(DOOM-毁灭战士2)(E)FPS 128.00
+0687-Spyro 2-Season of Flame (E)(小龙斯派罗2-火焰的季节)(M)ACT 64.00
+0688-Bomberman Jetters (J)(炸弓单人杰特斯)(J)A·RPG 33.00
+0689-Tales of the World-Narikiri Dungeon 2 (J)(传说世界-换装迷宫2)(J)A·RPG 64.00
+0690-Metroid Fusion (U)(银河战士1)(E)A·RPG 61.00
+0691-Santa Claus Jr (E)(圣诞老人)(E)ACT 32.00
+0692-Barbie Secret Agent (U)(芭比秘密间谍)(E)ACT 32.00
+0693-Stuart Little 2 (F)(一家之鼠2)(F)ACT 62.25
+0694-Megaman Battle Network 2 (E)(洛克人网络大战EXE 2)(E)A·RPG 64.00
+0695-NHL Hitz 20-03 (U)(曲棍球2003)(E)SPG 26.25
+0696-Gekido Advance-Kintaros Revenge (E)(究级截拳道)(M)ACT 51.25
+0697-Car Battler Joe (U)(激斗遥控车战士JOE)(E)RPG 58.50
+0698-Deadly Skies (E)(致命的天空)(M)STG 31.50
+0699-Beast Shooter-Mezase Beast King (J)(斗兽王)(J)RPG 32.00
+0700-Silk to Cotton (J)(丝绸到棉花)(J)RPG 57.25
+0701-Best Play Pro Yakyuu (J)(最佳职业棒球)(J)SPG 31.75
+0702-Nan no Umi no Odyssey (J)(南之海的奥德赛 )(J)TCG 31.75
+0703-Monster Farm Advance 2 (J)(怪兽农场A 2)(J)TCG 59.00
+0704-DiGi Charat DigiCommunication (J)(便利商店)(J)SLG 63.75
+0705-Masters of the Universe HeMan-Power of Grayskull (U)(宇宙人希曼-灰色头骨的力量)(E)ACT 63.75
+0706-Dungeons and Dragons-Eye of the Beholder (U)(龙与地下城-魔眼杀机)(E)RPG 29.25
+0707-Tony Hawk's Pro Skater 4 (U)(托尼·霍克职业溜冰4)(E)SPG 63.75
+0708-Reign Of Fire (U)(火焰统治)(M)STG 60.75
+0709-Pocky & Rocky with Becky (U)(奇奇怪界)(E)ACT 30.75
+0710-The Powerpuff Girls-Him and Seek (U)(喷气女孩Him和Seek)(E)ACT 61.25
+0711-Dexter's Lab-Chess Challenge (U)(幸运的实验室-国际象棋挑战赛)(E)TAB 61.75
+0712-Disney's Treasure Planet (U)(迪斯尼之金银岛)(E)A·RPG 64.00
+0713-Crazy Chase (U)(疯狂的追击)(E)ACT 31.75
+0714-Godzilla Domination (E)(怪物统治)(M)FTG 30.25
+0715-Lord of the Ring-Fellowship of the Ring (E)(指环王-魔戒现身)(M)RPG 64.00
+0716-Davis Cup (U)(戴维斯杯网球公开赛)(M)SPG 20.50
+0717-Lord Of The Rings-The Two Towers (U)(指环王-双塔)(M)A·RPG 127.00
+0718-Justice League-Injustice for All (U)(超人正义联盟)(E)ACT 60.25
+0719-Wer Wird Millionaer (G)(谁想成为百万富翁)(G)TAB 29.25
+0720-Fairly Odd Parents Enter The Cleft (U)(正义双亲之过关斩将)(E)ACT 61.50
+0721-Harry Potter and the Chamber of Secrets (U)(哈瑞·波特-消失的密室)(M)A·RPG 63.75
+0722-Contra Advance-The Alien Wars EX (U)(魂斗罗-异型战争EX)(E)ACT 28.75
+0723-Frogger Adventure 2-The Lost Wand (U)(青蛙冒险2-失落的权杖)(M)ACT 64.00
+0724-Kawaii Pet Shop Monogatari 3 (J)(卡哇伊宠物商店物语3)(J)RPG 32.00
+0725-Smuggler’s Run (E)(逃跑走私犯车)(M)RCG 50.25
+0726-Powerpuff Girls-Him and Seek (E)(喷气女孩Him和Seek)(M)ACT 61.75
+0727-Agassi Tennis Generation 2002 (E)(阿加西网球世代2002)(M)SPG 23.75
+0728-Zidane Football Generation 2002 (E)(齐达内足球世代2002)(M)SPG 32.00
+0729-Defender (U)(防御者)(E)STG 31.00
+0730-Star Wars-The New Droid Army (U)(星球大战-新帝国军队)(E)ACT 64.00
+0731-Disney All-Star Sports Soccer (U)(迪斯尼全明星体育系列-足球)(E)SPG 115.75
+0732-Dan Doh Xi (J)(高尔夫球小子)(J)SPG 38.25
+0733-Tomb Raider The Prophecey (E)(古墓丽影-预言)(M)AVG 61.25
+0734-The Mummy (E)(神鬼传奇)(M)AVG 30.25
+0735-Contra Hard Spirits (J)(魂斗罗-异型战争EX)(J)ACT 28.75
+0736-FIFA 2003 (U)(FIFA足球2003)(M)SPG 31.00
+0737-Shin Megami Tensei-Devil Children Yami no Sho (J)(真女神转生-暗之书)(J)RPG 63.50
+0738-One Piece-Nanatsu Shima no Daihihou (J)(海贼王-七个岛的大秘宝)(J)A·RPG 64.00
+0739-The Pink Panther (E)(粉红色的顽皮豹)(M)ACT 64.00
+0740-The Revenge of Shinobi (U)(忍者的复仇)(E)ACT 63.50
+0741-Rocky (U)(洛奇拳击)(M)FTG 63.25
+0742-Korokke Yume no Bunker Survival (J)(馅饼1-口袋梦幻)(J)FTG 55.75
+0743-Hot Wheels Velocity X (U)(无敌风火轮疾速赛车X)(E)RCG 64.00
+0744-Mary-Kate and Ashley-Sweet 16 (U)(玛丽·凯特和艾希莉-甜蜜车16)(E)RCG 27.00
+0745-Rugrats-I Gotta Go Party (U)(小淘气-我要参加宴会)(E)PUZ 31.00
+0746-Hamster Gurakubu 3 (J)(仓鼠物语3)(J)TCG 62.75
+0747-Super Robot Taisen Original Generation (J)(超级机器人大战OG)(J)SLG 63.50
+0748-Monster Rancher Advance 2 (U)(怪兽农场A 2)(E)TCG 60.00
+0749-Island Xtreme Stunts (U)(乐高积木岛极限特技赛车)(M)RCG 30.50
+0750-Galidor-Defenders of the Outer Dimension (U)(异次元防卫者)(M)ACT 32.00
+0751-Rocket Power-Beach Bandits (U)(急速动力-沙滩强盗)(E)ACT 31.00
+0752-The Wild Thornberrys-The Movie (U)(狂野丛林-电影)(E)PUZ 31.25
+0753-Mortal Kombat Deadly Alliance (U)(真人快打-致命联盟)(M)FTG 117.25
+0754-Shrek Hassle At The Castle (E)(怪物史瑞克在城堡的激战)(M)ACT 20.75
+0755-Metroid Fusion (E)(银河战士1)(M)A·RPG 61.00
+0756-Shin Megami Tensei-Devil Children Hikari no Sho (J)(真女神转生-光之书)(J)RPG 62.75
+0757-Pokemon Sapphire (J)(口袋妖怪蓝宝石)(J)RPG 64.00
+0758-Dungeons and Dragons-Eye of the Beholder (E)(龙与地下城-魔眼杀机)(M)RPG 31.00
+0759-Napoleon-L'Aigle de Guerrre (F)(拿破仑)(F)RTS 63.50
+0760-Pokemon Ruby (J)(口袋妖怪红宝石)(J)RPG 64.00
+0761-Fantastic Marchen-Keaki Okusan Monogatari (J)(蛋糕屋物语-动物心理学占卜)(J)TCG 54.75
+0762-Scan Hunter (J)(扫描猎人-追击千年怪鱼)(J)ETC 54.00
+0763-Super Monkey Ball Jr (U)(非常猴球)(E)PUZ 32.00
+0764-Tsukande! Mawashite! Dossun Pazuru Eggo Mania (J)(战斗蛋方块)(J)PUZ 29.75
+0765-Moto GP (J)(GP摩托车赛)(E)SPG 31.25
+0766-Card Party (J)(卡片宴会)(J)TAB 62.75
+0767-Silent Scope (J)(沉默的狙击手)(E)FPS 63.75
+0768-Earthworm Jim 2 (E)(蚯蚓吉姆2)(M)ACT 64.00
+0769-Tarzan Return to the Jungle (F)(迪斯尼泰山重返丛林)(F)ACT 59.75
+0770-Phantasy Star CollETCion (U)(梦幻之星123代合集)(E)RPG 63.75
+0771-Gauntlet Dark Legacy(U)(黑暗的遗产)(E)ACT 64.00
+0772-Disney's Kim Possible-Revenge of Monkey (U)(迪斯尼之麻辣女孩1)(E)ACT 60.00
+0773-Minority Report (U)(少数派报告)(E)ACT 64.00
+0774-Altered Beast-Guardians of the Realms (U)(兽王记-王国的守护者)(E)ACT 64.00
+0775-Kirby Nightmare In Dreamland (U)(星之卡比-可怕的梦境)(E)ACT 63.25
+0776-The Legend Of Zelda-Link To The Past (U)(塞尔达传说-时空隧道)(E)A·RPG 50.25
+0777-Disney's Treasure Planet (E)(迪斯尼之星银岛)(M)A·RPG 64.00
+0778-Street Fighter Alpha 3 (E)(少年街霸A 3)(E)FTG 64.00
+0779-Titeuf-Ze Gagmachine (F)(坏小子-迪德夫历险记)(F)PUZ 29.25
+0780-Legends of Wrestling 2 (U)(摔跤传说2)(E)SPG 64.00
+0781-Choro Q Advance 2 (J)(迷你Q版赛车2代变速齿轮之公路旅行)(J)RCG 31.75
+0782-Jikkyou World Soccer Pocket 2 (J)(实况世界足球口袋版 2)(J)SPG 63.50
+0783-Medal of Honor Underground (U)(荣誉勋章)(E)FPS 61.25
+0784-Star Wars-The New Droid Army (E)(星球大战前传-新帝国军队)(M)ACT 64.00
+0785-Zapper (U)(蚱蜢Zapper)(E)PUZ 31.00
+0786-Carrera Power Slide (E)(动力滑行赛车)(M)RCG 27.50
+0787-Rockman Exe 3 (J)(洛克人战斗网络EXE 3-黄版)(J)A·RPG 64.00
+0788-Worms Blast (E)(百战天虫1)(M)PUZ 30.75
+0789-Les Razmoket-A Moi La Fiesta (F)(小淘气-我要参加宴会)(F)PUZ 30.75
+0790-Qui Veut Gagner Des Millions? (F)(谁想成为百万富翁)(F)TAB 31.00
+0791-Hardcore Pinball (U)(无限弓单珠台)(E)TAB 25.25
+0792-Ballistic Ecks Vs Sever 2 (E)(艾克斯VS瑟娃-弓单道专家)(M)FPS 64.00
+0793-Turok Evolution (U)(恐龙猎人进化战争)(E)ACT 61.25
+0794-Dave Mirra Freestyle BMX 3 (U)(戴夫·米拉特技自行车3)(E)SPG 63.00
+0795-Derby Stallion Advance (J)(达比赛马)(J)TCG 32.00
+0796-Kinnnikuman Nisei Seigi Choujin he no Michi (J)(筋肉人Ⅱ世-正义超人之道)(J) FTG 128.00
+0797-Harry Potter to Himitsu no Heya (j)(哈利·波特-消失的密室)(J)A·RPG 59.50
+0798-Shaman King Chou Senjiryokketsu 3 (J)(通灵王-超·占士略决3)(J)CAG 127.00
+0799-Woody Woodpecker In Crazy Castle 5 (E)(啄木鸟伍迪闯疯狂城堡)(M)AVG 32.00
+0800-Tir Et But (F)(指令足球)(F)SPG 31.50
+0801-Monster Maker 4 Flash Card (J)(怪兽制造者4-闪光卡片)(J)RPG 62.25
+0802-Monster Maker 4 Kira Dice (J)(怪兽制造者4-骰子杀手)(J)RPG 62.25
+0803-Darius R (J)(大流士战机R)(J)SPG 21.00
+0804-Magi Nation (J)(指轮传奇)(J)RPG 63.00
+0805-Klonoa Heroes-Densetsu no Star Medal (J)(克罗帝亚英雄们-传说的星之徽章)(J)A·RPG 126.75
+0806-BattleBots-Beyond the Battlebox (U)(战斗机器-超越的战斗空间)(E)ETC 63.75
+0807-Hajime no Ippo-The Fighting (J)(幕之内一步-格斗赛)(J)SPG 63.00
+0808-Lunar Legend (U)(银河之星-露娜传奇)(E)RPG 64.00
+0809-Pinball Tycoon (U)(弓单珠台大亨)(E)TAB 19.50
+0810-Monster Bass Fishing (U)(怪物巴斯钓鱼)(E)ETC 31.50
+0811-I Spy Challenger! (U)(智力大挑战)(E)PUZ 56.25
+0812-Disney All-Star Sports–Basketball (U)(迪斯尼全明星运动系列-篮球)(E)SPG 96.75
+0813-Disney All-Star Sports–Skateboarding (U)(迪斯尼全明星运动系列-滑板)(E)SPG 118.00
+0814-Disney All-Star Sports-American Football (U)(迪斯尼全明星运动系列-橄榄球)(E)SPG 115.75
+0815-Sonic Advance 2 (J)(索尼克2)(M)ACT 102.75
+0816-Sega Rally Championship (J)(世嘉拉力锦标赛车)(E)RAG 57.25
+0817-Dora the Explorer-The Search for Pirate Pig's Treasure (U)(探险家朵拉-寻找海盗猪的财宝)(E)ACT 25.75
+0818-Karnaaj Racing (U)(战斗赛车)(E)RAG 64.00
+0819-The Invincible Iron Man (U)(无敌钢铁超人)(E)ACT 31.25
+0820-Acrobat Kid (J)(蝙蝠小子)(J)ACT 29.25
+0821-Uchuu Daisakusen Chocovader-Uchuu kara no Shinryakusha (J)(宇宙大作战-异次元的侵略者)(J)RPG 63.50
+0822-Toukon Heat (J)(斗魂)(J)ETC 60.00
+0823-Elevator Action-Old & New (J)(电梯大作战-新版&旧版)(J)ACT 64.00
+0824-Chocobo Land-Game de Dice (J)(陆行鸟大陆-骰子游戏)(J)TAB 62.50
+0825-Cabela's Big Game Hunter (U)(猎鹿人)(E)FPS 61.00
+0826-Super Bubble Pop (U)(超级立体泡泡)(E)PUZ 30.00
+0827-Jazz Jackrabbit (U)(吵闹的长耳大野兔)(E)ACT 31.50
+0828-Sea Trader-The Rise of Taipan (U)(商人之海-Taipan的繁荣)(E)SLG 29.25
+0829-The Revenge Of Shinobi (E)(忍者的复仇)(M)ACT 63.25
+0830-Ohanaya-San Monogatari (J)(花屋物语)(J)TCG 56.50
+0831-Dual Blades (J)(双刃)(J)FTG 32.00
+0832-The King Of Fighters EX2-Howling Blood (J)(拳皇EX2)(E)FTG 63.25
+0833-Chi Vuol Essere Milionario (I)(谁想成为百万富翁)(I)TAB 28.75
+0834-Samurai Deeper Kyo (J)(鬼眼狂刀-京)(J)ACT 63.50
+0835-Bobobohbo Bohbobo Ougi 87.5 Bakuretsu Hanage Shinken (J)(爆裂鼻毛真拳)(J)RPG 62.75
+0836-Tennis no Ouji-sama-Aim at The Victory (J)(网球王子-志在胜利)(J)SPG 128.00
+0837-Disney's Tarzan-Return to the Jungle (G)(迪斯尼泰山重返丛林)(G)ACT 59.75
+0838-Bakuten Shoot Beyblade 2002-Daichi Version (J)(爆转陀螺2002激斗赛-黄龙之章)(J)S·RPG 63.50
+0839-Bakuten Shoot Beyblade 2002 Takao Version (J)(爆转陀螺2002激斗赛-青龙之章)(J)S·RPG 63.50
+0840-Doki-doki Cooking Series 1-Komugi-chan no Happy Cake (J)(烹饪系列1-快乐糕点)(J)TCG 63.25
+0841-Godzilla Domination (U)(怪物统治)(E)FTG 30.25
+0842-Higanbana (J)(彼岸花)(J)AVG 46.50
+0843-InspETCor Gadget Racing (E)(嘎杰特赛车)(M)RCG 28.75
+0844-F1 2002 (U)(F1大奖赛车2002)(E)RCG 32.00
+0845-Medabots Metabee Version (E)(金属机器人大战-蓝蜂版)(E)S·RPG 63.75
+0846-K-1 Pocket Grand Prix 2 (J)(K-1口袋格斗大奖赛2)(J)FTG 63.00
+0847-Kururin Paradise (J)(滚滚棒2天堂)(J)PUZ 64.00
+0848-Crash Bandicoot 2 N-Tranced (U)(古惑狼2)(E)ACT 64.00
+0849-Die Monster AG (G)(迪斯尼怪兽公司)(G)ACT 32.00
+0850-Kotoba no Puzzle Mojipittan Advance (J)(智力拼字A)(J)PUZ 64.00
+0851-Disney's The Jungle Book 2 (E)(迪斯尼-丛林之书2)(M)ACT 63.25
+0852-Little Buster Q (J) (小小克星巨人)(J) RPG 62.50
+0853-Micro Machines (E) (微型小小赛车)(M) RCG 32.00
+0854-Digimon Battle Spirit (U)(数码宝贝-斗魂传说)(E) FTG 28.25
+0855-Taxi 3 (F)(终极杀阵车3)(F) RCG 64.00
+0856-International Superstar Soccer (E) (国际超级明星足球赛)(E) SPG 63.00
+0857-Power Pro Kun Pocket 5 (J) (实况Q版口袋棒球5)(J) SPG 63.75
+0858-Marie. Elie & Anis No Atelier-Soyokaze Kara No Dengon (J) (炼金术士玛丽艾莉&安丝的工作室-风之传言)(J) RPG 45.00
+0859-Boulder Dash EX (J) (疯狂解迷方块之推石小子)(J) PUZ 32.00
+0860-Inuyasha Naraku No Wana Mayoi No Mori No Shoutaijou (J) (犬夜叉-奈落之圈套迷幻森林之请帖)(J) TAB 63.00
+0861-Elemix! (J) (艾列米克斯物语)(J) A·RPG 31.00
+0862-Daredevil (U) (夜魔侠)(E) ACT 32.00
+0863-GT Advanced 3 Pro Concept Racing (U) (GTA职业概念赛车3)(E) RCG 61.75
+0864-Minimoni Onegai Ohoshi-sama! (J) (迷你早安-落在山脊上的星星)(J) AVG 61.00
+0865-Battle Netword Rockman EXE 3 Black (J) (洛克人战斗网络EXE 3-黑版)(J)A·RPG 64.00
+0866-Final Fantasy Tactics Advance (J) (最终幻想战略版)(J) SLG 128.00
+0867-Yu-Gi-Oh! Dungeon Dice Monsters (U) (游戏王-怪兽龙门骰)(M)SLG 64.00
+0868-Shining Soul (E) (光明之魂1)(M) A·RPG 63.75
+0869-International Karate Plus (E) (国际空手道大赛加强版)(E) SPG 8.50
+0870-Demon Driver (E) (魔鬼赛车手)(E) RCG 29.75
+0871-Super Dropzone (E) (超級月面地帶)(E) STG 32.00
+0872-Stadium Games (E) (田径游戏运动会)(E) SPG 16.50
+0873-Strike Force Hydra (E) (决战九头蛇)(E) STG 30.25
+0874-World Tennis Stars (E) (世界明星网球赛)(E) SPG 29.50
+0875-Rayman 3 Hoodlum Havoc (E) (雷曼3)(M) ACT 64.00
+0876-Iord of The Rings Futatsu no Tou (J) (指环王-双塔)(J) A·RPG 125.50
+0877-Metroid Fusion (J) (银河战士1)(J) A·RPG 63.75
+0878-Manga-ka Debut Monogatari (J) (漫画家物语)(J) TCG 27.00
+0879-Fushigi no Kuni no Alice (J) (爱丽丝梦游仙境)(J) TAB 32.00
+0880-Spyro Advance (J) (小龙斯派罗-冰冻的季节)(J) ACT 63.75
+0881-Bubble Bobble-Old & New (E) (泡泡龙新旧版)(M) PUZ 32.00
+0882-Mugenborg (J) (梦幻伯格)(J) RPG 64.00
+0883-The Legend Of Zelda-A Link To The Past-Four Swords (E) (塞尔达传说-时空隧道)(M) A·RPG 55.00
+0884-Tennis no Oujisama 2003 Rassion Red (J) (网球王子2003-火红版)(J) SPG 122.25
+0885-Tennis no Oujisama 2003 Cool Blue (J) (网球王子2003-冰蓝版)(J) SPG 122.25
+0886-Total Soccer Advance (J) (冠军足球)(J) SPG 11.75
+0887-Lode Runner (J) (淘金人)(J) PUZ 15.25
+0888-Butt Ugly Martians BKM Battles (E) (神勇火星人-反冲大作战)(M) STG 32.00
+0889-All Star Baseball 2004 (U) (全美明星棒球2004)(E) SPG 62.50
+0890-Phantasy Star CollETCion (E) (梦幻之星123代合集)(E) RPG 63.75
+0891-Wings (U) (长空之翼)(E) STG 56.50
+0892-Wagamama Fairy Mirumo de Pon Ougon Maracas no Densetsu (J)(任性妖精Mirumo-黄金响葫芦的传说)(J) RPG 28.00
+0893-Zapper (E) (蚱蜢zapper)(M) PUZ 31.50
+0894-Virtua Tennis (E) (虚拟网球)(M) SPG 63.75
+0895-Tales of the World-Summoner's Lineage (J) (世界传说-召唤者之血统)(J) SLG 64.00
+0896-TOCA World Touring Cars (E) (托卡世界环游赛车)(E) RCG 60.00
+0897-Eitangohen-2000 Words (J) (高校受验加强系列-英语单词篇-2000字-红版)(J)ETC 50.75
+0898-Pokemon Saphire (U) (口袋妖怪蓝宝石)(U) RPG 117.75
+0899-Street Fighter Alpha 3 (U) (少年街霸A3)(E) FTG 64.00
+0900-The Legend Of Zelda Gods Triforce And Four Swords (J) (赛尔达传说-众神之三角力量和四支剑)(J) A·RPG 50.75
+0901-Tom and Jerry-Infurnal Escape (U) (汤姆和杰利-逃出地狱)(E) ACT 28.25
+0902-MegaMan & Bass (U) (洛克人与佛鲁迪)(E) ACT 59.25
+0903-Sega Rally Championship (U) (世嘉拉力锦标赛车)(E) RCG 59.00
+0904-Defender (E) (防御者)(M5) STG 32.00
+0905-Crash Bandicoot 2 N-Tranced (E)(古惑狼2)(M6) ACT 64.00
+0906-Sonic Advance 2 (U) (索尼克2)(M6) ACT 102.75
+0907-Pokemon Ruby (U) (口袋妖怪红宝石)(U) RPG 117.75
+0908-Yu-Gi-Oh! Duel Monsters 8 (J) (游戏王8-破灭之大邪神)(J) RPG 128.00
+0909-Made in Wario (J) (瓦里奥制造)(J) PUZ 63.50
+0910-James Bond 007-Nightfire (U) (占士邦007-夜火)(E) FPS 64.00
+0911-Bratz (U) (跳舞机)(M3) ETC 32.00
+0912-Muppets-On With The Show (U) (芝麻街-演出开始啦)(M6) PUZ 63.25
+0913-Piglet's Big Game (U) (迪斯尼小猪大游戏)(E) ACT 53.25
+0914-The Lost Vikings (E) (失落的维京人3人组)(M4) ACT 29.00
+0915-Dr. Muto (E) (疯狂博士)(M5) ACT 64.00
+0916-Sonic Advance 2 (E) (索尼克2)(M6) ACT 102.75
+0917-Samurai Jack-The Amulet of Time (U) (日本武士杰克-时间之护身符)(E) ACT 63.75
+0918-MLB SlugFest 20-04 (U) (美国职棒大联盟2004)(E) SPG 32.00
+0919-One Piece-Mezase! King of Paris (J) (海贼王-目标赏金之王)(J) TAB 64.00
+0920-Daredevil (G) (夜魔侠) (G) ACT 32.00
+0921-Bruce Lee-Return of the Legend (E) (李小龙-传说中的英雄再现)(E) ACT 63.00
+0922-Animal Snap-Rescue them 2 by 2 (E) (动物方块-拯救它们)(E) TAB 14.50
+0923-Ultimate Brain Games (U) (终极智力游戏)(E) TAB 32.00
+0924-Sister Princess Re Pure (J) (妹妹公主)(J)TCG 57.75
+0925-Castleween (E) (古堡幽灵)(M5) ACT 32.00
+0926-Superman-Countdown to Apokolips (U) (超人-回到地球)(E) ACT 60.00
+0927-Super Puzzle Fighter II Turbo (E) (超级街霸对战方块2)(E) TAB 63.50
+0928-Shimura Ken no Bakatonosama (J) (志村健之白痴殿下-爆笑天下统一游戏)(J) TAB 32.00
+0929-Inukko Club Fukumaru no Bouken (J) (小狗俱乐部-福丸之大冒险)(J) A·RPG 61.25
+0930-Dragon Quest Monsters-Caravan Heart (J) (勇者斗恶龙怪物篇3-旅团之心)(J) RPG 54.25
+0931-Jimmy Neutron vs. Jimmy Negatron (G) (天才男孩吉米中子VS吉米负电子)(G) ACT 31.75
+0932-Gremlins-Stripe Vs Gizmo (E) (魔怪小精灵)(M6) ACT 32.00
+0933-Shin Megami Tensei (J) (真女神转生) (J) RPG 64.00
+0934-Quiere ser Millionario (S) (谁想成为百万富翁) (S) TAB 30.75
+0935-Driver 2 Advance (U) (横冲直撞车2) (E) RCG 56.50
+0936-Ed. Edd n Eddy -Jawbreakers! (U) (Ed Edd 和 Eddy-唠叨的家伙们)(U) ACT 31.50
+0937-Super Monkey Ball Jr. (E) (超级猴球)(E) PUZ 59.75
+0938-Santa Claus Saves the Earth (E) (圣诞老人救地球)(E) ACT 32.00
+0939-Medabots-Rokusho Version (E) (金属机器人大战-六书版) (E) S·RPG 63.75
+0940-Golden Sun 2 -The Lost Age (U) (黄金太阳2-失落的时代) (E) RPG 125.00
+0941-Ninja Cop (E)(忍者刑警) (E) ACT 30.00
+0942-Disney Princess (U) (迪斯尼公主)(E) ACT 57.75
+0943-Bomberman Max 2 Blue (E) (炸弓单人马克思2-蓝版)(M3) ACT 128.00
+0944-Bomberman Max 2 Red (E) (炸弓单人马克思2-红版)(M3) ACT 128.00
+0945-Whistle-Dai 37 Kai Tokyo-to Chuugakkou Sougou Taiiku Soccer Taikai (J)( 哨声响起)(J) TCG 63.75
+0946-Aozoora to Nakamatachi-Yume no Bouken (J)(梦之冒险)(J) ACT 28.25
+0947-Hamtaro-Ham-Ham Heartbreak (U) (哈姆太郎3-恋爱大冒险)(E) AVG 54.50
+0948-Crazy Taxi-Catch a Ride (U)(疯狂出租车)(E) RCG 63.75
+0949-Daredevil (E) (夜魔侠)(M4) ACT 32.00
+0950-Freestyle Scooter (E) (极限时髦滑板车)(E) SPG 32.00
+0951-Mortal Kombat Advance (E) (真人快打)(E) FTG 63.75
+0952-Dancing Sword (J) (舞之刃)(E) ACT 62.00
+0953-The Lost Vikings (U) (失落的维京人3人组)(E) ACT 28.75
+0954-Yu-Gi-Oh! Worldwide Edition (E) (游戏王6-国际版)(M6) CAG 93.75
+0955-X-Men 2-Wolverines Revenge (U)(X战警2-狼人之复仇)(E) ACT 63.00
+0956-Bokujou Monogatari-Mineral Town no Nakama Tachi (J)(牧场物语-矿石镇的朋友们) (J) SLG 60.00
+0957-Exciting Bass (J) (刺激钓鱼)(J) ETC 50.75
+0958-Pink Panther Pinkadelic Pursuit (U)(粉红傻豹大追捕)(E) ACT 64.00
+0959-Sengoku Kakumei Gaiden (J) (战国革命外传)(J) A·RPG 59.00
+0960-Medarot 2 Core Kabuto Version (J) (金属机械器人2 -甲冑版)(J)S·RPG 62.25
+0961-Colin McRea Rally 2 (U) (越野拉力赛车2)(M3) RCG 30.25
+0962-SLOT!PRO 2 Advance GoGo Juggler (J) (专业柏青嫂游戏2-走开骗子)(J) PUZ 12.25
+0963-Sylvania Family 4 (J) (森林之家4)(J) RPG 56.25
+0964-Japan Pro Mahjong Tetsuman Advance (J) (日本职业麻将-徹万)(J) TAB 18.25
+0965-Watashi No Make Salon (J) (我的彩粧世界)(J) SLG 32.00
+0966-Disney Sports Basketball (J) (迪斯尼全明星体育系列-篮球)(J) SPG 101.75
+0967-Eigo Kobuhen Eijukugo Hen 650 Phrases Blue Edition (J) (高校受验系列-英熟語语篇-650片语收錄)(J) ETC 36.25
+0968-Zoid's Saga II (J)(机兽新世纪2)(J) RPG 63.25
+0969-Kisekko Gurumi (J) (魔法之冒险)(J) AVG 61.00
+0970-Medarot 2 Core-Kuwagata Version (J)(金属机器人2- 鍬型虫版)(J)S·RPG 62.25
+0971-Shin Nihon Pro Wrestling Toukon Retsuden Advance (J) (新日本职业摔跤-斗魂烈传)(J) FTG 64.00
+0972-Simple 2960 Tomodachi Series Vol. 2-The Block Kuzushi (J)(简单2960第二集-打砖块障碍崩溃)(J)PUZ 19.00
+0973-Bass Tsuri Shiyouze (J)(钓鲈巡回赛-夺标就是战略)(J) A·RPG 63.25
+0974-Tomb Raider-The Prophecy (J)(古墓丽影-预言)(J) ACT 60.25
+0975-Fancy Pocket (J)(口袋精品店)(J) SLG 25.75
+0976-Oshare Princess 2 And Doubutsu Kyaranabi (J)(奥沙尔公主2和动物占卜)(J)TAB 59.25
+0977-Superman-Countdown to Apokolips (E)(超人回到地球)(M5)ACT 60.00
+0978-Sega Rally Championship (E) (世嘉拉力锦标赛车)(E)RCG 59.00
+0979-Fire Emblem-Rekka no Ken (J)(火炎之纹章-烈火之剑)(J)RPG 128.00
+0980-Summon Night (J)(召唤之夜-铸剑物语1)(J)A·RPG 61.75
+0981-RPG Tsukuru Advance (J)(RPG工具)(J) RPG 64.00
+0982-The Sum of All Fears (U) (恐惧的总和)(M5) STG 61.50
+0983-Hunter X Hunter-Minna Tomodachi Daisakusen (J)(猎人X猎人-热血友情大作战)(J)RPG 123.25
+0984-X-Men 2-La vengeance de Wolverine (F)(X战警2-狼人之复仇)(F) ACT 63.00
+0985-Rayman 3-Hoodlum Havoc (U) (雷曼3-暴徒大破坏)(M3) ACT 64.00
+0986-Azumanga Daioh Advance (J) (漫画大王)(J) CAG 60.00
+0987-Disney Sports Motocross (U) (迪斯尼全明星体育系列-摩托车)(E)SPG 127.25
+0988-Bouken Yuuki Plaston GP (J) (冒险游记GP赛车)(J) RCG 58.25
+0989-Zero One (J) (对与错-是与非)(J) AVG 119.50
+0990-rockman zero 2 (J) (洛克人ZERO2) (J) ACT 64.00
+0991-Simple 2960 Vol.1 (简单2960第一集-桌面游戏) TAB 19.00
+0992-lego drome racers(u) (乐高疯狂赛车)(U) RCG 63.25
+0993-Splinter Cell (U) (分裂细胞)(U) ACT 64.00
+0994-Naruto (J) (火影忍者-最强忍者大集合1) (J) ACT 59.00
+0995-Super Puzzle Fighter II (U) (超级街霸对战方块2)(E) PUZ 63.75
+0996-Castlevania-Minuet Of Dawn (J) (恶魔城-晓月圆舞曲)(J) A·RPG 49.00
+0997-Castlevania-Aria Of Sorrow (E) (恶魔城-晓月圆舞曲)(M3)A·RPG 50.75
+0998-Lufia The Ruins Of Lore (U) (沉默的遗迹-四狂神战记外传)(E) RPG 63.50
+0999-Castlevania-Aria Of Sorrow (U) (恶魔城-晓月圆舞曲)(E)A·RPG 50.75
+1000-Medal of Honor Underground (E) (荣誉勋章)(M4)FPS 62.25
+1001-Tom and Jerry in Infurnal Escape (E) (汤姆和杰利-逃出地狱)(M5)ACT 32.75
+1002-Yu-Gi-Oh! Duel Monsters International (J) (游戏王6-国际版)(M6)CAG 93.75
+1003-Sutekina Obentou (J) (美食家的厨房)(J)ACT 63.75
+1004-Finding Nemo (U) (迪斯尼海底总动员-寻找伦莫)(E)ACT 64.00
+1005-Wario Ware Inc (U) (瓦里奥制造)(E) PUZ 63.25
+1006-Matchbox Cross Town Heroes (E) (城市救火英雄车)(E) ACT 29.50
+1007-Spirit-Stallion of the Cimarron (E) (小马王)(G) AVG 32.00
+1008-Finding Nemo (G) (迪斯尼海底总动员-寻找伦莫)(G) ACT 63.00
+1009-Iridion II (U) (伊登战机II)(E) STG 64.00
+1010-Iridion II (E) (伊登战机II)(M3) STG 64.00
+1011-Buffy The Vampire Slayer-Return of the Dark King (G) (吸血鬼杀手巴菲-返回黑暗世界)(G) ACT 31.75
+1012-Wario Ware Inc. (E) (瓦里奥制造)(M5) PUZ 63.75
+1013-Donkey Kong Country (E) (超级大金刚1)(M5) ACT 64.00
+1014-Sega Arcade Gallery (E) (世嘉街机驾驶类游戏合集)(M5) ETC 64.00
+1015-Britney's Dance Beat (E) (小甜甜布兰妮之舞蹈节拍)(M2) ETC 64.00
+1016-Who Wants to Be a Millionaire (N) (谁想成为百万富翁)(D) PUZ 29.25
+1017-Bratz (E) (跳舞机)(M5) ETC 32.00
+1018-Agassi Tennis Generation (U) (阿加西网球世代)(E) SPG 23.75
+1019-Yu-Gi-Oh! Worldwide Edition-Stairway to the Destined Duel (U) (游戏王6-国际版)(M6) TAB 93.75
+1020-Disney Sports Skateboarding (E) (迪斯尼全明星体育系列-滑板)(M5) SPG 126.25
+1021-Disney Sports Football (E) (迪斯尼全明星体育系列-足球)(M5) SPG 122.75
+1022-Midnight CLub Street Racing (E) (港湾深夜俱乐部-街头狂飙车)(M5) RCG 32.00
+1023-Tottoko Hamutaro 4-Nijiiro Daikoushin Dechu (J) (哈姆太郎4-虹色大行进)(J) AVG 61.25
+1024-Disney Sports Snowboarding (E) (迪斯尼全明星体育系列-滑雪板)(M5) SPG 127.25
+1025-ChessMaster (U) (国际象棋棋大师)(E) TAB 25.75
+1026-Spirit-Stallion Of The Cimarron (E) (小马王)(E) ACT 31.75
+1027-Hamster Monogatari 3 (J) (仓鼠物语3)(J)TCG 63.50
+1028-Woody Woodpecker in Crazy Castle 5 (J) (啄木鸟伍迪闯疯狂城堡5)(J) ACT 32.00
+1029-Okaitoku Series 5-Puzzle & Tantei CollETCion (J) (方块和侦探游戏合集)(J) ETC 24.25
+1030-Getbackers Dakkanoku-Metropolis Dakkan Sakusen (J) (闪灵二人组-首都夺还作战)(J) RPG 64.00
+1031-Tony Hawk's Pro Skater 3 (G) (托尼霍克职业滑板3)(G) SPG 64.00
+1032-Pro Beach Soccer (E) (职业沙滩足球)(M6) SPG 32.00
+1033-The Incredible Hulk (U) (变相怪杰绿巨人)(E) ACT 63.75
+1034-Wing Commander Prophecy (U) (银河飞将-预言)(E) STG 31.00
+1035-Bouken Yuuki Densetsu Plaston Gate (J) (冒险游记-未发现的传说)(J) RPG 64.00
+1036-Rugrats Go Wild (U) (鲁加特野外历险记)(E) ACT 31.25
+1037-Medabots AX: Metabee Version (E) (金属机器人大战AX-蓝蜂版)(M5) FTG 58.50
+1038-Zen-Nippon Shounen Soccer Taikai 2-Mezase Nippon-ichi! (J) (全日本少年足球大会2-目标日本第一)(J) SPG 54.00
+1039-Scooby Doo-Das Spiel zum Film (G) (史诺比鬼屋历险-真人照片版)(G) AVG 32.00
+1040-GT Advanced 3 Pro Concept Racing (E) (GTA职业概念赛车3)(E) RCG 61.75
+1041-Sonic Pinball Party (U) (索尼克弓单珠派对)(M6) PUZ 60.50
+1042-Spider-Man-Der Film (G) (蜘蛛人-电影版)(G) ACT 63.75
+1043-Tom Clancy's Splinter Cell (E) (分裂细胞)(M6) ACT 64.00
+1044-Fortress (E) (堡垒)(E) PUZ 32.00
+1045-Wolfenstein 3D (E) (3D德军总部)(E) FPS 63.50
+1046-MegaMan & Bass (E) (洛克人与佛鲁迪)(E)ACT 59.25
+1047-Gekitou Densetsu Noah-Dream Management (J) (激斗传说拳击-梦幻经理人)(J) SLG 59.75
+1048-Ultimate Muscle: The Path of the Superhero (U) (终极筋肉人-超级英雄之路)(E) FTG 125.75
+1049-The Incredible Hulk (E) (变相怪杰绿巨人)(M5) ACT 63.75
+1050-Wakeboarding Unleashed (U) (极限水上滑板)(E) SPG 63.75
+1051-Angel CollETCion-Mezase! Gakuen no Fashion Leader (J) (天使的收藏品)(J) TCG 42.00
+1052-Mahou no Pumpkin (J) (魔法南瓜头)(J) ACT 32.00
+1053-Crazy Taxi-Catch A Ride (E) (疯狂出租车)(M5) RCG 64.00
+1054-Frogger's Adventure 2-The Lost Wond (E) (青蛙冒险2-失落的权杖)(M5) ACT 64.00
+1055-Donkey Kong Country (U) (超级大金刚1)(E) ACT 64.00
+1056-Dragon Ball Z-The Legacy Of Goku II (E) (七龙珠Z-悟空的遗产传说2)(M5) A·RPG 62.75
+1057-Sega Smash Pack (E) (世嘉街机动作类游戏合集)(E) ETC 63.75
+1058-Disney Sports Motocross (J) (迪斯尼全明星体育系列-摩托车)(J) SPG 128.00
+1059-Disney Sports Snowboarding (J) (迪斯尼全明星体育系列-滑雪板)(J) SPG 122.00
+1060-Advance Wars 2 Black Hole Rising (U) (高级战争2-黑洞的升起)(E) SLG 48.75
+1061-Little League Baseball 2002 (U) (小型棒球联赛2002)(M2)SPG 51.75
+1062-Ninja 5-0 (U) (忍者刑警)(E)ACT 32
+1063-Monster Gate 2 Dai Inaru Dungeon (J) (怪兽之门2)(J) A·RPG 60.50
+1064-Eggo Mania (E) (战斗蛋方块)(M6) PUZ 32.00
+1065-Stuntman (E) (特技人车)(M5) RCG 32.00
+1066-BattleBots-Beyond the Battlebox (E) (战斗机器-超越的战斗空间)(M3) ACT 63.25
+1067-Disney Sports Basketball (E) (迪斯尼全明星体育系列-篮球)(M5) SPG 112.50
+1068-Disney Sports Motocross (E) (迪斯尼全明星体育系列-摩托车)(M5)RCG 128.00
+1069-Mother 1+2 (J) (妈咪1+2)(J) RPG 128.00
+1070-Metal Max 2 Kai (J) (重装机兵2改)(J) RPG 32.00
+1071-Space Channel 5-Ulala's Cosmic Attack (U) (太空频道5-舞啦啦之炫耀攻击)(E) ETC 64.00
+1072-Lego Drome Racers (U) (乐高疯狂赛车)(E) RCG 63.25
+1073-The King of Fighters EX2-Howling Blood (U) (格斗之王EX2-咆哮之血)(E) FTG 63.50
+1074-Justice League-Injustice for All (E) (超人正义联盟)(M5) ACT 60.25
+1075-Hamtaro-Ham-Ham Heartbreak (E) (哈姆太郎3-恋爱大冒险)(M5) AVG 72.25
+1076-Rock n' Roll Racing (U) (摇滚赛车)(E) RCG 31.25
+1077-Pirates of the Caribbean (U) (加勒比海盗)(E) ACT 64.00
+1078-MegaMan Battle Network 3 Blue Version (U) (洛克人战斗网络EXE 3-蓝版)(E)A·RPG 64.00
+1079-Punch King (E) (击倒王)(M3) FTG 63.75
+1080-Megaman Battle Network 3 White Version (E) (洛克人战斗网络EXE 3-白版)(J)A·RPG 64.00
+1081-Stuntman (U) (特技人车)(M3) RCG 32.00
+1082-Jet Grind Radio (E) (喷射小子滑板-街头涂鸦)(E) SPG 64.00
+1083-Simpsons Road Rage (U) (辛普森疯狂大道赛车)(E) RCG 57.25
+1084-Buffy The Vampire Slayer (U) (吸血鬼杀手巴菲-返回黑暗世界)(U) ACT 64.00
+1085-Dragon Ball Z The Legacy Of Goku II (U) (七龙珠Z-悟空的遗产传说2)(M5) A·RPG 64.00
+1086-Disney Princess (G) (迪斯尼公主)(G) ACT 64.00
+1087-Frogger Mahou no Kuni no Daibouken (J) (青蛙冒险2-魔法国大冒险)(J) ACT 63.50
+1088-Hachimon (J) (哈欠妖怪)(J) AVG 29.50
+1089-Hamster Monogatari CollETCion (J) (仓鼠太郎大收藏)(J) AVG 63.00
+1090-Boku No Kuwagata 3 (J) (大家的养育系列3我的盔甲.刀饰)(J)TCG 63.50
+1091-F1 2002 (U) (F1大奖赛车2002)(E)RCG 32.00
+1092-Pokemon Saphire (G) (口袋妖怪蓝宝石)(G) RPG 117.75
+1093-Super Mario Advance 4 (J) (超级马里奥4)(J) ACT 31.25
+1094-Spy Kids 3D Game Over (U) (间谍小子3D-游戏终结)(U) ACT 64.00
+1095-Tootuff-The Gagmachine (E) (坏小子-迪德夫历险记)(M6) AVG 32.00
+1096-Disneys Magical Quest 2 (J) (迪斯尼的米奇老鼠2)(J) ACT 30.25
+1097-Croket 2-Kindan No Bank To Banjyu (J) (馅饼2-黑暗邦克和邦公主)(J) FTG 124.50
+1098-Nakayoshi Pet Advance Series 4-Kawaii Koinu Kogatainuhen (J) (动物伴侣系列四-可爱小狗)(J) TCG 30.75
+1099-Get ! Boku no Mushitsu (J) (捉住我的捕虫日记)(J)TCG 58.00
+1100-Hamster Paradise-Pure Heart (J) (火腿太郎乐园 清纯之心)(J) TCG 62.50
+1101-Wing Commander Prophecy (E) (银河飞将-预言)(M6) STG 31.75
+1102-Bokura no Taiyo (J) (我们的太阳1)(J) A·RPG 119.50
+1103-Sonic Pinball Party (J) (索尼克弓单珠派对)(M5) TAB 60.50
+1104-Pokemon Rubino (I) (口袋妖怪红宝石意大利版)(I) RPG 117.75
+1105-Pokemon Zaffiro (I) (口袋妖怪蓝宝石意大利版)(I) RPG 117.75
+1106-Pokemon Rubin (G) (口袋妖怪红宝石德国版)(G) RPG 117.75
+1107-Onimusha Tactics (J) (鬼武者战略版)(J) SRPG 63.00
+1108-Hamster Club 4 (J) (仓鼠太郎俱乐部4)(J)TCG 63.50
+1109-Pokemon Zafiro (S) (口袋妖怪蓝宝石西班牙版)(S) RPG 117.75
+1110-Pokemon Rubi (S) (口袋妖怪红宝石西班牙版)(S) RPG 117.75
+1111-Pokemon Saphir (F) (口袋妖怪蓝宝石法国版)(F) RPG 117.75
+1112-Dragon Drive (J) (骑龙少年)(J) RPG 59.50
+1113-Shining Soul II (J) (光明之魂2)(J) A·RPG 128.00
+1114-Pokemon Rubis (F) (口袋妖怪红宝石法国版)(F) RPG 117.75
+1115-Disney's Aladdin (J) (迪斯尼-阿拉丁)(J) ACT 30.50
+1116-CT Special Forces 2 (E) (CT特种部队2)(M6) ACT 63.25
+1117-Tales of Phantasia (J) (幻想传说)(J) A·RPG 63.75
+1118-Pokemon Pinball Ruby and Sapphire (J) (口袋妖怪弓单珠台)(J) TAB 53.50
+1119-DetETCive Conan (J) (名侦探柯楠 被阻击的名侦探)(J) A·RPG 63.25
+1120-Super Robot Taisen D (J) (超级机器人大战D) (J) SLG 64.00
+1121-Rockman EXE Battle Chip GP (J) (洛克人EXE战斗芯片锦标赛)(J)A·RPG 63.25
+1122-Top Gear Rally SP (J) (世界顶级拉力车实况赛)(J) RCG 32.00
+1123-Card E-Reader + (J) (卡片读取机+)(J) ETC 54.25
+1124-Shin Megami Tensei-Devil Children-Puzzle De Call (J) (真女神转生-恶魔之子)(J) RPG 26.75
+1125-Expedition Der Stachelbeeren Zoff Im Zoo (G) (狂野丛林-猎杀黑猩猩)(G) ACT 30.50
+1126-Shrek Reekin' Havoc (U) (怪物史瑞克-恶臭大灾难)(M6) ACT 50.75
+1127-Cyberdrive Zoids (J) (网络机械兽世纪)(J) RPG 64.00
+1128-Duel Masters (J) (卡牌决斗高手1)(J) CAG 27.75
+1129-Genso Maden Saiyuki (J) (幻想魔传最游记-叛逆的斗神太子)(J) RPG 60.75
+1130-Wannyan Doubutsu Byouin (J) (宠物医院-动物医生育成计划)(J) TCG 32.00
+1131-Madden NFL 2004 (U) (美式橄榄球2004)(E) SPG 32.00
+1132-Monster Truck Madness (U) (疯狂大脚车)(E) RCG 32.00
+1133-Digimon Battle Spirit (E) (数码暴龙)(M5)ACT 32.00
+1134-Rock n' Roll Racing (E)(摇滚赛车)(E) RCG 31.25
+1135-Pokemon Pinball Ruby and Sapphire (U)(口袋妖怪弓单珠台)(E) TAB 54.00
+1136-Shinyaku Seiken Densetsu (J)(新约圣剑传说)(J) A·RPG 128.00
+1137-Boboboubo_Boubobo 2 (J)(爆裂鼻毛真拳)(J) RPG 61.50
+1138-Mortal Kombat Tournament Edition (U)(真人快打-格斗场)(M5) FTG 127.50
+1139-Disney's Magical Quest 2 (E)(迪斯尼的米奇老鼠2)(M3) ACT 31.25
+1140-Rescue Heroes Billy Blazes (U)(救援英雄-比利布雷斯)(E) ACT 29.00
+1141-Final Fantasy Tactics Advance (U)(最终幻想战略版)(E) SLG 128.00
+1142-Disney Extreme Skate Adventure (U)(迪斯尼究级滑板)(E)SPG 64.00
+1143-Densetsu No Stafi 2 (J)(传说的斯塔菲2)(J) ACT 95.75
+1144-Get Backers-Dakkanoku Jagan Fuuin (J)(闪灵二人组-邪眼封印)(J) RPG 128.00
+1145-Freekstyle (U) (疯狂越野摩托)(E) RCG 59.25
+1146-Rocket Power: Zero Gravity Zone (U) (急速动力-零重力赛场)(E) RCG 63.75
+1147-Power Rangers Ninja Storm (U)(鸟人战队-武士风暴)(E) ACT 31.75
+1148-Starsky and Hutch (E)(一路狂飙之极速双雄)(M5) RCG 32.00
+1149-Gem Smasher (U)(宝石方块也疯狂)(E) PUZ 32.00
+1150-Denki Blocks (U)(合并电击方块)(M2) PUZ 31.25
+1151-Naruto Konoha Senki (J)(火影忍者-木叶战记)(J)RPG 64.00
+1152-Bionicle-The Game (U)(乐高生化战士)(E) ACT 62.75
+1153-Scooby Doo-Mystery Mayhem (U)(史诺比鬼屋历险-隐秘的罪证)(E) AVG 32.00
+1154-Banjo Kazooie-Grunty's Revenge (U)(琴音笛声-格兰蒂的复仇)(E) ADV 64.00
+1155-Golden Sun 2-Die verlorene Epoche (G)(黄金太阳2-失落的时代)(G)RPG 124.00
+1156-Advance Wars 2 (E)(高级战争2-黑洞的升起)(M5)SLG 60.50
+1157-Oshare Princess 3 (J)(奥沙尔公主3)(J)TCG 62.75
+1158-Polly Pocket (E)(波利口袋)(M5)PUZ 31.25
+1159-Disney's Extreme Skate Adventure (E)(迪斯尼究级滑板)(M2) SPG 64.00
+1160-Mr. Nutz (E)(松鼠大进攻)(M5) ACT 32.00
+1161-Boktai-The Sun is in Your Hand (U)(我们的太阳1)(E) A·RPG 119.00
+1162-Golden Sun 2 (S)(黄金太阳2-失落的时代)(S) RPG 124.00
+1163-Golden Sun 2 (F)(黄金太阳2-失落的时代)(F) RPG 124.00
+1164-Shin Kisekae Monogatari (J)(新换装物语)(J) TCG 61.50
+1165-OjaruMaru-Gekkouchou Sanpo de Ojaru (J)(丸少爷-来月光町散步)(J) ADV 31.50
+1166-Doubutsu no Shima no Chobi Gurumi (J)(狄尤小乖乖)(J) TCG 62.50
+1167-Disney's Party (U)(迪斯尼欢乐聚会)(M5) ACT 56.75
+1168-Blackthorne (U)(黑色荆棘之狠将奇兵)(E) ACT 31.25
+1169-Tantei Gakuen Q-Meitantei Hakimida! (U)(侦探学院Q-名侦探就是你)(E) AVG 128.00
+1170-Shin Megami Tensei Devil Children Hi no Sho (J)(真女神转生 冰之书)(J) RPG 63.50
+1171-Shin Megami Tensei Devil Children Honoo no Sho (J)(真女神转生 炎之书)(J) RPG 63.00
+1172-Barbie Horse Adventures (U)(巴比马术赛)(E) SPG 30.00
+1173-Road Rash Jailbreak (U)(暴力摩托车)(E) RCG 32.00
+1174-The Simpsons-Road Rage (E)(辛普森疯狂大道赛车)(M5) RCG 61.25
+1175-Golden Sun 2-L'era Perduta (I)(黄金太阳2-失落的时代)(I) RPG 124.00
+1176-Koinu to Issho-Aijou Monogatari (J)(爱情物语可爱的宠物小狗)(J)TCG 128.00
+1177-Action Replay Gbx (F)(GBA金手指工具)(F)DEMO 1.75
+1178-Disney's Piglet's Big Game (E)(迪斯尼小猪大游戏)(E)ACT 55.00
+1179-Kirby-Nightmare In Dreamland (E) (星之卡比-梦之泉蒂拉克丝)(E)ACT 96.00
+1180-Jimmy Neutron-Jet Fusion (U)(天才小子吉米-喷射熔化)(U)ACT 32.00
+1181-Les Razmoket-Rencontrent Les Delajungle (F)(小淘气丛林历险记)(F)ACT 31.50
+1182-Digimon Battle Spirit 2 (U)(数码宝贝精神大作战2)(U)ACT 32.00
+1183-Battlebots-Design & Destroy (U)(机器人大战-设计与破坏)(U)SLG 31.50
+1184-Jurassic Park Institute Tour (J)(侏罗纪公园创立旅行)(J)ACT 24.50
+1185-Oddworld-Munch's Oddysee (U)(奥蒂世界-奥蒂的咀嚼)(U)ACT 64.00
+1186-Boulder Dash EX (E)(推石小子EX)(E)TAB 32.00
+1187-Megaman Network Battle 3-White Version (E)(洛克人战斗网络EXE 3-白版)(E)A·RPG 64.00
+1188-Zettai Zetsumei Dangerous Jiisan (J)(天才爷爷-史上最强之土下座)(J) RPG 48.75
+1189-Shin Megami Tensei 2 (J)(真女神转生2)(J) RPG 64.00
+1190-Super Mario Advance 4-Super Mario Bros. 3 (E)(超级马里奥4)(E) ACT 36.25
+1191-The Hobbit (E)(魔戒前传-霍比特人历险记)(E) RPG 64.00
+1192-Battle X Battle-Kyodai Gyo Densetsu (J)(战斗X战斗-巨大鱼传说)(J) SPG 30.75
+1193-Pirates of The Caribbean (E)(加勒比海盗)(E)ACT 64.00
+1194-Final Fantasy Tactics Advance (E)(最终幻想战略版)(E)SLG 128.00
+1195-Disneys The Lion King 1.5 (U)(迪斯尼狮子王 1.5)(U) ACT 64.00
+1196-Blackthorne (E)(黑色荆棘之狠将奇兵)(E) ACT 31.75
+1197-Quad Desert Fury (U)(沙漠狂暴人竞技赛车)(U) RCG 31.75
+1198-Namco Museum (E)(南梦宫经典博物馆)(E) ETC 22.25
+1199-Backyard hockey (U)(冰球院场)(U) SPG 31.75
+1200-Crouching Tiger Hidden Dragon (U)(卧虎藏龙)(U) ACT 63.75
+1201-Demikids Dark Version (U)(真女神转生 暗之书)(U) RPG 64.00
+1202-Demikids Light Version (U)(真女神转生 光之书)(U) RPG 63.25
+1203-Barbie Horse Adventures (E)(巴比马术赛)(E) SPG 30.00
+1204-Megaman Battle Network 3 Blue Version (E)(洛克人战斗网络EXE 3-蓝版)(E)A·RPG 64.00
+1205-Mermaid Melody-Pichi Pichi Pitch (J)(人鱼的旋律) ETC 127.50
+1206-Bomberman Jetters Game CollETCion (J)(炸弓单人杰特斯游戏竞技合集)(J) ACT 63.00
+1207-Megaman Zero 2 (U)(洛克人ZERO2)(U) ACT 64.00
+1208-Tak and the Power of Juju (U)(塔克-符咒的神力)(U) ACT 53.50
+1209-Wagamama Fairy Mirumo De Pon Taisen Mahoudrama (J)(任性小妖精咪鲁摩-神奇彩球对战)(J) PUZ 61.00
+1210-Kawaii Pet Game Gallery (J)(可爱小狗游戏合集)(J)TCG 55.00
+1211-Matantei Loki Ragnarok (J)(魔法侦探传奇-幻想之魔境)(J) RPG 29.75
+1212-Super Mario Advance 4 (U)(超级马里奥4)(U) ACT 31.25
+1213-Teenage Mutant Ninja Turtles (U)(忍者神龟)(E) ACT 57.50
+1214-Oriental Blue-Ao no Tengai (J) (天外魔境-青之天外)(J) RPG 126.00
+1215-Power Rangers-Ninja Storm (E) (鸟人战队-武士风暴)(M3) ACT 32.00
+1216-Banjo Kazooie-Gruntys Revenge (E) (琴音笛声-格兰蒂的复仇)(E) AVG 64.00
+1217-Legend of Dynamic-Goushouden (J) (豪翔传-崩界的轮舞曲)(J) RPG 64.00
+1218-Super Duper Sumos (U) (超级笨蛋相扑手)(E) ACT 31.00
+1219-Bionicle The Game (E) (乐高生化战士)(M4) ACT 62.75
+1220-Disney Princess (F) (迪斯尼公主)(F) ACT 64.00
+1221-Lizzie McGuire On The Go (U) (平民天后1)(U) ACT 31.50
+1222-Top Gear Rally (E) (顶级拉力赛车)(M5) RCG 64.00
+1223-Batman Rise of Sin Tzu (U) (蝙蝠侠-辛特组的复活)(M3) ACT 63.50
+1224-Disneys Lion King (U) (迪斯尼狮子王)(M8) ACT 64.00
+1225-Spyro-Attack of the Rhynocs (U) (小龙斯派罗-瑞诺西斯的攻击)(E) ACT 57.00
+1226-Tony Hawks Underground (U) (托尼·霍克地下滑板1)(U) SPG 64.00
+1227-Operation Armored Liberty (U) (反击捍卫自由)(U) STG 13.50
+1228-Megaman Zero 2 (E) (洛克人ZERO 2)(E) ACT 64.00
+1229-Frogger's Journey-The Forgotten Relic (U) (青蛙冒险-古文明之谜)(E) A·RPG 63.00
+1230-Top Gear Rally (U) (顶级拉力赛车)(E) RCG 32.00
+1231-Harry Potter-Quidditch World Cup (U) (哈里波特-魁地奇世界杯)(M5) SPG 64.00
+1232-Prince of Persia-The Sands of Time (U) (波斯王子-时之沙)(M3) ACT 63.75
+1233-Sponge Bob Square Pants Battle for Bikini Bottom (U) (超级海绵巴伯-比基尼岛的冒险)(E) ACT 64.00
+1234-Hugo-Bukkazoom! (E)(瓢虫汽车赛)(M12) RCG 30.25
+1235-Fire Emblem (U) (火炎之纹章-烈火之剑)(E) 128.00
+1236-Lord of the Rings-The Return of the King (U) (指环王-王者归临)(M5) A·RPG 128.00
+1237-Pokemon-Sapphire Version v1.1 (E) (口袋妖怪-蓝宝石V1.1版)(E) RPG 117.50
+1238-FIFA 2004 (U) (FIFA足球 2004)(E) SPG 57.25
+1239-Sonic Pinball Party (E) (索尼克弓单珠派对)(E) TAB 60.50
+1240-Yu-Gi-Oh! The Sacred Cards (U) (游戏王-神圣的卡片)(E) CAG 128.00
+1241-Disney Brother Bear (U) (迪斯尼小熊的兄弟们)(E) ACT 63.25
+1242-Pokemon Ruby v1.1 (E) (口袋妖怪-红宝石V1.1版)(E) RPG 117.50
+1243-Fairly Odd Parents Breakin Da Rules (U) (正义双亲之叛逆的惩罚)(E) ACT 32.00
+1244-Dr Deuss The Cat in The Hat (U) (爱戴帽子的猫博士)(E) ACT 28.50
+1245-Pokemon Pinball Ruby and Sapphire (E) (口袋妖怪弓单珠台)(M5) TAB 127.25
+1246-Mario and Luigi-Superstar Saga (E) (马里奥和路易-超巨星传说)(M5) RPG 127.00
+1247-Shanghai (J) (上海)(J) TAB 14.25
+1248-Yu-Gi-Oh! Dungeondice Monsters (E) (游戏王-怪兽龙门骰)(M5) TAB 64.00
+1249-Tiger Woods PGA Tour 2004 (U) (老虎伍兹职业高尔夫2004PGA巡回赛)(E)SPG 122.75
+1250-Buffy Contre Les Vampires-La Colere De Darkhul (吸血鬼杀手巴菲-返回黑暗世界)(F) ACT 31.75
+1251-SSX 3 (U)(疾风滑雪板3)(U) SPG 64.00
+1252-Prince of Persia-The Sands of time (U)(波斯王子-时之沙)(U) ACT 64.00
+1253-Beyblade Vforce-Ultimate Blader Jam (U)(爆转陀螺王)(U) SPG 59.00
+1254-Slime Morimori Dragon Quest-Shougeki no Shippo Dan (J)(勇者斗恶龙之元气史莱姆-冲击的尾巴团)(J) A·RPG 62.75
+1255-Minna no Mahjong (J)(全民麻将)(J) TAB 12.25
+1256-Sanrio Puroland All Characters(J)(三丽鸥漫画全明星)(J) TAB 31.75
+1257-Minna no Soft Series-Zooo(J)(动物饲养员)(J) PUZ 29.50
+1258-Onimusha Tactics (U)(鬼舞者战略版)(U) S·RPG 64.00
+1259-Justice League Chronicles (U)(正义联盟历代记)(U) ACT 61.75
+1260-Cartoon Network-Speedway (U)(卡通网-高速飙车)(U) RCG 30.75
+1261-Disney's Magical Quest 2 Starring Mickey & Minnie (U)(迪斯尼的米奇老鼠2)(U) ACT 31.25
+1262-Crash Nitro Kart (U)(古惑狼赛车)(U) RCG 64.00
+1263-Ultimate Beach Soccer (U)(沙滩足球)(U) SPG 32.00
+1264-The Hobbit (U)(魔戒前传-霍比特人历险记)(U) RPG 64.00
+1265-Spirits and Spells (U)(幽灵与符咒)(U) ACT 32.00
+1266-Double Dragon Advance (U)(双截龙)(U) ACT 31.50
+1267-Sword of Mana (U)(新约圣剑传说)(U) A·RPG 128.00
+1268-Harvest Moon-Mineral Town (U)(牧场物语-矿石镇的朋友们)(U) SLG 59.00
+1269-Finding Nemo (E)(迪斯尼海底总动员-寻找伦莫)(E)ACT 64.00
+1270-Spyro Adventure (E)(小龙斯派罗-瑞诺西斯的攻击)(E)ACT 60.75
+1271-Looney Tunes-Back in Action (U)(华纳明星总动员)(U)ACT 61.75
+1272-Disneys Magical Quest 3 (J) (迪斯尼米老鼠和唐老鸭3)(J)ACT 32.00
+1273-Spy Kids 3-D (E)(非常间谍小子3D)(E)ACT 64.00
+1274-Disney's Kim Possible (E)(迪斯尼之麻辣女孩1)(E)ACT 64.00
+1275-James Bond 007 Everything or Nothing (U)(詹姆斯邦德007-谁与争锋)(U)ACT 61.75
+1276-Medal of Honor Infiltrator (U)(荣誉勋章-渗透者)(U)STG 120.25
+1277-Mario & Luigi Superstar Saga (U)(马里奥和路易-超巨星传说)(U)RPG 127.00
+1278-Terminator 3 Rise Of The Machines (E)(魔鬼终结者3机器的崛起)(E)ACT 64.00
+1279-Beyblade V-Force Ultimate Blader Jam (U)(爆转陀螺王-力量之最终冲击)(U)TAB 59.00
+1280-Terminator 3 Rise Of The Machines (U) (魔鬼终结者3机器的崛起)(U)ACT 59.00
+1281-CIMA The Enemy (U) (开拓者物语-半兽敌人)(U)A·RPG 55.75
+1282-Star Wars Flight of the Falcon (U) (星球大战-猎鹰飞行队)(U)STG 64.00
+1283-Mario and Luigi RPG (J)(马里奥和路易-超巨星传说)(J)RPG 127.00
+1284-Star Wars Flight of the Falcon (E) (星球大战-猎鹰飞行队)(M3)STG 64.00
+1285-Harry Potter Quidditch World Cup (J) (哈里波特-魁地奇世界杯)(J)SPG 64.00
+1286-Sim City 2000 (E)(模拟城市2000)(E)SLG 30.50
+1287-Mucha Lucha Mascaritas of the Lost Code (U)(穆夏露萨-马卡三人组丢失的密码)(U)ACT 31.25
+1288-Dr Seuss Green-Eggs and Ham (U) (苏斯格林博士-火腿与鸡蛋)(U)TAB 27.25
+1289-American Idol (U) (美国偶像超巨星节拍)(U)TAB 127.50
+1290-Teenage Mutant Ninja Turtles (E)(忍者神龟)(M5) ACT 64.00
+1291-Hot Wheels-World Race (E)(火热飞轮-世界赛车)(E) RCG 58.00
+1292-F-Zero-Falcon Densetsu (J)(零式赛车-猎鹰传说)(J) RCG 99.75
+1293-Crash Nitro Kart (E)(古惑狼赛车)(M6) RCG 64.00
+1294-SD Gundam G Generation Advance (J)(SD高达G世纪)(J) SLG 126.50
+1295-Hot Wheels-World Race (U)(火热飞轮-世界赛车)(E) RCG 58.00
+1296-Oddworld-Munch's Oddysee (G)(阿比逃亡记-奇异世界)(G)ACT 64.00
+1297-Dragon Ball Z Taiketsu (U)(七龙珠Z-对决)(E) FTG 63.75
+1298-Crouching Tiger Hidden Dragon (E)(卧虎藏龙)(M5) ACT 64.00
+1299-Worms World Party (U)(百战天虫2)(M5) PUZ 31.00
+1300-Dora The Explorer-Super Spies (U)(探险家朵拉-超级间谍)(E) ACT 30.25
+1301-Premier Manager 2003-04 (E)(职业足球经理2003-2004)(M4) TCG 31.00
+1302-Mission Impossible-Operation Surma (E)(碟中谍-舍马行动)(M5) AVG 32.00
+1303-Gachaste! Dino Device 2 Dragon (J)(转转蛋怪兽蛋2-龙版)(J) S·RPG 32.00
+1304-Gachaste! Dino Device 2 Phoenix (J)(转转蛋怪兽蛋2-凤凰版)(J) S·RPG 32.00
+1305-Onimusha Tactics (E)(鬼舞者战略版)(E) SLG 64.00
+1306-Lizzie McGuire (E)(平民天后1)(M4) ACT 31.75
+1307-Power Pro Kun Pocket 6 (J)(实况Q版口袋棒球6)(J) TCG 63.75
+1308-Yu Yu Hakusho Spirit DetETCive (U)(幽游白书-灵界侦探)(E)A·RPG 64.00
+1309-Sonic Battle (J)(索尼克战斗)(J) ACT 128.00
+1310-Pazunin Uminin No Puzzle de Nimu (J)(魔幻弓单力球)(J) PUZ 32.00
+1311-Deutschland Sucht Den Superstar (G)(美国偶像超巨星节拍)(U) ETC 126.25
+1312-The Sims Bustin Out (U)(模拟人生-纯属意外)(U)TCG 127.00
+1313-Activision Anthology (U)(亚特逊经典老游戏合辑)(U)TAB 61.25
+1314-Ultimate Winter Games (U)(终极冬季运动会)(U)SPG 63.50
+1315-Game Watch Gallery 4 (U)(任天堂GAME&WATCH博物馆4)(U)TAB 31.75
+1316-Koinu-Chan no Hajimete no Osanpo-Koinu no Kokoro Ikusei Game (J)(可爱小狗养育计划)(J)TCG 39.25
+1317-Cinnamoroll Kokoniiruyo (J)(长耳狗-就在这里)(J)PUZ 28.75
+1318-Sitting Ducks (E)(坐坐鸭)(M6)AVG 28.50
+1319-Rockman EXE 4 Tournament Blue Moon (J)(洛克人战斗网络EXE 4-蓝月亮)(J)A·RPG 63.00
+1320-Rockman EXE 4 Tournament Red Sun (J)(洛克人战斗网络EXE 4-红太阳)(J)A·RPG 63.00
+1321-Peter Pan-The Movie (U)(迪斯尼小飞侠电影版)(E)AVG 32.00
+1322-Card Captor Sakura-Sakura Card de Mini Game (J)(库洛魔法使-魔卡少女樱的小游戏集合)(J)ACT 32.00
+1323-Konjiki no Gashbell!-Unare! Yujyo no Zakeru (J)(魔界小金毛-共鸣友情的电击)(J)FTG 64.00
+1324-Bokujou Monogatari-Mineral Town no Nakamatachi For Girls (J)(牧场物语-矿石镇的伙伴们-女孩篇)(J)SLG 79.25
+1325-Spy Muppets-License to (E)(木偶间谍-特遣青蛙)(M6)ETC 63.00
+1326-Croket! 3-Guranyuoukoku no Nazo (J)(馅饼3-砂糖王国之谜)(J)FTG 126.25
+1327-Gegege no Kitarou-Kikiippatsu! Youkai Rettou (J)(鬼太郎-危机一发妖怪列岛)(J)A·RPG 128.00
+1328-The King of Fighters EX2-Howling Blood (U)(格斗之王EX2-嚎叫的血液)(E)FTG 63.50
+1329-Wagamama Fairy Mirumo de Pon!-8 Nin no Toki no Yousei (J)(任性妖精Mirumo-八目妖精)(J)FTG 57.00
+1330-Super Donkey Kong (J)(超级大金刚1)(J)ACT 64.00
+1331-Finding Nemo (J)(迪斯尼海底总动员-寻找伦莫)(J)ACT 64.00
+1332-Astro Boy Tetsuwan Atom (J)(铁臂阿童木-阿童木心之秘密)(J)ACT 63.75
+1333-Disney Sports Snowboarding (U)(迪斯尼全明星体育系列-滑雪板)(E)SPG 122.50
+1334-Crash Bandicoot Advance 2-Gurugurusaimin Dai Panic (J)(古惑狼2)(J)ACT 63.50
+1335-Max Payne (U)(英雄本色-马克思·佩恩)(E)ACT 124.75
+1336-Tetris Advance (J)(新俄罗斯方块Advance)(J)TAB 32.00
+1337-Ochaken no Heya (J)(小狗的窝)(J)TCG 58.50
+1338-Need For Speed Underground (U)(极品飞车-地下狂飙)(M4)RCG 63.75
+1339-Silvanian Family -Yousei no Stick to Fushigi no Marroine no Onnanoko (J)(妖精之杖-不可思议的大树)(J)PUZ 61.00
+1340-Simple 2960-Vol. 4-The Trump (J)(简单2960第四集-王牌扑克)(J)CAG 5.75
+1341-WanWan Meitantei (J)(汪汪名侦探)(J)PUZ 38.25
+1342-Ashita No Joe (J)(小拳王-赤热之战)(J)FTG 113.75
+1343-Sim City 2000 (U)(模拟城市2000)(E)SLG 30.25
+1344-LEGO Racers 2 (E)(乐高赛车2)(M8)RCG 63.25
+1345-Altered Beast (E)(兽王记-王国的守护者)(M5)FTG 63.50
+1346-Tekken Advance (E)(铁拳)(E)FTG 63.75
+1347-Minna No Ojisama (J)(网球王子-大家的王子)(J)CAG 238.50
+1348-Gekido Advance-Kintaros Revenge (U)(究级截拳道)(E)ACT 51.50
+1349-ESPN International Winter Sports (E)(ESPN盐湖城冬季奥运2002)(E)SPG 31.25
+1350-Gojira Kaiju Dairanto Advance (J)(哥斯拉怪兽大乱斗)(J)FTG 30.75
+1351-Sonic Battle (U)(索尼克战斗)(M6)ACT 125.00
+1352-Hyokkori Hyotanjima Don Gabacho Daikastuyuka no Maki (J)(全民游戏系列之葫芦孤岛漂流记)(J)PUZ 28.50
+1353-Shining Soul (U)(光明之魂1)(E)A·RPG 64.00
+1354-Freekstyle (E)(疯狂越野摩托)(M5)RCG 59.25
+1355-Road Rash Jailbreak (E)(暴力摩托车)(M5)RCG 32.00
+1356-Baldur's Gate-Dark Alliance (U)(博得之门-黑暗联盟)(E)A·RPG 64.00
+1357-Gyakuten Saiban 3 (J)(逆转裁判3)(J)AVG 64.00
+1358-Tiny Toon Adventure Wacky Stacker (U)(宾尼兔冒险-古怪蛋方块)(E)PUZ 29.25
+1359-The Sims (J)(模拟人生-纯属意外)(J)SLG 119.25
+1360-Pokemon FireRed (J)(口袋妖怪-火红)(J)RPG 127.00
+1361-Super Bubble Pop (E)(超级立体泡泡)(E)PUZ 30.00
+1362-Pokemon Leaf Green (J)(口袋妖怪-绿叶)(J)RPG 127.00
+1363-Scooby-Doo-Mystery Mayhem (E)(史诺比鬼屋历险-隐秘的罪证)(E)ACT 32.00
+1364-Yu-Gi-Oh!The Sacred Cards (E)(游戏王-神圣的卡片)(J)CAG 127.25
+1365-Disney's Brother Bear (E)(迪斯尼小熊的兄弟们)(E)ACT 64.00
+1366-Yu-Gi-Oh! Duel Monsters Expert 3 (J)(游戏王Expert3)(J)CAG 99.00
+1367-SpongeBob SquarePants-Battle for Bikini Bottom (E)(超级海绵巴伯-比基尼岛的冒险)(E)ACT 63.75
+1368-Baldur’s Gate Dark Alliance (E)(博得之门-黑暗联盟)(E)A·RPG 64.00
+1369-Mr Driller 2 (E)(钻子先生2)(E)PUZ 31.50
+1370-Metroid Zero Mission (U)(银河战士2-初始任务)(U)A·RPG 63.75
+1371-Puyo Pop (E)(魔法气泡扑呦扑呦-气泡大会战1)(E)PUZ 49.75
+1372-Disney Principesse (I)(迪斯尼公主)(I)ACT 64.00
+1373-Corvette (U)(克尔维特汽车-50周年纪念)(U)RCG 62.75
+1374-Ozzy and Drix (E)(捍卫战士)(E)ACT 63.75
+1375-Mermaid Melody Pichipichi Pitch Pichipichi Party (J)(人鱼旋律)(J)TCG 126.75
+1376-Jet Set Radio (E)(喷射小子滑板-街头涂鸦)(E)SPG 64.00
+1377-Need For Speed Porsche Unleashed (E)(极品飞车-宝石捷之旅)(M5)RCG 31.75
+1378-Yu-Gi-Oh! World Championship 2004 (U)(游戏王-世界锦标赛2004)(M6)CAG 99.00
+1379-CT Special Forces (U)(CT特种部队1)(M6) 27.50
+1380-Bruce Lee Return of the Legend Vivendi Universal (U)(李小龙-英雄再现)(E)ACT 62.25
+1381-Famicom Mini-Vol.3-Ice Climbers (J)(任天堂FC珍藏游戏系列第3辑-冰人)(J)ACT 1.25
+1382-Famicom Mini-Vol.7-Xevious (J)(任天堂FC珍藏游戏系列第7辑-铁板阵)(J)ACT 1.25
+1383-Famicom Mini-Vol.1-Super Mario Bros (J)(任天堂FC珍藏游戏系列第1辑-超级马里奥)(J)ACT 1.50
+1384-Pitfall-The Lost Expedition (E)(玛亚历险记-迷失的探险队)(E)AVG 63.75
+1385-Famicom Mini-Vol.2-Donkey Kong (J)(任天堂FC珍藏游戏系列第2辑-大金钢)(J)ACT 1.25
+1386-Famicom Mini-Vol.5-Zelda no Densetsu (J)(任天堂FC珍藏游戏系列第5辑-赛尔达传说)(J)ACT 1.00
+1387-Famicom Mini-Vol.8-Mappy (J)(任天堂FC珍藏游戏系列第8辑-快乐鼠)(J)ACT 1.25
+1388-Chessmaster (G)(国际象棋大师)(G)TAB 25.75
+1389-Harvest Moon Friends of Mineral Town (G)(牧场物语-矿石镇的朋友们)(G)SLG 58.50
+1390-Famicom Mini-Vol.10-Star Soldier (J)(任天堂FC珍藏游戏系列第10辑-雷鸟号)(J)ACT 0.755
+1391-Famicom Mini-Vol.4-Excite Bike (J)(任天堂FC珍藏游戏系列第4辑-机车大赛)(J)ACT 0.500
+1392-Famicom Mini-Vol.9-Bomberman (J)(任天堂FC珍藏游戏系列第9辑-炸弓单人)(J)ACT 0.50
+1393-Famicom Mini-Vol.6-Pacman (J)(任天堂FC珍藏游戏系列第6辑-吃豆)(J)ACT 1.25
+1394-Peter Pan-The Motion Picture Event (E)(迪斯尼小飞侠电影版)(M5)AVG 32.00
+1395-Pitfall-The Lost Expedition (F)(玛亚历险记-迷失的探险队)(F)AVG 63.75
+1396-Finding Nemo (E)(迪斯尼海底总动员-寻找伦莫)(E)ACT 64.00
+1397-Gakuen Senki Muryou (J)(学院战记无量)(J)RPG 45.25
+1398-Banjo Kazooie La Vendetta Di Grunty (I)(琴音笛声-格兰蒂的复仇)(I)AVG 64.00
+1399-Monsters Inc (E)(迪斯尼怪兽公司)(E)ACT 31.75
+1400-River City Ransom EX (J)(热血物语EX)(J)ACT 28.50
+1401-Atari Anniversary Advance (U)(雅达利纪念游戏合集)(U)STG 27.00
+1402-Snood (U)(怪投射波)(U) PUZ 32.00
+1403-Megaman Battle Chip Challenge (U) (洛克人EXE战斗芯片锦标赛)(E)A·RPG 61.75
+1404-Taiketsu Ultra Hero (J)(激斗英雄奥特曼)(J)FTG 64.00
+1405-Personal or Ganizer Pda (U)(个人商务PDA)(U) 2.75
+1406-Guilty Gear X Advance (U)(罪恶客星X)(U)FTG 63.50
+1407-Shining Soul 2 (E)(光明之魂2)(E)A·RPG 128.00
+1408-Splinter Cell Pandora Tommorow (E)(分裂细胞明日潘多拉)(E) ACT 64.00
+1409-One Piece-Going Baseball (J)(海贼王热血棒球)(J) SPG 45.75
+1410-Disney s Aladdin (E) (迪斯尼-阿拉丁)(E)ACT 30.50
+1411-Pop Idol UK (E)(美国偶像超巨星节拍)(E)ETC 127.50
+1412-Sabre Wulf (E)(剑齿虎)(E)ACT 63.75
+1413-Tak and The Power of JuJu (E)(塔克-符咒的神力)(E)ACT 55.25
+1414-Dr Deuss The Cat in The Hat (E)(爱戴帽子的猫博士)(E)ACT 29.75
+1415-Sword of Mana (E)(新约圣剑传说)(E) A·RPG 128.00
+1416-Yu-Gi-Oh Sugoroku No Sugoroku (J)(游戏王 双六的骰子)(J) CAG 51.75
+1417-Scooby Doo 2 Monsters Unleashed (U)(史诺比2-脱缰的怪物)(U)ACT 59.25
+1418-R-Type III (U)(R飞行队III)(U)STG 27.00
+1419-Megaman Battle Chip Challenge (E)(洛克人EXE战斗芯片锦标赛)(E)A·RPG 61.75
+1420-Dragon Ball Z Taiketsu (E)(七龙珠Z-对决)(E)FTG 64.00
+1421-Max Payne Advance (E) (英雄本色-马克思·佩恩)(E)ACT 125.50
+1422-Sword of Mana (E) (新约圣剑传说)(E) A·RPG 128.00
+1423-Disneys Magical Quest 3 (E) (迪斯尼-米老鼠和唐老鸭3) (E) ACT 33.25
+1424-Wade Hixtons Counter Punch(E)(维德-汉克斯的反击)(J)FTG 63.00
+1425-Tantei Gakuen Q Kyukyoku Trick ni Idome (J)(侦探学院Q-挑战最强诡计)(J)AVG 128.00
+1426-Mermaid Melody Pichi Pichi Picchi Pichi Ppichitto Live Start (J)(美人鱼之韵 活力之舞 活力现场演奏会)(J)ETC 255.00
+1427-Dragon Ball Zbukuu Tougeki(J)(七龙珠Z-舞空斗剧)(J) FTG 128.00
+1428-Double Dragon Advance (J)(双截龙)(J) ACT 31.25
+1429-Simple 2960 vol 3-The Itsudemo Puzzle(J)(简单2960第三集-2960 随时解谜) 15.50
+1430-Full Metal Alchemist (J)(钢之炼金术士 迷走之轮舞曲)(J) RPG 64.00
+1431-Franklin The Turtle(E)(海龟富兰克林)(E)PUZ 31.50
+1432-Harvestmoon-Friends of Mineral Town (E)(牧场物语-矿石镇的朋友们) (E) SLG 59.00
+1433-The Powerpuff Girls-Mojo JoJo a Go Go (E)(喷气女孩-魔女啾啾Go)(E)ACT 32.00
+1434-Dexters Laboratory-Deesaster Strikes (E)(德克斯特幸运的实验室)(E)ACT 31.50
+1435-Yu-Gi-Oh! World Championship 2004 (E)(游戏王-世界锦标赛2004)(E)CAG 99.00
+1436-The Jungle Book (U)(丛林之书)(E)ACT 63.25
+1437-Street Jam Basketball (U) (街头篮球)(E)SPG 31.75
+1438-Duel Masters 2 (J)(卡片对决高手2)(J)CAG 61.75
+1439-Liliput Oukoku (J)(小人国游记)(J)AVG 60.00
+1440-Boboboubo Boubobo 9 Kiwame Senshi Gyagu Yuugou (J)(9极战士-恶搞融合)(J)RPG 124.75
+1441-Digimon Racing (J)(数码宝贝赛车)(J)RCG 63.25
+1442-Animal Snap Rescue Them 2 By 2 (U)(动物方块-拯救它们)TAB 17.00
+1443-David Beckham Soccer Proper (U)(大卫·贝克汉姆足球)(E)SPG 17.00
+1444-Antz Extreme Racing (U)(小蚁雄兵 极限赛车)(E)RCG 14.50
+1445-CT Special Forces 3 Bioterror (E)(CT 特种部队3)(E)ACT 62.75
+1446-Demon Drive Time to Burn Rubber (U)(魔鬼驾驶员 时间燃烧车)(E)RCG 29.75
+1447-Mission Impossible Operation Surma (U)(不可能完成的任务)(E)ACT 28.50
+1448-Home On The Range (U)(迪斯尼牧场是我家)(E)ACT 60.50
+1449-Sound of Thunder (E)(雷霆之音)(M6)AVG 61.50
+1450-Ice Nine (E)(冰冻九号)(M6)FPS 63.50
+1451-Scooby Doo 2-Monster Unleashed (E)(史诺比2-脱缰的怪物)(M5)ACT 57.75
+1452-Metroid Zero Mission (E)(银河战士2-零点任务)(M5)A·RPG 63.75
+1453-Pikapika Nurse Monogatari (J)(亮丽护士物语-活泼护士养成游戏)(J)TCG 30.00
+1454-Hoshi no Kirby Kagami no Daimeikyuu (J)(星之卡比-镜之谜宫)(J)ACT 124.25
+1455-FightBox (E)(格斗大会)(E)ACT 32.00
+1456-Bookworm (U)(书虫)(E)PUZ 31.00
+1457-Rockman Zero 3 (J)(洛克人ZERO3)(J)ACT 64.00
+1458-Mario Golf Advance Tour (J)(马里奥高尔夫巡回赛)(J)SPG 123.75
+1459-Shifting Gears-Road Trip (U)(迷你Q版赛车2代变速齿轮之公路旅行)(E)RCG 31.75
+1460-Shining Soul II (U)(光明之魂2)(E)A·RPG 128.00
+1461-Card Captor Sakura Card Friends (J)(库洛魔法使-卡片朋友)(J)TCG 126.75
+1462-Zettai Zetsumei Dangerous Jiisan 2 (J)(天才爷爷2)(J)RPG 57.25
+1463-Uchu No Stellvia (J)(宇宙学院)(J)RPG 64.00
+1464-Pia Carrot e Youkoso 3.3 (J)(绯色茶餐厅)(J)TCG 61.00
+1465-Serious Sam Advance (U)(英雄萨姆A)(M3)FPS 61.00
+1466-Ten Pin Alley 2 (U)(大满贯保龄球)(E)SPG 17.75
+1467-Digimon Racing (E)(数码暴龙赛车)(M5)RCG 63.75
+1468-Super Collapse 2 (U)(超级坍塌方块)(E)TAB 13.25
+1469-Naruto Saikyou Ninja Daikessyu 2 (J)(火影忍者-最强忍者大集合2)(J)ACT 55.75
+1470-Shining Force ResurrETCion of the Dark Dragon (E)(光明力量-暗黑龙的复活)(M5)SLG 79.25
+1471-Lord of the Rings Ou No Kikan (J)(指环王-王者归来)(J)A·RPG 127.25
+1472-Shiren Monsters Netsal (J)(风来西林怪兽足球)(J)TCG 119.25
+1473-The Prince of Tennis 2004 Stylish Silver (J)(网球王子-时尚之银)(J)SPG 243.25
+1474-The Prince of Tennis 2004 Glorious Gold (J)(网球王子-光荣之金)(J)SPG 243.25
+1475-Pyuu to Fuku Jaguar Byo to Deru Megane kun (J)(眼睛君)(J)ACT 60.50
+1476-One Piece-Nanatsu Shima no Daihihou (K)(海贼王-七岛大秘宝)(K)A·RPG 64.00
+1477-Shrek 2 (U)(怪物史瑞克2)(E)ACT 64.00
+1478-Van Helsing (U)(范海辛)(E)AVG 32.00
+1479-Crayon Shin-Chan-Arashi no Yobu Cinema-Land no Daibouken! (J)(蜡笔小新-电影乐园大冒险)(J)ACT 128.00
+1480-Serious Sam Advance (E)(英雄萨姆A)(M3)FPS 61.00
+1481-Steel Empire (J)(钢铁帝国)(J)STG 14.50
+1482-Kidou Senshi Gundam Seed-Tomo to Kimi to koko de. (J)(机动战士高达SEED-友情篇)(J)A·RPG 61.25
+1483-Boktai-The Sun is in Your Hand (E)(我们的太阳1)(M5)A·RPG 123.00
+1484-Van Helsing (E)(范海辛)(M5)AVG 32.00
+1485-SpongeBob Square Pants Volume 1 (U)(GBA电影-超级海绵巴伯第1卷)(E)MOV 254.75
+1486-SpongeBob Square Pants Volume 2 (U)(GBA电影-超级海绵巴伯第2卷)(E)MOV 255.25
+1487-Fairly Odd Parents Volume 2 (U)(GBA电影-反斗家族第2卷)(E)MOV 255.25
+1488-007-Everything or Nothing (J)(詹姆斯邦德007-谁与争锋)(J)ACT 61.25
+1489-Mario Vs. Donkey Kong (J)(马里奥对大金刚)(E)ACT 122.25
+1490-Sonic Advance 3 (U)(索尼克3)(M6)ACT 116.00
+1491-Gadget Racers (E)(迷你Q版赛车2代变速齿轮之公路旅行)(M3)RCG 33.50
+1492-Famicom Mini Vol 19-Twin Bee (J)(任天堂FC珍藏游戏系列第19辑-兵蜂)(E)ACT 32.00
+1493-Famicom Mini Vol 13-Ballon Fight (J)(任天堂FC珍藏游戏系列第13辑-气球岛)(E)ACT 32.00
+1494-Famicom Mini Vol 18-Makaimura (J)(任天堂FC珍藏游戏系列第18辑-魔界村)(J)ACT 32.00
+1495-Famicom Mini Vol 16-Dig Dug (J)(任天堂FC珍藏游戏系列第16辑-充气人)(E)ACT 32.00
+1496-Famicom Mini Vol 11-Mario Bros. (J)(任天堂FC珍藏游戏系列第11辑-马里奥兄弟)(E)ACT 32.00
+1497-Famicom Mini Vol 17-Takahashi Meijin No Boukentou (J)(任天堂FC珍藏游戏系列第17辑-高桥名人的冒险岛)(J)ACT 32.00
+1498-Famicom Mini Vol 20-Ganbare Goemon Karakuri Doucyu (J)(任天堂FC珍藏游戏系列第20辑-大盗伍右卫门)(J)ACT 32.00
+1499-Famicom Mini Vol 14-Wrecking Crew (J)(任天堂FC珍藏游戏系列第14辑-拆屋工)(E)ACT 32.00
+1500-Famicom Mini Vol 15-Dr. Mario (J)(任天堂FC珍藏游戏系列第15辑-马里奥医生)(E)ACT 32.00
+1501-Famicom Mini Vol 12-Clu Clu Land (J)(任天堂FC珍藏游戏系列第12辑-滚球乐园)(E)ACT 32.00
+1502-River City Ransom EX (U)(热血物语EX)(E)ACT 27.75
+1503-Harry Potter and the Prisoner of Azkaban (U)(哈利波特与阿兹卡班的逃犯)(E)A·RPG 125.75
+1504-Tokyo Majin Gakuen-Fuju Houroku (J)(东京魔人学院-符咒封禄)(J)CAG 128.00
+1505-GBA Video-Dora the Explorer-Volume 1 (U)(GBA电影-小冒险家朵拉第1卷)(E)MOV 256.00
+1506-Mighty Beanz Pocket Puzzles (U)(豆仔口袋方块)(E)PUZ 32.00
+1507-GBA Video-Sonic X-Volume 1 (U)(GBA电影-音速小子X第1卷)(E)MOV 255.25
+1508-F-Zero GP Legend (E)(零式赛车-GP传说)(M5)RCG 107.75
+1509-Crash Bandicoot Purple Riptos Rampage (U)(古惑狼 暴跳的罗彼德与紫色宝贝龙)(E)ACT 128.00
+1510-Spyro Orange the Cortex Conspiracy (U)(宝贝龙 阴谋的本质与橙色古惑狼)(E)ACT 126.00
+1511-Duel Masters Sempai Legends (U)(卡片决斗高手-永恒的传说)(E)CAG 58.50
+1512-NES Classic Legend of Zelda (U)(经典任天堂-塞尔达传说)(E)A·RPG 8.00
+1513-Sonic Battle (E)(索尼克战斗)(M6)ACT 128.00
+1514-NES Classic Super Mario Bros (U)(经典任天堂-超级马里奥兄弟)(E)ACT 8.00
+1515-Strawberry Shortcake-Volume 1 (U)(GBA电影-蛋糕上的草莓第1卷)(E)MOV 256.00
+1516-NES Classic Bomberman (U)(经典任天堂-炸弓单人)(E)ACT 8.00
+1517-NES Classic Excite Bike (U)(经典任天堂-越野机车)(E)RCG 8.00
+1518-NES Classic Series-Xevious (U)(经典任天堂-铁板阵)(E)STG 32.00
+1519-NES Classic Series-Pacman (U)(经典任天堂-大食客)(E)ACT 32.00
+1520-NES Classic Series-Ice Climber (U)(经典任天堂-雪人兄弟)(E)ACT 32.00
+1521-NES Classic Series-Donkey Kong (U)(经典任天堂-大金刚)(E)ACT 32.00
+1522-GBA Video-Fairly Odd Parents-Volume 1 (U)(GBA电影-反斗家族第1卷)(E)MOV 254.25
+1523-Ultimate Card Games (U)(终极扑克牌游戏)(E)TAB 32.00
+1524-GBA Video-All Grown Up-Volume 1 (U)(GBA电影-我们都长大了-成长第1卷)(E)MOV 255.25
+1525-Jajamaru Jr Denshouki Jaleco Memorial (J)(茶茶丸Jr.传承记)(J)ACT 32.00
+1526-Mario Vs Donkey Kong (J)(马里奥对大金刚)(J)ACT 123.00
+1527-Metroid Zero Mission (J)(银河战士2-零点任务)(J)A·RPG 63.75
+1528-Medal of Honor (J)(荣誉勋章-渗透者)(J)STG 121.00
+1529-Sabre Wulf (U)(剑齿虎)(E)ACT 64.00
+1530-Shining Force-ResurrETCion of the Dark Dragon (U)(光明力量-暗黑龙的复活)(E)RPG 64.00
+1531-Mickey no Pocket Resort (J)(米老鼠-口袋旅游胜地)(J)TAB 51.50
+1532-Wario Land Advance (C)(神游之瓦力欧寻宝记)(C)ACT 61.00
+1533-Woody Woodpecker In Crazy Castle 5 (U)(啄木鸟伍迪勇闯疯狂城堡 5)(E)ACT 64.00
+1534-XS Moto (U)(XS摩托车)(E)RCG 59.75
+1535-Thunder Alley (U)(雷霆越野车)(E)RCG 23.75
+1536-Sonic Advance 3 (J)(索尼克3)(J)ACT 115.75
+1537-Asterix and Obelix XXL (E)(幻想新国度)(M6)A·RPG 64.00
+1538-Shrek 2 (E)(怪物史瑞克2)(M5)ACT 64.00
+1539-Barbie Secret Agent (E)(芭比秘密间谍)(M5)ACT 32.00
+1540-Donkey Kong Country 2 (E)(超级大金刚2)(M5)ACT 64.00
+1541-Sonic Advance 3 (E)(索尼克3)(M6)ACT 116.00
+1542-Spyro Fusion (E)(宝贝龙 阴谋的本质与橙色古惑狼)(M5)ACT 125.75
+1543-Crash Bandicoot Fusion (E)(古惑狼 暴跳的罗彼德与紫色宝贝龙)(M5)ACT 128.00
+1544-Mario Golf Advance Tour (U)(马里奥高尔夫巡回赛)(E)SPG 123.00
+1545-Dragon Quest Characters Torneko no Daibouken 3 Advance-Fushigi no Dungeon(J)(特鲁尼克大冒险3-不思议的迷宫)(J)A·RPG 126.75
+1546-Harry Potter to Azkaban no Shuujin (J)(哈利波特与阿兹卡班的逃犯)(J)A·RPG 122.25
+1547-Super Chinese Advance 1 and 2 (J)(新游戏2合1-超级中国人1+2)(J)A·RPG 32.00
+1548-DragonBallZ Supersonic Warriors (U)(七龙珠Z-舞空斗剧)(E)FTG 128.00
+1549-Pokemon-Volume 2 (U)(GBA电影-口袋妖怪第2卷)(E)MOV 249.50
+1550-Pokemon-Volume 1 (U)(GBA电影-口袋妖怪第1卷)(E)MOV 248.00
+1551-BB Ball (J)(BB球)(J)RPG 53.00
+1552-Oshare Wanko (J)(俏皮宠物)(J)TCG 38.50
+1553-Spider-Man 2 (U)(蜘蛛人2)(E)ACT 128.00
+1554-Megaman Battle Network 4-Red Sun (U)(洛克人战斗网络EXE 4-红太阳)(E)A·RPG 63.75
+1555-Megaman Battle Network 4-Blue Moon (U)(洛克人战斗网络EXE 4-蓝月亮)(E)A·RPG 63.75
+1556-Yu-Gi-Oh-Reshef of Destruction (U)(游戏王8-毁灭的大邪神)(E)CAG 127.25
+1557-GBA Video-Cartoon Network CollETCion-Volume 1 (U)(GBA电影-卡通频道珍藏电影第1卷)(E)MOV 256.00
+1558-GBA Video-Codename Kids Next Door-Volume 1 (U)(GBA电影-小孩大联邦第1卷)(E)MOV 256.00
+1559-Super Donkey Kong 2 (J)(超级大金刚2)(J)ACT 64.00
+1560-Kirby and the Amazing Mirror (E)(星之卡比-镜之谜宫)(M5)ACT 122.25
+1561-GBA Video-Nicktoons CollETCion-Volume 1 (U)(GBA电影-尼克卡通珍藏电影第1卷)(E)MOV 255.25
+1562-Around The World In 80 Days (U)(环游世界80天)(E)ACT 31.75
+1563-Disney's Kim Possible 2 (U)(迪斯尼之麻辣女孩2)(E)ACT 63.50
+1564-GBA Video-The Adventures of Jimmy Neutron-Volume 1 (E)(GBA电影-天才男孩吉米大冒险第1卷)(E)MOV 256.00
+1565-Spider-Man 2 (E)(蜘蛛人2)(M4)ACT 128.00
+1566-Mario Golf Advance Tour(澳)(马里奥高尔夫巡回赛)(E)SPG 123.00
+1567-Sitting Ducks (U)(坐坐鸭)(M6)ACT 28.75
+1568-CT Special Forces 2-Back in The Trenches (U)(CT特种部队2-重返战壕)(M6)ACT 63.25
+1569-Astro Boy-Omega Factor (U)(铁臂阿童木-阿童木心之秘密)(M6)ACT 62.50
+1570-Tottoko Hamutaro Hamuhamu Sports (J)(哈姆太郎运动会)(M2)SPG 127.00
+1571-Kaiketsu Zorori to Mahou no Yuuenchi (J)(恶作剧王大闹魔法游乐园-解救公主)(J)ACT 15.50
+1572-Zettai Zetsumei Dangerous Jisan Tsu (J)(天才爷爷-痔疮先生的痛)(J)ACT 64.00
+1573-Digicommunication 2 Datou Black Gemagemadan (J)(便利商店2-打倒熊猫少女团)(J)SLG 126.00
+1574-Fire Emblem (E)(火炎之纹章-烈火之剑)(M3)S·RPG 128.00
+1575-Fire Emblem (E)(火炎之纹章-烈火之剑)(M3)S·RPG 128.00
+1576-Wagamama Fairy Mirumo de Pon Yume no Kakera (J)(任性妖精米诺-梦的碎片)(J)RPG 62.50
+1577-Hamtaro Ham Ham Games (E)(哈姆太郎运动会)(M5)SPG 127.00
+1578-GBA Video-Teenage Mutant Ninja Turtles-Volume 1 (U)(GBA电影-忍者神龟第1卷)(E)MOV 255.25
+1579-Doom 2 (E)(DOOM-毁灭战士2)(E)FPS 128.00
+1580-Konjiki no Gashbell Makai no Bookmark (J)(金色卡修-魔界的书签)(J)A·RPG 63.00
+1581-Monster Summoner (J)(怪兽召唤士)(J)RTS 62.75
+1582-GBA Video-Yu-Gi-Oh-Yugi vs Joey-Volume 1 (U)(GBA电影-游戏王第1卷)(E)MOV 254.75
+1583-Naruto RPG-Uketsugareshi Hi no Ishi (J)(火影忍者RPG)(J)RPG 37.75
+1584-Catwoman (U)(猫女)(M3)ACT 64.00
+1585-Zoku Bokura no Taiyou-Taiyou Shounen Django (J)(我们的太阳2-太阳少年加戈)(J)A·RPG 128.00
+1586-Duel Masters 2-Kirifuda Shoubu Version (J)(卡片决斗高手2-切札胜舞版)(J)CAG 62.50
+1587-Hagane no Renkinjutsushi-Omoide no Soumeikyoku (J)(钢之炼金术士-回忆之奏鸣曲)(J)RPG 64.00
+1588-Croket 4 Bank no Mori no Mamorigami (J)(馅饼4-森林守护神)(J)FTG 114.50
+1589-Get Ride AMDriver-Senkou no Hero Tanjyou (J)(重装骑士-闪光英雄的诞生)(J)S·RPG 128.00
+1590-Chaoji Maliou 2 (C)(神游之超级马里欧2)(C)ACT 31.50
+1591-Dragon Ball Z-The Legacy of Goku II International (J)(七龙珠Z-悟空的遗产传说2)(J)A·RPG 62.25
+1592-Puyo Puyo Fever (J)(魔法气泡扑呦扑呦-气泡大会战2)(J)TAB 60.75
+1593-Gakkou no Kaidan Hyakuyoubako no Fuuin (J)(学校之怪谈-百妖箱的封印)(J)RPG 48.00
+1594-Zero One SP (J)(对还是错SP)(J)AVG 128.00
+1595-Power Pro Kun Pocket 1&2 (J)(实况Q版口袋棒球1·2)(J)TCG 64.00
+1596-Legions Yomigaeru Shiren no Shima (J)(军团-苏醒的试练之岛)(J)RPG 64.00
+1597-Final Fantasy I-II Advance (J)(最终幻想1·2)(J) RPG 120.25
+1598-Dragon Tales-Dragon Adventures(E)(龙之传说-巨龙冒险)(E)ACT 30.75
+1599-Tak and the Power of JuJu (E)(塔克-符咒的神力)(M2)ACT 56.50
+1600-Hanabi Hyakkei Advance (J)(花火百景A)(J)PUZ 31.25
+1601-Donchan Puzzle Hanabi de Dohn Advance (J)(花火大会)(J)PUZ 59.50
+1602-SD Gundam Force (J)(SD高达力量)(J)FTG 58.00
+1603-Shining Force (J)(光明力量-暗黑龙的复活)(J)RPG 64.00
+1604-RockMan EXE 4.5 Real Operation (J)(洛克人战斗网络EXE 4.5-真实演习)(J)A·RPG 62.75
+1605-Doubutsujima no Chobi Gurumi 2 Tamachan Monogatari (J)(动物岛的乔比们2-球球物语)(J)RPG 28.00
+1606-B-Legend Battle B-Daman Moero B-Damashii (J)(B-传说！战斗比达人)(J)AVG 63.00
+1607-Himawari Doubutsu Byouin Pet no Oishasan Ikusei Game (J)(向日葵动物医院-宠物医生)(J)TCG 64.00
+1608-Ultra Keibitai Monster Attack (J)(超级警备队-怪兽袭击)(J)SLG 46.00
+1609-Densetsu no Stafy 3 (J)(传说的斯塔菲3)(J)ACT 116.00
+1610-Need For Speed Porsche Unleashed (U)(极品飞车-宝石捷之旅)(E)RCG 31.75
+1611-Cartoon Network Block Party (U)(卡通频道-疯狂派对)(E)TAB 31.25
+1612-Gundam Seed-Battle Assault (U)(高达Seed-格斗篇)(E)FTG 32.00
+1613-Madden NFL 2005 (U)(NFL橄榄球2005)(E)SPG 30.25
+1614-Thunderbirds (U)(雷鸟)(E)ACT 32.00
+1615-Famicom Mini Vol 21 Super Mario Bros 2 (J)(任天堂FC珍藏游戏系列第21辑-马里奥兄弟2)(J)ACT 8.00
+1616-Famicom Mini Vol 22 Nazo no Murasamejou (J)(任天堂FC珍藏游戏系列第22辑-迷之村雨城)(J)ACT 8.00
+1617-Famicom Mini Vol 23 Metroid (J)(任天堂FC珍藏游戏系列第23辑-银河战士)(J)ACT 8.00
+1618-Famicom Mini Vol 24 Hikari Shinwa Palthena no Kagami (J)(任天堂FC珍藏游戏系列第24辑-光神话之镜)(J)ACT 8.000
+1619-Famicom Mini Vol 25 The Legend of Zelda 2 Link no Bouken (J)(任天堂FC珍藏游戏系列第25辑-赛尔达传说2-林克大冒险)(J)A·RPG 8.00
+1620-Famicom Mini Vol 26 Famicom Mukashibanashi Shin Onigashima Zenkouhen (J)(任天堂FC珍藏游戏系列第26辑-新鬼岛)(J)AVG 8.00
+1621-Famicom Mini Vol 27 Famicom Tantei Club Kieta Koukeisha Zenkouhen (J)(任天堂FC珍藏游戏系列第27辑-侦探俱乐部1)(J)AVG 8.00
+1622-Famicom Mini Vol 28 Famicom Tantei Club Part 2 Ushiro ni Tatsu Syoujo Zenkouhen (J)(任天堂FC珍藏游戏系列第28辑-侦探俱乐部2)(J)AVG 8.00
+1623-Famicom Mini Vol 29 Akumajou Dracula (J)(任天堂FC珍藏游戏系列第29辑-恶魔城)(J)ACT 8.00
+1624-Famicom Mini Vol 30 SD Gundam World Gachapon Senshi Scramble Wars (J)(任天堂FC珍藏游戏系列第30辑-SD高达战士)(J)SLG 8.00
+1625-GBA Video-SpongeBob SquarePants The Movie (U)(超级海绵巴伯电影版)(E)ACT 59.00
+1626-Tom Clancys Splinter Cell Pandora Tomorrow (U)(分裂细胞：明日潘多拉)(M3)ACT 64.00
+1627-Pitfall-The Lost Expedition (U)(玛亚历险记-迷失的探险队)(E)ACT 63.75
+1628-DragonBall Z-Supersonic Warriors(E)(七龙珠Z-舞空斗剧)(E)FTG 128.00
+1629-Summon Night-Craft Sword Monogatari 2 (J)(召唤之夜-铸剑物语2)(J)A·RPG 122.75
+1630-Super Mario Ball (J)(马里奥弓单珠台)(J)TAB 128.00
+1631-Super Mario Advance 4 (v1.1) (E)(超级马里奥4)(E)ACT 36.25
+1632-Crash Bandicoot Bakusou Nitro Cart (J)(古惑狼赛车)(J)RCG 64.00
+1633-Digimon Racing (U)(数码暴龙赛车)(M5)RCG 63.75
+1634-Rapala Pro Fishing (U)(诺马职业钓鱼)(E)SPG 20.50
+1635-Crushed Baseball (U)(热血棒球)(E)SPG 29.50
+1636-Pokemon Fire Red (U)(口袋妖怪-火红)(E)RPG 117.75
+1637-Pokemon Leaf Green (U)(口袋妖怪-绿叶)(E)RPG 117.75
+1638-Power Rangers Dino Thunder (U)(鸟人战队-巨龙雷鸣)(E)ACT 31.25
+1639-Megaman Zero 3 (E)(洛克人ZERO3)(E)ACT 64.00
+1640-Tetris Worlds (E)(俄罗斯方块)(M3)PUZ 29.50
+1641-Finding Nemo-The Continuing Adventures (U)(迪斯尼海底总动员-冒险再续)(E)AVG 29.75
+1642-Yu-Gi-Oh Reshef of Destruction (E)(游戏王-毁灭的大邪神)(M5)CAG 127.25
+1643-Boboboubo Boubobo Bakutou Hajike Taisen (J)(爆裂鼻毛真拳-热斗爆裂大战)(J)FTG 126.00
+1644-Dragonball Z-Bukuu Tougeki(韩)(七龙珠Z-舞空斗剧)(K)FTG 128.00
+1645-Barbie The Princess And The Pauper (U)(芭比-公主与乞丐)(E)AVG 22.75
+1646-DragonBall Z Buu's Fury (U)(七龙珠Z-布欧的愤怒)(E)A·RPG 62.00
+1647-ZOIDS Legacy (U)(机械兽新世纪)(E)RPG 63.75
+1648-Home on the Range (E)(迪斯尼牧场是我家)(M4)ACT 60.75
+1649-Pokemon Emerald (J)(口袋妖怪-绿宝石)(J)RPG 122.00
+1650-GBA SP AV Adaptor (J)(GBASP视频接收器)(J)ETC 0.506
+1651-GBA Video-Dragon Ball GT Volume 1 (U)(GBA电影-七龙珠GT第一卷)(E)MOV 255.00
+1652-Jimmy Neutron-Attack of the Twonkies (U)(天才男孩吉米)(E)ACT 32.00
+1653-Advance Guardian Heroes (U)(守护英雄A)(E)ACT 62.25
+1654-Mario Golf Advance Tour(德)(马里奥高尔夫巡回赛德国版)(G)SPG 123.00
+1655-Mario Golf Advance Tour(意)(马里奥高尔夫巡回赛意大利版)(I)SPG 123.00
+1656-Mario Golf Advance Tour(法)(马里奥高尔夫巡回赛法国版)(F)SPG 123.00
+1657-Spider-Man 2(意)(蜘蛛人2)(I)ACT 128.00
+1658-Star Wars Trilogy-Apprentice of the Force (E)(星球大战三部曲-学徒的原力)(M6)ACT 61.75
+1659-Star Wars Trilogy-Apprentice of the Force (U)(星球大战三部曲-学徒的原力)(M3)ACT 61.75
+1660-Monster Bass Fishing (E)(怪物巴斯钓鱼)(E)SPG 31.50
+1661-F-Zero GP Legend (U)(零式赛车-GP传说)(E)RCG 94.25
+1662-Advance Guardian Heros (J)(守护英雄A)(J)ACT 62.00
+1663-Angel CollETCion 2-Pichimo ni Narou (J)(天使的收藏品2-成为杂志模特 )(J)TCG 50.75
+1664-Dan Doh Tobase Shouri no Smile Shot (J)(高球小子-飞吧 胜利的微笑)(J)SPG 34.25
+1665-Minna no Soft Series Minna no Shogi (J)(大家的将棋)(J)TAB 19.50
+1666-Hot Potato (E)(火热的马铃薯)(E)PUZ 31.75
+1667-Backyard Basketball (U)(后院篮球)(E)SPG 31.25
+1668-Action Man-Robot Attack (E)(机动人-机器人的攻击)(M5)ACT 32.00
+1669-Around The World In 80 Days (E)(环游世界80天)(M6)ACT 32.00
+1670-Bubble Bobble-Old & New (U)(泡泡龙新版&旧版)(E)PUZ 32.00
+1671-Fairly Odd Parents!. The-Shadow Showdown (U)(反斗家族之暗影决战)(E)ACT 32.00
+1672-Dreamworks Shark Tale (U)(鲨鱼故事)(E)ACT 64.00
+1673-Barbie The Princess & The Pauper (E)(芭比-公主与乞丐)(M6)AVG 28.50
+1674-Ms. Pac-Man-Maze Madness (U)(吃豆小精灵大冒险)(E)PUZ 31.00
+1675-Pokemon Rojo Fuego (S)(口袋妖怪-火红西班牙版)(S)RPG 117.75
+1676-Pokemon Verde Hoja (S)(口袋妖怪-绿叶西班牙版)(S)RPG 117.75
+1677-Pokemon Leaf Green (G)(口袋妖怪-绿叶德国版)(G)RPG 117.75
+1678-Pokemon Fire Red (G)(口袋妖怪-火红德国版)(G)RPG 117.75
+1679-Pokemon Fire Red (F)(口袋妖怪-火红法国版)(F)RPG 117.75
+1680-Pokemon Leaf Green (F)(口袋妖怪-绿叶法国版)(F)RPG 117.75
+1681-Kill Switch (U)(战地杀机-屠戮开关)(E)FPS 30.50
+1682-Nicktoons Freeze Frame Frenzy (U)(尼克卡通超级海绵巴伯-疯狂定格)(E)ACT 31.25
+1683-GBA Video-Pokemon-Volume 3 (U)(GBA电影-口袋妖怪第3卷)(E)MOV 255.00
+1684-GBA Video-Pokemon-Volume 3 (U)(GBA电影-口袋妖怪第4卷)(E)MOV 254.75
+1685-Pokemon Rosso Fuoco (I)(口袋妖怪-火红意大利版)(I)RPG 117.75
+1686-Pokemon Verde Foglia (I)(口袋妖怪-绿叶意大利版)(I)RPG 117.75
+1687-GBA Video-Nicktoons CollETCion Volume 2 (U)(GBA电影-尼克卡通珍藏电影第2卷)(E)MOV 254.50
+1688-TV Tuner PAL 2.0 (C)(电视宝PAL2.0)(E)ETC 61.25
+1689-TV Tuner PAL 1.3 (C)(电视宝PAL1.3)(E)ETC 7.25
+1690-Mario Golf-Advance Tour (S)(马里奥高尔夫巡回赛西班牙版)(S)SPG 123.00
+1691-Pokemon Leaf Green v1.1 (U)(口袋妖怪-绿叶)(E)RPG 117.75
+1692-Fire Emblem-Seima no Kouseki (J)(火炎之纹章-圣魔之光石)(J)SLG 127.25
+1693-Tony Hawks Underground (U)(托尼·霍克地下滑板2)(E)SPG 64.00
+1694-Mario Pinball Land (U)(马里奥弓单珠台)(E)TAB 64.00
+1695-Pokemon FireRed Ver 1.1 (U)(口袋妖怪-火红)(E)RPG 117.75
+1696-Knights Kingdom (U)(乐高骑士帝国)(E)AVG 31.75
+1697-Starsky & Hutch (U)(一路狂飙之极速双雄)(E)RCG 32.00
+1698-Titeuf Mega Compet (F)(坏小子-迪德夫)(F)PUZ 31.00
+1699-Archer Maclean's 3D Pool (U)(3D虚拟台球)(E)TAB 7.50
+1700-FIFA Football 2005 (U)(FIFA足球2005)(M6)SPG 63.75
+1701-Wakeboarding Unleashed (U)(极限水上滑板)(E)SPG 63.75
+1702-MegaMan Zero 3 (U)(洛克人ZERO3)(E)ACT 64.00
+1703-Mawaru Made in Wario (J)(旋转瓦里奥)(J)PUZ 114.00
+1704-Tak 2-The Staff of Dreams (U)(塔克2-梦想之杖)(E)AVG 61.00
+1705-Disney's Lilo & Stitch 2-Hamsterveil Havoc (U)(迪斯尼星际宝贝2)(E)ACT 62.00
+1706-Dreamworks Shark Tale (E)(鲨鱼故事)(E)ACT 64.00
+1707-Lizzie McGuire 2 (U)(平民天后2)(E)ACT 29.25
+1708-That's So Raven (U)(如此瑞文)(E)ACT 64.00
+1709-Tron 2.0 Killer App (U)(电子世界争霸战2.0)(E)ACT 122.25
+1710-Ty the Tasmanian Tiger 2-Bush Rescue (U)(泰斯虎冒险2丛林营救-试试塔斯梅尼亚的老虎)(M3)ACT 63.50
+1711-GBA Video-Cartoon Network CollETCion Volume 2 (U)(GBA电影-卡通频道珍藏电影第2卷)(E)MOV 199.75
+1712-Action Replay GBX 3.1 (E)(GBA金手指工具3.1)(M4)ETC 1.75
+1713-Who Want's To Be A Millionaire 2nd Edition (E)(谁想成为百万富翁2)(E)ETC 29.50
+1714-SD Gundam Force (U)(SD高达力量)(E)ACT 58.00
+1715-WWE Survivor Series (U)(职业摔跤联盟-生存者系列)(E)FTG 31.50
+1716-Kirby And The Amazing Mirror (U)(星之卡比-镜子迷宫)(E)ACT 121.75
+1717-Teenage Mutant Ninja Turtles 2 (U)(忍者神龟2-并肩作战)(E)ACT 62.00
+1718-F-Zero Climax (J)(零式赛车-高潮)(J)RCG 128.00
+1719-Boktai 2 Solar Boy Django (U)(我们的太阳2-太阳少年加戈)(E)A·RPG 128.00
+1720-Rugrats All Grown Up (U)(小淘气-我们长大了)(E)ACT 29.50
+1721-Lego Knights Kingdom (E)(乐高骑士帝国)(M2)AVG 31.75
+1722-Hot Wheels Gamepack 1 (E)(无敌风火轮赛车GP1)(E)RCG 120.00
+1723-Golden Nugget Casino (U)(凯撒的宫殿A赌博机游戏合集)(E)TAB 30.75
+1724-Sentouin Yamada Hajime (J)(战斗员山田一)(J)ACT 56.75
+1725-Monster Truck (U)(怪兽大脚车)(E)RCG 31.25
+1726-Super Hornet FA 18F (U)(超级大黄蜂FA-18F攻击机)(E)STG 32.00
+1727-Hamtaro Rainbow Rescue (E)(哈姆太郎-彩虹救援)(M5)ACT 97.75
+1728-Grand Theft Auto Advance (U)(侠盗猎车A)(E)AVG 126.75
+1729-Yu-Gi-Oh Destiny Board Traveler (U)(游戏王-命运之旅)(E)CAG 63.50
+1730-Fruit Mura No Doubutsutachi (J)(水果村的动物们)(J)PUZ 43.50
+1731-Twin Series 2 Oshare Princess 4 and Renai Uranai Daisakusen (J)(双子系列2-俏皮公主4+恋爱占卜大作战)(J)ETC 63.75
+1732-Akachan Doubutsuen (J)(小朋友的动物园)(J)TCG 28.00
+1733-Ochainu Kururin-Honwaka Puzzle de Hotto Shiyo Kururin (J)(小茶犬-温情谜语)(J)PUZ 31.25
+1734-Shrek 2-Beg for Mercy (U)(史莱克2-穿长靴的猫)(E)ACT 64.00
+1735-Duel Masters-Sempai Legends (E)(卡片决斗高手-永恒的传说)(M5)CAG 58.75
+1736-Twin Series 1 Kisekae Angel (J)(换装天使)(J)TCG 54.50
+1737-Wanko de Kururin Wancle (J)(小茶犬-宠物滚滚乐园)(J)PUZ 45.25
+1738-Twin Series 3 Wannyan Idol Gakuen (J)(汪仔偶像学园)(J)PUZ 31.75
+1739-Pukupuku Tennen Kairanban Koi no Cupid Daisakusen (J)(咕嘟咕嘟天然传阅板-爱神丘比特大作战)(J)PUZ 32.00
+1740-Licca-Chan no Oshare Nikki (J)(莉卡的时尚化妆日记)(J)TCG 62.00
+1741-Koinu to Issho 2 (J)(可爱小狗2)(J)TCG 128.00
+1742-Grand Theft Auto Advance (E)(侠盗猎车A)(M5)AVG 126.75
+1743-Zelda no Densetsu-Fushigi no Boushi (J)(塞尔达传说-缩小帽)(J)A·RPG 110.50
+1744-Texas Hold 'Em Poker (U)(德克萨斯扑克牌)(J)TAB 31.00
+1745-Famicom Mini Vol 25 Classic NES-Zelda II-The Adventure of Link (U)(任天堂FC珍藏游戏系列第25辑)(E)A·RPG 8.007
+1746-Famicom Mini Vol 29 Classic NES-Castlevania (U)(任天堂FC珍藏游戏系列第29辑)(E)A·RPG 8.00
+1747-Famicom Mini Vol 15 Classic NES-Dr. Mario (U)(任天堂FC珍藏游戏系列第15辑)(E)PUZ 8.00
+1748-Famicom Mini Vol 23 Classic NES-Metroid (U)(任天堂FC珍藏游戏系列第23辑)(E)ACT 8.00
+1749-The Incredibles (U)(超人特工队)(E)ACT 63.25
+1750-Elf-The Movie (U)(圣诞精灵-电影版)(E)AVG 30.75
+1751-The Lord of the Rings-The Third Age (U)(指环王-第三纪)(M5)SLG 126.25
+1752-Shrek 2-Beg for Mercy (E)(史莱克2-穿长靴的猫)(E)ACT 64.00
+1753-Duel Masters-Kaijudo Showdown (U)(卡片决斗高手-最后的王牌)(E)CAG 63.25
+1754-The Polar Express (U)(极地快递)(M5)AVG 32.00
+1755-Metal Slug Advance (U)(合金弓单头A)(E)ACT 64.00
+1756-Smashing Drive (U)(疯狂车驾驶员)(E)RCG 63.75
+1757-The Urbz-Sims in the City (E)(模拟人生-上流社会)(M6)SLG 256.00
+1758-The Legend of Zelda-The Minish Cap (E)(塞尔达传说-缩小帽)(M5)A·RPG 119.75
+1759-The Fairly OddParents-Shadow Showdown (G)(反斗家族之暗影决战)(G)ACT 32.00
+1760-Pferd & Pony-Mein Pferdehof (E)(马场生活)(M2)TCG 25.00
+1761-Finding Nemo-The Continuing Adventures (E)(迪斯尼海底总动员-冒险再续)(M3)ACT 31.50
+1762-Shaman King-Master of Spirits (U)(通灵王1-精神大师)(E)A·RPG 122.75
+1763-Codename-Kids Next Door-Operation S.O.D.A. (U)(代号-邻家小孩)(E)ACT 64.00
+1764-Kingdom Hearts-Chain of Memories (J)(王国之心-记忆之链)(J)A·RPG 246.75
+1765-Pokemon Rubi (S)(口袋妖怪-红宝石西班牙版)(S)RPG 117.75
+1766-Pokemon Zafiro (S)(口袋妖怪-蓝宝石西班牙版)(S)RPG 117.75
+1767-Super Real Mahjong Dousoukai (J)(超级真实麻将同学会)(J)TAB 62.00
+1768-Shin Megami Tensei-Devil Children Messiah Riser (J)(真女神转生-恶魔少年)(J)RPG 64.00
+1769-Lemony Snicket's A Series of Unfortunate Events (U)(雷蒙·斯尼奇的不幸历险)(E)AVG 119.00
+1770-Nicktoons-Freeze Frame Frenzy (E)(超级海绵巴伯和尼克卡通-疯狂定格)(M5)ACT 32.00
+1771-Les Indestructibles (E)(超人特工队)(M2)ACT 63.25
+1772-Hot Wheels Stunt Track Challenge (U)(无敌风火轮赛车-障碍挑战赛)(E)RCG 61.00
+1773-Cabela's Big Game Hunter 2005 Adventures (U)(勇敢的坎贝拉猎鹿人2005)(E)FPS 31.25
+1774-World Championship Poker (U)(世界扑克锦标赛)(E)TAB 32.00
+1775-Need for Speed Underground 2 (U)(极品飞车-地下狂飙2)(M4) RCG 60.50
+1776-Donkey Kong Country 2 (U)(超级大金刚2)(E) ACT 64.00
+1777-Mario Vs. Donkey Kong (E)(马里奥对大金刚)(M5) ACT 128.00
+1778-Kill Switch (E)(战地杀机-屠戮开关)(M5) FPS 32.00
+1779-Defender of the Crown (E)(王冠的守护者)(E) SLG 32.00
+1780-Teenage Mutant Ninja Turtles 2-Battle Nexus (E)(忍者神龟2-并肩作战)(M5) ACT 64.00
+1781-Beyblade G-Revolution (U)(爆旋陀螺-G点旋转)(E)RPG 30.75
+1782-Dragon Ball Advance Adventure (J)(七龙珠大冒险)(J) ACT 109.75
+1783-Yu Yu Hakusho Tournament Tactics (U)(幽游白书-战略版)(E) SLG 128.00
+1784-Metal Slug Advance (J)(合金弓单头A)(J) ACT 62.25
+1785-Creatures (E)(造生物计划)(M3) TCG 32.00
+1786-Fear Factor Unleashed (U)(恐惧因素-解惑之谁敢来挑战)(E) ACT 63.50
+1787-2 Games in 1-GT Advance 3 and Moto GP (E)(游戏2合1-GP摩托和GTA赛车3)(M5) RCG 96.00
+1788-Frogger Kodaibunmei no Nazo (J)(青蛙冒险-古文明之谜)(J) A·RPG 63.50
+1789-Pac-Man World (U)(吃豆小精灵世界)(E) ACT 56.50
+1790-2 Games in 1-Disney Pixar Pack (G)(游戏2合1-迪斯尼怪兽公司和海底总动员-寻找伦莫)(G) ACT 128.00
+1791-Stadium Games (U)(田径运动会)(E) SPG 18.50
+1792-Tomb Raider-The Prophecy (U)(古墓丽影-预言)(M5) ACT 61.25
+1793-Die Unglaublichen (G)(超人特工队)(G)ACT 63.00
+1794-Gakuen Alice-DokiDoki Fushigi Taiken (J)(学院爱丽丝-不可思议的心跳体验)(J)TCG 59.00
+1795-Finding Nemo-Arata na Bouken (J)(迪斯尼海底总动员-冒险再续)(J)ACT 31.75
+1796-Tron 2.0-Killer App (E)(电子世界争霸战2.0)(E)ACT 122.25
+1797-Disney's Lilo & Stitch 2 (E)(迪斯尼星际宝贝2)(M4)ACT 62.25
+1798-Beyblade G-Revolution (E)(爆旋陀螺-G点旋转)(M4)RPG 30.75
+1799-Lemony Snicket's A Series of Unfortunate Events (E)(雷蒙·斯尼奇的不幸历险)(E)AVG 119.75
+1800-Super Mario Ball (E)(马里奥弓单珠台)(E)ACT 64.00
+1801-Kidou Senshi Gundam Seed Destiny (J)(机动战士高达SEED Destiny)(J)FTG 64.00
+1802-Gameboy Wars Advance 1+2 (J)(高级战争1+2)(J)SLG 127.25
+1803-Yakusoku no Chi Riviera (J)(约束之地)(J)RPG 128.00
+1804-Premier Manager 2004-05 (E)(足球经理2004-2005)(M4)TCG 30.25
+1805-Final Fantasy I & II-Dawn of Souls (U)(最终幻想1+2-魂之黎明)(E)RPG 119.25
+1806-Gli Incredibili (I)(超人特工队)(I)ACT 63.00
+1807-Payback (E)(危险人物-报复)(M5)ACT 63.50
+1808-Ms. Pac-Man Maze Madness (E)(吃豆小精灵大冒险)(M5)PUZ 31.00
+1809-Moero Jaleco CollETCion (J)(燃烧系列合集)(J)ETC 32.00
+1810-Final Fantasy I & II-Dawn of Souls (E)(最终幻想1+2-魂之黎明)(M5)RPG 124.25
+1811-Power Pro Kun Pocket 7 (J)(实况Q版口袋棒球7)(J)TCG 64.00
+1812-The Urbz-Sims in the City (J)(模拟人生-上流社会)(J)SLG 246.00
+1813-Sylvania Family-Fashion Designer Ninaritai! (J)(希尔尼之家-成为流行设计家)(J)TCG 60.00
+1814-Cinnamon-Yume no Daibouken (J)(长耳狗希纳蒙-梦之大冒险)(J)ACT 32.00
+1815-2 Games in 1-Disney's Girls Pack (G)(游戏2合1-迪斯尼公主和迪斯尼狮子王)(G)ACT 128.00
+1816-SpongeBob SquarePants-The Movie (E)(超级海绵笨伯电影版)(M8)ACT 63.75
+1817-Dead To Rights (U)(脱狱潜龙)(E)A·AVG 43.25
+1818-Dora the Explorer Super Star Adventures (U)(小冒险家朵拉-超级巨星探险)(E)ACT 30.50
+1819-Monopoly (U)(大富翁-垄断)(E)TAB 18.75
+1820-It's Mr Pants (U)(内裤先生)(E)PUZ 30.75
+1821-Yoshi no Banyu Inryoku (J)(耀西的万有引力)(J)ACT 64.00
+1822-Dead to Rights (E)(脱狱潜龙)(M5)A·AVG 43.25
+1823-Pac-Man World (E)(吃豆小精灵世界)(M5)ACT 56.50
+1824-2 Games in 1-SpongeBob SquarePants Gamepack 1 (E)(游戏2合1-超级海绵巴伯和超级海绵巴伯-荷兰鬼魂的复仇)(E)ACT 95.00
+1825-2 Games in 1-SpongeBob SquarePants Gamepack 2 (E)(游戏2合1-超级海绵巴伯-比基尼岛的冒险和超级海绵巴伯)(E)ACT 96.50
+1826-R-Type III (E)(R飞行队III)(M5)STG 27.50
+1827-2 Games in 1-Disney's Girls Pack (F)(游戏2合1-迪斯尼公主和迪斯尼狮子王)(F)ACT 128.00
+1828-Kingdom Hearts-Chain of Memories (Square Enix)(王国之心-记忆之链)(E)A·RPG 248.00
+1829-Futari ha Precure Arienaai Yume no Kuni ha Daimeikyuu (J)(俏丽搭档-梦之国的大迷宫)(J)ACT 32.00
+1830-Korokke Great Toki no Boukensha (J)(馅饼-时空的冒险者)(J)A·FTG 123.00
+1831-Pukupuku Tennen Kairanban Youkoso Illusion Land he (J)(咕嘟咕嘟天然传阅板-欢迎来到梦幻乐园)(J)TCG 64.00
+1832-Rockman EXE 5-Team of Blues (J)(洛克人战斗网络EXE 5-普洛特曼之队)(J)A·RPG 64.00
+1833-Onmyou Taisenki Zeroshiki (J)(阴阳大战记-零式)(J)RPG 55.75
+1834-Spyro Advance-Wakuwaku Tomodachi Daisakusen (J)(小龙斯派罗-友情大作战)(J)ACT 128.00
+1835-Keroro Gunsou Taiketsu! Keroro Cart de Arimasu!! (J)(库洛洛军曹对决-激走车青蛙大作战)(J)RCG 24.25
+1836-Hello Idol Debut (J)(偶像出道)(J)TCG 49.50
+1837-Crash Bandicoot Advance-Wakuwaku Tomodachi Daisakusen (J)(古惑狼-友情大作战)(J)ACT 128.00
+1838-Boukyaku no Senritsu (J)(忘却的旋律)(J)A·RPG 643 k9 _; c. Y5 p& a& F* U& z4 d
+1839-2 Games in 1-Power Rangers Pack (G)(游戏2合1-鸟人战队合集)(G)ACT 64.50
+1840-Metal Slug Advance (E)(合金弓单头A)(E)ACT 62.25
+1841-Monopoly (E)(大富翁-垄断)(M4)TAB 21.50
+1842-Duel Masters 3 (J)(卡片决斗高手3)(J)CAG 61.75
+1843-Little Patissier Cake no Oshiro (J)(小西点-蛋糕之城)(J)TAB 59.25
+1844-Shingata Medarot Kabuto Version (J)(真型美达人-甲冑版)(J)S·RPG 62.50
+1845-Shingata Medarot Kuwagata Version (J)(真型美达人-锹型虫版)(J)S·RPG 62.50
+1846-Wagamama Fairy Mirumo de Pon Nazo no Kagi to Shinjitsu no Tobira (J)(任性妖精米诺-迷之轮和真实之门)(J)AVG 38.25
+1847-Zettai Zetsumei Dangerous Jiisan 3 Hateshinaki Mamonogatari (J)(天才爷爷3-无尽的魔物语)(J)ACT 50.00
+1848-Genseishin Justirisers Souchaku Chikyuu no Senshitachi (J)(幻星神正义战士-地球的战士们)(J)ACT 128.00
+1849-Konjiki no Gashbell Unare Yuujou no Zakeru 2 (J)(金色的卡修-友情的电击2 )(J)FTG 126.75
+1850-The Lord of the Rings-Nakatsukuni Daisanki (J)(指环王-第三纪)(J)SLG 126.75
+1851-V-Rally 3 (U)(V拉力车3)(E)RCG 32.00
+1852-Garfield The Search For Pooky (E)(加菲猫-寻找卜姬)(M4)ACT 104.25
+1853-Racing Gears Advance (E)(高速改装赛车)(M5)RCG 61.75
+1854-Extreme Ghostbusters-Code ETCo-1 (U)(捉鬼特工队-ETCo-1行动)(E)ACT 32.00
+1855-Tales of the World-Narikiri Dungeon 3 (J)(传说世界-换装迷宫3)(J)S·RPG 125.25
+1856-James Pond Codename Robocod (E)(詹姆斯庞德-代号Robocod)(M7)ACT 32.00
+1857-Yu-Gi-Oh! Duel Monsters International 2 (J)(游戏王-怪兽决斗国际版2)(J)CAG 119.25
+1858-Kiss x Kiss Seirei Gakuen (J)(星铃学院)(J)TCG 27.25
+1859-Medabots-Rokusho Version (U)(徽章战士-甲虫侠版)(E)RPG 63.75
+1860-WTA Tour Tennis (U)(超真实女子网球-口袋版)(E)SPG 29.75
+1861-An American Tale-Fievel's Gold Rush (E)(美国鼠谭-淘金记)(M2)ACT 25.50
+1862-The Land Before Time (U)(小脚走天涯-史前之岛)(M2)ACT 32.00
+1863-Strawberry Shortcake-Summertime Adventure (U)(草莓娃娃-夏季历险)(E)ACT 31.50
+1864-Banjo Pilot (U)(班卓飞行员)(E)RCG 128.00
+1865-The Legend of Zelda-The Minish Cap (U)(塞尔达传说-缩小帽)(E)A·RPG 111.25
+1866-Mario Party Advance (J)(马里奥聚会)(J)TAB 62.25
+1867-2 Games in 1-Disney's Young Pack (E)(游戏2合1-迪斯尼小熊的兄弟们和迪斯尼狮子王)(M8)ACT 128.00
+1868-Vattroller X (J)(球斗士)(J)RPG 64.00
+1869-Hobbit No Bouken (J)(魔戒前传-霍比特人的冒险)(J)RPG 64.00
+1870-Bouken Ou Beet Busters Road (J)(冒险王比特-克星之路)(J)ACT 128.00
+1871-Lemony Snicket's A Series of Unfortunate Events (G)(雷蒙·斯尼奇的不幸历险)(G)AVG 119.00
+1872-Disney's Aladdin (U)(迪斯尼-阿拉丁)(M4)ACT 64.00
+1873-Tantei Jinguuji Saburou-Shiroi Kage no Syoujyo (J)(侦探神宫寺三郎-白影少女)(J)AVG 30.50
+1874-Sangokushi Koumeiden (J)(三国志孔明传)(J)S·RPG 51.00
+1875-Sangokushi Eiketsuden (J)(三国志英杰传)(J)S·RPG 31.75
+1876-Ganbare Dodge Fighters (J)(躲避球斗士)(J)SPG 23.25
+1877-Sega Arcade Gallery (U)(世嘉街机驾驶类游戏合集)(E)ETC 64.00
+1878-Space Channel 5-Ulala's Cosmic Attack (E)(太空频道5-舞啦啦之炫耀攻击)(E)ETC 64.00
+1879-Super Robot Taisen-Original Generation 2 (J)(超级机器人大战-原创世纪OG2)(J)SLG 128.00
+1880-Donkey Kong-King of Swing (E)(大金刚-摇摆王)(M5)PUZ 128.00
+1881-Gremlins-Stripe vs Gizmo (U)(魔怪小精灵)(E)ACT 32.00
+1882-Reign of Fire (E)(火焰统治-火龙帝国)(M5)STG 60.75
+1883-Rocky (E)(洛奇拳击)(M5)FTG 63.50
+1884-Megaman Battle Network 4 Red Sun (E)(洛克人战斗网络EXE 4-红太阳)(E)A·RPG 64.00
+1885-Shaman King-Legacy of the Spirits-Soaring Hawk (U)(通灵王-精神遗产之翱翔之鹰)(M0)RPG 128.00
+1886-Shaman King-Legacy of the Spirits-Sprinting Wolf (U)(通灵王-精神遗产之疾速之狼)(M0)RPG 128.00
+1887-Winnie the Pooh's-Rumbly Tumbly Adventure (U)(小熊维尼-崎岖的冒险历程)(M3)ACT 30.75
+1888-International Karate Plus (U)(国际空手道大赛-加强版)(E)FTG 8.50
+1889-Strike Force Hydra (U)(决战九头蛇)(E)STG 30.25
+1890-Super Dropzone (U)(超级月面地带)(E)STG 32.00
+1891-World Tennis Stars (U)(世界网球明星)(E)SPG 29.50
+1892-Medabots-Metabee Version (U)(徽章战士-马达比版)(E)S·RPG 63.75
+1893-Polly Pocket-Super Splash Island (U)(波利口袋-超级人鱼岛)(E)PUZ 31.25
+1894-Megaman Battle Network 4 Blue Moon (E)(洛克人战斗网络EXE 4-蓝月亮)(E)A·RPG 64.00
+1895-X-Bladez-Inline Skater (U)(X旋风直排轮溜冰)(E)SPG 32.00
+1896-Robot Wars-Extreme Destruction (U)(遥控机器人大战之无尽的毁灭)(E)FTG 31.00
+1897-Advance Guardian Heroes (E)(守护英雄A)(E)ACT 63.25
+1898-Yu-Gi-Oh! 7 Trials to Glory-World Championship Tournament 2005 (U)(游戏王-世界锦标赛2005)(M6)CAG 121.75
+1899-Banjo Pilot (E)(班卓飞行员)(M5)RCG 128.00
+1900-Astro Boy-Omega Factor (E)(铁臂阿童木-阿童木心之秘密)(M6)ACT 62.50
+1901-Power Rangers-Dino Thunder (E)(鸟人战队-巨龙雷鸣)(M2)ACT 31.25
+1902-Legendz-Sign Of Nekuromu (J)(苏生龙王传说)(J)RPG 128.00
+1903-Dr. Seuss'-The Cat in the Hat (U)(爱戴帽子的猫博士)(E)PUZ 28.00
+1904-Banjo Kazooie-La venganza de Grunty (S)(琴音笛声-格兰蒂的复仇)(S)ACT 64.00
+1905-Zoids Saga Fuzors (J)(机兽新世纪)(J)RPG 61.75
+1906-Los Increibles (S)(超人特工队)(S)ACT 63.00
+1907-Finding Nemo-The Continuing Adventures (E)(迪斯尼海底总动员-冒险再续)(M5)ACT 32.00
+1908-A Sound of Thunder (U)(雷霆之音)(M5)AVG 61.75
+1909-Ace Combat Advance (U)(王牌空战A)(E)STG 30.25
+1910-Klonoa 2-Dream Champ Tournament (U)(风之克罗帝亚2梦之选手巡回赛)(E)ACT 31.50
+1911-Super Army War (U)(超级陆战争)(E)STG 32.00
+1912-Robots (U)(机器人)(E)ACT 127.00
+1913-Playan Av Player (J)(任天堂Playan电影播放器)(J)ETC 32.00
+1914-Rockman EXE 5-Team of Colonel (J)(洛克人战斗网络EXE 5-卡奈尔之队)(J)A·RPG 64.00
+1915-Kong-The Animated Series (U)(金刚之旅)(M6)ACT 63.25
+1916-Digimon Battle Spirit 2 (E)(数码宝贝精神大作战2)(M5)FTG 29.25
+1917-Pokemon Rubino (I)(口袋妖怪-红宝石意大利版)(I)RPG 117.75
+1918-Pokemon Zaffiro (I)(口袋妖怪-蓝宝石意大利版)(I)RPG 117.75
+1919-Silent Scope (E)(沉默的狙击手)(M5)FPS 63.25
+1920-Racing Gears Advance (U)(高速赛车)(E)RCG 61.75
+1921-Dreamworks Shark Tale (I)(鲨鱼故事)(I)ACT 64.00
+1922-Aero The Acro-Bat (E)(马戏团蝙蝠侠)(E)ACT 26.75
+1923-Yu Yu Hakusho-Spirit DetETCive (M5)(幽游白书-灵界侦探)(M5)A·RPG 64.00
+1924-Salt Lake 2002 (E)(盐湖城冬季奥运会2002)(M6)SPG 31.00
+1925-Winnie the Pooh's-Rumbly Tumbly Adventure (E)(小熊维尼-崎岖的冒险历程)(M6)ACT 32.00
+1926-Robots (E)(机器人)(M5)ACT 127.25
+1927-Blades of Thunder (U)(雷霆之刃直升机)(E)STG 55.25
+1928-Top Gun-Combat Zones (U)(壮志凌云-战区)(M5)STG 31.25
+1929-Rave Master-Special Attack Force (U)(圣石小子-特殊武力)(E)FTG 57.25
+1930-Mezase Koushien (J)(目标！甲子园)(J)TCG 44.75
+1931-Contra Advance-The Alien Wars EX (E)(魂斗罗-异型战争EX)(E)ACT 28.75
+1932-Glory Days-Essence Of A War (E)(超级陆战争)(M5)STG 32.00
+1933-Sennen Kazoku (J)(千年家族)(J)SLG 128.00
+1934-Rayman-Hoodlums Revenge (E)(雷曼-阿飞复仇)(M6)ACT 63.75
+1935-2 Games in 1-SpongeBob Gamepack (U)(游戏2合1-超级海绵巴伯和超级海绵巴伯-荷兰鬼魂的复仇)(E)ACT 95.00
+1936-2 Games in 1-Scooby-Doo Gamepack (U)(游戏2合1-史诺比鬼屋历险和史诺比鬼屋历险-隐秘的罪证)(M3)ACT 64.00
+1937-Kappa no Kaikata-Katan Daibouken! (J)(河童饲育方法-卡堂大冒险)(J)ACT 61.75
+1938-Mario Golf-Advance Tour (E)(马里奥高尔夫巡回赛)(E)SPG 123.00
+1939-Disney Princesas (S)(迪斯尼的公主们)(S)ACT 57.75
+1940-2 Games in 1-Disney Princesas-Lizzie McGuire (S)(游戏2合1-迪斯尼公主和平民天后1)(S)ACT 96.00
+1941-Duel Masters Kaijudo Showdown (E)(卡片决斗高手1)(M5)CAG 69.25
+1942-2 Games in 1-Disney Pixar Gamepack (S)(游戏2合1-迪斯尼怪兽公司和海底总动员-寻找伦莫)(M4)ACT 96.00
+1943-Backyard Baseball 2006 (U)(后院棒球2006)(E)SPG 32.00
+1944-Rayman-Hoodlums Revenge (U)(雷曼-阿飞复仇)(M3)ACT 63.75
+1945-Bionicle-Maze of Shadows (E)(乐高荒岛冒险-幽影迷宫)(M2)ACT 63.25
+1946-Tak 2-The Staff of Dreams (E)(塔克历险记2-梦想之杖)(M5)AVG 62.50
+1947-Maya the Bee-Sweet Gold (E)(小蜜蜂玛雅-甜美的黄金)(M5)ACT 32.00
+1948-Puyo Pop Fever (E)(魔法气泡扑呦扑呦-气泡大会战2)(M5)PUZ 62.75
+1949-Rugrats-Travesuras en el Castillo (S)(小淘气-城堡冒险)(S)ACT 31.50
+1950-Shin Sangoku Musou Advance (J)(真·三国无双)(J)A·RPG 101.00
+1951-Nyan Nyan Nyanko no Nyan CollETCion (J)(咪咪小猫收藏集)(J)TAB 51.00
+1952-Mario Party Advance (U)(马里奥聚会)(E)TAB 62.25
+1953-LEGO Star Wars-The Video Game (U)(乐高星球大战)(M7)ACT 118.25
+1954-Dreamworks Shark Tale (J)(鲨鱼故事)(J)ACT 64.00
+1955-2 Games in 1-Disney Princesas + Lizzie McGuire (E)(游戏2合1-迪斯尼公主和平民天后1)(E)ACT 96.00
+1956-2 Games in 1-Disney Pixar Gamepack (I)(游戏2合1-迪斯尼怪兽公司和海底总动员-寻找伦莫)(M4)ACT 96.00
+1957-Killer 3D Pool (E)(三维台球杀手)(M5)SPG 30.75
+1958-Mr. Driller 2 (U)(钻地小子2)(E)PUZ 31.50
+1959-Yu-Gi-Oh!-Day Of The Duelist-World Championship Tournament 2005 (E)(游戏王-世界冠军赛2005)(M6)CAG 121.75
+1960-One Piece Going Baseball-Haejeok Yaku (K)(海贼王-棒球进行曲)(K)SPG 47.50
+1961-Dragon Ball Advance Adventure (K)(七龙珠大冒险)(K)ACT 110.50
+1962-Hugo-The Evil Mirror (U)(雨果-邪恶的镜子)(M3)PUZ 31.75
+1963-Tokyo Xtreme Racer Advance (U)(东京极限竞速车)(E)RCG 31.75
+1964-GBA Video-SpongeBob SquarePants Volume 3 (U)(GBA电影-超级海绵巴伯第3卷)(E)MOV 256.00
+1965-GBA Video-Cartoon Network CollETCion-Platinium Edition (U)(GBA电影-卡通频道珍藏电影白金版)(E)MOV 256.00
+1966-GBA Video-Disney Channel CollETCion Volume 1 (U)(GBA电影-迪斯尼频道珍藏系列第1卷)(E)MOV 256.00
+1967-Yoshi's Universal Gravitation (E)(耀西的万有引力)(M5)ACT 62.00
+1968-GBA Video-Super Robot Monkey Team Volume 1 (U)(GBA电影-超级机械猴队第1卷)(E)MOV 256.00
+1969-Smashing Drive (E)(疯狂车驾驶员)(M4)RCG 63.75
+1970-Popeye-Rush for Spinach (U)(大力水手-冲向菠菜)(M5)ACT 31.00
+1971-Rockman Zero 4 (J)(洛克人ZERO4)(J)ACT 128.00
+1972-Disney's Brother Bear (E)(迪斯尼小熊的兄弟们)(E)ACT 64.00
+1973-2 Games in 1-Kessakusen Ganbare Goemon 1 and 2 (J)(新游戏2合1-杰作选加油伍佑卫门1+2)(J)ACT 88.25
+1974-Meitantei Conan Akatsuki no Monument (J)(名侦探柯南-黎明之碑)(J)RPG 59.75
+1975-Pac Man Pinball Advance (U) (吃豆弓单珠台A)(E)TAB 32.00
+1976-Ochaken no Yumebouken (J)(茶犬的梦之冒险)(J)ACT 50.75
+1977-One Piece Dragon Dream (J)(海贼王-龙之梦)(J)A·RPG 119.75
+1978-The Tower SP (J)(模拟大楼SP)(J)SLG 60.75
+1979-Pokémon Version Rubis v1.1 (F) (口袋妖怪-蓝宝石法国版V1.1)(F)RPG 117.75
+1980-Pokémon Version Saphir v1.1 (F) (口袋妖怪-红宝石法国版V1.1)(F)RPG 117.75
+1981-ESPN Winter X-Games-Snowboarding 2 (E)(ESPN冬季运动会-滑雪板2)(E)SPG 31.00
+1982-Minna no Soft Series-Happy Trump 20 (J)(大众软件系列-快乐纸牌20)(J)TAB 18.00
+1983-Mr. Incredible (J)(超人特工队)(J)ACT 63.50
+1984-Pokemon Saphir-Edition (v1.1) (G)(口袋妖怪-红宝石德国版 v1.1)(G)RPG 117.75
+1985-Pokemon Rubin-Edition (v1.1) (G)(口袋妖怪-蓝宝石德国版 v1.1)(G)RPG 117.75
+1986-Pokemon Emerald Version (U)(口袋妖怪-绿叶)(E)RPG 114.00
+1987-Killer 3D Pool (U)(三维台球杀手)(E)SPG 30.75
+1988-GBA Video-Proud Family Volume 1 (U)(GBA电影-骄傲家族第1卷)(E)MOV 173.00
+1989-Kingdom Hearts-Chain of Memories (E)(王国之心-记忆之链)(M5)A·RPG 252.50
+1990-Relaxuma Na Mainichi (J)(利乐熊的每一天)(J)TCG 21.25
+1991-Konchu Monster Battle Master (J)(昆虫怪兽-战斗大师)(J)TCG 63.75
+1992-Konchu Monster Battle Stadium (J)(昆虫怪兽-战斗竞技场)(J)TCG 63.00
+1993-Star Wars Episode III-Revenge of the Sith (E) (星球大战3 西斯的复仇)(E)ACT 62.25
+1994-Scrabble Blast (U)(拼字游戏)(E)PUZ 32.00
+1995-GBA Video-Cartoon Network CollETCion-Limited Edition (U)(GBA电影-卡通频道珍藏电影-限定版)(E)MOV 215.75
+1996-Who Wants to be a Millionaire (E)(谁想成为百万富翁)(E)PUZ 27.00
+1997-Fire Emblem-The Sacred Stones (U)(火炎之纹章-圣魔之光石)(E)S.RPG 128.00
+1998-Star Wars Episode III-Revenge of the Sith (U)(星球大战前传III-西斯的复仇)(M3)ACT 62.25
+1999-2 Games in 1-Disney Pixar Gamepack (E)(游戏2合1-迪斯尼怪兽公司和海底总动员-寻找伦莫)(E)ACT 96.00
+2000-Wario Ware Twisted! (U)(旋转瓦里奥)(E)PUZ 116.75
+2001-Kawaii Pet Game Gallery 2 (J)(可爱宠物系列-游戏集锦2)(J)ACT 62.25
+2002-Kawaii Koinu Wonderful (J)(可爱小狗)(J)TCG 64.00
+2003-Wanko Mix Chiwanko World (J)(小狗米克斯-爱情世界)(J)TCG 63.75
+2004-Madagascar (U)(马达加斯加)(E)ACT 64.00
+2005-Metal Max 2 Kai (J)(重装机兵2·改V1.1)(J)RPG 24.50
+2006-Pokemon Ruby Version (v1.2) (E)(口袋妖怪-红宝石V1.2)(E)RPG 117.50
+2007-2 Games in 1-Lego Gamepack (E)(游戏2合1-乐高生化战士和乐高骑士王国)(M3)ACT 95.75
+2008-Bura Bura Donkey (J)(大金刚-摇摆王)(J)ACT 61.75
+2009-2 Games in 1-Baerenbrueder and Disneys Prinzessinnen (G)(游戏2合1-迪斯尼小熊的兄弟们和迪斯尼公主)(M8)ACT 128.00
+2010-2 Games in 1-Scooby-Doo Gamepack (E)(游戏2合1-史诺比鬼屋历险和史诺比鬼屋历险-隐秘的罪证)(M3)ACT 128.00
+2011-Pokemon Sapphire Version (v1.2) (E)(口袋妖怪-蓝宝石V1.2)(E)RPG 117.50
+2012-2 Games in 1-Hermano Oso and Disney Princesas (S)(游戏2合1-迪斯尼小熊的兄弟们和迪斯尼公主)(M7)ACT 128.00
+2013-Boktai 2-Solar Boy Django (E)(我们的太阳2-太阳少年加戈)(M5)A·RPG 119.25
+2014-Mario Party Advance (E)(马里奥聚会)(M5)TAB 69.25
+2015-Megaman Battle Network 5-Team Colonel (E)(洛克人战斗网络EXE 5-卡奈尔之队)(E)A·RPG 64.00
+2016-Megaman Battle Network 5-Team Protoman (E)(洛克人战斗网络EXE 5-普洛特曼之队)(E)A·RPG 64.00
+2017-Muppet Pinball Mayhem (E)(芝麻布偶街弓单珠台)(E)TAB 30.00
+2018-Shrek-Reekin Havoc (E)(怪物史瑞克-恶臭大灾难)(M5)ACT 50.50
+2019-Lemony Snicket's-Una Serie di Sfortunati Eventi (I)(雷蒙·斯尼奇的不幸历险)(M1)AVG 119.00
+2020-Wings (E)(翼)(E)STG 56.50
+2021-Batman Begins (U)(蝙蝠侠诞生)(M6)ACT 128.00
+2022-Yoshi Topsy Turvy (U)(耀西的万有引力)(E)ACT 62.00
+2023-Dragon Ball Advance Adventure (E)(七龙珠大冒险)(M5)ACT 118.00
+2024-Mahou Sensei Negima (J)(魔法先生-图书馆岛)(J)CAG 128.00
+2025-Frogger's Adventures-Temple of the Frog (E)(青蛙冒险-蛙之殿堂)(M5)ACT 31.00
+2026-Shikakui Atama wo Marukusuru Advance-Kokugo Sansu Rika Shakai (J)(方脑壳脑力修行-国语 算术 理科 社会)(J)PUZ 21.50
+2027-Bouken Yuuki Pluster World-Densetsu no Plust Gate EX (J)(冒险游记-未发现的传说EX)(J)RPG 128.00
+2028-Shikakui Atama wo Marukusuru Advance-Kanji Keisan (J)(方脑壳脑力修行-汉字 计算)(J)PUZ 22.50
+2029-Power Rangers-La Force du Temps (F)(鸟人战队-时间力量)(F)ACT 32.00
+2030-2 Games in 1-Asterix & Obelix PAF! + Asterix & Obelix XXL (E)(游戏2合1-美丽新世界和幻想新国度)(M6)ETC 128.00
+2031-Disney's Herbie Fully Loaded (U)(迪斯尼疯狂金车)(E)RCG 61.00
+2032-Megaman Battle Network 5-Team Colonel (U)(洛克人战斗网络EXE 5-卡奈尔之队)(E)A·RPG 64.00
+2033-Konchu Ouja Mushiking (J)(甲虫王国-格莱特斯特冠军之路)(J)TCG 256.00
+2034-Nonono Puzzle Chailien (J)(团团转难题大集合)(J)PUZ 64.00
+2035-Megaman Battle Network 5-Team Protoman (U)(洛克人战斗网络EXE 5-普洛特曼之队)(E)A·RPG 64.00
+2036-Disney's Magical Quest 3 (U)(迪斯尼米老鼠和唐老鸭3)(M3)ACT 33.25
+2037-Madagascar (E)(马达加斯加)(M2)ACT 64.00
+2038-Fantastic 4 (U)(神奇四侠)(E)ACT 127.75
+2039-Riviera-The Promised Land (U)(约束之地)(E)RPG 256.00
+2040-Fantastic Children (J)(奇幻儿童-梦想少年)(J)ACT 56.50
+2041-2 Games in 1-V-rally 3 + Stuntman (E)(游戏2合1-V拉力3和特技人)(M5)ETC 64.00
+2042-2 Games in 1-Disney's Girls Gamepack (S)(游戏2合1-迪斯尼公主和迪斯尼狮子王)(M6)ACT 128.00
+2043-Waliou Zhizao (C)(神游之瓦里奥制造)(C)PUZ 64.00
+2044-Miteluote Lingdian Renwu (C)(神游之密特罗德-零点任务)(C)A·RPG 63.75
+2045-Momotarou Densetsu G Gold Deck wo Tsukure! (J)(桃太郎电铁G)(J)TAB 127.25
+2046-2 Games in 1-Golden Nugget & Texas Holdem (U)(新游戏2合1-扑克牌游戏合集)(E)TAB 63.00
+2047-Erementar Gerad (J)(武器种族传说-封印之诗歌)(J)RPG 50.00
+2048-Marheaven-Knockin' on Heaven's Door (J)(敲击天堂之门)(J)A·RPG 128.00
+2049-Oshare Princess 5 (J)(奥沙尔公主5)(J)PUZ 57.75
+2050-Fantastic 4 (E)(神奇四侠)(M4)ACT 127.75
+2051-Disney's Herbie Fully Loaded (E)(迪斯尼疯狂金车)(M3)RCG 61.00
+2052-Lego Star Wars-The Video Game (J)(乐高星球大战)(J)ACT 117.75
+2053-2 Games in 1-Crash & Spyro Pack Volume 1 (E)(游戏2合1-古惑狼与斯派洛超级包1)(M6)RCG 128.00
+2054-2 Games in 1-Crash & Spyro Pack Volume 2 (E)(游戏2合1-古惑狼与斯派洛超级包1)(M6)RCG 128.00
+2055-Dynasty Warriors Advance (U)(真·三国无双A)(E)A·RPG 102.00
+2056-Donkey Kong-King of Swing (U)(大金刚-摇摆王)(E)PUZ 61.75
+2057-2 Games in 1-SpongeBob Squarepants-Supersponge + Rugrats-Go Wild (E)(游戏2合1-超级海绵巴伯和鲁加特野外历险记)(E)ACT 63.00
+2058-Aleck Bordon Adventure-Tower & Shaft Advance (J)(阿莱克博顿大冒险-塔与桥的大冒险)(J)PUZ 23.50
+2059-Charlie And The Chocolate Factory (U)(查理与巧克力工厂)(M3)ACT 64.00
+2060-Bleach Advance (J)(死神)(J)AVG 118.25
+2061-Disney's Kim Possible (J)(迪斯尼之麻辣女孩1)(J)ACT 61.50
+2062-Disney's Lilo & Stitch (J)(迪斯尼星际宝贝1)(J)ACT 62.00
+2063-Haro no Puyo Puyo (J)(哈罗之咕噜咕噜砖块)(J)PUZ 64.00
+2064-Charlie and the Chocolate Factory (E)(查理与巧克力工厂)(M4)ACT 64.00
+2065-The Pinball of the Dead (E)(死亡之屋弓单珠台)(M5)TAB 63.50
+2066-Harvest Moon-More Friends of Mineral Town (U)(牧场物语-矿石镇的伙伴们-女孩篇)(E)SLG 79.00
+2067-Futari wa Precure Max Heart-Maji Maji! Fight de IN Janai (J)(变身少女-美丽天使)(J)ACT 64.00
+2068-Konjiki no Gashbell!! The Card Battle for GBA (J)(金色的卡修-卡片战斗)(J)CAG 128.00
+2069-Shin Bokura no Taiyou Gyakushuu no Sabata (J)(我们的太阳3-萨巴塔的逆袭)(J)A·RPG 116.50
+2070-Kim Possible III-Team Possible (U)(迪斯尼之麻辣女孩3)(E)ACT 64.00
+2071-Twin Series 4-Ham Ham Monster EX + Fantasy Puzzle Hamster Monogatari(J)(双子系列4-黄金鼠怪兽EX+黄金鼠物语-魔法迷宫1+2+3)(J)ACT 128.005
+2072-Twin Series 5-Wan Wan Meitantei EX + Mahou no Kuni no Keaki-Okusan Monogatari (J)(双子系列5-汪汪名侦探EX+魔法国度蛋糕店物语)(J)ACT 128.00
+2073-Twin Series 6-Wan Nyon Idol Gakuen + Koinu Toissho Special (J)(双子系列6-猫狗偶像学园+与小狗同乐特别版)(J)ACT 63.75
+2074-Disney's Thats so Raven 2-Supernatural Style (U)(如此瑞文2)(J)ACT 59.25
+2075-Shaman King-Master of Spirits 2 (U)(通灵王2-精神大师)(E)A·RPG 128.00
+2076-Minna no Soft Series-Zooo(E)(动物饲养员)(M5)PUZ 64.00
+2077-2 Games in 1-Power Rangers Gamepack (F)(游戏2合1-鸟人战队合集)(M3)ACT 64.50
+2078-Madden NFL 06 (U)(NFL橄榄球2006)(E)SPG 32.00
+2079-Dragon Ball GT-Transformation (U)(七龙珠GT-突变)(E)ACT 64.00
+2080-Steel Empire (E)(钢铁帝国)(E)STG 14.25
+2081-Gumby vs. The Astrobots (U)(格宾小子-决斗阿斯塔罗伯特)(E)ACT 25.75
+2082-2 Games in 1-SpongeBob SquarePants-Battle for Bikini Bottom + Jimmy Neutron-Boy Genius (E)(游戏2合1-超级海绵巴伯和吉米小子)(M3)ACT 95.25
+2083-2 Games in 1-Shark Tale + Shrek 2 (E)(游戏2合1-鲨鱼故事和怪物史瑞克2)(M6)ACT 127.50
+2084-Madagascar (E)(马达加斯加)(E)ACT 64.00
+2085-Animaniacs-Lights. Camera. Action (E)(华纳电影总动员-灯光.镜头.开拍)(M5)ACT 32.50
+2086-Premier Manager 2005-2006 (E)(足球经理2005-2006)(M4)TCG 31.50
+2087-Twin Series 3-InsETC Monster & Suchai Labyrinth (J)(双子系列3-昆虫怪兽+超级中国人)(J)RPG 52.75
+2088-Twin Series 7-Kisekae Wanko Ex + Puzzle Rainbow Magic 2 (J)(双子系列7-变装小狗EX+彩虹魔术方块2)(J)PUZ 31.50
+2089-Spy Hunter (E)(间谍猎手车)(M5)RCG 62.00
+2090-Sigma Star Saga (U)(西格马星际传奇)(E)A·RPG 63.00
+2091-Lizzie McGuire 3-Homecoming Havoc (U)(平民天后3-浩劫归来)(E)ETC 60.50
+2092-Pro Mahjong Tsuwamono Advance (J)(职业麻将兵)(J)TAB 28.25
+2093-Pac-Man World 2 (E)(吃豆小精灵世界2)(M5)ACT 32.00
+2094-Mortal Kombat Deadly Alliance (E)(真人快打-致命联盟)(M5)FTG 117.25
+2095-Risk. Battleship. Clue (U)(新游戏3合1-风险.战舰.线索)(E)TAB 28.75
+2096-Board Game Classics (U)(新游戏3合1-经典桌面棋盘游戏合集)(E)TAB 26.75
+2097-Ed. Edd N Eddy-Jawbreakers! (E)(Ed Edd 和 Eddy-唠叨的家伙们)(M5)ACT 31.50
+2098-Dexter's Lab-Chess Challenge (E)(幸运的实验室-国际象棋挑战赛)(M4)TAB 61.75
+2099-2 Games in 1-Spiderman Gamepack (E)(游戏2合1-蜘蛛侠1+2)(M5)ACT 256.00
+2100-2 Games in 1-Tony Hawk's Underground + Kelly Slater's Pro Surfer (U)(游戏2合1-托尼霍克地下滑板和凯利·史雷特职业冲浪)(E)SPG 128.00
+2101-Pac-Man Pinball Advance (E)(吃豆小精灵弓单珠台)(M5)TAB 32.00
+2102-Pinball Tycoon (E)(弓单珠台大亨)(E)TAB 19.25
+2103-Kunio kun Nekketsu CollETCion 1(J)(任天堂国夫君热血纪念合集1)(J)SPG 12.00
+2104-2 Games in 1-Spider-Man-Mysterio's Menace + X-Men 2-Wolverines Revenge (U)(游戏2合1-蜘蛛侠和X战警2-狼人之复仇)(U)ACT 127.25
+2105-Madagascar (S)(马达加斯加)(S)ACT 64.00
+2106-Monster Jam-Maximum Destruction (E)(怪物卡车大毁灭)(E)RCG 59.75
+2107-Get Ride AMDriver-Shuggeki Battle Party (J)(重装骑士-出击!战斗团队)(J)CAG 128.00
+2108-Poke Inu-Pocket Dogs (J)(口袋小狗)(J)TCG 56.25
+2109-Rockman EXE 4 Tournament Red Sun (J)(洛克人战斗网络EXE 4-红太阳)(J)A·RPG 63.00
+2110-ConnETC Four. PerfETCion. Trouble (U)(新游戏3合1-四连环)(E)PUZ 18.00
+2111-Marble Madness & Klax (U)(新游戏2合1-疯狂弓单珠与立体方块)(E)TAB 16.00
+2112-Centipede. Breakout. Warlords (U)(街机游戏3合1-虫虫入侵.突破重围与战神)(E)ACT 22.25
+2113-Namco Museum-50th Anniversary (U)(南梦宫经典博物馆2)(E)ETC 27.00
+2114-Paperboy & Rampage (U)(新游戏2合1-送报童与毁灭金刚)(E)ACT 30.00
+2115-Pong. Asteroids. Yar's Revenge (U)(街机游戏3合1-碰碰弓单珠台.爆破慧星与亚尔的复仇)(E)ACT 64.00
+2116-Sorry!-Aggravation-Scrabble Junior (U)(新游戏3合1-可怜虫)(E)TAB 27.75
+2117-Casper (U)(鬼马小灵精)(M3)ACT 32.00
+2118-Rebelstar-Tactical Command (U)(叛星-战略指令)(E)SLG 29.75
+2119-Tim Burton's The Nightmare Before Christmas-The Pumpkin King (J)(圣诞惊魂夜)(J)A·RPG 59.75
+2120-Wagamama Fairy Mirumo de Pon!-Dokidoki Memorial Panic (J)(任性妖精米诺-心跳的回忆)(J)ACT 222.25
+2121-2 Games in 1-Rayman 10th Anniversary Compilation-Rayman Advance & Rayman 3 (E)(游戏2合1-雷曼10周年纪念版合集)(M10)ACT 126.50
+2122-Board Game Classics (E)(新游戏3合1-经典桌面棋盘游戏合集)(M5)TAB 26.75
+2123-James Pond-Codename Robocod (U)(詹姆斯庞德-代号Robocod)(M4)ACT 32.00
+2124-Fantastic 4 (E)(神奇四侠)(E)ACT 127.75
+2125-Super Robot Taisen J (J)(超级机器人大战J)(J)SLG 125.75
+2126-Mario Tennis Advance (J)(马里奥力量网球巡回赛)(J)RPG 113.75
+2127-Dr. Mario & Panel De Pon (J)(新游戏2合1-马里奥医生与花仙子方块)(J)PUZ 46.00
+2128-The Koala Brothers-Outback Adventures (E)(树熊兄弟-内地探险)(M8)ACT 47.00
+2129-MegaMan Zero 4 (E)(洛克人ZERO4)(E)ACT 128.00
+2130-Yu-Gi-Oh!-Destiny Board Traveler (E)(游戏王-命运之旅)(M5)CAG 128.00
+2131-Shaman King-Master of Spirits (E)(通灵王1-精神大师)(M3)A·RPG 122.50
+2132-Barbie and the Magic of Pegasus (U)(芭比娃娃与飞马魔法)(E)ACT 31.75
+2133-2 Games in 1-Scooby Doo + Scooby Doo 2 (S)(游戏2合1-史诺比鬼屋历险-真人照片版和史诺比2-脱缰的怪物)(M5)ACT 96.50
+2134-2 Games in 1-Power Rangers Pack Happy Joy (E)(游戏2合1-鸟人战队合集)(M3) 64.50
+2135-Scooby-Doo-The Motion Picture (E)(史诺比鬼屋历险-真人照片版)(E)AVG 32.00
+2136-Gyakuten Saiban Best Price v1.1 (J)(逆转裁判 v1.1)(J)AVG 62.25
+2137-2 Games in 1-Cartoon Network-Block Pack+Cartoon Network-Speedway (U) (游戏2合1-卡通网络包-黑色聚会和赛车)(E)ACT 63.25
+2138-2 Games in 1-Offroading Double Pack(U)(游戏2合1-沙漠狂暴人竞技赛和怪兽大脚车)(E)RCG 63.50
+2139-2 Games in 1-Power Rangers Double Pack (U)(游戏2合1-鸟人战队合集)(M3)ACT 64.50
+2140-Bionicle-Maze of Shadows (U)(乐高荒岛冒险-幽影迷宫)(E)ACT 63.50
+2141-Gauntlet & Rampart (U)(新游戏2合1-铁腕战士)(E)ACT 31.00
+2142-Millipede, Super Breakout, Lunar Lander (U)(街机游戏3合1-方块射击)(E)TAB 14.50
+2143-Power Rangers-S.P.D. (U)(鸟人战队-金刚战士S.P.D.)(E)ACT 32.00
+2144-2 Games in 1-Rayman 10th Anniversary Twin Pack (U)(游戏2合1-雷曼10周年纪念版合集)(M5)ACT 126.50
+2145-Scooby-Doo-Unmasked (U)(史诺比-原形毕露)(M2)ACT 64.00
+2146-Spy Hunter & Super Sprint (U)(新游戏2合1-间谍猎手赛车)(E)RCG 17.25
+2147-Tak-The Great Juju Challenge (U)(塔克-伟大的符咒挑战)(E)ACT 57.75
+2148-Barbie Groovy Games & Secret Agent Barbie (U)(游戏2合1-芭比娃娃超级合集)(E)ACT 62.50
+2149-TG Rally (E)(TG顶级拉力赛车)(E)RCG 32.00
+2150-Danny Phantom-The Ultimate Enemy (U)(幻影丹尼-终极敌人)(E)ACT 28.00
+2151-Whac-a-mole (U)(打鼹鼠)(E)PUZ 37.00
+2152-Disney's Cinderella-Magical Dreams (U)(迪斯尼仙履奇缘-奇幻之旅)(M5)ACT 64.00
+2153-2 Games in 1-Hot Wheels-Velocity X & Hot Wheels-World Race (U)(游戏2合1-无敌风火轮赛车)(E)RCG 120.00
+2154-Screw Braker Goushin Drillero (J) (螺旋钻地小子-轰阵钻子)(J)ACT 50.25
+2155-The Berenstain Bears (U) (贝贝熊与老树精) (E)ACT 28.75
+2156-Ultimate Spider-Man (U) (终极蜘蛛人) (E)ACT 128.00
+2157-Shonen Jumps One Piece (U) (海贼王-少年跳跃)(E) ACT 43.75
+2158-FIFA 2006 (U) (FIFA足球2006) (E) SPG 63.25
+2159-Bibi Blocksberg-Der magische Hexenkreis (G) (比比小魔女)(G) ACT 82.00
+2160-The Fairly Odd Parents!-Clash with the Anti-World (U) (正义双亲的反斗家族-反物质世界的突变)(E) ACT 26.00
+2161-Super Mario Advance 4 v1.1 (U) (超级马里奥4 v1.1) (E)ACT 31.25
+2162-2 Games in 1-Barbie Super Pack (E) (游戏2合1-芭比娃娃超级合集)(M) ETC 64.00
+2163-Pac-Man World 2 (U) (吃豆小精灵世界2) (E)ACT 32.00
+2164-Gunstar Super Heroes (J) (超级火木仓英雄) (J) ACT 58.75
+2165-Pro Action Replay (J) (GBA金手指工具) (J)ETC 7.25
+2166-Megaman Zero 4 (U) (洛克人ZERO4) (E)ACT 128.00
+2167-Bratz Rock Angelz (U) (芭兹娃娃 摇滚天使) (E) TCG 51.25
+2168-Tim Burton's The Nightmare Before Christmas-The Pumpkin King (U) (圣诞惊魂夜) (E)A·RPG 62.50
+2169-Backyard Skateboarding (U) (庭院滑板) (E)SPG 31.50
+2170-Ever Girl (U) (曾经女孩) (E)PUZ 31.50
+2171-Chicken Shoot (E) (猎打小鸡) (M) FPS 31.00
+2172-Driv3r (E) (极道无间-横冲直撞3) (M)A·AVG 63.25
+2173-Ultimate Spider-Man (E) (终极蜘蛛人) (M)ACT 128.00
+2174-Tsuukin Hitofude (J) (通勤一笔) (J) PUZ 22.50
+2175-Yu-Gi-Oh! Duel Monsters GX-Mezase Duel King! (J) (游戏王-目标决斗王怪兽GX) (J) CAG 256.00
+2176-Teen Titans (U) (少年泰坦战队) (E)ACT 59.00
+2177-Horse And Pony Lets Ride 2 (E) (马场生活2) (M) TCG 26.75
+2178-Pokemon Pinball R&S v1.1 (J) (口袋妖怪弓单珠台v1.1) (J)TAB 53.25
+2179-Madagascar (I) (马达加斯加) (I)ACT 64.00
+2180-I Fantastici 4 (I) (神奇四侠)(I)ACT 127.75
+2181-Kid's Cards (U) (儿童扑克) (E)TAB 31.00
+2182-GBA VIDEO Cartoon Network CollETCion Special Edition (U) (GBA电影-卡通网络珍藏特别版) (E)MOV 255.00
+2183-Duel Masters Shadow Of The Code (E) (卡片决斗高手-影子代号) (M) CAG 96.75
+2184-Breakout, Centipede, Warlords (E) (街机游戏3合1-虫虫入侵.突破重围与战神)(M) ACT 24.00
+2185-Pokemon Smaragd (G) (口袋妖怪-绿宝石德国版) (G) RPG 114.00
+2186-2 Games in 1-Crash and Spyro Superpack 3 (E) (游戏2合1-古惑狼与斯派洛超级包3) (M)ACT 256.00
+2187-Pokémon Emeraude (F) (口袋妖怪-绿宝石法国版) (F)RPG 114.00
+2188-Backyard Football 2006 (U) (后院橄榄球2006) (E) SPG 30.50
+2189-Madagascar-Operation Penguin (U) (马达加斯加-企鹅大行动) (E)ACT 64.00
+2190-Pokémon Esmeralda (S) (口袋妖怪-绿宝石西班牙版) (S)RPG 114.00
+2191-World Poker Tour (U)(世界扑克巡回大赛) (E)TAB 32.00
+2192-Duel Masters-Shadow of the Code (U) (卡片决斗高手-影子代码) (E)CAG 89.75
+2193-Spongebob SquarePants Lights, Camera, Pants! (U) (超级海绵巴伯-灯光.照相.内裤)(E)ACT 31.75
+2194-Tony Hawk's American Sk8land (U) (托尼霍克美式滑板) (E)SPG 64.00
+2195-Compilation Paperboy & Rampage (E) (新游戏2合1-送报童与毁灭金刚)(M)ACT 31.25
+2196-2 Games in 1-Crash Super Pack (U) (游戏2合1-古惑狼超级包) (E)ETC 128.00
+2197-2 Games in 1-Hugo Pack (E) (游戏2合1-雨果包) (M)ACT 63.25
+2198-Madagascar-Operation Penguin (E) (马达加斯加-企鹅大行动)(M)ACT 64.00
+2199-Gunstar Super Heroes (U) (超级火木仓英雄) (E)ACT 61.25
+2200-Frontier Stories (J) (开拓者物语-半兽敌人) (J)A·RPG 56.00
+2201-Kunio Kun Nekketsu CollETCion 2 (J) (任天堂国夫君热血纪念合集2)(J)SPG 12.00
+2202-Barbie and the Magic of Pegasus (E) (芭比和魔法天马) (M)ACT 32.00
+2203-Chicken Little (U) (迪斯尼四眼天鸡) (M) ACT 63.75
+2204-Ultimate Arcade Games (U) (终极街机12款游戏合集) (E)ETC 32.00
+2205-The Sims 2 (U) (模拟人生2) (E)SLG 254.25
+2206-Care Bears-The Care Quests (E) (爱心熊-爱心搜索) (M) ETC 31.25
+2207-Pokémon Smeraldo (I) (口袋妖怪-绿宝石) (M)RPG 114.00
+2208-Witch (E) (女巫) (M)ACT 61.25
+2209-Space Invaders (F) (太空侵略者) (F) STG 32.00
+2210-Driv3r (U) (极道无间-横冲直撞3)(E) A·AVG 63.25
+2211-Nicktoons Unite (U) (尼克通海绵) (E)ETC 30.25
+2212-Sky Dancers They Magically Fly (U) (空中之舞 魔法飞翔) (E)ACT 27.25
+2213-2 Games in 1 Nintendo-Pack Volume 1 (E) (新游戏2合1-马里奥医生与花仙子方块)(M)PUZ 60.00
+2214-Donkey Kong Country 3 (E) (超级大金刚3) (M)ACT 128.00
+2215-Fire Emblem-The Sacred Stones (E) (火焰之纹章-圣魔之光石) (M)S.RPG 256.00
+2216-Dog Trainer + Mario 64 Trainer (E) (任天狗补充包+马力欧64补充包) (M)ETC 6.00
+2217-Gauntlet, Rampart (E) (新游戏2合1-铁腕战士.射击堡垒)(M)ACT 31.25
+2218-2 Games in 1-Sonic Pack Vol 1 (E) (游戏2合1-索尼克1和索尼克弓单珠派对) (M)ACT 128.00
+2219-Big Mutha Truckers (U) (重金属集车) (E) RCG 32.00
+2220-Donkey Kong Country 3 (U) (超级大金刚3) (E) ACT 128.00
+2221-Ty the Tasmanian Tiger 3 (U) (泰斯虎冒险3) (E)ACT 62.75
+2222-Gunstar Future Heroes (E) (超级火木仓英雄) (M)ACT 62.00
+2223-Harry Potter and the Goblet of Fire (E) (哈利波特和火焰杯) (M)A·RPG 256.00
+2224-Shrek-Super Slam (U) (史瑞克-超级碰撞) (E)ACT 62.25
+2225-2 Games in 1-Sega Pack Vol2 (E) (游戏2合1-宝石方块和咕噜咕噜火箭) (M)ETC 128.00
+2226-Compilation Marble Madness and Klax (E) (新游戏2合1-疯狂弓单珠与立体方块)(M)TAB 16.50
+2227-2 Games in 1-Sonic Pack Vol2 (E) (游戏2合1-索尼克战斗和索尼克弓单珠派对) (M)ACT 255.00
+2228-2 Games in 1-Sonic Pack Vol3 (E) (游戏2合1-索尼克1和索尼克战斗) (M)ACT 255.00
+2229-The Incredibles Rise Of The Underminer (E) (超人特工队) (M) ACT 53.75
+2230-2 Games in 1-Peter Pan and Lilo and Stitch 2 (E) (游戏2合1-迪斯尼小飞侠-回到梦不落帝国和星际宝贝2) (M)ACT 128.00
+2231-The Bible Game (U) (圣经游戏) (E) ETC 62.75
+2232-Action Replay MAX (E)(金手指工具)(M)ETC 8.00
+2233-King Kong (E) (金刚) (M)A·RPG 61.25
+2234-Ford Racing 3 (U) (福特赛车3) (E)RCG 27.25
+2235-Tony Hawk's American Sk8land (E) (托尼霍克美式滑板) (M) SPG 64.00
+2236-Shrek Super Slam (E) (史瑞克 超级碰撞) (M)ACT 63.25
+2237-SpongeBob SquarePants Lights Camera Pants (E) (超级海绵巴伯-灯光.照相.内裤) (M)ACT 37.75
+2238-Fairly Odd Parents Clash With The Anti-Wold (E) (正义双亲的反斗家族-反物质世界的突变)(M)ACT 26.50
+2239-Pokemon Fushigi no Dungeon Aka no Kyuujotai (J) (口袋妖怪不可思议的迷宫 红色救助队)(J)A·RPG 256.00
+2240-Mario Tennis Advance Power Tour (E) (马里奥力量网球巡回赛) (M)RPG 127.25
+2241-Atomic Betty (U) (超级贝蒂) (E)ACT 57.75
+2242-Hello Kitty-Happy Party Pals (U) (哈罗凯蒂-快乐聚会) (E)TCG 28.00
+2243-Fantastic 4-Flame On (U) (神奇四侠过关版) (E) ACT 63.75
+2244-Spy Hunter and Super Sprint (E) (新游戏2合1-间谍猎手赛车.超级冲刺)(M)RCG 17.25
+2245-The Chronicles of Narnia (U) (纳尼亚传奇编年史) (E)A·RPG 126.50
+2246-Super Breakout, Lunar Lander, Millipede (E) (街机游戏3合1-蜈蚣.方块射击.登月)(M)TAB 14.00
+2247-Asteroids, Pong, Yars' Revenge (E) (街机游戏3合1-碰碰弓单珠台.爆破慧星与亚尔的复仇)(M)ACT 32.00
+2248-Bratz Rock Angelz (G) (贝兹 摇滚天使) (G)ETC 51.50
+2249-Totally Spies! (E) (神探少女组) (M)ACT 63.50
+2250-Need for Speed Most Wanted (U) (极品飞车 最高通缉) (E)RCG 64.00
+2251-The Incredibles Rise of the Underminer (U) (超人特攻队)(E)ACT 53.75
+2252-Ultimate Puzzle Games (U) (终极智力游戏) (E)PUZ 15.00
+2253-RockMan EXE 6 Dennoujuu Faltzer (J) (洛克人战斗网络EXE 6-电脑兽法尔扎)(J)A·RPG 64.00
+2254-RockMan EXE 6 Dennoujuu Grega (J) (洛克人战斗网络EXE 6-电脑兽格莱伽) (J)A·RPG 64.00
+2255-WinX Club (E) (粉红女郎WinX 俱乐部) (M)A·RPG 127.50
+2256-My Pet Hotel (E) (我的宠物旅馆) (M)TCG 63.50
+2257-Shamu's Deep Sea Adventures (U) (深海冒险) (E)SPG 256.00
+2258-Trollz-Hair Affair! (U) (奇幻慢舞) (E)ETC 62.25
+2259-Ottifanten Pinball (G) (快乐河马弓单球台)(G)TAB 28.00
+2260-Dynasty Warriors Advance (E) (真·三国无双A )(M) A·RPG 123.25
+2261-Dr Mario and Puzzle League (U) (新游戏2合1-马里奥医生与花仙子方块)(E)PUZ 53.25
+2262-Franklin's Great Adventure (E) (小乌龟弗兰克林的大冒险) (M)ETC 29.75
+2263-Madagascar Operation Penguin (E) (马达加斯加-企鹅大行动) (M)ACT 64.00
+2264-Crazy Frog Racer (E) (起笑蛙赛车) (M)RCG 30.50
+2265-Franklin the Turtle (U) (小乌龟富兰克林) (E)ETC 32.00
+2266-Care Bears-The Care Quest (U) (爱心熊-爱心搜索)(E) ETC 31.25
+2267-The Proud Family (U) (骄傲家族) (E)TCG 63.25
+2268-Land Before Time Into The Mysterious Beyond (E) (历险小恐龙-神秘之境) (M)ACT 37.75
+2269-Sugar Sugar Rune Heart Ga Ippai Moegi Gakuen (J) (小魔女安野梦洋子-充满爱心的萌黄学园) (J)RPG 64.00
+2270-Super Donkey Kong Country 3 (J)(超级大金刚3) (J)ACT 127.25
+2271-Konjiki no Gashbell!Yuujou no Zakeru Dream Tag Tournament (J) (魔法少年贾修-友情的电击-梦幻搭档锦标赛) (J)FTG 126.25
+2272-Mario Tennis Power Tour (U) (马里奥力量网球巡回赛) (E)RPG 127.25
+2273-Summon Night Craft Sword Monogatari Hajimari no Ishi (J) (召唤之夜 铸剑物语3-起源之石) (J)A·RPG 254.00
+2274-Final Fantasy IV (J) (最终幻想4) (J)RPG 56.75
+2275-Final Fantasy IV (U) (最终幻想4) (E)RPG 55.00
+2276-Strawberry Shortcake Ice Cream Island Riding Camp (E) (草莓娃娃-野营冰淇淋岛) (M)ETC 63.25
+2277-Heidi-The Game (E) (海蒂故事)(M)ACT 31.25
+2278-Dogz (U)(可爱小狗们) (E) TCG 64.00
+2279-Ed, Edd n Eddy-The Mis-Edventures (U)(捣蛋三傻-混乱大冒险)(E)ACT 60.00
+2280-Elf Bowling 1 and 2 (U)(圣诞保龄球1和2)(E)TAB 18.50
+2281-Kong The 8th Wonder of the World (U)(金刚)(E)A·RPG 61.25
+2282-Snood 2 On Vacation (E) (怪投射波2-在度假)(M)PUZ 30.50
+2283-Totally Spies(U)(间谍少女组)(E)ACT 63.50
+2284-ZatchBell!-Electric Arena (U)(魔法少年贾修-电击竞技场)(E)FTG 64.00
+2285-Hudson Best Collection 3 Hudson(J)(任天堂Hudson经典收藏3-动作篇)(J)ACT 4.00
+2286-Twin Series 1-Mezase Debut! Fashion Designer Monogatari + Kawaii Pet Game Gallery 2 (J)(双子系列1-流行设计师+可爱宠物系列2) (J)SLG 128.00
+2287-Hi Hi Puffy AmiYumi-Kaznapped(E)(嗨嗨帕妃亚美由美组合)(E)ACT 52.25
+2288-2 Games in 1-Dragonball Z 1 And 2(E)(游戏2合1-七龙珠Z-悟空遗产传说1+2)(E)A·RPG 128.00
+2289-Kong-King of Atlantis(E)(金钢-亚特兰蒂斯)(E)ACT 27.75
+2290-Madagascar Operation Penguin (E) (马达加斯加-企鹅大行动) (M) ACT 64.00
+2291-Garfield-The Search for Pooky (U) (加菲猫 寻找波基) (J) ACT 63.25
+2292-The Amazing Virtual Sea Monkeys (U) (海底小精灵) (E) ACT 31.75
+2293-Tiny Toon Adventures-Scary Dreams (U) (兔宝宝大冒险-糟糕的梦) (E) ACT 31.25
+2294-La famille Delajungle, le film (F) (丛林冒险) (F) ACT 31.75
+2295-2 Games in 1-Sonic Advance and Sonic Pinball (U) (游戏2合1-索尼克1和索尼克弓单珠派对)(E) ETC 128.00
+2296-Ochainu no Bouken Jima (J) (茶犬的冒险岛) (J) AVG 61.75
+2297-Hi Hi Puffy AmiYumi Kaznapped (J) (嗨嗨帕妃亚美由美组合) (J) ACT 57.00
+2298-Play-Yan Micro (J)(播放君Mirco) (J) ETC 31.75
+2299-2 Games in 1-Castlevania Double Pack (U)(游戏2合1-恶魔城合集) (E)A·RPG 128.00
+2300-Pocket Dogs (U)(口袋小狗) (E) TCG 57.25
+2301-WinX Club (U) (粉红女郎WinX 俱乐部) (E) A·RPG 127.50
+2302-Yu-Gi-Oh! GX Duel Academy (U)(游戏王GX-决斗学院) (E) CAG 256.00
+2303-2 Games in 1-Looney Tunes Pack (E)(新游戏2合1-兔宝宝包)(E) ACT 39.75
+2304-Greg Hastings Tournament Paintball MAXd (U) (格雷戈哈斯汀-彩弓单竞技场MAXd)(E) FPS 75.75
+2305-Hello Kitty-Happy Party Pals (E)(哈罗凯蒂-快乐聚会) (M)TCG 31.50
+2306-Curious George (U)(好奇的乔治)(E) ACT 31.25
+2307-Die wilden Fussball Kerle (G)(疯狂破裂橄榄球)(G) ACT 106.25
+2308-Drill Dozer (U) (螺旋钻地小子-轰阵钻子)(E) ACT 50.50
+2309-Wintersports (E)(冬季运动会) (M) SPG 30.00
+2310-Alien Hominid (E)(外形原人) (M) ACT 63.50
+2311-2 Games in 1-Cartoon Network Block Party and Speedway (E)(游戏2合1-卡通网络包-黑色聚会和赛车)(M)ACT 256.00
+2312-Big Mutha Truckers (E)(重金属卡车) (M)RCG 31.75
+2313-Ford Racing 3 (E) (福特赛车3)(M)RCG 27.25
+2314-GBADev 2004Mbit Compeition (U)(超2004长手怪人)(E) ACT 128.00
+2315-Power Rangers SPD (E)(鸟人战队SPD)(M) ACT 32.00
+2316-Global Star Sudoku Fever (U)(拼图数独九宫格)(E) PUZ 17.25
+2317-Shaman King-Master Of Spirits 2 (E)(通灵王2-精神大师) (E)A·RPG 128.00
+2318-Spongebob Squarepants And Friends Unite! (E)(超级海绵巴伯和他的朋友们)(M)ACT 30.25
+2319-2 Games in 1-Castlevania DoublePack (E)(游戏2合1-恶魔城合集)(M) A·RPG 128.00
+2320-Tak The Great JuJu Challenge (E)(塔克-伟大的符咒挑战)(M)ACT 60.25
+2321-3 Games in 1-Darts Shuffle Skiball (E)(新游戏3合1-飞镖.保龄球.投洞球)(M) PUZ 22.75
+2322-Yu-Gi-Oh Duel Monsters Expert 2006 (J)(游戏王-决斗怪兽专家版2006)(J)CAG 256.00
+2323-Disney's Kim Possible 2 (E) (迪斯尼之麻辣女孩2)(M)ACT 61.00
+2324-Paws and Claws-Pet Resort (U)(我的宠物旅馆)(E)TCG 32.00
+2325-2 Games in 1-Disney Sportpack(E)(游戏2合1-迪斯尼全明星运动系列足球.滑板)(M)SPG 256.00
+2326-2 Games in 1-Findet Nemo + Die Unglaubichen(G)(游戏2合1-海底总动员-寻找伦莫和超人特工队)(G)ACT 127.50
+2327-2 Games in 1-Findet Nemo + Findet Nemo-Das Abenteuer geht weiter (G)(游戏2合1-海底总动员-寻找伦莫和冒险再续)(G)ACT 96.50
+2328-Kong - King of Atlantis (E)(金钢-亚特兰蒂斯)(M)ACT 27.75
+2329-Yaoxi Dao (C)(神游之耀西岛)(C)ACT 32.00
+2330-Miteluode Ronghe (C)(神游之密特罗德-融合)(C)A·RPG 64.00
+2331-Tales of Phantasia(U)(幻想传说)(E)A·RPG 62.50
+2332-2 Games in 1- Golden Nugget and Texas Poker(E)(游戏2合1-扑克牌游戏合集)(E)TAB 63.00
+2333-2 Games in 1-Quad Desert & Monster Truck(E)(游戏2合1-沙漠狂暴人竞技赛和怪兽大脚车)(E)RCG 63.50
+2334-Naruto Ninja Council(U)(火影忍者-最强忍者大集合1)(E)ACT 61.25
+2335-Akagi (J)(赤木-麻将传说)(J)PUZ 128.00
+2336-Hudson Best Collection 6 (J)(任天堂Hudson经典收藏6-冒险岛篇)(J)ACT 11.25
+2337-Ueki no Housoku (J)(植木的法则-神器炸裂!能力者之战)(J)FTG 61.75
+2338-Scooby-Doo! Unmasked (E)(史诺比-原形毕露)(M)ACT 64.00
+2339-Kuniokun Nekketsu Collection 3 (J)(任天堂国夫君热血纪念合集3)(J)SPG 12.00
+2340-Ice Age 2 The Meltdown (U)(冰河世纪2-消融)(E)ACT 114.00
+2341-2 Games in 1-Yu-Gi-Oh The Sacred Cards and Reshef of Destruction (E)(游戏2合1-游戏王合集)(M)CAG 256.00
+2342-2 Games in 1 Teenage Mutant Ninja Turtles 1+2 (E)(游戏2合1-忍者神龟1+2)(M)ACT 128.00
+2343-Yu-Gi-Oh! Ultimate Masters 2006 (U)(游戏王-决斗怪兽专家版2006)(E)CAG 256.00
+2344-Kawa no Nushitsuri 3+4 (J)(新游戏2合1-川钓太郎3+4)(J)A·RPG 17.75
+2345-3 Games in 1-Majesco Sports Pack (E)(新游戏3合1-运动游戏合集)(M)SPG 64.00
+2346-Yu-Gi-Oh World Championship Tournament 2006 (E) (游戏王-决斗怪兽专家版2006)(M)CAG 256.00
+2347-Pawa Poke Dash (J)(力量口袋职棒冲刺)(J)SPG 54.00
+2348-Yggdra Union (J)(尤古朵拉公主联盟)(J)S·RPG 256.00
+2349-The Tower SP (U)(模拟大楼SP)(E)SLG 59.25
+2350-Catz (U)(可爱小猫们)(E)TCG 128.00
+2351-Tales of Phantasia (E)(幻想传说)(M)A·RPG 128.00
+2352-Street Racing Syndicate (U)(街头赛车联盟)(E)RCG 31.25
+2353-Ice Age 2-The Meltdown (E)(冰河世纪2-消融)(M)ACT 115.25
+2354-Top Spin 2 (U)(上旋高手网球2)(E)SPG 104.50
+2355-Lets Ride Dreamer (U)( )(E)TCG 28.50
+2356-Sudoku Fever (E)(拼图数独九宫格)(M)PUZ 27.50
+2357-Let's Ride!-Sunshine Stables (U) ()(E)SLG 25.00
+2358-Chaoji Maliou Shijie (C)(神游之超级马力欧世界)(C)ACT 32.00
+2359-World Poker Tour (E)(世界扑克联合巡回大赛)(M)PUZ 27.50
+2360-Yu-Gi-Oh! - Duel Monsters International v1.1 (J)(游戏王6-国际版1.1版)(J) CAG 93.75
+2361-Shinchan-Aventuras en Cineland (S)(蜡笔小新-电影乐园大冒险)(S)ACT 128.00
+2362-Namco Museum 50th Anniversary (E)(南梦宫50周年经典博物馆)(M)ETC 31.00
+2363-Polarium Advance (E)(通勤一笔)(M)PUZ 29.00
+2364-Ed Edd n Eddy The Misedventures (E)(捣蛋三傻阿呆-混乱大冒险)(M)ACT 60.00
+2365-Elf The Movie (E)(圣诞精灵-电影版)(M)AVG 30.75
+2366-The Wild (U)(迪斯尼之狂野大自然中野生动物)(E)ACT 61.50
+2367-Crayon Shin chan - Densetsu wo Yobu Omake no Miyako Shockgaan (J)(蜡笔小新2-呼唤传说食玩都冒险)(J)ACT 256.00
+2368-2 Games in 1-Monstres & Cie + Le Monde de Nemo (F)(游戏2合1-迪斯尼怪兽公司和海底总动员-寻找伦莫)(F)ACT 96.00
+2369-Fantastic 4-Flame On (E)(神奇四侠-霹雳火)(M)ACT 63.75
+2370-Eyeshield 21 Devilbats Devildays (J) (光速蒙面侠21-恶魔蝙蝠恶魔日)(J) RPG 128.00
+2371-Minna no Soft Series Numpla Advance (J)(大众游戏系列-数独游戏) (J)PUZ 22.50
+2372-Breath of Fire (E)(龙战士)(M)RPG 25.25
+2373-Nakayoshi Pet Advance Series 3 - Kawaii Koneko v1.1 (J)(动物伴侣系列三-可爱小猫1.1版) (J)TCG 30.75
+2374-Sonic Advance v1.1 (J)(索尼克1 1.1版)(J)ACT 64.00
+2375-Top Spin Tennis 2 (E)(上旋网球高手2)(M)SPG 104.50
+2376-Scooby Doo Unmasked (E)(史诺比-原形毕露)(M)ACT 64.00
+2377-Mother 3 (J)(妈妈3-地球冒险)(J)RPG 256.00
+2378-Cabbage Patch Kids The Patch Puppy Rescue (U)(卷心菜娃娃-拯救斑点狗)(E)ACT 32.00
+2379-The Land Before Time Into the Mysterious Beyond (U)(历险小恐龙-神秘之境)(E)ACT 37.75
+2380-Franklins Great Adventures (U)(小乌龟弗兰克林的伟大冒险)(E)ETC 29.75
+2381-Danny Phantom-The Ultimate Enemy (E)(幻影丹尼-终极敌人)(M)ACT 29.75
+2382-2 Games in 1-Titeuf - Ze Gagmachine + Titeuf - Mega Compet' (F)(游戏2合1-坏小子-迪德夫合集)(F)ACT 63.00
+2383-2006 FIFA World Cup (U) (2006 FIFA足球世界杯)(E)SPG 57.00
+2384-Konchuu no Mori no Daibouken (J)(昆虫之森的大冒险)(J)TCG 47.00
+2385-Hudson Best Collection 1 (J)(任天堂怀旧系列Hudson经典收藏1-炸弓单人篇)(J)ACT 3.75
+2386-2 Games in 1-Finding Nemo & The Incredibles (E) (游戏2合1-海底总动员-寻找伦莫和超人特工队)(M)ACT 127.50
+2387-Dragon's Rock (E) ()(M)ACT 27.50
+2388-2 Games in 1-Prince of Persia + Tomb Raider (E) (游戏2合1-波斯王子和古墓丽影)(M)ACT 127.75
+2389-The Koala Brothers-Outback Adventures (U)(树熊考拉兄弟-内陆探险)(E)ACT 47.00
+2390-Juka and the Monophonic Menace (E)(朱卡和单声威胁)(M)A·RPG 124.75
+2391-2 Games in 1-Pac-Man World+Ms.Pac-Man-Maze Madness (E) (游戏2合1-吃豆小精灵大冒险+吃豆小精灵世界)(M)ACT 63.50
+2392-Dr Sudoku (U)(数独博士)(E)PUZ 13.50
+2393-Cartoon Network Collection-Premium Edition (F)(GBA电影-卡通频道珍藏电影-限定版)(F)MOV 223.00
+2394-2 Games in 1-Spyro Superpack (U)(游戏2合1-小龙斯派罗-冰冻和火焰的季节)(E)ACT 128.00
+2395-Zoku Bokura no Taiyou-Taiyou Shounen Django v1.1 (J)(我们的太阳2-太阳少年加戈1.1版)(J)A·RPG 110.00
+2396-Over the Hedge (U)(篱笆墙外-森林保卫战)(E)ACT 64.00
+2397-Tringo (U) (方块连环-环环套)(E)PUZ 12.75
+2398-Madagascar (J)(马达加斯加)(J)ACT 64.00
+2399-Hudson Best Collection 4 (J)(任天堂怀旧系列Hudson经典收藏4-解迷篇)(J)ACT 5.50
+2400-2 Games in 1-Sonic Pinball Party and Sonic Battle (J)(游戏2合1-索尼克弓单珠派对和索尼克战斗)(J)ACT 252.50
+2401-2 Games in 1-Sonic Battle and Sonic Advance Plus (J)(游戏2合1-索尼克战斗和索尼克大冒险1 Plus版)(J)ACT 252.50
+2402-Candy Land-Chutes and Ladders-Memory (U)(新游戏3合1-幼儿益智游戏合集)(E)TAB 16.00
+2403-Life-Yahtzee-Payday (U)(新游戏3合1-生活.发工资日.掷骰子游戏)(E)TAB 24.50
+2404-Mahou Sensei Negima Private Lesson 2 (J)(魔法老师正太先生涅吉!私人授课2打扰啦-天国的Chu)(J)RPG 128.00
+2405-X-Men-The Official Game (U)(X战警-官方游戏)(E)ACT9 J* _4 `0 V" S0 H* u
+2406-Calcio Bit (J)(轻松玩足球)(J)SPG% i, _5 L. f4 k/ c% L: ?. n
+2407-Animal Yokochou Dokidoki Shinkyu Shiken (J)(动物横町-心跳心跳升级考试之卷)(J)ACT
+2408-Hudson Best Collection 2 (J)(任天堂怀旧系列Hudson经典收藏2-智力篇)(J)ACT
+2409-Animaru Yokochou DokiDoki Kyushutsu Daisakusen! No Maki (J)(动物横町-心跳心跳救出大作战之卷)(J)ACT
+2410-Mirakuru Panzou 7 Tsuno Hosh no Kaizoku (J)(神奇梦幻熊猫警官七颗星球的宇宙海贼)(J)STG
+2411-Chicken Shoot 2 (U)(射鸡英雄传2)(E)STG# Y1 a2 q* V' M2 _( @) C: [
+2412-Backyard Sports Baseball 2007 (U)(后院运动-棒球2007)(E)SPG
+2413-Garfield and His Nine Lives (U)(加菲猫和它的九条命)(E)ACT- \& P7 _, _5 J0 q% i. h4 |
+2414-B-Legend! Battle B-Daman Fire Spirit! (J)(B-传说!战斗比达人炎魂)(J)AVG 64.00
+2415-Cinnamon Fuwafuwa Daisakusen (J)(长耳狗希纳蒙-云上大作战)(J)ACT 32.00
+2416-X-Men-The Official Game (E)(X战警-官方游戏)(M)ACT 61.50
+2417-Final Fantasy IV Advance (E)(最终幻想4)(M)RPG 63.75
+2418-Chicken Shoot 1 (U)(射鸡英雄传1)(E)FPS 31.00
+2419-Hardcore Pool (E)(核心台球)(M)TAB 31.75
+2420-Racing Fever (E)(火热赛车)(M)RCG 16.00
+2421-2 Games in 1-Crash Bandicoot Purple-Ripto's Revenge + Spyro Orange-The Cortex Conspiracy (U)(宝贝龙-阴谋的本质和古惑狼-暴跳的罗彼德)(E)ACT 256.00
+2422-Ultimate Spiderman (E)(终极蜘蛛人)(M)ACT 128.00
+2423-Cars (U)(汽车总动员)(E)RCG 61.25
+2424-Babar-To the Rescue (U)(贝巴-救援)(E)ACT 31.75
+2425-Tony Hawk's American Sk8land (E)(托尼霍克美式滑板)(M)SPG 64.00
+2426-Dragon Ball-Advanced Adventure (U)(七龙珠大格斗)(E)FTG 107.75
+2427-Mega Man Battle Network 6-Cybeast Gregar (U)(洛克人战斗网络EXE 6-电脑兽格莱伽)(E)A·RPG 64.00
+2428-Mega Man Battle Network 6-Cybeast Gregar (E)(洛克人战斗网络EXE 6-电脑兽格莱伽)(M)A·RPG 64.00
+2429-Mega Man Battle Network 6-Cybeast Falzar (E)(洛克人战斗网络EXE 6-电脑兽法尔扎)(M)A·RPG 64.00
+2430-Disney's Cinderella-Magical Dreams (E)(迪斯尼仙履奇缘-奇幻之旅)(M)ACT 64.00
+2431-Ab durch die Hecke (G)(篱笆墙外-森林保卫战)(G)ACT 64.00
+2432-Premier Action Soccer (E)(足球经理)(M)SPG 62.50
+2433-Garfield And His Nine Lives (E)(加菲猫和它的九条命)(M)ACT 32.00
+2434-3 Games in 1 - Rugrats, SpongeBob, Tak (E)(游戏3合1-淘气小兵兵之我要参加宴会+超级海绵大冒险+塔克和符咒的神力)(M)ACT 118.50
+2435-Pirates of the Caribbean-Dead Mans Chest (U)(加勒比海盗2亡者财宝)(E)ACT 116.75
+2436-Megaman Battle Network 6-Cybeast Falzar (U)(洛克人战斗网络EXE 6-电脑兽法尔扎)(E)A·RPG 64.00
+2437-2 Games in 1-Yu-Gi-Oh! Double Pack (U)(游戏2合1-游戏王合集)(E)CAG 256.00
+2438-Pocket Professor-Kwik Notes Vol.one (U)(口袋教授-克威克笔记第1部)(E)PUZ 29.75
+2439-Street Racing Syndicate (E)(街头赛车联盟)(M)RAC 32.00
+2440-Meine Tierarztpraxis (E)(我的兽医实习)(M)TCG 61.00
+2441-Madagascar-Operacion Pinguino (S)(马达加斯加-企鹅大行动)(S)ACT 64.00
+2442-bit Generations-Boundish (J)(几何世代-反弓单网球)(J)ACT 16.75
+2443-bit Generations-Dialhex (J)(几何世代-六角形针盘)(J)TAB 120.25
+2444-bit Generations-Dotstream (J)(几何世代-点点潮流)(J)ACT 115.25
+2445-Monster House (U)(怪兽小屋)(E)A·RPG 64.00
+2446-Vecinos Invasores (S)(篱笆墙外-森林保卫战)(S)ACT 64.00
+2447-Chicken Little (J)(迪斯尼四眼天鸡)(J)ACT 63.50
+2448-Hudson Best Collection Vol.5-Shooting Collection (J)(任天堂怀旧系列Hudson经典收藏5-飞机篇)(J)STG 4.25
+2449-Cars (J)(汽车总动员)(J)RCG 61.75
+2450-Yu-Gi-Oh! GX-Duel Academy (E)(游戏王GX-目标决斗王学院)(M)CAG 256.00
+2451-bit Generations-Soundvoyager (J)(几何世代-声音航海家)(J)ACT 109.25
+2452-bit Generations-Orbital (J)(几何世代-轨道牵引)(J)ACT 101.25
+2453-bit Generations-Digidrive (J)(几何世代-数位驱动)(J)TAB 128.00
+2454-bit Generations-Coloris (J)(几何世代-颜色方块)(J)TAB 109.00
+2455-The Ant Bully (U)(别惹蚂蚁)(E)ACT 51.25
+2456-2 Games in 1-Double Pack Sonic Advance & Chuuchu Rocket (J)(游戏2合1-索尼克大冒险1和咕噜咕噜啾啾火箭队)(J)ACT 128.00
+2457-Hamster Monogatari 3EX4 Special (J)(仓鼠物语 3EX4 特别版)(J)TCG 128.00
+2458-Summon Night-Swordcraft Story (U)(召唤之夜-铸剑物语1)(E)A·RPG 59.25
+2459-2 Games in 1-Finding Nemo 1 + Finding Nemo 2 (E)(游戏2合1-海底总动员-寻找伦莫和冒险再续)(M)ACT 96.50
+2460-Mr. Incredible-Kyouteki Under Minor Toujyou (J)(超人特攻队2)(J)ACT 54.00
+2461-Barnyard (U)(疯狂农庄)(E)A·RPG 64.00
+2462-Rhythm Tengoku (J)(节奏天国-旋律天堂)(J)ACT 105.25
+2463-Battle B-Daman (U)(B-传说!战斗比达人炎魂)(E)ACT 64.00
+2464-Scrabble Scramble (E)(混乱拼字游戏)(M)PUZ 31.75
+2465-Babar-To the Rescue (E)(贝巴-救援)(M)ACT 32.00
+2466-VeggieTales-LarryBoy and the Bad Apple (U)(蔬菜总动员-拉里男孩和坏苹果)(E)ACT 23.75
+2467-Super Robot Taisen-Original Generation (U)(超级机器人大战OG1)(E)SLG 128.00
+2468-Robots (J)(机器人)(J)ACT 126.25
+2469-Monster House (E)(怪兽小屋)(M)A·RPG 64.00
+2470-Games Explosion(U)(游戏爆发合集)(E)ECT 26.25
+2471-Madden NFL 2007(U)(NFL疯狂马顿橄榄球2007)(E) 32.00
+2472-2 Games in 1-Dragonball Z - Buu's Fury + Dragonball GT (U)(游戏2合1-七龙珠Z布欧的愤怒和七龙珠GT突变)(E)ACT 128.00
+2473-Cars (G)(汽车总动员)(G)RCG 61.50
+2474-Dr Sodoku (E)(数独博士)(M)PUZ 13.75
+2475-The Ant Bully (E)(别惹蚂蚁)(M)ACT 51.25
+2476-2 Games in 1-Yu-Gi-Oh! Double Pack 2 (U)(游戏2合1-游戏王合集第二弓单)(E)CAG 127.25
+2477-Cars (I)(汽车总动员)(I)RCG 61.50
+2478-Sword Of Mana (E)(新约圣剑传说)(M)A·RPG 128.00
+2479-Lego Star Wars 2(U)(乐高星球大战2)(E)ACT 126.00
+2480-2 Games in 1-Disney Principesse & Disney Il Re Leone (I)(游戏2合1-迪斯尼公主和迪斯尼狮子王)(I)ACT 128.00
+2481-Little Einstein (U)(迪斯尼小爱因斯坦)(E)ACT 62.25
+2482-The Cheetah Girls (E)(迪斯尼花豹四女郎2)(M)ACT 63.25
+2483-Lego Star Wars 2 (E)(乐高星球大战2)(M)ACT 126.75
+2484-Open Season(M3)(狩猎季节)(M3)ACT 55.50
+2485-Pokemon Mystery Dungeon-Red Rescue Team(U)(口袋妖怪不可思议的迷宫-红色赤之救助队)(E)A·RPG 256.00
+2486-Barnyard(M6)(疯狂农庄)(M6)A·RPG 64.00
+2487-My Little Pony-Crystal Princess-The Runaway Rainbow(U)(水晶公主-小精灵马之消失的彩虹)(E)ACT 28.50
+2488-Danny Phantom-Urban Jungle(U)(幻影丹尼-都市丛林)(E)ACT 31.75
+2489-Capcom Classics-Mini Mix(U)(新游戏3合1-CAPCOM卡普空经典合集Mini Mix)(E)ETC 32.00
+2490-Phil of the Future(U)(菲尔的前途)(E)ACT 43.25
+2491-Dogz-Fashion(U)(可爱的时尚宠物狗们)(E)TCG 37.00
+2492-FIFA 07(M4)(FIFA足球2007)(M4)SPG 61.00
+2493-Catz(M4)(可爱小猫们)(M4)TCG 42.50
+2494-Alex Rider-Stormbreaker(U)(旋风特务-风暴突击者)(E)ACT 31.00
+2495-Backyard Sports-Basketball 2007(U)(后院运行篮球2007)(E)SPG 29.50
+2496-Backyard Sports-Football 2007(U)(后院运动橄榄球-美式足球2007)(E)SPG 29.50
+2497-Strawberry Shortcake-Sweet Dreams(U)(草莓脆饼蛋糕-美梦)(E)ACT 26.50
+2498-Unfabulous!(U)(乐团的生活)(E)ACT 31.00
+2499-American Dragon-Jake Long-Rise of the Huntsclan!(M5)(迪斯尼美国龙-杰克龙.亨特斯克兰的崛起)(M5)ACT 60.25
+2500-Bibi und Tina-Ferien auf dem Martinshof(G)(比比小魔女和提娜-在牧场的三月假日)(G)ACT 114.25
+2501-Little Mermaid：The-Magic in Two Kingdoms(M5)(迪斯尼小美人鱼艾丽尔)(M5)ACT 60.00
+2502-Final Fantasy V Advance(J)(最终幻想5)(J)RPG 57.50
+2503-2 Games in 1-Disney Princesse+Frere des Ours(M8)(游戏2合1-迪斯尼白雪公主们和迪斯尼小熊的兄弟们)(M8)ACT 128.00
+2504-Bratz-Rock Angelz(F)(布拉兹洋娃娃-摇滚天使)(F)TCG 51.50
+2505-Dog Trainer 2(E)(任天狗补充包修改器)(E)ETC 2.751
+2506-Horse And Pony-My Stud Farm(M2)(马场生活)(M2)SLG 62.00
+2507-Battle B-Daman-Fire Spirits!(U)(B-传说!战斗比达弓单珠人炎魂)(E)ACT 64.00
+2508-Scooby-Doo(S)(史酷比鬼屋历险-真人照片版)(S)AVG 32.00
+2509-Disney Princess-Royal Adventure(U)(迪斯尼公主们-皇家王国冒险)(E)ACT 41.50
+2510-Naruto-Ninja Council 2(U)(火影忍者-最强忍者大集合2)(E)ACT 64.00
+2511-Over the Hedge-Hammy Goes Nuts!(U)(篱笆墙外-疯狂的闹剧)(E)ACT 64.00
+2512-Family Feud(U)(全民问答-家庭斗争)(E)ETC 19.50
+2513-Avatar-The Last Airbender(U)(降世神通)(E)A·RPG 57.50
+2514-2 Games in 1-Uno+Skip-Bo(U)(游戏2合1-纸牌联赛)(E)TAB 31.00
+2515-Rock'em Sock'em Robots(U)(格斗机器人)(E)FTG 29.50
+2516-Santa Clause 3：The-The Escape Clause(U)(圣诞老人3出逃的圣诞老人)(E)ACT 64.00
+2517-Monster Trucks Mayhem(U)(疯狂大脚四驱火爆怪兽卡车赛)(E)RCG 31.25
+2518-Original Harlem Globetrotters：The(U)(美国哈林花式篮球队世界巡回篮球赛)(E)SPG 28.50
+2519-Ker Plunk!-Toss Across-Tip It(U)(ATV闪雷电骑士)(E)RCG 31.25
+2520-3 Games in 1-ATV Thunder Ridge Riders(U)(新游戏3合1-抽棒球架.滚球撞方块.轮盘抽签)(E)TAB 64.00
+2521-Barbie in the 12 Dancing Princesses(U)(芭比和十二个跳舞蹈的公主)(E)ACT 16.00
+2522-2 Games in 1-Matchbox Emergency Response+Matchbox Air：Land & Sea Rescue(U)(新游戏2合1-火柴盒任务)(E)ETC 31.75
+2523-Princess Natasha(U)(娜塔莎公主)(E)ACT 31.75
+2524-Bratz-Forever Diamondz(U)(布拉兹洋娃娃合唱团-永恒之钻)(E)RCG 63.50
+2525-Dora the Explorer-Dora's World Adventure!(U)(小冒险家朵拉-世界环球冒险)(E)ETC 31.75
+2526-2 Games in 1-Teenage Mutant Ninja Turtles+Teenage Mutant Ninja Turtles 2-Battle Nexus(M5)(游戏2合1-忍者神龟合集1+2双套装)(M5)ACT 128.00
+2527-Justice League Heroes-The Flash(U)(正义英雄联盟-闪光)(E)ACT 62.25
+2528-Noddy-A Day in Toyland(M3)(诺迪在玩具世界的一天)(M3)ACT 31.25
+2529-Barbie Diaries：The-High School Mystery(U)(芭比奇幻日记-神秘的高校)(E)TCG 63.00
+2530-Legend of Spyro：The-A New Beginning(U)(小龙斯派罗传奇-崭新的开端)(E)ACT 105.50
+2531-Summon Night-Swordcraft Story 2(U)(召唤之夜-铸剑物语2)(E)A·RPG 126.50
+2532-2 Games in 1-Shrek 2+Shark Tale(U)(游戏2合1-鲨鱼故事和怪物史莱克2)(E)ACT 126.75
+2533-SpongeBob SquarePants-Creature from the Krusty Krab(U)(海面方块宝宝-来自香酥蟹堡店的生物)(E)ACT 62.50
+2534-Gang del Bosco：La(I)(篱笆墙外-森林保卫战)(I)ACT 64.00
+2535-Mummy：The(M5)(神鬼传奇-木乃伊归来)(M5)A·RPG 30.25
+2536-3 Games in 1-Mouse Trap-Simon-Operation(U)(新游戏3合1-设圈套捉老鼠和西蒙和手术)(E)ETC 20.75
+2537-2 Games in 1-Hot Wheels-Stunt Track Challenge+Hot Wheels-World Race(U)(游戏2合1-无敌风火轮世界赛车和无敌风火轮赛车-障碍挑战赛)(E)RCG 124.75
+2538-Flushed Away(U)(鼠国流浪冒险记)(E)ACT 55.00
+2539-Hunde & Katzen Best Friends(M2)(猫狗好朋友)(M2)TCG 64.00
+2540-Over the Hedge-Hammy Goes Nuts!(M6)(篱笆墙外-疯狂的闹剧)(M6)ACT 64.00
+2541-GT Racers(M5)(GT赛车手)(M5)RCG 64.00
+2542-Snood 2-Snoods on Vacation(U)(斯奴德怪投射波2-在度假)(E)PUZ 30.50
+2543-Uno 52(U)(纸牌扑克52张)(E)TAB 28.75
+2544-Scurge-Hive(M5)(斯科基病毒-蜂巢)(M5)ACT 125.00
+2545-Legend of Spyro：The-A New Beginning(M6)(小龙斯派罗传奇-崭新的开端)(M6)ACT 105.50
+2546-Bratz-Forever Diamondz(G)(布拉兹洋娃娃合唱团-永恒之钻)(G)RCG 61.75
+2547-Teen Titans 2-The Brotherhood's Revenge(M2)(少年悍将2-兄弟会的复仇)(M2)ACT 60.50
+2548-Foster's Home for Imaginary Friends(U)(亲亲麻吉)(E)ACT 31.00
+2549-Nicktoons-Battle for Volcano Island(U)(尼克通世界海棉宝宝-火山岛之战)(E)ACT 32.00
+2550-Suite Life of Zack & Cody：The-Tipton Caper(M2)(小扎克与寇迪的顶级舒适生活)(M2)ACT 47.75
+2551-Camp Lazlo-Leaky Lake Games(U)(爱酷一族)(E)TCG 31.75
+2552-2 Games in 1-Spider-Man+Spider-Man 2(M4)(游戏2合1-蜘蛛侠合集1+2双套装)(M4)ACT 256.00
+2553-3 Games in 1-Sports Pack-Paintball Splat!+Dodgeball-Dodge This!+Big Alley Bowling(U)(新游戏3合1-Majesco室内运动游戏合集)(E)SPG 64.00
+2554-Marvel-Ultimate Alliance(U)(漫画英雄-美国英雄终极联盟)(E)ACT 63.50
+2555-Open Season(M9)(狩猎季节)(M9)ACT 56.00
+2556-Need for Speed Carbon-Own the City(M5)(极品飞车碳化-我的城市卡本峡谷)(M5)RCG 63.75
+2557-3 Games in 1-Rec Room Challenge(U)(新游戏3合1-飞镖.保龄球.投洞球)(E)PUZ 22.75
+2558-Rebelstar-Tactical Command(M5)(叛星-策略指令)(M5)SLG 31.00
+2559-Juka and the Monophonic Menace(M3)(朱卡与单声威胁)(M3)A·RPG 124.75
+2560-Scurge-Hive(M3)(斯科基病毒-蜂巢)(M3)ACT 125.25
+2561-Tomb Raider-Legend(M5)(古墓丽影-传奇)(M5)A·AVG 64.00
+2562-SpongeBob SquarePants-Creature from the Krusty Krab(M8)(海棉方块宝宝-来自香酥蟹堡店的生物)(M8)ACT 62.50
+2563-Tony Hawk's Downhill Jam(U)(托尼·霍克滑板下坡)(E)SPG 123.25
+2564-Final Fantasy V Advance(U)(最终幻想5)(E)RPG 56.50
+2565-Grim Adventures of Billy & Mandy：The(U)(比利和曼迪大冒险)(E)ACT 63.25
+2566-Tom and Jerry Tales(M3)(汤姆与杰瑞-猫和老鼠召集令)(M3)ACT 64.00
+2567-Pokemon Mystery Dungeon-Red Rescue Team(M5)(口袋妖怪不可思议的迷宫-红色赤之救助队)(M5)A·RPG 256.00
+2568-Who Wants to Be a Millionaire Junior(E)(谁想成为百万富翁)(E)ETC 28.00
+2569-Sims 2：The-Pets(U)(模拟人生2宠物)(E)SLG 255.25
+2570-2 Games in 1-SpongeBob SquarePants-Battle for Bikini Bottom+Nicktoons-Freeze Frame Frenzy(U)(游戏2合1-超级海绵笨伯-比基尼岛的冒险和尼克卡通-棉花糖方块历险记疯狂定格)(E)ACT 96.50
+2571-2 Games in 1-Scooby-Doo+Scooby-Doo 2-Monsters Unleashed(U)(游戏2合1-史酷比鬼屋历险-真人照片版和史酷比2-脱缰的怪物)(E)ACT 96.50
+2572-2 Games in 1-Pac-Man World+Ms. Pac-Man-Maze Madness(U)(游戏2合1-吃豆小精灵大冒险和吃豆小精灵世界)(E)ACT 63.50
+2573-2 Games in 1-Madagascar-Operation Penguin+Shrek 2(U)(游戏2合1-怪物史莱克2和马达加斯加-企鹅大行动)(E)ACT 126.75
+2574-2 Games in 1-Looney Tunes-Acme Antics+Looney Tunes-Dizzy Driving(U)(新游戏2合1-华纳巨星总动员兔宝宝合集)(E)ACT 39.75
+2575-2 Games in 1-Cabela's Big Game Hunter-2005 Adventures+Rapala Pro Fishing(U)(游戏2合1-坎贝拉猎鹿人2005和诺马职业钓鱼)(E)ETC 48.50
+2576-Bionicle Heroes(M6)(乐高生化英雄)(M6)ACT 125.75
+2577-Dogz(M4)(可爱小狗们)(M4)TCG 73.50
+2578-Tony Hawk's Downhill Jam(M5)(托尼·霍克滑板下坡)(M5)SPG 123.25
+2579-Bionicle Heroes(M6)(乐高生化英雄)(M6)ACT 125.75
+2580-Super Robot Taisen-Original Generation 2(U)(超级机器人大战-原创世纪OG2)(E)SLG 128.00
+2581-Sonic the Hedgehog-Genesis(U)(刺猬索尼克起源MD移植版)(E)ACT 31.50
+2582-WinX Club-Quest for the Codex(U)(魔法粉红俏佳人俱乐部-法典任务)(E)ACT 64.00
+2583-Hot Wheels-Velocity X(E)(无敌风火轮疾速X赛车)(M)RCG 64.00
+2584-Sims 2：The-Pets(M6)(模拟人生2宠物)(M6)SLG 255.25
+2585-Spider-Man-Battle for New York(U)(蜘蛛侠-为纽约而战)(E)ACT 126.75
+2586-Eragon(M5)(龙骑士)(M5)RPG 125.75
+2587-Eragon(U)(龙骑士)(E)RPG 126.25
+2588-Hi Hi Puffy AmiYumi-Kaznapped!(M2)(嗨嗨帕妃亚美由纪组合)(M2)ACT 61.25
+2589-Tom and Jerry Tales(M5)(汤姆与杰瑞-猫和老鼠召集令)(M5)ACT 64.00
+2590-Happy Feet(M5)(快乐大脚)(M5)ACT 256.00
+2591-Justice League Heroes-The Flash(M5)(正义联盟英雄-闪光)(M5)ACT 64.00
+2592-Flushed Away(M5)(鼠国流浪冒险记)(M5)ACT 70.00
+2593-Biene Maja Klatschmohnwiese in Gefahr(G)(蜜蜂宝宝-危机中深红草场的故事)(G)ACT 30.50
+2594-Disney Princess-Royal Adventure(M3)(迪斯尼公主们-皇家王国冒险)(M3)ACT 42.75
+2595-Happy Feet(M2)(快乐大脚)(M2)ACT 256.00
+2596-Polarium Advance(U)(通勤一笔)(E)PUZ 22.00
+2597-Tonka-On the Job(U)(东卡卡车-工作场上)(E)RCG 19.25
+2598-Yggdra Union-We'll Never Fight Alone(U)(尤古朵拉公主联盟)(E)S·RPG 256.00
+2599-Final Fantasy VI Advance(J)(最终幻想6)(J)RPG 64.00
+2600-Tomb Raider-Legend(M5)(古墓丽影-传奇)(M5)A·AVG 64.00
+2601-Lizzie McGuire 2-Lizzie Diaries Special Edition(M2)(平民天后2-新成长的烦恼)(M2)ACT 32.00
+2602-Motoracer Advance(U)(越野摩托车英豪)(E)RCG 32.00
+2603-2 Games in 1-Monsters, Inc.+Finding Nemo(U)(游戏2合1-迪斯尼怪兽公司和海底总动员-寻找伦莫)(E)ACT 246.50
+2604-Totally Spies! 2-Undercover(M2)(间谍神探少女组2)(M2)ACT 61.50
+2605-Hot Wheels-All Out(U)(无敌烽火轮赛车-尽数出局)(E)RCG 32.00
+2606-March of the Penguins(U)(帝企鹅日记-企鹅的三月)(E)ACT 29.50
+2607-World Championship Poker(M5)(世界扑克冠军锦标赛)(M5)TAB 32.00
+2608-2 Games in 1-Matchbox Emergency Response+Matchbox Air： Land & Sea Rescue(M5)(新游戏2合1-火柴盒任务)(M5)ETC 32.00
+2609-Spider-Man-Battle for New York(M5)(蜘蛛侠-为纽约而战)(M5)ACT 128.00
+2610-Curious George(M7)(好奇的乔治)(M7)ACT 32.00
+2611-Charlotte's Web(M5)(夏洛的网)(M5)ACT 127.50
+2612-F24 Stealth Fighter F24(U)(隐形魔鬼战斗机F-24)(E)STG 30.50
+2613-Shrek-Smash n' Crash Racing(U)(怪物史莱克赛车)(E)RCG 41.25
+2614-My Animal Centre in Africa(M5)(我的非洲动物中心)(M5)TCG 256.00
+2615-Game Boy Advance Video-Nicktoons-Volume 3(U)(GBA电影-尼克卡通珍藏电影第3卷)(E)MOV 254.75
+2616-Tringo(M5)(方块拼图)(M5)PUZ 25.75
+2617-Rayman Raving Rabbids(M3)(雷曼-疯狂兔子)(M3)ACT 123.00
+2618-Superman Returns-Fortress of Solitude(M5)(超人归来)(M5)TAB 128.00
+2619-Final Fantasy IV Advance(J)(最终幻想4 v1.1版)(J)RPG 56.00
+2620-Winx Club-Quest for the Codex(M5)(魔法粉红俏佳人俱乐部-法典任务)(M5)ACT 63.75
+2621-Rayman Raving Rabbids(M6)(雷曼-疯狂兔子)(M6)ACT 123.75
+2622-Mazes of Fates(M5)(迷宫的圣杯)(M5)RPG 128.00
+2623-2 Games in 1-Winnie the Pooh's-Rumbly Tumbly Adventure+Rayman 3(M10)(游戏2合1-小熊维尼-崎岖的冒险历程和雷曼3-暴徒大破坏)(M10)ACT 128.00
+2624-2 Games in 1-SpongeBob SquarePants-The Movie+SpongeBob SquarePants and Friends-Freeze Frame Frenzy(M6)(游戏2合1-超级海绵笨伯电影版和尼克卡通-棉花糖方块历险记疯狂定格)(M6)ACT 96.50
+2625-Sky Dancers-They Magically Fly!(M5)(空中之舞-魔法飞翔)(M5)ACT 27.75
+2626-Chicken Shoot 2(M5)(射鸡英雄传2)(M5)FPS 30.25
+2627-Hello Kitty-Happy Party Pals(E)(哈罗凯蒂-快乐猫俱乐部)(E)TCG 28.00
+2628-Cabbage Patch Kids-The Patch Puppy Rescue(E)(卷心菜娃娃)(E)ACT 32.00
+2629-Tokyo Xtreme Racer Advance(M5)(东京极限终极竞速赛车手)(M5)RCG 31.75
+2630-Game Boy Advance Video-Cartoon Network Collection-Premium Edition(U)(GBA电影-卡通网络频道珍藏电影-限定版)(E)MOV 225.00
+2631-Agent Hugo-Roborumble(M11)(雨果特工)(M11)RCG 22.75
+2632-2 Games in 1-SpongeBob SquarePants-Battle for Bikini Bottom+Fairly Odd Parents!：The-Breakin' da Rules(U)(游戏2合1-超级海绵笨伯-比基尼岛的冒险和正义双亲之叛逆的惩罚)(E)ACT 96.50
+2633-Nintendo MP3 Player(M5)(任天堂MP3播放器)(M5)ETC 31.00
+2634-Avatar-The Legend of Aang(M4)(降世神通)(M4)A·RPG 57.50
+2635-Back to Stone(M2)(重返石头城)(M2)A·RPG 32.00
+2636-Trollz-Hair Affair!(M3)(奇幻漫舞)(M3)ETC 61.75
+2637-Arthur and the Minimoys(M6)(亚瑟和迷你国)(M6)ACT 256.00
+2638-King of Fighters EX, The-NeoBlood KOF EX(U)(格斗之王拳皇EX-新血)(E)FTG 64.00
+2639-Bratz-Babyz(M3)(布拉兹洋娃娃-顽皮宝宝)(M3)ACT 31.75
+2640-Dogz-Fashion(E)(可爱的时尚宠物狗们)(E)TCG 37.00
+2641-Medal of Honor-Underground(M4)(荣誉勋章-地下抵抗)(M4)FPS 62.25
+2642-Open Season(M4)(狩猎季节)(M4)ACT 55.50
+2643-Ed, Edd n Eddy-Jawbreakers!(U)(顽皮捣蛋小鬼Ed Edd和Eddy-唠叨家伙们的混乱大冒险)(E)ACT 31.50
+2644-2 Games in 1-Madagascar+Shrek 2(U)(游戏2合1-怪物史莱克2和马达加斯加)(E)ACT 126.75
+2645-Fairly Odd Parents!：The-Shadow Showdown(E)(反斗家族之暗影决战)(E)ACT 32.00
+2646-Bratz-Babyz(U)(布拉兹洋娃娃-顽皮宝宝)(E)ACT 31.75
+2647-Marvel-Ultimate Alliance(M2)(漫画英雄-美国英雄终极联盟)(M2)ACT 63.50
+2648-Cars(M2)(汽车总动员)(M2)RCG 61.75
+2649-Power Rangers-S.P.D.(M3)(鸟人战队SPD)(M3)ACT 32.00
+2650-2 Games in 1-Finding Nemo+Finding Nemo-The Continuing Adventures(M5)(游戏2合1-海底总动员-寻找伦莫和冒险再续)(M5)ACT 96.50
+2651-Danny Phantom-The Ultimate Enemy(M3)(幻影丹尼-终极敌人)(M3)ACT 29.75
+2652-Monster House(E)(怪兽小屋)(E)A·RPG 64.00
+2653-2 Games in 1-Buscando a Nemo+Increibles, Los(M2)(游戏2合1-海底总动员-寻找伦莫和超人特工队)(M2)ACT 127.50
+2654-Rock'em Sock'em Robots(M5)(格斗机器人)(M5)FTG 29.75
+2655-Bratz-Rock Angelz(S)(布拉兹洋娃娃-摇滚天使)(S)TCG 51.50
+2656-Trollz-Hair Affair!(M3)(奇幻漫舞)(M3)ETC 62.00
+2657-Original Harlem Globetrotters：The(M5)(美国哈林花式篮球队世界巡回篮球赛)(M5)SPG 29.00
+2658-Shin-chan-Contra Los Munecos de Shock Gahn(S)(蜡笔小新2-呼唤传说食玩都大冒险)(S)ACT 120.50
+2659-Arthur and the Invisibles(M3)(亚瑟与迷你王国)(M3)ACT 256.00
+2660-2 Games in 1-Dora the Explorer-Double Pack(U)(游戏2合1-小冒险家朵拉-超级巨星探险和探险家朵拉-寻找海盗猪的财宝)(E)ACT 62.50
+2661-Totally Spies! 2-Undercover(M6)(间谍神探少女组2)(M6)ACT 61.75
+2662-Alex Rider-Stormbre*er(M4)(旋风特务-风暴突击者)(M4)ACT 30.25
+2663-Barbie in the 12 Dancing Princesses(M5)(芭比和十二个跳舞蹈的公主)(M5)ACT 26.25
+2664-Shamu's Deep Sea Adventures(E)(深海冒险)(E)SPG 256.00
+2665-Barbie Diaries：The-High School Mystery(E)(芭比奇幻日记-神秘的高校)(E)TCG 63.00
+2666-Noddy-A Day in Toyland(M7)(诺迪在玩具世界的一天)(M7)ACT 31.25
+2667-Bratz-Forever Diamondz(M4)(布拉兹洋娃娃合唱团-永恒之钻)(M4)RCG 63.75
+2668-Dogz(E)(可爱小狗们)(E)TCG 128.00
+2669-Strawberry Shortcake-Summertime Adventure-Special Edition(U)(GBA电影和游戏合集-草莓娃娃的夏季历险记特别版)(E)ETC 256.00
+2670-2 Games in 1-Finding Nemo+Incredibles：The(M2)(游戏2合1-海底总动员-寻找伦莫和超人特工队)(M2)ACT 127.50
+2671-2 Games in 1-Sonic Advance+Chu Chu Rocket!(M5)(游戏2合1-索尼克大冒险1和咕噜咕噜啾啾火箭队)(M5)ACT 128.00
+2672-Pippa Funnell-Stable Adventure(M2)(马场精英1阳光马厩)(M2)TCG 26.25
+2673-Pocket Monsters-FireRed(J)(口袋妖怪-火红v1.1版)(J)RPG 122.00
+2674-Game Boy Advance Video-Cartoon Network Collection-Edition Speciale(F)(GBA电影-卡通网络频道珍藏电影-限定版)(F)MOV 256.00
+2675-Game Boy Advance Video-Teenage Mutant Ninja Turtles-Le Demenagement(F)(GBA电影-忍者神龟)(F)MOV 221.00
+2676-Game Boy Advance Video-Yu-Gi-Oh! Yugi vs. Joey(F)(GBA电影-游戏王！游戏对决城之内)(F)MOV 252.00
+2677-Nos Voisins-Les Hommes(F)(篱笆墙外-森林保卫战)(F)ACT 64.00
+2678-2 Games in 1-Finding Nemo+Incredibles：The(M2)(游戏2合1-海底总动员-寻找伦莫和超人特工队)(M2)ACT 127.50
+2679-Best Friends-My Horse(M2)(最好的朋友-我的马儿)(M2)TCG 50.75
+2680-Pippa Funnell 2(M2)(马场精英2)(M2)TCG 28.50
+2681-2 Games in 1-Uno+Skip-Bo(M5)(游戏2合1-纸牌联赛)(M5)TAB 31.75
+2682-2 Games in 1-SpongeBob SquarePants-SuperSponge+SpongeBob SquarePants-Battle for Bikini Bottom(E)(游戏2合1-超级海绵笨伯和超级海绵笨伯-比基尼岛的冒险)(E)ACT 94.75
+2683-Scrabble Scramble(E)(混乱拼字游戏)(E)PUZ 29.50
+2684-Jimmy Neutron-Un Garcon Genial-L'Attaque des Twonkies(F)(天才小子吉米-Twonkies的攻击)(F)ACT 32.00
+2685-Super Mario Advance 4(J)(超级马里奥4 v1.2版)(J)ACT 31.25
+2686-Princess Natasha(M5)(娜塔莎公主-学生秘密特工)(M5)ACT 32.00
+2687-Monster Trucks Mayhem(M5)(疯狂大脚四驱火爆怪兽卡车赛)(M5)RCG 31.75
+2688-ATV Thunder Ridge Riders(M5)(ATV雷霆山脊闪雷电骑士四轮机车手)(M5)RCG 31.50
+2689-Final Fantasy VI Advance(U)(最终幻想6)(E)RPG 64.00
+2690-Polly Pocket!-Super Splash Island(M5)(波利口袋-超级人鱼岛)(M5)PUZ 31.25
+2691-All Grown Up!-Express Yourself(M2)(我们一起成长)(M2)ACT 32.00
+2692-Shrek-Smash n' Crash Racing(M5)(怪物史莱克赛车)(M5)RCG 41.25
+2693-Over the Hedge(E)(篱笆墙外-森林保卫战)(E)ACT 64.00
+2694-Ghost Rider(M6)(恶灵骑士)(M6)ACT 64.00
+2695-2 Games in 1-Shrek 2+Madagascar(E)(游戏2合1-怪物史莱克2和马达加斯加)(E)ACT 126.75
+2696-2 Games in 1-Finding Nemo+Finding Nemo-The Continuing Adventures(M3)(游戏2合1-海底总动员-寻找伦莫和冒险再续)(M3)ACT 96.50
+2697-Charlotte's Web(M5)(夏洛特的网)(M5)ACT 127.50
+2698-2 Games in 1-Scooby-Doo+Scooby-Doo 2-Les Monstres Se Dechainent(M5)(游戏2合1-史酷比鬼屋历险-真人照片版和史酷比2-脱缰的怪物)(M5)ACT 96.50
+2699-Cars(M4)(汽车总动员)(M4)RCG 62.00
+2700-Trickstar(M5)(诡计摩托)(M5)RCG 32.00
+2701-Zoey 101(U)(家庭喜剧-情侣篮球101)(E)ETC 27.25
+2702-Polly Pocket!-Super Splash Island(U)(波利口袋-超级人鱼岛)(E)PUZ 31.25
+2703-2 Games in 1-Disney Principesse+Koda：Fratello Orso(M8)(游戏2合1-迪斯尼白雪公主们和迪斯尼小熊的兄弟们)(M8)ACT 128.00
+2704-Kid Paddle(M2)(船桨男孩)(M2)ACT 47.25
+2705-2 Games in 1-Finding Nemo-The Continuing Adventures+Incredibles：The(U)(游戏2合1-海底总动员-冒险再续和超人特工队)(E)ACT 128.00
+2706-Wilden Fussball-Kerle：Die-Gefahr im Wilde Kerle Land(G)(疯狂破裂橄榄球)(G)ACT 85.25
+2707-Trollz-Hair Affair!(E)(奇幻漫舞)(E)ETC 62.25
+2708-Uno Freefall(U)(纸牌扑克方块-自由降落)(E)TAB 30.00
+2709-Over the Hedge-Beesten bij de Buren(H)(篱笆墙外-森林保卫战)(H)ACT 64.00
+2710-Hot Wheels-All Out(M5)(无敌烽火轮赛车-尽数出局)(M5)RCG 32.00
+2711-Drake & Josh(M2)(德雷克和乔西)(M2)ACT 32.00
+2712-Danny Phantom-Dschungelstadt(G)(幻影丹尼-都市密林)(G)ACT 31.75
+2713-TMNT(M3)(忍者神龟)(M3)ACT 62.25
+2714-4 Games in 1-Nickelodeon Vol.1 GBA 4-Pack(U)(游戏4合1-超级海绵笨伯+尼克卡通-棉花糖方块历险记疯狂定格+急速动力-零重力滑板赛场+正义双亲之过关斩将)(E)ETC 256.00
+2715-TMNT(M5)(忍者神龟)(M5)ACT 62.50
+2716-2 Games in 1-Scooby-Doo+Scooby-Doo 2-Monsters Unleashed(E)(游戏2合1-史酷比鬼屋历险-真人照片版和史酷比2-脱缰的怪物)(E)ACT 96.50
+2717-2 Games in 1-Shrek 2+Madagascar-Operation Penguin(E)(游戏2合1-怪物史莱克2和马达加斯加-企鹅大行动)(E)ACT 126.75
+2718-2 Games in 1-Monsters en Co.+Finding Nemo(M4)(游戏2合1-迪斯尼怪兽公司和海底总动员-寻找伦莫)(M4)ACT 96.00
+2719-Uno 52(M5)(纸牌扑克52张)(M5)TAB 29.50
+2720-Meet the Robinsons(U)(拜访罗宾逊一家)(E)ACT 57.75
+2721-2 Games in 1-Les Razmoket Rencontrent les Delajungle+SpongeBob SquarePants-SuperSponge(M2)(游戏2合1-超级海绵笨伯和鲁加特野外历险记)(M2)ACT 63.00
+2722-Petz Vet(U)(宠物兽医)(E)TCG 61.25
+2723-Dogz 2(U)(可爱小狗们2)(E)TCG 77.50
+2724-Meet the Robinsons(M6)(拜访罗宾逊一家)(M6)ACT 59.50
+2725-Britney's Dance Beat(E)(小甜甜布兰妮之舞蹈节拍)(E)ETC 64.00
+2726-Dora the Explorer-Super Star Adventures!(M3)(小冒险家朵拉-超级巨星探险)(M3)ACT 31.75
+2727-Final Fantasy V Advance(M5)(最终幻想5)(M5)RPG 67.00
+2728-March of the Penguins(M5)(帝企鹅日记-企鹅的三月)(M5)ACT 31.25
+2729-Game Boy Advance Video-Cartoon Network Collection-Edition Platinum(F)(GBA电影-卡通网络频道珍藏电影-限定版)(F)MOV 238.75
+2730-Spider-Man 3(G)(蜘蛛侠3)(G)ACT 64.00
+2731-Postman Pat and the Greendale Rocket(M3)(邮差叔叔)(M3)ACT 19.75
+2732-Spider-Man 3(U)(蜘蛛侠3)(E)ACT 64.00
+2733-Spider-Man 3(E)(蜘蛛侠3)(E)ACT 64.00
+2734-Spider-Man 3(S)(蜘蛛侠3)(S)ACT 64.00
+2735-M&M's Break' Em(U)(M&M豆方块)(E)PUZ 32.00
+2736-Cars(M2)(汽车总动员)(M2)RCG 61.75
+2737-Mijn Dierenpension(M2)(我的宠物旅馆)(M2)TCG 64.00
+2738-Mijn Dierenpraktijk(M2)(我的兽医实习)(M2)SLG 61.75
+2739-Paard & Pony-Mijn Manege(M2)(马场精英1阳光马厩)(M2)TCG 26.75
+2740-Paard & Pony-Paard in Galop(M2)(马场精英2马场生活)(M2)TCG 28.50
+2741-Spider-Man 3(I)(蜘蛛侠3)(I)ACT 64.00
+2742-Shrek the Third(U)(怪物史莱克3)(E)ACT 64.00
+2743-2K Sports-Major League Baseball 2K7(U)(美国职业棒球大联盟2007)(E)SPG 39.00
+2744-SpongeBob SquarePants and Friends-Battle for Volcano Island(M6)(海绵方块和朋友们-火山岛之战)(M6)ACT 32.00
+2745-2 Games in 1-Lion King, The+Disney Princess(M8)(游戏2合1-迪斯尼白雪公主们和迪斯尼狮子王)(M8)ACT 128.00
+2746-Cocoto Kart Racer(M5)(小魔怪赛车)(M5)RCG 32.00
+2747-Dogz 2(E)(可爱小狗们2)(E)TCG 77.50
+2748-Uno Free Fall(M5)(纸牌扑克方块-自由降落)(M5)TAB 31.00
+2749-Surf's Up(M3)(冲浪季节)(M3)SPG 43.75
+2750-2 Games in 1-Sonic Battle+Chu Chu Rocket!(M6)(游戏2合1-索尼克战斗和咕噜咕噜啾啾火箭队)(M6)ACT 255.00
+2751-Shrek the Third(M6)(怪物史莱克3)(M6)ACT 64.00
+2752-2 Games in 1-Sonic Pinball Party+Columns Crown(M6)(游戏2合1-索尼克弓单珠派对和宝石方块)(M6)TAB 128.00
+2753-Final Fantasy VI Advance(M5)(最终幻想6)(M5)RPG 79.50
+2754-Dogz 2(M4)(可爱小狗们2)(M4)TCG 94.25
+2755-Spider-Man 3(F)(蜘蛛侠3)(F)ACT 64.00
+2756-Ratatouille(U)(料理鼠王)(E)ACT 58.75
+2757-Horsez(U)(模拟养马)(E)TCG 62.25
+2758-Dogz(F)(可爱小狗们)(F)TCG 64.00
+2759-Lea-Passion Veterinaire(M2)(我的宠物旅馆)(M2)TCG 63.50
+2760-Back to Stone(M2)(重返石头城)(M2)A·RPG 32.00
+2761-Cocoto-Platform Jumper(M5)(小魔怪大冒险)(M5)ACT 28.00
+2762-Harry Potter and the Order of the Phoenix(M7)(哈利波特与凤凰令)(M7)ACT 125.25
+2763-2 Games in 1-Pferd & Pony-Mein Pferdehof+Pferd & Pony-Lass Uns Reiten 2(G)(游戏2合1-马场精英1阳光马厩和马场生活2)(G)SLG 60.50
+2764-Ratatouille(M2)(料理鼠王)(M2)ACT 59.25
+2765-Jisu F-Zero Weilai Saiche(C)(神游之极速零式未来赛车)(C)RCG 32.00
+2766-Ratatouille(M3)(料理鼠王)(M3)ACT 59.75
+2767-Surf's Up(M5)(冲浪季节)(M5)RCG 44.00
+2768-Crash of the Titans(M2)(古惑狼泰坦)(M2)ACT 126.50
+2769-Legend of Spyro,The-The Eternal Night(M2)(小龙斯派罗传奇-无尽之夜)(M2)ACT 256.00
+2770-Arctic Tale(U)(北极故事)(E)ACT 19.75
+2771-Bratz-The Movie(U)(贝兹洋娃娃-电影院)(E)TCG 27.25
+2772-Deal or No Deal(U)(一掷千金)(E)TAB 31.50
+2773-Puppy Luv-Spa and Resort(U)(爱心宠物狗-狗狗疗养院)(E)ETC 28.75
+2774-Avatar-The Last Airbender-The Burning Earth(U)(降世神通-最后气宗之燃烧的大地)(E)ACT 30.25
+2775-4 Games in 1-Four Pack Racing-GT Advance+GT Advance 2+GT Advance 3+Moto GP(M6)(游戏4合1-GP摩托车赛和GT职业概念锦标车赛1+2+3)(M6)RCG 256.00
+2776-Nicktoons-Attack of the Toybots(U)(尼克通海绵方块和朋友们-玩具机器人来袭)(E)ACT 31.75
+2777-SpongeBob's Atlantis Squarepantis(U)(超级海绵笨伯-亚特兰蒂斯)(E)ACT 31.50
+2778-Barbie as the Island Princess(U)(芭比之森林公主)(E)ETC 50.50
+2779-Bratz-The Movie(G)(贝兹洋娃娃-电影院)(G)TCG 29.25
+2780-2 Games in 1-Disney Princess+Brother Bear(M8)(游戏2合1-迪斯尼白雪公主们和迪斯尼小熊的兄弟们)(M8)ACT 128.00
+2781-Crash of the Titans(M6)(古惑狼泰坦)(M6)ACT 127.25
+2782-Bratz-The Movie(M2)(贝兹洋娃娃-电影院)(M2)TCG 29.25
+2783-Ratatouille(M5)(料理鼠王)(M5)ACT 60.00
+2784-2 Games in 1-Crash & Spyro Super Pack-Spyro-Season of Ice+Crash Bandicoot-The Huge Adventure(U)(游戏2合1-小龙斯派罗-冰冻的季节和古惑狼1-无尽的冒险)(E)ACT 127.50
+2785-Surf's Up(M3)(冲浪季节)(M3)RCG 43.75
+2786-Cars Mater-National Championship(M2)(汽车总动员之全国大赛)(M2)RCG 32.00
+2787-Petz-Hamsterz Life 2(U)(模拟宠物-仓鼠的生活2)(E)TCG 62.50
+2788-Enchanted-Once Upon Andalasia(M2)(迪斯尼曼哈顿奇缘)(M2)ACT 59.50
+2789-Nicktoons-Attack of the Toybots(M2)(尼克通海绵方块和朋友们-玩具机器人来袭)(M2)ACT 32.00
+2790-High School Musical-Livin' the Dream(U)(歌舞青春)(E)ACT 126.00
+2791-Math Patrol-The Kleptoid Threat(U)(算术侦察飞机队)(E)STG 34.75
+2792-Avatar-The Legend of Aang-The Burning Earth(M2)(降世神通-最后气宗之燃烧的大地)(M2)ACT 30.25
+xxxx-Famicom Mini Dai 2 Ji Super Robot Taisen (J)(FC MI系列第2次机器人大战)(J) SLG 32.00
+xxxx-Disney's The Haunted Mansion (U)(幽灵鬼屋)(E)ACT 64.00
+xxxx-Kien (U)(凯恩遗产)(E)ACT 63.505
+xxxx-Pokemon Ruby (J)(口袋妖怪-红宝石)(J)RPG 64
+xxxx-Pokemon Sapphire (J)(口袋妖怪-蓝宝石)(J)RPG 64

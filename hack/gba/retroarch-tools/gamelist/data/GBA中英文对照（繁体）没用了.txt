@@ -1,0 +1,2830 @@
+0001 - F-Zero (J) [!] 極速傳說 日 RCG
+0002 - Super Mario Advance (J) [!] 超級瑪莉歐 日 ACT
+0003 - Battle Network RockMan EXE (J) [-] 洛克人EXE 日 RPG
+0004 - Kuru Kuru Kururin (J) [-] 滾滾歡樂球 日 PZG
+0005 - Mr. Driller 2 (J) [!] 鑽地先生2 日 CBG
+0006 - Chu Chu Rocket (J) [!] 啾啾火箭隊 日 PZG
+0007 - Akumajou Dracula - Circle Of The Moon (J) [!] 惡魔城-月之輪迴 日 ARPG
+0008 - Advance GTA (J) [!] GTA賽車進化版 日 RCG
+0009 - Konami Wai Wai Racing (J) [!] 柯拿米瘋狂賽車手 日 RCG
+0010 - Super Dodge Ball Advance (J) [-] 超級躲避球 日 SPG
+0011 - Pinobee - Quest Of Heart (J) [-] 匹諾比的冒險徽章 日 ACT
+0012 - Powerful Pro Baseball 3 (J) [-] 實況野球君3 日 TCG
+0013 - Napoleon (J) [!] 拿破侖 日 RPG
+0014 - Top Gear All Japan GT Championship (J) [-] 全日本GT選手權 日 RCG
+0015 - Fire Pro Wrestling A (J) [-] 火爆摔角A 日 SPG
+0016 - Tweety And The Magical Jewel (J) [-] 托蒂和不可思議的寶石 日 PZG
+0017 - Golf Master (J) [-] 高爾夫大師 日 SPG
+0018 - Winning Post (J) [-] 冠軍賽馬 日 SLG
+0019 - Silent Hill Play Novel (J) [-] 寂靜嶺 日 AVG
+0020 - Yu-Gi-Oh! Dungeon Dice Monsters (J) [-] 遊戲王-怪獸龍門骰 日 RPG
+0021 - I Am An Air Traffic Controller (J) [-] 我是航空管制官 日 SLG
+0022 - J-League Pocket (J) [-] 口袋J聯盟足球 日 SPG
+0023 - Momotaro Festival (J) [-] 桃太郎祭典 日 RPG
+0024 - Monster Guardians (J) [-] 妖怪守護者 日 RSLG
+0025 - Super Mario Advance (U) [!] 超級瑪莉歐 美 ACT
+0026 - Final Fight One (J) [!] 街頭快打One 日 ACT
+0027 - Bomberman Story (J) [-] 轟炸超人傳說 日 ARPG
+0028 - Iridion 3D (U) [!] 伊芳登戰機 美 STG
+0029 - Pinobee - Wings Of Adventure (U) [!] 匹諾比的冒險徽章 美 ACT
+0030 - Ready 2 Rumble Boxing - Round 2 (U) [!] 暴力拳擊2 美 SPG
+0031 - Konami Krazy Racers (U) [!] 柯拿米瘋狂賽車手 美 RCG
+0032 - Castlevania - Circle Of The Moon (E) [!] 惡魔城-月之輪迴 歐 ARPG
+0033 - Tony Hawk's Pro Skater 2 (U) [!] 湯尼霍克專業滑板2 美 SPG
+0034 - GT Championship Racing (U) [!] GT冠軍賽車 美 RCG
+0035 - Namco Museum (U) [!] 拿姆科博物館 美 ACT
+0036 - Chu Chu Rocket (U) [!] 啾啾火箭隊 美 PZG
+0037 - Earthworm Jim (U) [-] 蚯蚓吉姆 美 ACT
+0038 - Pitfall - The Mayan Adventure (U) [!] 皮佛冒險-瑪亞歷險 美 ACT
+0039 - Army Men Advance (U) [!] 玩具奇兵 美 ACT
+0040 - Super Dodge Ball Advance (U) [!] 超級躲避球 美 SPG
+0041 - F-Zero - Maximum Velocity (U) [!] 極速傳說進化版 美 RCG
+0042 - Fire Pro Wrestling (U) [!] 火爆摔角A 美 SPG
+0043 - Konami Krazy Racers (E) [!] 柯拿米瘋狂賽車手車 歐 RCG
+0044 - Ready 2 Rumble Boxing - Round 2 (E) [-] 暴力拳擊2 歐 SPG
+0045 - Castlevania - Circle Of The Moon (U) [!] 惡魔城-月之輪迴 美 ARPG
+0046 - Rayman Advance (U) [!] 雷曼超人 美 ACT
+0047 - Tactics Ogre - The Knight Of Lodis (J) [-] 皇家騎士團外傳 日 RSLG
+0048 - Kuru Kuru Kururin (E) [!] 滾滾歡樂球 歐 PZG
+0049 - Top Gear GT Championship (E) [-] 全日本GT選手權 歐 RCG
+0050 - Super Mario Advance (U) [A][!] 超級瑪莉歐 美 ACT
+0051 - Rayman Advance (E) [!] 雷曼超人 歐 ACT
+0052 - Tweety And The Magic Gems (E) [-] 托蒂的歡樂派對 歐 PZG
+0053 - Tony Hawk's Pro Skater 2 (G) [-] 湯尼霍克專業滑板2 德 SPG
+0054 - Yushun Rhapsody (J) [-] 優駿賽馬 日 SLG
+0055 - Choro Q Advance (J) [-] 可愛賽車 日 RCG
+0056 - Toy Robot Force (J) [!] 玩具機器人大戰 日 RSLG
+0057 - Hot Potato (U) [!] 火熱的馬鈴薯 美 ACT
+0058 - Bomberman Tournament (U) [!] 轟炸超人傳說 美 ARPG
+0059 - Tony Hawk's Pro Skater 2 (F) [!] 湯尼霍克專業滑板2 法 SPG
+0060 - Breath Of Fire (J) [-] 龍戰士 日 RPG
+0061 - Yu-Gi-Oh! Duel Monsters 5 Expert 1 (J) [-] 遊戲王5 Expert 1-雙重惡魔 日 RPG
+0062 - Super Street Fighter II X Revival (J) [!] 超級快打旋風2X 復活 日 FTG
+0063 - Mahjong Police (J) [-] 麻雀刑事 日 TBG
+0064 - Pac-Man Collection (U) [!] 小精靈全集 美 ACT
+0065 - Tweety & The Magic Gems (F) [-] 托蒂的歡樂派對 法 PZG
+0066 - EX Monopoly (J) [-] 大富翁ＥＸ 日 TBG
+0067 - Our Breeding Series - My Beetle (J) [-] 全民飼育系列-我的獨角仙 日 TCG
+0068 - Get Backers - Jigoku No Sukaramushu (J) [-] 閃靈2人組 日 RPG
+0069 - Space Hexcite X (J) [-] 宇宙戰艦ＥＸ 日 RPG
+0070 - Klonoa - Empire Of Dreams (J) [-] 風之克羅蒂亞-夢想帝國 日 ACT
+0071 - Mario Kart Advance (J) [!] 瑪莉歐賽車 日 RCG
+0072 - Doraemon Midori No Wakusei (J) [-] 小叮噹-綠之惑星拯救作戰 日 ACT
+0073 - Jurassic Park III - DNA Factor (U) [-] 侏儸紀公園3-DNA基因 美 ACT
+0074 - Muscle Ranking (J) [-] 筋肉番付-金剛君之大冒險 日 ACT
+0075 - JGTO Golf Master Mobile (J) [-] 高爾夫達人 日 SPG
+0076 - Mugen Kikou Zero Tours (J) [-] 零度旅行 日 RPG
+0077 - Suta Komi (J) [-] 星際通訊戰 日 PZG
+0078 - Mobile Pro Baseball (J) [-] 職業棒球行動版 日 SPG
+0079 - Ougon No Taiyou (J) [-] 黃金之太陽-開啟的封印 日 RPG
+0080 - Dokapon Q Monster Hunter (J) [-] 多卡波王國-Q怪獸獵人 日 RPG
+0081 - Our Breeding Series - My Ameba (J) [-] 全民飼育系列2-我的鍬形蟲 日 TCG
+0082 - Jurassic Park III - Park Builder (J) [-] 侏儸紀公園3-公園建造者 日 SLG
+0083 - Final Fight One (E) [-] 街頭快打One 歐 ACT
+0084 - Super Black Bass Advance (J) [!] 超級黑巴斯釣魚 日 SPG
+0085 - Meine Liebe (J) [-] 耽美夢想 日 LVG
+0086 - Mario Kart Super Circuit (U) [!] 瑪莉歐賽車 美 RCG
+0087 - Extreme Mahjong Deluxe - Terminator 21 (J) [-] 極麻將-未來戰士21 日 TBG
+0088 - Fortress (U) [!] 城堡建築戰 美 CBG
+0089 - Jurassic Park III - DNA Factor (E) [!] 侏儸紀公園3-DNA基因 歐 ACT
+0090 - Wario Land Advance (J) [!] 壞莉歐世界4 日 ACT
+0091 - Tweety And The Magic Gems (G) [-] 托蒂的歡樂派對 德 PZG
+0092 - Jurassic Park III - Advanced Action (J) [-] 侏羅紀公園3-高級行動 日 ACT
+0093 - ESPN Final Round Golf 2002 (U) [!] ESPN高爾夫總決賽2002 美 SPG
+0094 - Tang Tang (U) [!] 轟炸所羅門 美 ACT
+0095 - Advance Wars (U) (v1.0) [!] 高級戰爭 1.0美 SLG
+0096 - F-14 Tomcat (U) [-] F14熊貓戰鬥機 美 STG
+0097 - Love Hina Advance (J) [!] 純情房東俏房客-祝福之鐘聲 日 LVG
+0098 - Men In Black - The Series (E) [-] MIB星際戰警 歐 ACT
+0099 - ESPN Final Round Golf 2002 (E) [-] ESPN高爾夫總決賽 歐 SPG
+0100 - Medarot Navi - Kuwagata Version (J) [-] 徽章戰士-鍬型蟲版 日 RSLG
+0101 - Medarot Navi - Kabuto Version (J) [-] 徽章戰士-甲冑版 日 RSLG
+0102 - Atlantis - The Lost Empire (U) [-] 失落的帝國-亞特蘭提斯 美 ACT
+0103 - Jurassic Park III - Park Builder (E) [!] 侏儸紀公園3-公園建造者 歐 SLG
+0104 - Tetris Worlds (U) [!] 俄羅斯方塊世界 美 CBG
+0105 - Mario Kart Super Circuit (E) [!] 瑪莉歐賽車超級巡迴賽 歐 RCG
+0106 - Robot Ponkotto 2 - Ring Version (J) [-] 機甲寶貝兵2-鈴鐺版 日 RSLG
+0107 - Robot Ponkotto 2 - Cross Version (J) [-] 機甲寶貝兵2-十字版 日 RSLG
+0108 - NFL Blitz 2002 (U) [-] NFL橄欖球閃電大作戰2002 美 SPG
+0109 - Gensou Suikoden Card Stories (J) [-] 幻想水滸傳-卡片傳說 日 RPG
+0110 - ESPN X-Games Skateboarding (U) [-] ESPN X競技滑板 美 SPG
+0111 - Super Robot Taisen A (J) [-] 超級機器人大戰A 日 RSLG
+0112 - Rocket Power Dream Scheme (U) [!] 急速動力-夢之計劃 美 ACT
+0113 - Klonoa - Empire Of Dreams (U) [!] 風之克羅蒂亞-夢見帝國 美 ACT
+0114 - Jurassic Park III - Park Builder (U) [!] 侏儸紀公園3-公園建造者 美 SLG
+0115 - Spiderman - Mysterio's Menace (U) [!] 蜘蛛人-未知的威脅 美 ACT
+0116 - Caesar's Palace Advance (U) [!] 凱撒的宮殿 美 TBG
+0117 - Field Of Nine Digital Edition 2001 (J) [-] 九局戰場-數位版2001 日 SLG
+0118 - Back Track (U) [!] 星戰總部 美 FPS
+0119 - Morita Shogi Advance (J) [-] 森田將棋 日 TBG
+0120 - Rugrats - Castle Capers (U) [-] 小淘氣-城堡冒險 美 ACT
+0121 - Power Rangers Time Force (U) [-] 金剛戰士-時空大作戰 美 ACT
+0122 - Z.O.E. 2173 Testament (J) [-] Z.O.E星域毀滅者2173-聖約 日 STG
+0123 - Lady Sia (E) [IRFF][Resized] 女神戰士-西雅 歐 ARPG
+0124 - High Heat Baseball 2002 (U) [!] 爆裂職業聯盟棒球2002 美 SPG
+0125 - X-Men - Reign Of Apocalypse (U) [!] X戰警-啟示錄 美 ACT
+0126 - Dexter's Lab - Deesaster Strikes (U) [-] 德克斯特的實驗室 美 ACT
+0127 - MX 2k2 Featuring Ricky Carmichael (U) [-] MX2002未來機車賽 美 RCG
+0128 - Final Fight One (U) [-] 街頭快打One 美 ACT
+0129 - Nobunaga No Yabou (J) [!] 信長之野望 日 SLG
+0130 - LEGO Bionicle (U) [!] 樂高荒島探險 美 ACT
+0131 - LEGO Island 2 (U) [!] 樂高積木島2 美 SLG
+0132 - Kiki Kaikai Advance (J) [!] 奇奇怪界 日 ACT
+0133 - Snood (U) [-] 怪投射擊方塊 美 CBG
+0134 - Sports Illustrated For Kids - Baseball (U) [-] 兒童運動畫刊-棒球 美 SPG
+0135 - Hatena Satena (J) [-] 機智解謎 日 PZG
+0136 - The Wild Thornberrys - Chimp Chase (U) [-] 狂野叢林-獵殺黑猩猩 美 ACT
+0137 - Scooby-Doo And The Cyber Chase (U) [-] 史酷比鬼屋歷險 美 ACT
+0138 - Sports Illustrated For Kids - Football (U) [-] 兒童運動畫刊-美式足球 美 SPG
+0139 - Boxing Fever (U) [-] 狂熱拳擊 美 SPG
+0140 - Gyakuten Saiban (J) [-] 逆轉裁判 日 AVG
+0141 - LEGO Island 2 (E) [-] 樂高積木島2 歐 SLG
+0142 - Lady Sia (U) [!] 女神戰士-西雅 美 ARPG
+0143 - Minna De Puyo Puyo (J) [!] 魔法氣泡大會戰 日 CBG
+0144 - Steven Gerrard's Total Soccer 2002 (E) [!] 史蒂芬‧甲爾德足球2000 歐 SPG
+0145 - Denki Blocks (E) [!] 電擊方塊 歐 CBG
+0146 - Prehistorik Man (U) [!] 摩登原始人 美 ACT
+0147 - Hello Kitty Collection Miracle Fashion (J) [-] 凱蒂貓遊戲精選-流行創造者 日 ETC
+0148 - European Super League (E) [-] 歐洲超級聯盟足球 歐 SPG
+0149 - Phalanx (J) [-] 銀河戰機 日 STG
+0150 - Nakayoshi Mahjan Kaburiichi (J) [!] 友情麻將 日 TBG
+0151 - Hamster Monogatari 2 (J) [-] 倉鼠物語2 日 TCG
+0152 - ESPN X-Games Skateboarding (J) [-] ESPN X遊戲溜冰板 日 SPG
+0153 - LEGO Bionicle (E) [-] 樂高荒島探險 歐 ACT
+0154 - Monsters Inc. (U) [!] 怪獸電力公司 美 ACT
+0155 - Doom (U) [!] 毀滅戰士 美 FPS
+0156 - Dokodemo Taikyoku Yakuman Advance (J) [-] 隨身對局-役滿 日 TBG
+0157 - Tang Tang (E) [-] 轟炸所羅門 歐 ACT
+0158 - Lucky Luke - Wanted! (E) [-] 幸運槍手路克-通緝犯 歐 ACT
+0159 - Spyro - Season Of Ice (E) [!] 寶貝龍-冰凍的季節 歐 ACT
+0160 - Spyro - Season Of Ice (U) [!] 寶貝龍-冰凍的季節 美 ACT
+0161 - Batman Vengeance (U) [-] 蝙蝠俠之復仇 美 ACT
+0162 - Super Street Fighter II Turbo Revival (E) [!] 超級快打旋風2 Turbo-復活 歐 FTG
+0163 - Kao The Kangaroo (U) [-] 小小袋鼠闖天關 美 ACT
+0164 - WWF - Road To Wrestlemania (U) [-] WWF摔角之路 美 SPG
+0165 - MegaMan Battle Network (U) [!] 洛克人網路戰鬥 美 RPG
+0166 - Gadget Racers (U) [!] 可愛賽車 美 RCG
+0167 - Gradius Advance (E) [!] 沙羅曼蛇 歐 STG
+0168 - M & M's Blast! (U) [!] Ｍ&Ｍ'ｓ巧克力旋風 美 ACT
+0169 - Wario Land 4 (U) [!] 壞莉歐世界4 美 ACT
+0170 - Hikaru No Go (J) [-] 棋靈王 日 TBG
+0171 - Golden Sun (U) [!] 黃金之太陽-破解的封印 美 RPG
+0172 - Donald Duck Advance (E) [-] 唐老鴨冒險 歐 ACT
+0173 - Harry Potter And The Sorcerer's Stone (U) [!] 哈利波特-神秘的魔法石 美 ARPG
+0174 - Batman Vengeance (E) [-] 蝙蝠俠之復仇 歐 ACT
+0175 - Jackie Chan Adventures (U) [!] 成龍冒險-黑手黨傳說 美 ACT
+0176 - Alienators - Evolution Continues (U) [!] 進化特區 美 ACT
+0177 - Sponge Bob Square Pants - SuperSponge (U) [-] 超級海綿寶寶大冒險 美 ACT
+0178 - Jimmy Neutron - Boy Genius (U) [!] 天才小子-吉米 美 ACT
+0179 - Inspector Gadget - Advance Mission (E) [!] G型神探-高級任務 歐 ACT
+0180 - Tweety And The Magic Gems (U) [!] 托蒂的歡樂派對 美 PZG
+0181 - Star Wars - Jedi Power Battles (U) [-] 星際大戰首部曲-絕地武士 美 ACT
+0182 - Midnight Club Street Racing (U) [!] 港灣深夜俱樂部-街頭狂飆 美 RCG
+0183 - Mat Hoffman's Pro BMX (U) [-] 馬特‧霍夫曼-專業特技腳踏車 美 SPG
+0184 - Razor Freestyle Scooter (U) [-] 勁爆單腳速克達 美 SPG
+0185 - Super Bust-A-Move (E) [!] 超級泡泡龍 歐 CBG
+0186 - Dokapon Monster Hunter (U) [!] 多卡波王國-怪獸獵人 美 RPG
+0187 - International Superstar Soccer (E) [!] 國際超級明星足球 歐 SPG
+0188 - Atlantis - The Lost Empire (E) [-] 失落的帝國-亞特蘭提斯 ACT
+0189 - 4V4 Arashi Get The Goal (J) [-] 友情足球-4V4鬥球兒 嵐 日 SPG
+0190 - Nancy Drew - Message In A Haunted Mansion (U) [!] 南茜‧杜魯-鬼屋裡的訊息 美 AVG
+0191 - The Powerpuff Girls - Mojo Jojo A-Go-Go (U) [-] 飛天小女警-魔人啾啾 A GO GO 美 ACT
+0192 - Madden NFL 2002 (U) [-] 約翰馬噸美式足球2002 美 SPG
+0193 - Frogger's Adventures - Temple Of The Frog (U) [!] 青蛙冒險-蛙之殿堂 美 ACT
+0194 - No Rules Get Phat (U) [!] 無規則-街頭滑板小子 美 ACT
+0195 - Adventure Of Tokyo Disney Sea (J) [!] 東京迪士尼大進擊-海洋館篇 日 ACT
+0196 - David Beckham Soccer (E) [-] 大衛‧貝克漢足球 歐 SPG
+0197 - Tetris Worlds (E) [-] 俄羅斯方塊世界 歐 CBG
+0198 - Rampage Puzzle Attack (U) [!] 毀滅金剛方塊 美 CBG
+0199 - Midway's Greatest Arcade Hits (U) [!] 米德威懷舊大型電玩4合一 美 ETC
+0200 - Jurassic Park III - Island Attack (U) [!] 侏羅紀公園3-島嶼的進攻 美 ACT
+0201 - Super Dodge Ball Advance (E) [-] 超級躲避球 歐 SPG
+0202 - LEGO Racers 2 (U) [!] 樂高賽車2 美 RCG
+0203 - ESPN Great Outdoor Games Bass 2002 (U) [!] ESPN戶外運動-巴斯釣魚2002 美 SPG
+0204 - Ecks Vs Sever (U) [-] 出奇制勝-艾克斯VS瑟娃 美 FPS
+0205 - Hot Wheels - Burnin Rubber (U) [!] 無敵風火輪賽車 美 RCG
+0206 - Mech Platoon (E) [-] 機械化軍隊 歐 SLG
+0207 - Phalanx - The Enforce Fighter A-144 (E) [-] 銀河戰機 歐 STG
+0208 - E.T. The Extra-Terrestrial (U) [-] 外星人之陸地之外 美 ACT
+0209 - Dave Mirra Freestyle BMX 2 (U) [!] 黛夫‧米亞自由式單車越野賽2 美 SPG
+0210 - Shaun Palmer's Pro Snowboarder (U) [-] 夏恩‧派蒙的專業滑雪板 美 SPG
+0211 - Power Rangers Time Force (G) [-] 金剛戰士-時空大作戰 德 ACT
+0212 - San Goku Shi (J) [-] 三國誌 日 SLG
+0213 - Planet Of The Apes (E) [!] 決戰猩球 歐 ACT
+0214 - Robot Wars - Advanced Destruction (E) [-] 遙控機器人大戰-進化毀滅 歐 ACT
+0215 - Cruis'n Velocity (U) [-] 勁速狂飆 美 RCG
+0216 - Tom And Jerry - The Magic Ring (U) [!] 湯姆與傑利-魔法鈴鐺 美 ACT
+0217 - Monster Rancher Advance (U) [!] 怪獸農場 美 SLG
+0218 - International Karate Advanced (E) [-] 國際空手道大賽 歐 SPG
+0219 - Daisenryaku (J) [-] 大戰略 日 SLG
+0220 - Gradius Galaxies (U) [!] 沙羅曼蛇之星系戰爭 美 STG
+0221 - EZ-Talk 1 (J) [-] 簡單說英語1 日 ETC
+0222 - EZ-Talk 2 (J) [-] 簡單說英語2 日 ETC
+0223 - Army Men Operation Green (U) [-] 玩具奇兵-綠色軍事行動 美 ACT
+0224 - Driven (U) [!] 生死極速 美 RCG
+0225 - Mat Hoffman's Pro BMX (E) [-] 馬特‧霍夫曼-專業特技腳踏車 SPG
+0226 - Super Bust-A-Move (U) [!] 超級泡泡龍 美 CBG
+0227 - Action Replay GBX (E) [-] GBA金手指工具 歐 ETC
+0228 - Columns Crown (E) [-] 寶石方塊 歐 CBG
+0229 - Les Aventures De Jackie Chan (F) [-] 成龍冒險 法 ACT
+0230 - Magical Vacation (J) [-] 魔法假期 日 RPG
+0231 - Advance Rally (J) [-] 越野房車賽 日 RCG
+0232 - Gakkou O Tsukurou!! Advance (J) [-] 學校傳說 日 SLG
+0233 - Monster Farm Advance (J) [-] 怪獸農場 日 SLG
+0234 - Thunderbirds International Rescue (E) [-] 雷鳥-國際救援組織 歐 STG
+0235 - Action Replay GBX (E) [A][-] GBA金手指工具 輪替版-歐 ETC
+0236 - Game Shark GBA (U) (v1.0) [-] 遊戲鯊魚金手指 1.0美版 ETC
+0237 - Xploder Advance (E) [-] GBA金手指密碼工具 歐 ETC
+0238 - Shaun Palmer's Pro Snowboarder (G) [-] 夏恩‧派蒙的專業滑雪板 德 SPG
+0239 - World Advance Soccer Road To Win (J) [-] 世界足球-邁向勝利之路 日 SPG
+0240 - Namco Museum (J) [-] 拿姆科博物館 日 ACT
+0241 - Planet Monsters (U) [!] 星球怪物 美 ACT
+0242 - Super Mario Advance 2 (J) [!] 超級瑪莉歐2 日 ACT
+0243 - Battle Network RockMan EXE 2 (J) [-] 洛克人網路戰鬥EXE2  日 RPG
+0244 - Action Replay GBX (F) [-] GBA金手指工具 法 ETC
+0245 - Breath Of Fire (U) [!] 龍戰士 美 RPG
+0246 - Columns Crown (J) [-] 寶石方塊 日 CBG
+0247 - Mortal Kombat Advance (U) [-] 真人快打 美 FTG
+0248 - Jikkyou World Soccer Pocket (J) [-] 實況世界足球口袋版 日 SPG
+0249 - MegaMan Battle Network (E) [!] 洛克人網路戰鬥 歐 RPG
+0250 - American Bass Challenge (U) [!] 美國巴斯釣魚挑戰賽 美 SPG
+0251 - Code Breaker (U) [-] GBA金手指密碼工具 美 ETC
+0252 - Sonic Advance (J) [!] 音速小子 日 ACT
+0253 - Muscle Ranking 2 - Kinniku Banduke (J) [-] 筋肉番付2-奇跡之完全制霸 日 ACT
+0254 - Bakuten Shoot Beyblade (J) [!] 爆轉陀螺王-激鬥賽 日 ACT
+0255 - The Flintstones - Big Trouble In Bedrock (U) [!] 石頭族樂園-岩床上的大麻煩 歐 ACT
+0256 - Tekken Advance (J) [!] 鐵拳 日 FTG
+0257 - Breath Of Fire II - Shimei No Ko (J) [!] 龍戰士2-使命之子 日 RPG
+0258 - Dragon Quest - Tornekos Adventure 2 (J) [!] 特魯內克大冒險2-不可思議的迷宮 日 ARPG
+0259 - Zoids Saga (J) [!] 機獸新世紀-中央大陸之戰 日 RPG
+0260 - Flame Of Recca (J) [!] 烈火之炎 日 FTG
+0261 - ESPN Winter X-Games Snowboarding 2002 (J) [!] ESPN冬季運動會-滑雪板2002 日 SPG
+0262 - Yu-Gi-Oh! Duel Monsters 6 Expert 2 (J) [!] 遊戲王6 Expert 2 日 RPG
+0263 - Advance Wars (E) [-] 高級戰爭 歐 SLG
+0264 - Kao The Kangaroo (E) [-] 小小袋鼠闖天關 歐 ACT
+0265 - The King Of Fighters EX (J) [!] 格鬥天王EX 日 FTG
+0266 - Angelic Layer (J) [-] 天使領域 日 RPG
+0267 - Sansara Naga 1x2 (J) [-] 育龍戰記1x2 日 RPG
+0268 - EZ-Talk 3 (J) [-] 簡單說英語3 日 ETC
+0269 - EZ-Talk 4 (J) [-] 簡單說英語4 日 ETC
+0270 - Game Shark GBA (U) (v1.0) [A][-] 遊戲鯊魚金手指 1.0輪替版-美 ETC
+0271 - Xploder Advance (E) [A][-] GBA金手指密碼工具 輪替版-歐 ETC
+0272 - Mech Platoon (U) [!] 機械化軍隊 美 SLG
+0273 - Dark Arena (U) [!] 暗黑競技場 美 FPS
+0274 - Creatures (E) [-] 造物計劃 TCG
+0275 - Pac-Man Collection (J) [-] 小精靈全集 日 ACT
+0276 - The Flintstones - Big Trouble In Bedrock (E) [-] 石頭族樂園-岩床上的大麻煩 歐 ACT
+0277 - Snap Kids (J) [-] 攝影小子 日 RPG
+0278 - Asterix And Obelix Paf Them All (E) [-] 美麗新世界-幻想新國度 歐 ACT
+0279 - ESPN Winter X-Games Snowboarding 2002 (U) [!] ESPN冬季運動會-滑雪板2002 美 SPG
+0280 - Guilty Gear X Advance Edition (J) [!] 罪惡剋星X  日 FTG
+0281 - Gradius Generation (J) [-] 沙羅曼蛇 日 STG
+0282 - Tomato Adventure (J) [-] 西紅柿冒險 日 RPG
+0283 - Hyper Sports 2002 Winter (J) [!] 超級運動家2002冬季版 日 SPG
+0284 - Tekken Advance (U) [-] 鐵拳 美 FTG
+0285 - ESPN International Winter Sports 2002 (U) [!] ESPN國際冬季運動會 美 SPG
+0286 - Salt Lake 2002 (U) [!] 鹽湖城冬季奧運2002 美 SPG
+0287 - Pac-Man Collection (E) [-] 小精靈全集 歐 ACT
+0288 - Wizardry Summoner (J) [-] 辟邪除妖-召喚者 日 RPG
+0289 - Shanghai Advance (J) 上海 日 TBG
+0290 - Sonic Advance (U) [!] 音速小子 美 ACT
+0291 - Guranbo (J) [!] 格蘭寶大作戰(鋼鐵寶貝) 日 RPG
+0292 - Jonny Moseley Mad Trix (U) [!] 強尼‧摩斯立之瘋狂滑雪 美 SPG
+0293 - Puyo Pop (U) [!] 魔法氣泡大會戰 美 CBG
+0294 - Okuman Chouja Game (J) [-] 億萬長者遊戲 日 TBG
+0295 - Pinky Monkey Town (J) [-] 粉紅猴莊 日 TBG
+0296 - Harry Potter To Kenja No Ishi (J) [-] 哈利波特-神秘的魔法石 日 ARPG
+0297 - Super Mario Advance 2 - Super Mario World (U) [!] 超級瑪莉歐2-超級瑪莉歐世界 美 ACT
+0298 - Jurassic Park III - Dino Attack (E) [!] 侏儸紀公園3-動作版 歐 ACT
+0299 - Advance Wars (U) (v1.1) [!] 高級戰爭 1.1美 SLG
+0300 - Columns Crown (U) [!] 寶石方塊 美 CBG
+0301 - WTA Tour Tennis Pocket (J) [IR00] 超真實女子網球賽-口袋版 日 SPG
+0302 - Dave Mirra Freestyle BMX 2 (E) [-] 黛夫‧米亞自由式單車越野賽2 歐 SPG
+0303 - Peter Pan - Return To Neverland (U) [-] 小飛俠-回到夢不落帝國 美 ACT
+0304 - Golden Sun (F) [!] 黃金的太陽-破解的封印 法 RPG
+0305 - ESPN Great Outdoor Games - Bass Tournament (E) [-] ESPN戶外運動-巴斯釣魚2002 歐 SPG
+0306 - EZ-Talk 5 (J) [-] 簡單說英語5 日 ETC
+0307 - EZ-Talk 6 (J) [-] 簡單說英語6 日 ETC
+0308 - NBA Jam 2002 (U) [!] 勁爆NBA 2002 美 SPG
+0309 - Captain Tsubasa - Eikou No Kiseki (J) [!] 天使之翼-榮光之軌跡 日 SSPG
+0310 - Pocket Music (E) [!] 口袋音樂 歐 MSC
+0311 - Virtual Kasparov (E) [!] 虛擬西洋棋手 歐 TBG
+0312 - Hot Wheels - Burnin Rubber (E) [-] 無敵風火輪賽車 歐 RCG
+0313 - Tom And Jerry - The Magic Ring (E) [-] 湯姆與傑利-魔法鈴鐺 歐 ACT
+0314 - Planet Monsters (E) [!] 星球怪物 歐 ACT
+0315 - Jimmy Neutron - Boy Genius (E) [-] 天才小子-吉米 ACT
+0316 - Chu Chu Rocket (E) [!] 啾啾火箭隊 歐 PZG
+0317 - Moto GP (E) [!] GP摩托車賽 歐 RCG
+0318 - Bomberman Max 2 - Bomberman Version (J) [SF] 轟炸超人MAX2-轟炸超人版 日 ACT
+0319 - Crash Bandicoot XS (E) [!] 古惑狼大冒險 歐 ACT
+0320 - Goemon New Age Shutsudou! (J) [IRFF] 大盜伍佑衛門新時代出動! 日 ACT
+0321 - J-League Pocket 2 (J) [!] 口袋J聯盟足球2 日 SPG
+0322 - The Land Before Time (E) [!] 歷險小恐龍 歐 ACT
+0323 - Mike Tyson Boxing (E) [-] 麥可‧泰森拳擊 歐 SPG
+0324 - Inspector Gadget - Advance Mission (U) [!] G型神探-高級任務 美 ACT
+0325 - Phalanx (U) [!] 銀河戰機 美 STG
+0326 - Zone Of Enders - The Fist Of Mars (U) [!] 星域毀滅者2173-火星的碰撞 美 STG
+0327 - An American Tail - Fievel's Gold Rush (E) [-] 美國鼠譚 歐 ACT
+0328 - Black Black (J) [!] 魔笛師傳說 日 RPG
+0329 - Super Street Fighter II Turbo Revival (U) [!] 超級快打旋風2 Turbo-復活 美 FTG
+0330 - Yuurei Yashiki No 24jikan (J) [!] 幽靈屋敷之24小時 日 AVG
+0331 - Domo-Kun No Fushigi Terebi (J) [-] 多摩君之不可思議的電視 日 PZG
+0332 - Pretty Postman - Mail De Cute (J) [!] 可愛郵差 日 ETC
+0333 - Bomberman Max 2 - MAX Version (J) [SF] 轟炸超人MAX2-馬克斯版 日 ACT
+0334 - Planet Of The Apes (U) [!] 決戰猩球 美 ACT
+0335 - Tony Hawk's Pro Skater 3 (U) [!] 湯尼霍克專業滑板3 美 SPG
+0336 - High Heat MLB 2003 (U) [!] 火熱職業聯盟棒球2003 美 SPG
+0337 - NHL 2002 (U) [!] 美國冰上曲棍球聯賽2002 美 SPG
+0338 - Casper (E) [-] 鬼馬小精靈 歐 ACT
+0339 - Sonic Advance (E) [-] 音速小子 歐 ACT
+0340 - Men In Black 2 - The Series (U) [!] MIB星際戰警 美 ACT
+0341 - Star Wars - Jedi Power Battles (E) [-] 星際大戰首部曲-絕地武士 ACT
+0342 - Top Gear GT Championship (U) [!] 頂級GT對抗賽 美 RCG
+0343 - Donald Duck Advance (J) [-] 唐老鴨 日 ACT
+0344 - Estopolis Densetsu (J) [-] 四狂神戰記外傳-沉默之遺跡 日 RPG
+0345 - Crash Bandicoot - The Huge Adventure (U) [!] 古惑狼大冒險 美 ACT
+0346 - Mike Tyson Boxing (U) [!] 麥可‧泰森拳擊 美 SPG
+0347 - Moto GP (U) [!] GP摩托車賽 美 RCG
+0348 - Rainbow Six - Rogue Spear (U) [-] 彩虹6號 美 FPS
+0349 - Space Invaders (U) [-] 太空侵略者 美 STG
+0350 - Super Robot Taisen A (Ch)
+[-] 超級機器人大戰 A 簡體中文 RSLG
+0351 - Driven (E) [-] 生死極速 歐 RCG
+0352 - Mary Kate And Ashley Girls Night Out (U) [-] 瑪莉‧凱特和艾希莉-外出的夜晚 美 MSC
+0353 - Guru Logi Champ (J) [-] 轉轉方塊 日 CBG
+0354 - Donald Duck Advance (U) [!] 唐老鴨 美 ACT
+0355 - Angelique (J) [-] 安琪莉可之女王學院 日 TCG
+0356 - Power Pro Kun Pocket 4 (J) [-] 實況野球君口袋版4 日 TCG
+0357 - Baseball Advance (U) [!] 棒球 美 SPG
+0358 - Rainbow Six - Rogue Spear (E) [!] 彩虹6號 歐 FPS
+0359 - Konami Collectors Series - Arcade Advanced (U) [!] 科拿米懷舊大型電玩6合一 美 ETC
+0360 - Motocross Maniacs Advance (U) [!] 瘋狂越野摩托車 美 RCG
+0361 - Akumajou Dracula - Circle Of The Moon (Ch)
+[-] 惡魔城-月之輪迴 簡體中文 ARPG
+0362 - Broken Sword - The Shadow Of The Templars (E) [-] 斷劍-聖堂武士之謎 歐 AVG
+0363 - Groove Adventure Rave (J) [-] 聖石小子-光與暗的大決戰 日 FTG
+0364 - Ice Age (U) [-] 冰原歷險記 美 ACT
+0365 - Shrek - Swamp Kart Speedway (U) [!] 史瑞克沼澤賽車 美 RCG
+0366 - Chessmaster (E) [-] 西洋棋大師 歐 TBG
+0367 - Golden Sun (G) [-] 黃金的太陽-破解的封印 德 RPG
+0368 - K-1 Pocket Grand Prix (J) [SF] K1口袋格鬥技錦標賽 日 FTG
+0369 - Super Puzzle Bobble Advance (J) [!] 超級泡泡龍 日 CBG
+0370 - Slot-Pro Advance (Ch)
+[HH][-] 專業柏青嫂遊戲-寶船&大江戶櫻吹雪2 日 PZG
+0371 - Saibara Rieko No Dendou Mahjong (J) [-] 西原理惠子之殿堂麻雀 日 TBG
+0372 - Kikaika Guntai (Ch)
+[HH][-] 機械化軍隊 日 SLG
+0373 - Diadroids World (J)
+[HH][-] 危險世界-邪惡帝國的野心 日 RPG
+0374 - Jissen PachiSlot Hisshouhou (Ch)
+[HH][-] 實戰柏青嫂必勝法 獸王Advance 日 PZG
+0375 - Daimaajan (J)
+[HH][-] 大麻雀 日 TBG
+0376 - Broken Sword - The Shadow Of The Templars (U) [!] 斷劍-聖堂武士之謎 美 AVG
+0377 - Maya The Bee - The Great Adventure (E) [-] 蜜蜂瑪雅-偉大的冒險 歐 ACT
+0378 - Fire Emblem - Sealed Sword (J) [!] 聖火降魔錄-封印之劍 日 RSLG
+0379 - Shining Soul (J) [!] 光明之魂 日 ARPG
+0380 - Atari Anniversary Advance (U) [!] 雅達利週年紀念遊戲 美 ETC
+0381 - Britney's Dance Beat (U) [-] 小甜甜布蘭妮之舞蹈節拍 美 MSC
+0382 - Scrabble (E) [-] 拼字遊戲 歐 PZG
+0383 - Golden Sun (S) [-] 黃金的太陽-破解的封印 西班牙 RPG
+0384 - Monster Jam Maximum Destruction (U) [-] 怪物卡車大毀滅 美 ARCG
+0385 - FILA Decathlon (E) [-] 十項全能 歐 SPG
+0386 - Magical Houshin (J) [-] 魔法封神 日 RPG
+0387 - Extreme Ghostbusters - Code Ecto-1 (E) [-] 終極魔鬼剋星-編號Ecto-1 歐 ACT
+0388 - The Scorpion King - Sword Of Osiris (U) [!] 魔蠍大帝-大地之劍 美 ACT
+0389 - Isseki Hacchou (Ch)
+[HH][-] 一石八鳥 日 TBG
+0390 - Peter Pan - Return To Neverland (E) [-] 小飛俠-回到夢不落帝國 歐 ACT
+0391 - Super Black Bass Advance (E) [-] 超級黑巴斯釣魚 歐 SPG
+0392 - Breath Of Fire (E) [-] 龍戰士 RPG
+0393 - Tiny Toon Adventures - Wacky Stackers (E) [-] 邦尼兔冒險-古怪蛋方塊 歐 CBG
+0394 - Klonoa - Empire Of Dreams (E) [-] 風之克羅蒂亞-夢見帝國 歐 ACT
+0395 - The Three Stooges (U) [!] 三個臭皮匠 美 ETC
+0396 - X-Bladez - Inline Skater (E) [-] X旋風直排輪競賽 歐 SPG
+0397 - Virtual Kasparov (U) [!] 虛擬西洋棋手 美 TBG
+0398 - Eigo Koubunhen (J) [-] 高校受驗加強系列-英語構文篇 日 ETC
+0399 - Wolfenstein 3D (U) [IR00] 3D德軍總部 美 FPS
+0400 - Card E Reader (J)[-] 卡片讀取機 ETC
+0401 - Lunar Legend (J) [!] 銀河之星-露娜傳奇 日 RPG
+0402 - Super Mario Advance 2 - Super Mario World (E) [!] 超級瑪莉歐2-超級瑪莉歐世界 歐 ACT
+0403 - Breath Of Fire II (U) [!] 龍戰士2-使命之子 美 RPG
+0404 - Spiderman - The Movie (U) [!] 蜘蛛人-電影版 美 ACT
+0405 - Star X (U) [!] 行星戰機X 美 STG
+0406 - The Scorpion King - Sword Of Osiris (E) [-] 魔蠍大帝-大地之劍 歐 ACT
+0407 - Tetris Worlds (J) [-] 俄羅斯方塊世界 日 CBG
+0408 - Spiderman - Mysterio's Menace (J) [-] 蜘蛛人-未知的威脅 日 ACT
+0409 - Blender Bros (U) [!] 超連體兄弟 美 ACT
+0410 - Rockman Zero (J) [!] 洛克人ZERO 日 ACT
+0411 - Advance GT2 (J) [!] GT賽車2 日 RCG
+0412 - J-League Winning Eleven World Soccer (J) [SF] 勝利11人世界足球 日 SPG
+0413 - Tennis No Oji Sama (J) [IR00] 網球王子 日 SPG
+0414 - Initial D - Another Stage (J) [-] 頭文字D-另一個故事 日 RCG
+0415 - Penny Racers (E) [-] 迷你可愛賽車 歐 RCG
+0416 - Sweet Cookie Pie (J) [!] 美味糕點 日 LVG
+0417 - Dinotopia - The Timestone Pirates (U) [IRFF] 時空英豪 美 ACT
+0418 - Koro Koro Puzzle Happy Panechu! (J) [!] 快樂轉盤 日 CBG
+0419 - Kurohige No Golf Shiyouyo (J) [-] 黑鬍子之大家來打高爾夫 日 SPG
+0420 - Keitai Denjuu Telefang 2 - Power Version (J) [-] 攜帶電獸2 力量版 日 RPG
+0421 - Keitai Denjuu Telefang 2 - Speed Version (J) [-] 攜帶電獸2 速度版 日 RPG
+0422 - Kaeru B Back (J) [-] 青蛙回家 日 RPG
+0423 - Desert Strike Advance (U) [-] 沙漠風暴 美 STG
+0424 - All-Star Baseball 2003 (U) [-] 全美明星棒球2003 美 SPG
+0425 - NASCAR Heat 2002 (U) [-] 雲斯頓賽車2002 美 RCG
+0426 - formation Soccer 2002 (J) [-] 立體足球2002 日 SPG
+0427 - Doraemon Board Game (J) [SF] 小叮噹冒險盤戲 日 TBG
+0428 - Animal Mania (J) [-] 動物可愛占卜 日 ETC
+0429 - Kami No Kijutsu Illusion Of The Evil Eyes (J) [-] 神之記述-邪惡之眼的幻影 日 RPG
+0430 - Kawa No Nushi Tsuri 5 (J) [SF] 川釣太郎5 日 RPG
+0431 - Gekitou! Car Battler Go! (J) [SF] 激鬥遙控車戰士GO! 日 ACT
+0432 - Tactics Ogre - The Knight Of Lodis (U) [!] 皇家騎士團外傳 美 RSLG
+0433 - Tiger Woods PGA Tour Golf (U) [!] 老虎伍茲PGA高爾夫球巡迴賽 美 SPG
+0434 - Dragon Ball Z - The Legacy Of Goku (U) [IRFF] 七龍珠Z-悟空傳說 美 ARPG
+0435 - Hitsuji No Kimochi (J) [SF] 綿羊之心 日 ACT
+0436 - Jinsei Game Advance (J) [-] 人生遊戲 日 TBG
+0437 - Spy Hunter (U) [-] 間諜飛車 美 RCG
+0438 - Davis Cup (E) [!] 戴維斯杯網球公開賽 歐 SPG
+0439 - Total Soccer Manager (E) [!] 冠軍足球經理 歐 SPG
+0440 - Downforce (U) [IRFF] F1重裝賽車 美 RCG
+0441 - Youkaidou (J) [SF] 妖怪道 日 RPG
+0442 - Backyard Baseball (U) [-] 兒童庭院空地棒球 美 SPG
+0443 - Golden Sun (I) [!] 黃金的太陽-破解的封印 義大利 RPG
+0444 - GT Championship (E) [!] GT冠軍賽車 RCG
+0445 - Sheep (E) [IRFF] 綿羊之心 歐 ACT
+0446 - Roland Garros 2002 - Next Generation Tennis (E) [-] 法國網球公開賽2002-次世代網球 歐 SPG
+0447 - Dragon Ball Z - Collectible Card Game (U) [-] 七龍珠Z-卡片收集遊戲 美 TBG
+0448 - Tottoko Ham Tarou 3 (J) [!] 哈姆太郎3-戀愛大冒險 日 TCG
+0449 - Star Wars - Episode II - Attack Of The Clones (U) [-] 星際大戰二部曲-複製人全面進攻 美 ACT
+0450 - Spirit - Stallion Of The Cimarron (U) [!] 小馬王 美 ACT
+0451 - Earthworm Jim 2 (U) [-] 蚯蚓吉姆2 美 ACT
+0452 - Bomberman Max 2 - Blue (U) [IRFF] 轟炸超人MAX2-藍版 美 ACT
+0453 - Bomberman Max 2 - Red (U) [IRFF] 轟炸超人MAX2-紅版 美 ACT
+0454 - Frogger Advance - The Great Quest (U) [IRFF] 青蛙冒險-偉大的冒險 美 ACT
+0455 - Muppet Pinball Mayhem (U) [-] 芝麻街彈珠台 美 TBG
+0456 - Hey Arnold! The Movie (U) [-] 嗨!阿諾德-電影版 美 ACT
+0457 - Spiderman - The Movie (F) [-] 蜘蛛人-電影版 美 ACT
+0458 - Punch King (U) [IR00] 擊倒王 美 SPG
+0459 - Gremlins - Stripe Vs Gizmo (E) [T+7] 菲比小精靈 歐 ACT
+0460 - Castlevania - Byakuya No Concerto (J) [-] 惡魔城-白夜協奏曲 日 ARPG
+0461 - ZooCube (U) [-] 立體旋轉方塊 美 CBG
+0462 - Disney's Lilo And Stitch (U) [IR00] 星際寶貝 美 ACT
+0463 - Scooby-Doo - The Motion Picture (U) [IRFF] 史酷比鬼屋歷險-動畫照片 美 AAVG
+0464 - Zone Of Enders - The Fist Of Mars (E) [-] 星域毀滅者2173-火星的碰撞 歐 STG
+0465 - Scooby-Doo And The Cyber Chase (E) [-] 史酷比鬼屋歷險 ACT
+0466 - The Ripping Friends (U) [-] 頂尖同伴 美 ACT
+0467 - Tony Hawk's Pro Skater 3 (F) [-] 湯尼霍克專業滑板3 法 SPG
+0468 - MegaMan Battle Network 2 (U) [!] 洛克人-網路戰鬥2 美 RPG
+0469 - Konami Collectors Series - Arcade Advanced (J) [-] 科拿米懷舊大型電玩6合一 日 ETC
+0470 - Motocross Maniacs Advance (J) [-] 瘋狂越野摩托車 日 RCG
+0471 - Ice Age (E) [-] 冰原歷險記 歐 ACT
+0472 - Nicktoons Racing (U) [-] 尼克卡通賽車 美 RCG
+0473 - V-Rally 3 (E) [!] V拉力越野賽3 歐 RCG
+0474 - Britney's Dance Beat (E) [-] 小甜甜布蘭妮之舞蹈節拍 MSC
+0475 - Robopon 2 - Ring Version (U) [-] 機甲寶貝兵2-鈴鐺版 美 RSLG
+0476 - Robopon 2 - Cross Version (U) [-] 機甲寶貝兵2-十字版 美 RSLG
+0477 - Family Tennis Advance (J) [-] 家庭網球 日 SPG
+0478 - Droopy's Tennis Open (E) [IRFF] 杜皮狗之網球公開賽 歐 SPG
+0479 - CT Special Forces (E) [IR00] CT特種部隊 歐 ACT
+0480 - The Pinball Of The Dead (U) [-] 死亡彈珠台 美 TBG
+0481 - GT Advance 2 - Rally Racing (U) [IR00] GT越野房車賽2 美 RCG
+0482 - Star X (E) [-] 行星戰機X 歐 STG
+0483 - LEGO Football Mania (U) [-] 樂高瘋狂足球 美 SPG
+0484 - Maniac Racers Advance (E) [-] 瘋狂越野摩托車 歐 RCG
+0485 - Star Wars - Episode II - Attack Of The Clones (E) [-] 星際大戰二部曲-複製人全面進攻 ACT
+0486 - Dokapon Monster Hunter (E) [-] 多卡波王國-怪獸獵人 歐 RPG
+0487 - Pro Tennis WTA Tour (E) [-] 超真實女子網球賽-口袋版 歐 SPG
+0488 - Disney's Lilo And Stitch (E) [!] 星際寶貝 歐 ACT
+0489 - Golden Sun 2 - Ushinawareshi Toki (J) [IR00] 黃金之太陽-失落的時代 日 RPG
+0490 - Aero The Acrobat (U) [-] 飛天蝙蝠 美 ACT
+0491 - Medabots AX - Rokusho Version (U) [-] 徽章戰士AX-六書版 美 RSLG
+0492 - Medabots AX - Metabee Version (U) [-] 徽章戰士AX-藍蜂版 美 RSLG
+0493 - Yu-Gi-Oh! Duel Monsters 7 (J) [-] 遊戲王7-決鬥都市傳說 日 RPG
+0494 - The Pinball Of The Dead (J) [SF] 死亡彈珠台 日 TBG
+0495 - Bakuten Shoot Beyblade 2 (J) [-] 爆轉陀螺王2 日 ACT
+0496 - Pinball Challenge Deluxe (E) [-] 挑戰彈珠台-豪華版 歐 TBG
+0497 - Chessmaster (F) [-] 西洋棋大師 法 TBG
+0498 - Stuart Little 2 (U) [!] 一家之鼠2 美 ACT
+0499 - Monster Gate (J) [-] 怪獸之門 日 ARPG
+0500 - Kong - The Animated Series (E) [-] 金剛之旅 歐 ACT
+0501 - Top Gun Firestorm Advance (U) 捍衛戰士 多國 STG 32M
+0502 - Disney All-Star Sports Soccer (J) 迪士尼明星足球賽 日 SPG 128M
+0503 - Choh Makai-Mura R (J) 超魔界村R 歐 ACT 32M
+0504 - Final Fire Pro Wrestling (J) 終極火爆摔角夢之團體運營 日 SLG 128M
+0505 - Bubble Bobble - Old & New (J) 泡泡龍新版&舊版 日 PUZ 32M
+0506 - Hikaru No Go 2 (J) 棋靈王2 日 TAB 128M
+0507 - Tiny Toon Adventures - Busters Bad Dream (E) 邦尼兔大冒險-糟糕的夢 多國 ACT 32M
+0508 - Moorhen 3 Chicken Chase (E) 雷鳥3-獵雞人 多國 STG 32M
+0509 - Custom Robo GX (J) 機甲設計師GX 日 FTG 64M
+0510 - Breath Of Fire 2 (E) 龍戰士2-使命之子 歐 RPG 32M
+0511 - Shaman King 2 (J) 通靈王-超‧占事略決2 RPG 64M
+0512 - Ghost Trap (J) 幽靈陷阱 日 AVG 64M
+0513 - Antz Extreme Racing (E) 小蟻雄兵賽車 多國 RCG 32M
+0514 - Super Robot Taisen R (J) 超級機器人大戰R 日 SLG 64M
+0515 - E.T.The Extra-Terrestrial (E) 外星人-著陸 多國 ACT 32M
+0516 - Konami Collectors Series - Arcade Advanced (E) 科拿米遊戲合集 多國 ECT 32M
+0517 - xXx (U) 限制級戰警 歐 ACT 32M
+0518 - La Famille De La Jungle - A La Poursuite De Darwin (F) 狂野叢林-獵殺黑猩猩 法 ACT 32M
+0519 - Hot Potato (E) 火熱的馬鈴薯 多國 PUZ 32M
+0520 - ESPN X - Games Skateboarding (E) ESPN X-溜冰板遊戲 多國 SPG 64M
+0521 - Pinobee & Phoebee (J) 匹諾比的大冒險 日 ACT 64M
+0522 - Fushigi No Kuni Angelique (J) 安琪莉可女王 日 TCG 32M
+0523 - Hot Wheels Advance (J) 無敵風火輪賽車 歐 RCG 64M
+0524 - Kurohige No Kurutto jintori (J) 黑鬍子之轉轉碰碰球 日 SPG 32M
+0525 - Kaze no Klonoa 2 G2 - Dream Champ Tournament (J) 風之克羅蒂亞2 日 ACT 32M
+0526 - Space Invaders EX (J) 太空入侵者EX 歐 STG 32M
+0527 - Medabots AX - Rokusho Version (E) 徽章戰士AX-六書版 多國 SRPG 64M
+0528 - Manic Miner (E) 瘋狂礦工 多國 PUZ 64M
+0529 - Kamaitachi no Yoru Advance (J) 恐怖驚魂夜 日 AVG 128M
+0530 - San Goku Shi (C) 三國誌 中 SLG 64M
+0531 - Greatest Nine (J) 最強9人棒球 日 SPG 64M
+0532 - V - Master Cross (J) V-怪獸卡片鬥士 日 CAG 128M
+0533 - The King Of Fighters EX - Neo Blood (U) 格鬥天王EX-新血 歐 FTG 64M
+0534 - Cubix - Robots for Everyone - Clash n Bash (U) 機械人大戰-瘋狂衝撞 歐 FTG 64M
+0535 - Disneys Magical Quest Starring Mickey and Minnie (J) 迪士尼米奇與米妮的魔法冒險 日 ACT 32M
+0536 - Rockman & Forte (J) 洛克人與佛魯迪 日 ACT 64M
+0537 - Hey Arnold! The Movie (E) 嘿！阿諾得！電影版 多國 ACT 32M
+0538 - ZooCube (E) 立體旋轉方塊 多國 PUZ 32M
+0539 - Urban Yeti (U) 都市的雪人 歐 ACT 32M
+0540 - Madden NFL 2003 (U) NFL橄欖球2003 歐 SPG 32M
+0541 - Disneys Magical Quest Starring Mickey and Minnie (U) 迪士尼的米奇老鼠 歐 ACT 32M
+0542 - Spy Kids Challenger (U) 間諜小子挑戰者 歐 ACT 32M
+0543 - NFL Blitz 2003 (U) NFL橄欖球閃電大作戰2003  歐 SPG 32M
+0544 - Combat Choro Q - Advance Battle (J) Q版坦克大作戰 日 SLG 32M
+0545 - Crash Bandicoot Advance (J) 古惑狼大進擊 日 ACT 64M
+0546 - Famista Advance (J) 棒球 日 SPG 32M
+0547 - Duke Nukem Advance (U) 毀滅公爵 歐 FPS 64M
+0548 - Mat Hoffmans Pro BMX 2 (U) 馬特‧霍夫曼的自行車越野賽2 歐 SPG 64M
+0549 - VIP (E) 會員 多國 ACT 32M
+0550 - Monster Force (U) 怪物力量 多國 ACT 64M
+0551 - Mini Moni - Mika No Happy Morning Chatty (J) 迷你早晨-麥克不快樂的饒舌口語 日 ECT 64M
+0552 - Power Rangers - Wild Force (U) 金剛戰士-荒野力量 歐 ACT 32M
+0553 - Tetsuya Yomigaeru Densetsu (J) 勝負師傳說-哲也甦醒傳說 日 TAB 64M
+0554 –ATV - Quad Power Racing (U) 越野車力量競賽 歐 RCG 32M
+0555 - Mr. Driller Ace - Strange Bacteria (J) 鑽地先生-陌生的細菌 日 PUZ 64M
+0556 - Yakyutuku Advance (J) 育成棒球 日 TCG 64M
+0557 - Turok Evolution (E) 恐龍獵人進化 歐 ACT 64M
+0558 - Monsters Inc. (J) 怪獸電力公司 日 ACT 32M
+0559 - Mutsu Water Looper Mutsu (J) 水環中的寵物 日 TCG 32M
+0560 - V - Rally 3 (J) V-拉力越野賽3 日 RCG 32M
+0561 - Medarot G - Kuwagata Version (J) 徽章戰士G-鍬型蟲版 日 FTG 64M
+0562 - Rocket Power - Le Cauchemar DOtto (F) 疾速動力D奧托 法 ACT 32M
+0563 - Monsters Inc. (E) 怪獸電力公司 多國 ACT 32M
+0564 - Black Matrix Zero (J) 正邪幻想曲Zero 日 SLG 64M
+0565 - Sabrina The Teenage Witch - Potion Commotion (U) 年輕的女巫莎柏琳娜 多國 ACT 32M
+0566 - Sakura Momoko No Ukiuki Carnival (J) 嘉年華會 日 RPG 64M
+0567 - Hamepane Tokyo Myumyu (J) 東京貓貓拼圖 日 PUZ 32M
+0568 - Les Razmoket Voler nest pas Jouer (F) 小淘氣-城堡冒險 法 ACT 32M
+0569 - Aggressive Inline (U) 花式溜冰 歐 SPG 64M
+0570 - Pinky And The Brain - The Master Plan (U) 老鼠征服之綜合計劃 多國 ACT 32M
+0571 - Go! Go! Beckham! Adventure On Soccer Island (E) 貝克漢足球島冒險 多國 ACT 32M
+0572 - Nobunaga Ibun (J) 信長異聞錄 日 S‧RPG 64M
+0573 - Gachasute! Dino Device Red (J) 怪獸蛋紅版 日 S‧RPG 64M
+0574 - Jurassic Park 3 - DNA Factor (J) 侏羅紀公園3-DNA原素 日 ACT 64M
+0575 - Tony Hawks Pro Skater 2 (J) 湯尼霍克職業溜冰2 日 SPG 64M
+0576 - Castlevania: Harmony Of Dissonance (E) 惡魔城-白夜協奏曲 歐 A‧RPG 64M
+0577 - J League Pro Soccer Club o Tsukurou Advance (J) J聯盟職業創造球會 日 TCG 64M
+0578 - Nicktoons Racing (E) 尼克通賽車 多國 RCG 32M
+0579 - Densetsu no Stafy (J) 傳說的斯塔菲 日 ACT 64M
+0580 - Disney All-Star Football (J) 迪士尼全明星橄欖球 日 SPG 128M
+0581 - Disney Sports Skateboarding (J) 迪士尼運動系列滑板 日 SPG 128M
+0582 - Aggressive Inline (E) 花式溜冰 多國 SPG 64M
+0583 - BMX Trick Racer (U) BMX花式越野車大賽 歐 SPG 128M
+0584 - Matchbox Crosstown Heroes (U) 救火英雄 歐 ECT 32M
+0585 - Silent Scope (U) 沉默的狙擊手 歐 STG 64M
+0586 - Tiger Woods PGA Tour Golf (E) 老虎伍茲高爾夫 多國 SPG 32M
+0587 - Speedball 2 - Brutal Deluxe (E) 速度球2 多國 SPG 64M
+0588 - Megaman Zero (U) 洛克人Zero 歐 ACT 64M
+0589 - Comix Zone (E) 漫畫地帶 多國 FTG 32M
+0590 - Natural 2 Duo (J) 雙姝情緣 日 AVG 64M
+0591 - Sabrina The Teenage Witch - Potion Commotion (E) 年輕的女巫莎柏琳娜 多國 ACT 32M
+0592 - SpongeBob Square Pants - Revenge of The Flying Dutchman (U) 超級海綿寶寶-荷蘭鬼魂的復仇 歐 ACT 64M
+0593 - Yoshis Island - Super Mario Advance 3 (U) 超級瑪莉歐3-耀西島 歐 ACT 32M
+0594 - The Sum of All Fears (E) 恐懼的總和 多國 FPS 64M
+0595 - Yossy Island - Super Mario Advance 3 (J) 超級瑪莉歐3-耀西島 日 ACT 32M
+0596 - Airforce Delta Storm (U) 三角洲空軍風暴 多國 STG 32M
+0597 - Boulder Dash EX (U) 推石小子EX 歐 PUZ 32M
+0598 - Backyard Football (U) 兒童後院足球 歐 SPG 32M
+0599 - Barbie Groovy Games (U) 芭比娃娃-益智小遊戲 歐 PUZ 32M
+0600 - GT Advance 2 - Rally Racing (E) GT越野房車賽2 歐 RCG 32M
+0601 - Hanafuda Trump Mahjong Depachika Wayouchuu (J) 中日洋3國桌上遊戲大集合 日 PUZ 32M
+0602 - Egg Mania (U) 戰鬥蛋方塊 多國 TAB 32M
+0603 - Super Ghouls N Ghosts (U) 超魔界村R 歐 ACT 32M
+0604 - Kelly Slaters Pro Surfer (U) 凱利史雷特花式衝浪 歐 SPG 64M
+0605 - Smuggler』s Run (U) 逃跑走私犯賽車 歐 RCG 64M
+0606 - Duke Nukem Advance (E) 毀滅公爵 多國 FPS 64M
+0607 - Colin McRae Rally 2.0 (E) 越野菁英賽2 多國 RCG 32M
+0608 - Street Fighter Zero 3 Upper (J) 少年快打旋風3 日 FTG 64M
+0609 - Samurai Evolution - Oukoku Gaist (J) 櫻國之魂 日 RPG 32M
+0610 - Sega Smash Pack (U) SEGA街機遊戲合集 歐 ECT 64M
+0611 - Driver 2 Advance (E) 極道車魂2 多國 RCG 64M
+0612 - Castlevania - Harmony Of Dissonance (U) 惡魔城-白夜協奏曲 歐 A‧RPG 64M
+0613 - The Lord of The Rings - The Fellowship Of The Ring (U) 魔戒首部曲-魔戒現身 歐 RPG 64M
+0614 - Tennis Masters Series 2003 (E) 網球征服系列2003 多國 SPG 32M
+0615 - Spyro 2 - Season Of Flame (U) 寶貝龍2-火焰的季節 歐 ACT 64M
+0616 - Jimmy Neutron vs Jimmy Negatron (U) 天才小子吉米紐頓vs吉米尼賈登 歐 A‧RPG 32M
+0617 - Disneys Magical Quest Starring Mickey and Minnie (E) 迪士尼米奇與米妮的魔法冒險 多國 ACT 32M
+0618 - Ohanaya-san ni narou! (J) 心跳系列-經營花店 日 SLG 32M
+0619 - Card E - Reader (U) E-Book瀏覽器 歐 ECT 64M
+0620 - Groove Adventure Rave - Hikari to Yami no Daikessen 2 (J) 光與暗大決戰2 日 FTG 64M
+0621 - Hugo - The Evil Mirror (E) 雨果-邪惡的鏡子 多國 PUZ 32M
+0622 - Worms World Party (E) 百戰天蟲 多國 PUZ 32M
+0623 - Chobits (J) 人形電腦天使心 日 TCG 64M
+0624 - Yoshis Island - Super Mario Advance 3 (E) 超級瑪莉歐3-耀西島 多國 ACT 64M
+0625 - Daisuki Teddy (J) 我愛泰迪熊 日 TCG 64M
+0626 - Scooby Doo - The Motion Picture (F) 史酷比鬼屋歷險-動畫圖片 法 AVG 32M
+0627 - Frogger Advance The Great Quest (E) 青蛙冒險-偉大的冒險 多國 ACT 64M
+0628 – Gachasute! Dyna Device Blue (J) 怪獸蛋藍版 日 S‧RPG 64M
+0629 - Harukanaru Jikuu No Naka De (J) 遙遠的時空之中 日 AVG 64M
+0630 - Butt Ugly Martians BKM Battles (U) 對抗醜陋的火星人 美 ACT 64M
+0631 - Nakayoshi Pet Advance Series 1 - Kawaii Hamst (J) 動物伴侶系列一-可愛老鼠 日 TCG 32M
+0632 - Nakayoshi Pet Advance Series 2 - Kawaii Koinu (J) 動物伴侶系列二-可愛小狗 日 TCG 32M
+0633 - Nakayoshi Pet Advance Series 3 - Kawaii Konek (J) 動物伴侶系列三-可愛小貓 日 TCG 32M
+0634 - Medarot G - Kabuto Version (J) 徽章戰士G-甲冑版 日 FTG 64M
+0635 - Hime Kishi Monogatari - Princess Blue (J) 姬騎士物語-藍色的公主 日 AVG 64M
+0636 - Guilty Gear X (E) 罪惡剋星X 歐 FTG 64M
+0637 - Soccer Kid (U) 足球小子 歐 ACT 32M
+0638 - Ballistic - Ecks vs. Sever (U) 出奇制勝-艾克斯VS瑟娃 歐 FPS 64M
+0639 - Dragon Ball Z - The Legacy Of Goku (E) 七龍珠Z-悟空傳說 多國 A‧RPG 64M
+0640 - Ecks vs. Sever (E) 出奇制勝-艾克斯VS瑟娃 多國 FPS 64M
+0641 - Fire Pro Wrestling 2 (U) 火爆摔角2 歐 SPG 64M
+0642 - Invader (E) 侵略者 歐 STG 64M
+0643 - Motoracer Advance (E) 越野摩托 多國 SPG 32M
+0644 - Army Men Turf Wars (U) 玩具軍人之草場的戰爭 歐 ACT 32M
+0645 - metalun Slinger (J) 合金射擊者 日 ACT 64M
+0646 - Airforce Delta II (J) 三角洲空軍部隊2 多國 STG 32M
+0647 - Turbo Turtle Adventure (U) 海龜的冒險 歐 ACT 32M
+0648 - The King Of Fighters EX - Neo Blood (E) 格鬥天王EX-新血 歐 FTG 64M
+0649 - Harobots - Robo Hero Battling (J) 哈羅機器人-機器人英雄大會戰 日 RPG 32M
+0650 - Monster Force (E) 怪物力量 多國 ACT 64M
+0651 - Barbie Groovy Games (E) 芭比益智小遊戲 多國 ECT 32M
+0652 - The Revenge Of The Smurfs (E) 藍色小精靈 多國 ACT 32M
+0653 - Defender Of The Crown (U) 王冠的守護者 歐 SLG 32M
+0654 - Dual Blades (U) 雙刃 歐 FTG 32M
+0655 - Ice Age (J) 冰原歷險記 日 ACT 32M
+0656 - J-League Winning Eleven Advance 2002 (J) J-聯盟勝利11人足球2002 日 SPG 64M
+0657 - Pinball Advance (E) 彈珠台 多國 PUZ 64M
+0658 - Virtua Tennis (U) 虛擬網球 歐 SPG 64M
+0659 - Game And Watch Gallery Advance (E) 任天堂小遊戲合集 歐 ECT 32M
+0660 - Oshare Princess (J) 俏皮公主 日 PUZ 32M
+0661 - Shrek Hassle At The Castle (U) 史瑞克在城堡的激戰 多國 ACT 32M
+0662 - Galaxy Angel (J) 銀河天使 日 PUZ 128M
+0663 - High Heat Major League Baseball 2003 (J) 火爆美國職業棒球聯賽2003 日 SPG 32M
+0664 - Zoocube (J) 立體旋轉方塊 日 PUZ 32M
+0665 - Hamster Paradise Advance (J) 倉鼠天堂 日 TCG 64M
+0666 - Denki Blocks (J) 電擊方塊 日 PUZ 32M
+0667 - PukuPuku Tennen Kairanban (J) 狗狗小鎮 日 AVG 32M
+0668 - Gachinko Pro Yakyuu (J) Q版職業棒球 日 SPG 64M
+0669 - Black Belt Challenge (E) 黑腰帶挑戰賽 歐 FTG 64M
+0670 - Yu-Gi-Oh - The Eternal Duelist Soul (U) 遊戲王-永恆鬥士之魂 歐 CAG 64M
+0671 - Robotech - The Macross Saga (U) 太空堡壘 歐 STG 64M
+0672 - xXx (F) 限制級戰警 法 ACT 64M
+0673 - Who Wants to be a Millionaire ？ (E) 誰想成為百萬富翁？ 歐 PUZ 32M
+0674 - Gyakuten Saiban 2 (J) 逆轉裁判2 日 AVG 64M
+0675 - Oshaberi Inco Club (J) 鸚鵡俱樂部 日 TCG 64M
+0676 - Crazy Chase (E) 小丑奇兵 多國 ACT 32M
+0677 - Spirit - Letalon des Plaines (F) 小馬王 法 AVG 32M
+0678 - Nakayoshi Youchien (J) 小朋友幼稚園 日 TCG 32M
+0679 - Robot Wars Extreme Destruction (E) 遙控機器人大戰之無盡的毀滅 歐 FTG 32M
+0680 - Ace Lightning (E) 頭號閃電 歐 ACT 32M
+0681 - SSX Tricky (U) 疾風滑雪 多國 SPG 64M
+0682 - Hoshi no Kirby - Yume no Izumi Deluxe (J) 卡比之星-夢之泉蒂拉克絲 日 ACT 64M
+0683 - Tarzan Return to the Jungle (U) 泰山重返叢林 歐 ACT 64M
+0684 - WWE Road To Wrestlemania X8 (U) 美國摔角聯盟-爆裂摔角之路X8 歐 SPG 32M
+0685 - LEGO Bionicle Matoran Adventures (E) 樂高鬥牛士冒險 多國 ACT 32M
+0686 - Doom II (U) 毀滅戰士2 歐 FPS 128M
+0687 - Spyro 2 - Season of Flame (E) 寶貝龍2-火焰的季節 多國 ACT 64M
+0688 - Bomberman Jetters (J) 轟炸超人傑特斯 日 A‧RPG 64M
+0689 - Tales of the World - Narikiri Dungeon 2 (J) 傳說世界-換裝迷宮2 日 A‧RPG 64M
+0690 - Metroid Fusion (U) 銀河戰士 歐 ACT 64M
+0691 - Santa Claus Jr (E) 聖誕老人 歐 ACT 32M
+0692 - Barbie Secret Agent (U) 芭比秘密間諜 歐 ACT 32M
+0693 - Stuart Little 2 (F) 一家之鼠2 法 ACT 64M
+0694 - Megaman Battle Network 2 (E) 洛克人網路戰鬥2 歐 RPG 64M
+0695 - NHL Hitz 2003 (U) 曲棍球2003 歐 SPG 32M
+0696 - Gekido Advance - Kintaros Revenge (E) 究級截拳道 多國 ACT 64M
+0697 - Car Battler Joe (U) 激鬥！遙控車戰士JOE 歐 RPG 64M
+0698 - Deadly Skies (E) 致命的天空 多國 STG 32M
+0699 - Beast Shooter - Mezase Beast King (J) 鬥獸王 日 ECT 32M
+0700 - Silk to Cotton (J) 絲綢到棉花？ 日 RPG 64M
+0701 - Best Play Pro Yakyuu (J) 最佳職業棒球 日 SPG 32M
+0702 - Nan no Umi no Odyssey (J) 南之海的奧德賽  日 AVG 32M
+0703 - Monster Farm Advance 2 (J) 怪獸農場2 日 TCG 64M
+0704 - DiGi Charat DigiCommunication (J) 叮噹貓語錄-便利商店 日 SLG 64M
+0705 - Masters of the Universe HeMan - Power of Grayskull (U) 宇宙人希曼-灰色頭骨的力量 歐 ACT 64M
+0706 - Dungeons and Dragons - Eye of the Beholder (U) 龍與地下城-魔眼殺機 歐 RPG 32M
+0707 - Tony Hawks Pro Skater 4 (U) 湯尼霍克職業溜冰4 歐 SPG 64M
+0708 - Reign Of Fire (U) 火焰統治 多國 FPS 64M
+0709 - Pocky & Rocky with Becky (U) 奇奇怪界 歐 ACT 32M
+0710 - The Powerpuff Girls - Him and Seek (U) 飛天小女警-探索邪惡根源 歐 ACT 64M
+0711 - Dexters Lab - Chess Challenge (U) 德克斯特的實驗室-西洋棋挑戰賽 歐 TAB 32M
+0712 - Disneys Treasure Planet (U) 迪士尼之金銀島 歐 A‧RPG 64M
+0713 - Crazy Chase (U) 小丑奇兵 歐 ACT 32M
+0714 - Godzilla Domination (E) 酷斯拉怪獸大亂鬥 多國 FTG 32M
+0715 - Lord of the Ring - Fellowship of the Ring (E) 魔戒首部曲-魔戒現身 多國 RPG 64M
+0716 - Davis Cup (U) 戴維斯杯網球公開賽 多國 SPG 32M
+0717 - Lord Of The Rings - The Two Towers (U) 魔戒二部曲-雙城奇謀 多國 A‧RPG 128M
+0718 - Justice League - Injustice for All (U) 超人正義同盟 歐 ACT 128M
+0719 - Wer Wird Millionaer (G) 誰想做百萬富翁？ 德 TAB 32M
+0720 - Fairly Odd Parents Enter The Cleft (U) 正義雙親之過關斬將 歐 ACT 32M
+0721 - Harry Potter and the Chamber of Secrets (U) 哈利波特-消失的密室 多國 A‧RPG 64M
+0722 - Contra Advance - The Alien Wars EX (U) 魂斗羅-異形戰爭EX 歐 ACT 32M
+0723 - Frogger Adventure 2 - The Lost Wand (U) 青蛙冒險2-失落的權杖 多國 ACT 64M
+0724 - Kawaii Pet Shop Monogatari 3 (J) 卡哇伊寵物商店物語3 日 RPG 32M
+0725 - Smuggler』s Run (E) 逃跑走私犯賽車 多國 RCG 64M
+0726 - Powerpuff Girls - Him and Seek (E) 飛天小女警-探索邪惡根源 多國 ACT 64M
+0727 - Agassi Tennis Generation 2002 (E) 阿格西網球世代2002 多國 SPG 32M
+0728 - Zidane Football Generation 2002 (E) 席丹足球世代2002 多國 SPG 32M
+0729 - Defender (U) 防御者 歐 STG 32M
+0730 - Star Wars - The New Droid Army (U) 星際大戰前傳-新帝國軍隊 歐 ACT 64M
+0731 - Disney All Star Sports Soccer (U) 迪士尼明星運動會-足球 歐 SPG 128M
+0732 - Dan Doh Xi (J) 高爾夫小子 日 SPG 64M
+0733 - Tomb Raider The Prophecey (E) 古墓奇兵-預言 多國 AVG 64M
+0734 - The Mummy (E) 神鬼傳奇 多國 AVG 32M
+0735 - Contra Hard Spirits (J) 魂斗羅 ACT 32M
+0736 - FIFA 2003 (U) FIFA足球2003 SPG 32M
+0737 - Shin Megami Tensei - Devil Children Yami no Sho (J) 真女神轉生-暗之書 RPG 64M
+0738 - One Piece - Nanatsu Shima no Daihihou (J) 海賊王-七個島的大秘寶 AVG 64M
+0739 - The Pink Panther (E) 粉紅豹 ACT 64M
+0740 - The Revenge of Shinobi (U) 忍者的復仇 ACT 64M
+0741 - Rocky (U) 洛基拳擊 SPG 64M
+0742 - Korokke Yume no Bunker Survival (J) 口袋夢幻-夢幻飢餓生存術! 日 FTG 64M
+0743 - Hot Wheels Velocity X (U) 無敵風火輪-疾速賽車X 歐 RCG 64M
+0744 - Mary-Kate and Ashley - Sweet 16 (U) 瑪麗‧凱特和艾希莉-甜蜜16 歐 RCG 32M
+0745 - Rugrats - I Gotta Go Party (U) 小淘氣-我要參加宴會 歐 PUZ 32M
+0746 - Hamster Gurakubu 3 (J) 倉鼠物語3 日 TCG 64M
+0747 - Super Robot Taisen Original Generation (J) 超級機器人大戰OG 日 SLG 64M
+0748 - Monster Rancher Advance 2 (U) 怪獸農場2 歐 TCG 64M
+0749 - Island Xtreme Stunts (U) 樂高積木島極限特技賽車 多國 RCG 32M
+0750 - Galidor - Defenders of the Outer Dimension (U) 異次元防衛者 多國 ACT 32M
+0751 - Rocket Power - Beach Bandits (U) 急速動力-沙灘強盜 歐 ACT 32M
+0752 - The Wild Thornberrys - The Movie (U) 狂野叢林-電影 歐 PUZ 32M
+0753 - Mortal Kombat Deadly Alliance (U) 真人快打-致命同盟 多國 FTG 128M
+0754 - Shrek Hassle At The Castle (E) 史瑞克在城堡的激戰 多國 ACT 32M
+0755 - Metroid Fusion (E) 銀河戰士 多國 ACT 64M
+0756 - Shin Megami Tensei - Devil Children Hikari no Sho (J) 真女神轉生-惡魔之子光之書 日 RPG 64M
+0757 - Pokemon Sapphire (J) 神奇寶貝藍寶石 日 TCG 64M
+0758 - Dungeons and Dragons - Eye of the Beholder (E) 龍與地下城-魔眼殺機 多國 RPG 32M
+0759 - Napoleon - LAigle de Guerrre (F) 拿破侖 法 RTS 64M
+0760 - Pokemon Ruby (J) 神奇寶貝紅寶石 日 TCG 64M
+0761 - Fantastic Marchen - Keaki Okusan Monogatari (J) 蛋糕屋物語-動物心理學占卜 日 ECT 64M
+0762 - Scan Hunter (J) 掃瞄獵人-追擊千年怪魚 日 ECT 64M
+0763 - Super Monkey Ball Jr (U) 非常猴球 歐 PUZ 32M
+0764 - Tsukande! Mawashite! Dossun Pazuru Eggo Mania (J) 戰鬥蛋方塊 日 PUZ 32M
+0765 - Moto GP (J) GP摩托 日 SPG 32M
+0766 - Card Party (J) 卡片宴會 日 CAG 64M
+0767 - Silent Scope (J) 沉默的狙擊手 歐 FPS 64M
+0768 - Earthworm Jim 2 (E) 蚯蚓吉姆2 多國 ACT 64M
+0769 - Tarzan Return to the Jungle (F) 泰山重返叢林 法 ACT 64M
+0770 - Phantasy Star Collection (U) 夢幻之星123代合集 歐 RPG 64M
+0771 - Gauntlet Dark Legacy (U) 聖鎧傳說-暗黑遺產 歐 ACT 64M
+0772 - Disneys Kim Possible - Revenge of Monkey (U) 迪士尼麻辣女孩-猴子的復仇 歐 ACT 64M
+0773 - Minority Report (U) 關鍵報告 歐 ACT 64M
+0774 - Altered Beast - Guardians of the Realms (U) 獸王記-王國的守護者 歐 ACT 64M
+0775 - Kirby Nightmare In Dreamland (U) 卡比之星-夢之泉蒂拉克絲 歐 ACT 64M
+0776 - The Legend Of Zelda - Link To The Past (U) 薩爾達傳說-四把劍+諸神的力量 歐 A‧RPG 64M
+0777 - Disneys Treasure Planet (E) 迪士尼之星銀島 多國 ACT 64M
+0778 - Street Fighter Alpha 3 (E) 少年快打旋風3 歐 FTG 64M
+0779 - Titeuf - Ze Gagmachine (F) 壞小子 法 PUZ 32M
+0780 - Legends of Wrestling 2 (U) 角力傳說2 歐 SPG 64M
+0781 - Choro Q Advance 2 (J) Q版賽車2 日 SPG 32M
+0782 - Jikkyou World Soccer Pocket 2 (J) 實況世界足球口袋版 2 日 SPG 64M
+0783 - Medal of Honor Underground (U) 榮譽勳章 歐 FPS 64M
+0784 - Star Wars - The New Droid Army (E) 星際大戰前傳-新帝國軍隊 多國 ACT 64M
+0785 - Zapper (U) 蚱蜢Zapper 歐 PUZ 32M
+0786 - Carrera Power Slide (E) 動力滑行賽車 多國 RAC 32M
+0787 - Rockman Exe 3 (J) 洛克人EXE3  日 A‧RPG 64M
+0788 - Worms Blast (E) 百戰天蟲 多國 PUZ 64M
+0789 - Les Razmoket - A Moi La Fiesta (F) 小淘氣-我要參加宴會 法 PUZ 32M
+0790 - Qui Veut Gagner Des Millions (F) 誰想做百萬富翁？ 法 TAB 32M
+0791 - Hardcore Pinball (U) 無限彈珠台 歐 TAB 32M
+0792 - Ballistic Ecks Vs Sever 2 (E) 出奇制勝2-艾克斯VS瑟娃 多國 FPS 64M
+0793 - Turok Evolution (U) 恐龍獵人進化戰爭 歐 ACT 64M
+0794 - Dave Mirra Freestyle BMX 3 (U) 黛夫‧米亞自由式單車越野賽3 歐 SPG 64M
+0795 - Derby Stallion Advance (J) 達比賽馬 日 TCG 32M
+0796 - Kinnnikuman Nisei Seigi Choujin he no Michi (J) 金肉人Ⅱ世-正義超人之道 日  SPG 128M
+0797 - Harry Potter to Himitsu no Heya (J) 哈利波特-消失的密室 日 A‧RPG 64M
+0798 - Shaman King Chou Senjiryokketsu 3 (J) 通靈王-超‧占士略決3 日 CAG 128M
+0799 - Woody Woodpecker In Crazy Castle 5 (E) 啄木鳥伍迪闖瘋狂城堡 多國 AVG 32M
+0800 - Tir Et But (F) 指令足球 法 PUZ 32M
+0801 - Monster Maker 4 Flash Card (J) 怪獸製造者4-閃光卡片 日 RPG 64M
+0802 - Monster Maker 4 Kira Dice (J) 怪獸製造者4-骰子殺手 日 RPG 64M
+0803 - Darius R (J) 大流士戰機R 日 SPG 32M
+0804 - Magi Nation (J) 指輪傳奇 日 RPG 64M
+0805 - Klonoa Heroes - Densetsu no Star Medal (J) 克羅帝亞英雄們-傳說的星之徽章 日 A‧RPG 128M
+0806 - BattleBots - Beyond the Battlebox (U) 戰鬥機器-超越的戰鬥空間 歐 ECT 64M
+0807 - Hajime no Ippo - The Fighting (J) 幕之內一步-格鬥賽 日 SPG 64M
+0808 - Lunar Legend (U) 露娜傳奇-銀河之星 歐 RPG 64M
+0809 - Pinball Tycoon (U) 彈珠台大亨 歐 TAB 32M
+0810 - Monster Bass Fishing (U) 怪物巴斯釣魚 歐 ECT 32M
+0811 - I Spy Challenger! (U) 智力大挑戰 歐 PUZ 64M
+0812 - Disney All-Star Sports - Basketball (U) 迪士尼明星運動會-籃球 歐 SPG 128M
+0813 - Disney All-Star Sports - Skateboarding (U) 迪士尼明星運動會-滑板 歐 SPG 128M
+0814 - Disney All-Star Sports - American Football (U) 迪士尼明星運動會-橄欖球 歐 SPG 128M
+0815 - Sonic Advance 2 (J) 音速小子2 多國 ACT 128M
+0816 - Sega Rally Championship (J) 世嘉越野冠軍賽 日 RAG 64M
+0817 - Dora the Explorer - The Search for Pirate Pigs Treasure (U) 探險家朵拉-尋找海盜豬的財寶 歐 ACT 32M
+0818 - Karnaaj Racing (U) 戰鬥賽車 歐 RAG 64M
+0819 - The Invincible Iron Man (U) 鋼鐵人 歐 ACT 32M
+0820 - Acrobat Kid (J) 飛天蝙蝠 日 ACT 32M
+0821 - Uchuu Daisakusen Chocovader - Uchuu kara no Shinryakusha (J) 宇宙大作戰-異次元的侵略者 日 RPG 64M
+0822 - Toukon Heat (J) 鬥魂 日 ECT 64M
+0823 - Elevator Action - Old & New (J) 電梯大作戰-新版&舊版 日 ACT 64M
+0824 - Chocobo Land - Game de Dice (J) 陸行鳥大陸-骰子遊戲 日 PUZ 64M
+0825 - Cabelas Big Game Hunter (U) 獵鹿人 歐 ECT 64M
+0826 - Super Bubble Pop (U) 超級立體泡泡 歐 PUZ 32M
+0827 - Jazz Jackrabbit (U) 吵鬧的長耳大野兔 歐 ACT 32M
+0828 - Sea Trader - The Rise of Taipan (U) 商人之海-Taipan的繁榮 歐 SLG 32M
+0829 - The Revenge Of Shinobi (E) 忍者的復仇 多國 ACT 64M
+0830 - Ohanaya-San Monogatari (J) 花屋物語 日 TCG 64M
+0831 - Dual Blades (J) 雙刃 日 FTG 32M
+0832 - The King Of Fighters EX2 - Howling Blood (J) 格鬥天王EX2 日 FTG 64M
+0833 - Chi Vuol Essere Milionario (I) 誰想成為百萬富翁？ 意 TAB 32M
+0834 - Samurai Deeper Kyo (J) 鬼眼狂刀-京 日 ACT 64M
+0835 - Bobobohbo Bohbobo Ougi 87.5 Bakuretsu Hanage Shinken (J) 爆裂鼻毛真拳 日 ECT 64M
+0836 - Tennis no Ouji-sama - Aim at The Victory (J) 網球王子-志在勝利 日 AVG 128M
+0837 - Disneys Tarzan - Return to the Jungle (G) 泰山重返叢林 德 ACT 64M
+0838 - Bakuten Shoot Beyblade 2002 - Daichi Version (J) 爆轉陀螺2002激鬥賽-黃龍之章 日 S‧RPG 64M
+0838 - Bakuten Shoot Beyblade 2002 - Daichi Version (J) 爆轉陀螺2002激鬥賽-青龍之章 日 S‧RPG 64M
+0840 - Doki-doki Cooking Series 1 - Komugi-chan no Happy Cake (J) 烹飪系列1-快樂糕點 日 PUZ 64M
+0841 - Godzilla Domination (U) 酷斯拉怪獸大亂鬥 歐 FTG 32M
+0842 – Higanbana (J) 彼岸花 日 AVG 64M
+0843 - Inspector Gadget Racing (E) G型神探賽車 多國 RCG 32M
+0844 - F1 2002 (U) F1錦標賽2002 歐 RCG 32M
+0845 - Medabots metabee Version (E) 徽章戰士-藍蜂版 歐 S‧RPG 64M
+0846 - K-1 Pocket Grand Prix 2 (J) K-1口袋格鬥錦標賽2 日 FTG 64M
+0847 - Kururin Paradise (J) 滾滾棒天堂 日 PUZ 64M
+0848 - Crash Bandicoot 2 N-Tranced (U) 古惑狼大進擊2 歐 ACT 64M
+0849 - Die Monster AG (G) 怪獸電力公司 德 ACT 32M
+0850 - Kotoba no Puzzle Mojipittan Advance (J) 智力拼字 日 PUZ 64M
+0851 - Disneys The Jungle Book 2 (E) 迪士尼-森林王子2 多國 ACT 64M
+0852 - Little Buster Q (J) 小小剋星Q 日  RPG 64M
+0853 - Micro Machines (E) 微型賽車 多國  RCG 32M
+0854 - Digimon Battle Spirit (U) 數碼寶貝-鬥魂傳說 歐  FTG 32M
+0855 - Taxi 3 (F) 終極殺陣3 法  RCG 64M
+0856 - International Superstar Soccer (E) 國際超級明星足球 歐  SPG 64M
+0857 - Power Pro Kun Pocket 5 (J) 實況野球君口袋版5 日  SPG 64M
+0858 - Marie, Elie & Anis No Atelier - Soyokaze Kara No Dengon (J) 煉金術士-瑪麗 艾莉&安絲的工作室-風之傳言 日  RPG 64M
+0859 - Boulder Dash EX (J) 推石小子EX 日  PUZ 32M
+0860 - Inuyasha Naraku No Wana Mayoi No Mori No Shoutaijou (J) 犬夜叉-奈落之圈套！迷幻森林之請帖 日  ACT 64M
+0861 - Elemix! (J) 魔法冒險 日  ARPG 32M
+0862 - Daredevil (U) 夜魔俠 歐  ACT 32M
+0863 - GT Advanced 3 Pro Concept Racing (U) GT賽車3 歐  RCG 64M
+0864 - Minimoni Onegai Ohoshi-sama! (J) 迷你早安-落在山脊上的星星 日  AVG 64M
+0865 - Battle Netword Rockman EXE 3 Black (J) 洛克人EXE3-黑版 日  RPG 64M
+0866 - Final Fantasy Tactics Advance (J) 太空戰士戰略版 日  SLG 128M
+0867 - Yu-Gi-Oh! Dungeon Dice Monsters (U) 遊戲王-怪獸龍門骰 多國 SLG 64M
+0868 - Shining Soul (E) 光明之魂 多國  ARPG 64M
+0869 - International Karate Plus (E) 國際空手道大賽加強版 歐  SPG 32M
+0870 - Demon Driver (E) 魔鬼賽車手 歐  RCG 32M
+0871 - Super Dropzone (E) 超級月面地帶 歐  STG 32M
+0872 - Stadium Games (E) 田徑遊戲 歐  SPG 32M
+0873 - Strike Force Hydra (E) 決戰九頭蛇 歐  STG 32M
+0874 - World Tennis Stars (E) 世界明星網球賽 歐  SPG 32M
+0875 - Rayman 3 Hoodlum Havoc (E) 雷曼超人3-暴徒大破壞 多國  ACT 64M
+0876 - Iord of The Rings Futatsu no Tou (J) 魔戒二部曲-雙城奇謀 日  APRG 128M
+0877 - Metroid Fusion (J) 銀河戰士 日  ACT 64M
+0878 - Manga-ka Debut Monogatari (J) 漫畫家物語 日  TCG 32M
+0879 - Fushigi no Kuni no Alice (J) 愛麗絲夢遊仙境 日  TAB 32M
+0880 - Spyro Advance (J) 寶貝龍-冰凍的季節 日  ACT 64M
+0881 - Bubble Bobble - Old & New (E) 泡泡龍-新版&舊版 多國  PUZ 32M
+0882 - Mugenborg (J) 夢幻伯格 日  RPG 64M
+0883 - The Legend Of Zelda - A Link To The Past - Four Swords (E) 薩爾達傳說-時空隧道 多國  ARPG 64M
+0884 - Tennis no Oujisama 2003 Rassion Red (J) 網球王子2003-火紅版 日  SPG 128M
+0885 - Tennis no Oujisama 2003 Cool Blue (J) 網球王子2003-冰藍版 日  SPG 128M
+0886 - Total Soccer Advance (J) 冠軍足球 日  SPG 32M
+0887 - Lode Runner (J) 淘金人 日  PUZ 32M
+0888 - Butt Ugly Martians BKM Battles (E) 神勇火星人-反衝大作戰 多國  STG 32M
+0889 - All Star Baseball 2004 (U) 全美明星棒球2004 歐  SPG 64M
+0890 - Phantasy Star Collection (E) 夢幻之星合集 歐  RPG 64M
+0891 - Wings (U) 長空之翼 歐  STG 64M
+0892 - Wagamama Fairy Mirumo de Pon Ougon Maracas no Densetsu (J) 魔法咪路咪路-黃金響葫蘆的傳說 日  AVG 32M
+0893 - Zapper (E) 蚱蜢zapper 多國  PUZ 32M
+0894 - Virtua Tennis (E) 虛擬網球 多國  SPG 64M
+0895 - Tales of the World - Summoners Lineage (J) 世界傳說-召喚者之血統 日  SLG 64M
+0896 - TOCA World Touring Cars (E) 托卡世界環遊賽車 歐  RCG
+0897 - Eitangohen - 2000 Words (J) 高校受驗加強系列-英語單詞篇-2000字-紅版 日 ECT 64M
+0898 - Pokemon Saphire (U) 神奇寶貝藍寶石 歐  RPG 128M
+0899 - Street Fighter Alpha 3 (U) 少年快打旋風3 歐  FTG 64M
+0900 - The Legend Of Zelda Gods Triforce And Four Swords (J) 薩爾達傳說-眾神之三角力量和四支劍 日  ARPG 64M
+0901 - Tom and Jerry - Infurnal Escape (U) 湯姆和傑利-逃出地獄 歐  ACT 32M
+0902 - MegaMan & Bass (U) 洛克人與佛魯迪 歐  ARPG 64M
+0903 - Sega Rally Championship (U) 世嘉越野冠軍賽 歐  RCG 64M
+0904 - Defender (E) 防御者 多國 STG 32M
+0905 - Crash Bandicoot 2 N-Tranced (E) 古惑狼大進擊2 多國 ACT 64M
+0906 - Sonic Advance 2 (U) 音速小子2 多國 ACT 128M
+0907 - Pokemon Ruby (U) 神奇寶貝紅寶石 歐  RPG 128M
+0908 - Yu-Gi-Oh! Duel Monsters 8 (J) 遊戲王8-破滅之大邪神 日  RPG 128M
+0909 - Made in Wario (J) 壞莉歐工坊 日  PUZ 64M
+0910 - James Bond 007 - Nightfire (U) 詹姆士龐德007-夜之火 歐  FPS 64M
+0911 - Bratz (U) 貝茲娃娃-跳舞機 多國 ECT 32M
+0912 - Muppets - On With The Show (U) 芝麻街-演出開始啦！ 多國 PUZ 64M
+0913 - Piglets Big Game (U) 小豬大遊戲 歐  ACT 64M
+0914 - The Lost Vikings (E) 失落的維京人 多國 ACT 64M
+0915 - Dr. Muto (E) 瘋狂博士 多國 ACT 64M
+0916 - Sonic Advance 2 (E) 音速小子2 多國 ACT 128M
+0917 - Samurai Jack - The Amulet of Time (U) 日本武士傑克-時間之護身符 歐  ACT 64M
+0918 - MLB SlugFest 2004 (U) 美國職棒大聯盟2004 歐  SPG 32M
+0919 - One Piece - Mezase! King of Paris (J) 海賊王-目標！賞金之王！ 日  TAB 64M
+0920 - Daredevil (G) 夜魔俠 德 ACT 64M
+0921 - Bruce Lee - Return of the Legend (E) 李小龍-傳說中的英雄再現 歐  ACT 64M
+0922 - Animal Snap - Rescue them 2 by 2 (E) 動物方塊-拯救它們 歐  TAB 64M
+0923 - Ultimate Brain Games (U) 終極智力遊戲 歐  TAB 32M
+0924 - Sister Princess Re Pure (J) 妹妹公主 日  AVG 64M
+0925 - Castleween (E) 古堡幽靈 多國 ACT 64M
+0926 - Superman - Countdown to Apokolips (U) 超人-回到地球 歐  ACT 64M
+0927 - Super Puzzle Fighter II Turbo (E) 超級快打旋風方塊II  歐  TAB 64M
+0928 - Shimura Ken no Bakatonosama (J) 志村健之白癡殿下-爆笑天下統一遊戲 日  TAB 32M
+0929 - Inukko Club Fukumaru no Bouken (J) 小狗俱樂部-福丸之大冒險 日  ARPG 64M
+0930 - Dragon Quest Monsters - Caravan Heart (J) 勇者鬥惡龍怪物篇3-旅團之心 日  RPG 64M
+0931 - Jimmy Neutron vs. Jimmy Negatron (G) 天才小子吉米紐頓vs吉米尼賈登 德 ACT 32M
+0932 - Gremlins - Stripe Vs Gizmo (E) 菲比小精靈 多國 ACT 32M
+0933 - Shin Megami Tensei (J) 真．女神轉生 日  RPG 64M
+0934 - Quiere ser Millionario (S) 誰想成為百萬富翁 西班牙 TAB 32M
+0935 - Driver 2 Advance (U) 極道車魂2 歐  RCG 64M
+0936 - Ed, Edd n Eddy - Jawbreakers! (U) 搗蛋三傻-嘮叨的傢伙們 美  ACT 32M
+0937 - Super Monkey Ball Jr. (E) 超級猴球 歐  PUZ 64M
+0938 - Santa Claus Saves the Earth (E) 聖誕老人救地球 歐  ACT 32M
+0939 - Medabots - Rokusho Version (E) 徽章戰士-六書版 歐  RPG 64M
+0940 - Golden Sun 2 - The Lost Age (U) 黃金的太陽2-失落的時代 歐  RPG 128M
+0941 - Ninja Cop (E) 忍者刑警 歐  ACT 32M
+0942 - Disney Princess (U) 迪士尼公主 歐  ACT 64M
+0943 - Bomberman Max 2 Blue (E) 轟炸超人MAX2-藍版 多國 ACT 128M
+0944 - Bomberman Max 2 Red (E) 轟炸超人MAX2-紅版 多國 ACT 128M
+0945 - Whistle (J)  哨聲響起 日  TCG+SPG 64M
+0946 - Aozoora to Nakamatachi - Yume no Bouken (J) 夢之冒險 日  ACT 32M
+0947 - Hamtaro - Ham-Ham Heartbreak (U) 哈姆太郎3-戀愛大冒險 歐  AVG 64M
+0948 - Crazy Taxi - Catch a Ride (U) 瘋狂計程車 歐  RCG 64M
+0949 - Daredevil (E) 夜魔俠 多國 ACT 32M
+0950 - Freestyle Scooter (E) 極限時髦滑板車 歐  SPG 32M
+0951 - Mortal Kombat Advance (E) 真人快打 歐  FTG 64M
+0952 - Dancing Sword (J) 舞之刃-閃光 日  ACT 64M
+0953 - The Lost Vikings (U) 失落的維京人 歐  ACT 32M
+0954 - Yu-Gi-Oh! Worldwide Edition (E) 遊戲王6-國際加強版 多國 CAG 128M
+0955 - X-Men 2 - Wolverines Revenge (U) X戰警2-狼人之復仇 歐  ACT 64M
+0956 - Bokujou Monogatari - Mineral Town no Nakama Tachi (J) 牧場物語-礦石鎮的夥伴們 TCG+RPG 64M
+0957 - Exciting Bass (J) 刺激釣魚 日  ECT 64M
+0958 - Pink Panther Pinkadelic Pursuit (U) 粉紅豹 歐  ACT 64M
+0959 - Sengoku Kakumei Gaiden (J) 戰國革命外傳 日  ARPG 64M
+0960 - Medarot 2 Core Kabuto Version (J) 徽章戰士2-甲冑版 日  RPG 64M
+0961 - Colin McRea Rally 2 (U) 越野菁英賽2 多國 RCG 32M
+0962 - SLOT!PRO 2 Advance GoGo Juggler (J) 專業柏青嫂遊戲2-走開騙子 日  PUZ 32M
+0963 - Sylvania Family 4 (J) 森林之家4 日  AVG 64M
+0964 - Japan Pro Mahjong Tetsuman Advance (J) 日本職業麻將-徹萬 日  TAB 64M
+0965 - Watashi No Make Salon (J) 我的彩粧世界 日  SLG 32M
+0966 - Disney Sports Basketball (J) 迪士尼明星運動會-籃球 日  SPG 128M
+0967 - Eigo Kobuhen Eijukugo Hen 650 Phrases Blue Edition (J) 高校受驗系列-英熟語語篇-650片語收錄 日  ETC 64M
+0968 - Zoids Saga II (J) 機獸新世紀2 日  RPG 64M
+0969 - Kisekko Gurumi (J) 魔法之冒險 日  AVG 64M
+0970 - Medarot 2 Core - Kuwagata Version (J) 徽章戰士2-鍬型蟲版 日  RPG 64M
+0971 - Shin Nihon Pro Wrestling Toukon Retsuden Advance (J) 新日本職業摔角-鬥魂烈傳 日  SPG 64M
+0972 - Simple 2960 Tomodachi Series Vol. 2 - The Block Kuzushi (J) 簡單2960朋友系列第二集-彩虹方塊 日 PUZ 32M
+0973 - Bass Tsuri Shiyouze (J) 釣鱸巡迴賽！奪標就是戰略！ 日  AVG＋SPG 64M
+0974 - Tomb Raider - The Prophecy (J) 古墓奇兵-預言 日  ACT 64M
+0975 - Fancy Pocket (J) 口袋精品店 日  SLG 32M
+0976 - Oshare Princess 2 And Doubutsu Kyaranabi (J) 俏皮公主2和動物占卜 日  PUZ＋TAB 64M
+0977 - Superman - Countdown to Apokolips (E) 超人-回到地球 多國 ACT 64M
+0978 - Sega Rally Championship (E) 世嘉越野冠軍賽 歐 RCG 64M
+0979 - Fire Emblem - Rekka no Ken (J) 聖火降魔錄-烈火之劍 日  SRPG 128M
+0980 - Summon Night (J) 召喚之夜-鑄劍物語 日 RPG 64M
+0981 - RPG Tsukuru Advance (J) RPG工具 日  RPG 64M
+0982 - The Sum of All Fears (U) 反恐總攻 多國 RTS 64M
+0983 - Hunter X Hunter - Minna Tomodachi Daisakusen (J) 獵人X獵人-熱血友情大作戰 日 RPG 128M
+0984 - X-Men 2 - La vengeance de Wolverine (F) X戰警2-狼人之復仇 法  ACT 64M
+0985 - Rayman 3 - Hoodlum Havoc (U) 雷曼超人3-暴徒大破壞 多國 ACT 64M
+0986 - Azumanga Daioh Advance (J) 阿滋漫畫大王 日  AVG 64M
+0987 - Disney Sports Motocross (U) 迪士尼明星運動會-越野摩托 歐 SPG 128M
+0988 - Bouken Yuuki Plaston GP (J) 冒險遊記GP賽車 日  RCG 64M
+0989 - Zero One (J) 對與錯 日  AVG 128M
+0990 - RockMan Zero 2 (J) 洛克人ZERO2 日  ACT 64M
+0991 - Simple 2960 Vol. 1 - The Table Game Collection (J) 簡單2960朋友系列第一集-桌上遊戲合集 日  TAB 32M
+0992 - Lego Drome Racers (E) 樂高瘋狂賽車 歐  RCG 64M
+0993 - Tom Clancy's Splinter Cell (U) 湯姆特蘭西：間諜遊戲 多國 ACT 64M
+0994 - Naruto (J) 火影忍者-忍術全開！最強忍者大結集 日  ACT 64M
+0995 - Super Puzzle Fighter II (U) 超級快打旋風方塊2 歐  PUZ 64M
+0996 - Castlevania - Minuet Of Dawn (J) 惡魔城-曉月之圓舞曲 日 ARPG 64M
+0997 - Castlevania - Aria of Sorrow (E) 惡魔城-悲傷之詠歎調 多國ARPG 64M
+0998 - Lufia The Ruins Of Lore (U) 四狂神戰記外傳-沉默的遺跡 歐  RPG 64M
+0999 - Castlevania - Aria of Sorrow (U) 惡魔城-悲傷之詠歎調 歐 ARPG 64M
+1000 - Medal of Honor - Underground (E) 榮譽勳章 多國 FPS 64M
+1001 - Tom and Jerry in Infurnal Escape (E) 湯姆和傑利-逃出地獄 多國 ACT 64M
+1002 - Yu-Gi-Oh! Duel Monsters International (J) 遊戲王-怪獸決鬥國際特別版 多國CAG 128M
+1003 - Sutekina Obentou (J) 烹飪系列2－美食家之廚房 日  SLG 64M
+1004 - Finding Nemo (U) 海底總動員-尋找尼莫 歐 ACT 64M
+1005 - Wario Ware Inc (U) 壞莉歐工坊 歐  PUZ 64M
+1006 - Matchbox Cross Town Heroes (E) 救火英雄 歐  RCG 32M
+1007 - Spirit - Stallion of the Cimarron (G) 小馬王 德 ACT 32M
+1008 - Finding Nemo (G) 海底總動員-尋找尼莫 德 ACT 64M
+1009 - Iridion II (U) 伊芳登戰機2 歐  STG 64M
+1010 - Iridion II (E) 伊芳登戰機2 多國 STG 64M
+1011 - Buffy The Vampire Slayer - Return of the Dark King (G) 吸血鬼殺手巴菲-返回黑暗世界 德 ACT 32M
+1012 - Wario Ware Inc (E) 壞莉歐工坊 多國 PUZ 64M
+1013 - Donkey Kong Country (E) 超級大金剛 多國 ACT 64M
+1014 - Sega Arcade Gallery (E) 世嘉街機經典集 多國 ECT 64M
+1015 - Britneys Dance Beat (E) 小甜甜布蘭妮之舞蹈節拍 多國ECT 64M
+1016 - Weekend Miljonairs (Nl) 誰想成為百萬富翁  TAB 32M
+1017 - Bratz (E) 貝茲娃娃-跳舞機 多國 ECT 32M
+1018 - Agassi Tennis Generation (U) 阿格西網球世代 歐  SPG 32M
+1019 - Yu-Gi-Oh! Worldwide Edition - Stairway to the Destined Duel (U) 遊戲王國際特別版 歐  CAG 128M
+1020 - Disney Sports Skateboarding (E) 迪士尼明星運動會-滑板 多國 SPG 128M
+1021 - Disney Sports Football (E) 迪士尼明星運動會-足球 多國 SPG 128M
+1022 - Midnight CLub Street Racing (E) 港灣深夜俱樂部-街頭狂飆 多國 RCG 32M
+1023 - Tottoko Hamutaro 4 - Nijiiro Daikoushin Dechu (J) 哈姆太郎4-彩虹救援大作戰 日  AVG 64M
+1024 - Disney Sports Snowboarding (E) 迪士尼明星運動會-滑雪 多國 SPG 128M
+1025 - ChessMaster (U) 國際西洋棋大師 歐  TAB 32M
+1026 - Spirit - Stallion Of The Cimarron (E) 小馬王 歐  ACT 32M
+1027 - Hamster Monogatari 3 (J) 倉鼠物語3 日  AVG 64M
+1028 - Woody Woodpecker - Crazy Castle 5 (J) 啄木鳥伍迪勇闖瘋狂城堡5 日  ACT 64M
+1029 - Okaitoku Series 5 - Puzzle & Tantei Collection (J) 方塊和偵探遊戲合集 日  ECT 64M
+1030 - Getbackers Dakkanoku - Metropolis Dakkan Sakusen (J) 閃靈二人組-首都奪還作戰 日  RPG 64M
+1031 - Tony Hawks Pro Skater 3 (G) 湯尼霍克職業滑板3 德 SPG 64M
+1032 - Pro Beach Soccer (E) 職業沙灘足球 多國 SPG 128M
+1033 - The Incredible Hulk (U) 綠巨人浩克 歐  ACT 64M
+1034 - Wing Commander Prophecy (U) 銀河飛將-預言 歐  AVG+STG 32M
+1035 - Bouken Yuuki Densetsu Plaston Gate (J) 冒險遊記-未發現之傳說 日  RPG 64M
+1036 - Rugrats Go Wild (U) 小淘氣-野外歷險記 歐  ACT 32M
+1037 - Medabots AX - metabee Version (E) 徽章戰士AX-藍蜂版 多國 FTG 64M
+1038 - Zen-Nippon Shounen Soccer Taikai 2 - Mezase Nippon-ichi! (J) 全日本少年足球大會2-目標日本第一！ 日  SPG 64M
+1039 - Scooby Doo - Das Spiel zum Film (G) 史酷比鬼屋歷險-動畫圖片 德 AVG 32M
+1040 - GT Advanced 3 Pro Concept Racing (E) GTA3概念賽車 歐  RCG 64M
+1041 - Sonic Pinball Party (U) 音速小子彈珠派對 多國 PUZ 64M
+1042 - Spider-Man - Der Film (G) 蜘蛛人-電影版 德 ACT 64M
+1043 - Tom Clancys Splinter Cell (E) 湯姆特蘭西-間諜遊戲 多國 ACT 64M
+1044 - Fortress (E) 堡壘 歐  ACT 32M
+1045 - Wolfenstein 3D (E) 3D德軍總部 歐  FPS 64M
+1046 - MegaMan & Bass (E) 洛克人與佛魯迪 歐 ACT 64M
+1047 - Gekitou Densetsu Noah - Dream Management (J) 激鬥傳說拳擊-夢幻經理人 日  SLG 64M
+1048 - Ultimate Muscle: The Path of the Superhero (U) 金肉人二世-正義超人之道 歐  FTG 128M
+1049 - The Incredible Hulk (E) 綠巨人浩克 多國 ACT 64M
+1050 - Wakeboarding Unleashed (U) 極限水上滑板 SPG
+1051 - Angel Collection (J) 天使的收藏品 日
+1052 - Mahou No Pumpkin (J) 魔法南瓜頭 日 ACT
+1053 - Crazy Taxi - Catch A Ride (E) 瘋狂計程車 多國 RCG 64M
+1054 - Froggers Adventure 2 - The Lost Wand (E) 青蛙冒險2-失落的魔棒 多國 ACT 64M
+1055 - Donkey Kong Country (U) 超級大金剛 歐  ACT 64M
+1056 - Dragon Ball Z - Legacy of Goku II (E) 七龍珠Z-悟空傳說2 多國 ARPG 64M
+1057 - Sega Smash Pack (E) 世嘉街機遊戲合集 歐  ETC 64M
+1058 - Disney Sports Motocross (J) 迪士尼明星運動會－越野摩托 日 RCG 128M
+1059 - Disney Sports Snowboarding (J) 迪士尼明星運動會－滑雪板 日 SPG 128M
+1060 - Advance Wars 2 - Black Hole Rising (U) 高級戰爭2-黑洞的升起 歐  SLG 64M
+1061 - Little League Baseball 2002 (U) 小聯盟棒球2002 多國SPG 64M
+1062 - Ninja Five 0 (U) 忍者刑警 歐  ACT 32M
+1063 - Monster Gate 2 Dai Inaru Dungeon (J) 怪獸之門2 日  ARPG 64M
+1064 - Eggo Mania (E) 戰鬥蛋方塊 多國 PUZ 32M
+1065 - Stuntman (E) 特技人 多國 ACT 32M
+1066 - BattleBots - Beyond the Battlebox (E) 戰鬥機器-超越的戰鬥空間 多國 ACT 64M
+1067 - Disney Sports Basketball (E) 迪士尼明星運動會-籃球 多國 SPG 128M
+1068 - Disney Sports Motocross (E) 迪士尼明星運動會-越野摩托 多國RCG 128M
+1069 - Mother 1+2 (J) 地球冒險1+2 日  RPG 128M
+1070 - metal Max 2 Kai (J) 坦克戰記2改 日  RPG 32M
+1071 - Space Channel 5 - Ulalas Cosmic Attack (U) 太空頻道5-舞啦啦的炫耀攻擊 歐  ETC 64M
+1072 - Lego Drome Racers (U) 樂高瘋狂賽車 歐  RCG 64M
+1073 - The King of Fighters EX2 - Howling Blood (U) 格鬥之王EX2-咆哮之血 歐  FTG 64M
+1074 - Justice League - Injustice for All (E) 美國超人正義聯盟 多國 ACT 64M
+1075 - Hamtaro - Ham-Ham Heartbreak (E) 哈姆太郎3-戀愛大冒險 多國 AVG 64M
+1076 - Rock n Roll Racing (U) 搖滾賽車 歐  RCG 32M
+1077 - Pirates of the Caribbean - The Curse of the Black Pearl (U) 神鬼奇航 歐  ACT 64M
+1078 - MegaMan Battle Network 3 Blue Version (U) 洛克人戰鬥網絡3-藍版 歐  RPG 64M
+1079 - Punch King (E) 擊倒王 多國 SPG 64M
+1080 - Megaman Battle Network 3 White Version (U) 洛克人網路戰鬥3-白版 歐  RPG 64M
+1081 - Stuntman (U) 特技人 多國 RCG 32M
+1082 - Jet Grind Radio (U) 噴射小子-街頭塗鴉 歐  ACT 64M
+1083 - The Simpsons Road Rage (U) 辛普森瘋狂大道 歐  RCG 64M
+1084 - Buffy The Vampire Slayer (U) 吸血鬼殺手巴菲 歐  ACT 32M
+1085 - Dragon Ball Z - Legacy of Goku II (U) 七龍珠Z-悟空傳說2 歐  ARPG 64M
+1086 - Disney Princess (G) 迪士尼公主 德 ACT 64M
+1087 - Frogger Mahou no Kuni no Daibouken (J) 青蛙冒險-魔法國的大冒險 日  ACT 64M
+1088 - Hachimon (J) 八佑衛門 日  ACT 32M
+1089 - Hamster Monogatari Collection (J) 倉鼠物語合集 日  SLG 64M
+1090 - Boku No Kuwagata 3 (J) 全民飼育系列3-我的盔甲‧刀飾 日  AVG 64M
+1091 - F1 2002 (E) F1方程式賽車2002 多國 RCG 32M
+1092 - Pokemon Saphir (G) 神奇寶貝藍寶石 德 RPG 128M
+1093 - Super Mario Advance 4 (J) 超級瑪莉歐4 日  ACT 32M
+1094 - Spy Kids 3-D - Game Over (U) 小鬼大間諜 3 歐  ACT 64M
+1095 - Tootuff - The Gagmachine (E) 搞怪小子迪德夫 多國 ACT 32M
+1096 - Disneys Magical Quest 2 (J) 迪士尼米奇與米妮的魔法冒險2 日  ACT 32M
+1097 - Croket 2 Kindan No Bank To Banjyu (J) 口袋夢幻2-黑暗島的賭場女王 日  ACT 128M
+1098 - Nakayoshi Pet Advance Series 4 (J) 物伴侶系列四-可愛迷你狗 日  TCG 32M
+1099 - Get ! Boku no Mushitsu (J) 我的捕蟲日記 日  AVG 64M
+1100 - Hamster Paradise Pure Heart (J) 倉鼠樂園-赤子之心 日  TCG 64M
+1101 - Wing Commander Phrophecy (E) 銀河飛將-預言 多國 AVG＋STG 32M
+1102 - Bokura no Taiyo (J) 我們的太陽 日  ARPG 128M
+1103 - Sonic Pinball Party (J) 音速小子彈珠派對 多國 TAB 64M
+1104 - Pokemon Rubino (I) 神奇寶貝紅寶石 意  RPG 128M
+1105 - Pokemon Zaffiro (I) 神奇寶貝藍寶石 意  RPG 128M
+1106 - Pokemon Rubin (G) 神奇寶貝紅寶石 德 RPG 128M
+1107 - Onimusha Tactics (J) 鬼武者戰略版  SRPG 64M
+1108 - Hamster Club 4 (J) 倉鼠俱樂部4 日  TCG 64M
+1109 - Pokemon Zafiro (S) 神奇寶貝藍寶石 西班牙 RPG 128M
+1110 - Pokemon Rubi (S) 神奇寶貝紅寶石 西班牙 RPG 128M
+1111 - Pokemon Saphir (F) 神奇寶貝藍寶石 法  RPG 128M
+1112 - Dragon Drive (J) 馭龍少年-群雄爭霸 日  RPG 64M
+1113 - Shining Soul II (J) 光明之魂2 日  ARPG 128M
+1114 - Pokemon Rubis (F) 神奇寶貝紅寶石 法  RPG 128M
+1115 - Disneys Aladdin (J) 迪士尼-阿拉丁 日  ACT 32M
+1116 - CT Special Forces 2 (E) CT特種部隊2-重回地獄 多國 ACT 64M
+1117 - Tales of Phantasia (J) 時空幻境 日  RPG 64M
+1118 - Pokemon Pinball - Ruby & Saphirre (J) 神奇寶貝彈珠台-紅寶石和藍寶石 日  TAB 64M
+1119 - Detective Conan (J) 名偵探柯南-被狙擊的偵 日  AVG 64M
+1120 - Super Robot Taisen D (J) 超級機器人大戰D 日  SRPG 64M
+1121 - Rockman EXE Battlechip GP (J) 洛克人EXE-戰鬥晶片GP  日  FRPG 64M
+1122 - TopGear Rally SP (J) 超越顛峰越野賽SP 日  RCG 32M
+1123 - Card e-Reader + (J) 卡片讀取機＋ 日  ETC 64M
+1124 - Shin Megami Tensei - Devil Children - Puzzle de Call (J) 真女神轉生-惡魔之子-益智大對決 日  PUZ 32M
+1125 - Expedition Der Stachelbeeren Zoff Im Zoo (G) 狂野叢林-獵殺黑猩猩 德 ACT 32M
+1126 - Shrek Reekin Havoc (U) 史瑞克-臭氣浩劫 多國 ACT 64M
+1127 - Cyberdrive Zoids (J)  網絡機獸新世紀 日  RPG 64M
+1128 - Duel Masters (J) 卡牌決鬥高手 日  CAG 64M
+1129 - Genso Maden Saiyuki (J) 幻想魔傳最遊記-叛逆的鬥神太子 日  AVG 64M
+1130 - Wannyan Doubutsu Byouin (J) 動物病院-動物醫生育成遊戲 日  TCG 32M
+1131 - Madden NFL 2004 (U) 馬頓美式橄欖球2004 歐  SPG 32M
+1132 - Monster Truck Madness (U) 怪物卡車賽 歐  RCG 32M
+1133 - Digimon Battle Spirit (E) 數碼寶貝-鬥魂傳說 多國 FTG 32M
+1134 - Rock N Roll Racing (E) 搖滾賽車 歐  RCG 32M
+1135 - Pokemon Pinball Ruby and Sapphire (U) 神奇寶貝彈珠台-紅寶石和藍寶石 歐  TAB 64M
+1136 - Shinyaku Seiken Densetsu (J) 新約聖劍傳說 日  RPG 128M
+1137 - Boboboubo Boubobo 2 (J) 爆裂鼻毛傳說-真拳勝負2 日  FRPG 64M
+1138 - Mortal Kombat - Tournament Edition (U) 真人快打-格鬥大賽 多國 FTG 128M
+1139 - Disneys Magical Quest 2 Starring Mickey and Minnie (E) 迪士尼米奇與米妮的魔法冒險2 多國 ACT 32M
+1140 - Rescue Heroes Billy Blazes (U) 救火英雄-比利布蘭茲 歐  ACT 32M
+1141 - Final Fantasy Tactics Advance (U) 太空戰士戰略版 歐  SRPG 128M
+1142 - Disneys Extreme Skate Adventure (U) 迪士尼終極滑板冒險 歐  ACT 64M
+1143 - Densetsu no Stafy 2 (J) 傳說的斯塔菲2 日  ACT 128M
+1144 - Get Backers - Dakkanoku Jagan Fuuin (J) 閃靈二人組-邪眼封印 日  RPG 128M
+1145 - Freekstyle (U) 狂飆機車 歐  RCG 64M
+1146 - Rocket Power - Zero Gravity Zone (U) 勁力滑版-無重力地帶 歐  SPG 64M
+1147 - Power Rangers Ninja Storm (U) 金剛戰士-忍者風暴 歐  ACT 32M
+1148 - Starsky And Hutch (E) 極速雙雄 多國 RCG 32M
+1149 - Gem Smashers (U) 寶石擊碎者 歐  PUZ 32M
+1150 - Denki Blocks (U) 電擊方塊 多國 PUZ 32M
+1151 - Naruto - Konoha Senki (J) 火影忍者-木葉戰記 日  SLG 64M
+1152 - Bionicle The Game (U) 生化戰士之惡魔 歐  ACT 64M
+1153 - Scooby Doo Mystery Mayhem (U) 史酷比鬼屋歷險-神秘事件 歐  ACT 32M
+1154 - Banjo Kazooie Gruntys Revenge (U) 哥倆好大進擊-格朗帝的復仇 歐  ACT 64M
+1155 - Golden Sun - Die Vergessene Epoche (G) 黃金的太陽2-失落之時代 德 RPG 128M
+1156 - Advance War 2 (E) 高級戰爭2-黑洞的升起 多國 SLG 64M
+1157 - Oshare Princess 3 (J) 俏皮公主3 日  TCG 64M
+1158 - Polly Pocket Super Splash Island (E) 波莉的美人魚島 歐  ACT 32M
+1159 - Disney Extreme Skate Adventure (E) 迪士尼極限滑板 歐  ACT 64M
+1160 - Mr Nutz (E) 松鼠大冒險 歐 ACT 32M
+1161 - Boktai - The Sun is in Your Hand (U) 我們的太陽 歐 ARPG 128M
+1162 - Golden Sun 2 - La Edad Perdida (S) 黃金太陽2-失落的時代 西班牙 RPG 128M
+1163 - Golden Sun 2 - Lage perdu (F) 黃金太陽2-失落的時代 法  RPG 128M
+1164 - Shin Kisekae Monogatari (J) 新換裝物語 日  AVG 64M
+1165 - Ojaru Maru - Gekkou Machi Sanpo de Ojaru (J) 丸少爺-來月光町散步 日 ACT 128M
+1166 - Doubutsu no Shima no Chobi Gurumi (J) 可愛動物島 日  ETC 128M
+1167 - Disneys Party (U) 迪士尼派對 多國 ACT 128M
+1168 - Blackthorne (U) 狠將奇兵 歐 ACT 32M
+1169 - Tantei Gakuen Q - Meitantei ha Kimi da! (J) 偵探學園Q-你就是名偵探！ 日 AVG 128M
+1170 - Shin Megami Tensei - Devil Children 2 - Koori no Sho (J) 真女神轉生-惡夢之子-冰之書 日 RPG 64M
+1171 - Shin Megami Tensei - Devil Children 2 - Honoo no Sho (J) 真女神轉生-惡魔之子-炎之書 日 RPG 64M
+1172 - Barbie Horse Adventures (U) 芭比的騎馬冒險 歐  ACT 32M
+1173 - Road Rash Jailbreak (U) 暴公路霸王機車賽 歐  RCG 32M
+1174 - The Simpsons Road Rage (E) 辛普森家庭賽車 多國 RCG 64M
+1175 - Golden Sun 2 - LEra Perduta (I) 黃金太陽2-失落的時代 意  RPG 128M
+1176 - Koinu to Issho - Aijou Monogatari (J) 與小狗在一起-愛情物語 日  SLG 128M
+1177 - Action Replay GBX (F) GBA金手指工具 法 ETC 8M
+1178 - Disneys Piglets Big Game (E) 小豬大遊戲 多國 ACT 64M
+1179 - Kirby - Nightmare In Dream Land (E) 卡比之星-夢之泉蒂拉克絲 多國 ACT 128M
+1180 - Jimmy Neutron Jet Fusion (U) 天才小子吉米-噴射熔化 歐  ACT 32M
+1181 - Les Razmoket rencontrent les Delajungle (F) 小淘氣-叢林歷險記 法  ACT 32M
+1182 - Digimon Battle Spirit 2 (U) 數碼寶貝-鬥魂傳說2 多國 FTG 32M
+1183 - Battlebots - Design And Destroy (U) 戰鬥機器人-創造和毀滅 歐  ACT 32M
+1184 - Jurassic Park - Institute Tour (J) 侏羅紀公園創立旅行 日 ACT 64M
+1185 - Oddworld - Munchs Oddysee (U) 奧蒂世界-奧蒂的咀嚼 歐  ACT 64M
+1186 - Boulder Dash EX (E) 推石小子EX 多國 PUZ 32M
+1187 - MegaMan Battle Network 3 White (E) 洛克人戰鬥網絡3-白版 歐  RPG 64M
+1188 - Zettaizetsumei Dangerous Jiisan - Shijou Saikyou no Dogeza (J) 走投無路危險爺爺-史上最強之土下座 日 ACT 64M
+1189 - Shin Megami Tensei 2 (J) 真女神轉生2 日  RPG 64M
+1190 - Super Mario Advance 4 - Super Mario Bros 3 (E) 超級瑪莉歐4 多國 ACT 64M
+1191 - The Hobbit (E) 魔戒前傳-哈比人歷險記 多國 ARPG 64M
+1192 - Battle X Battle - Kyoudai Ou Densetsu (J) 戰鬥X戰鬥-巨大魚傳說 日  SLG 64M
+1193 - Pirates of the Caribbean - The Curse of the Black Pearl (E) 神鬼奇航 多國 ACT 64M
+1194 - Final Fantasy Tactics Advance (E) 太空戰士戰略版 多國RSLG 128M
+1195 - Disneys Lion King 1.5 (U) 迪士尼獅子王1.5 歐  ACT 64M
+1196 - Blackthorne (E) 狠將奇兵 歐  ACT 32M
+1197 - Quad Desert Fury (U) 沙漠狂暴人競技賽 歐  RCG 32M
+1198 - Namco Museum (E) 拿姆科博物館 歐  ETC 32M
+1199 - Backyard Hockey (U) 後院兒童曲棍球賽 歐  SPG 32M
+1200 - Crouching Tiger Hidden Dragon (U) 臥虎藏龍 多國 ACT 64M
+1201 - Demikids - Dark Version (U) 真女神轉生-惡魔之子-暗之書  歐  RPG 64M
+1202 - Demikids - Light Version (U) 真女神轉生-惡魔之子-光之書 歐  RPG 64M
+1203 - Barbie Horse Adventures (E) 芭比騎馬冒險 多國 ACT 32M
+1204 - Megaman Battle Network 3 Blue (E) 洛克人戰鬥網絡3-藍版 歐  RPG 64M
+1205 - Mermaid Melody - Pichi Pichi Pitch (J) 真珠美人魚-人魚的旋律 日 ETC 128M
+1206 - Bomberman Jetters Game Collection (J) 轟炸超人傑達斯-遊戲競技 日 ACT 64M
+1207 - Megaman Zero 2 (U) 洛克人Zero2 美  ACT 64M
+1208 - Tak And The Power of JuJu (U) 塔克與威力符咒 ACT 64M
+1209 - Wagamama Fairy Mirumo De Pon Taisen Mahoudrama (J) 魔法咪路咪路!-對戰魔法氣泡 日 PUZ 64M
+1210 - Kawaii Pet Game Gallery (J) 可愛小狗遊戲集合 日 TAB 64M
+1211 - Matantei Loki Ragnarok (J) 魔法偵探傳奇-幻想之魔境 日 AVG 32M
+1212 - Super Mario Advance 4 - Super Mario Bros 3 (U) 超級瑪莉歐4 歐 ACT 32M
+1213 - Teenage Mutant Ninja Turtles (U) 忍者龜 歐  ACT 64M
+1214 - Oriental Blue - Ao no Tengai (J) 天外魔境-青天之外 日  RPG 128M
+1215 - Power Rangers Ninja Storm (E) 金剛戰士-忍者風暴 多國 ACT 32M
+1216 - Banjo Kazooie Gruntys Revenge (E) 班哥倆好大進擊-格朗帝的復仇 多國 ACT 64M
+1217 - Legend of Dynamic - Goushouden (J) 豪翔傳-崩界輪舞曲 日  RPG 64M
+1218 - Super Duper Sumos (U) 超級笨蛋相撲手 歐  ACT 32M
+1219 - Bionicle The Game (E) 生化戰士之惡魔 多國 ACT 64M
+1220 - Disney Princess (F) 迪士尼公主 法  ACT 64M
+1221 - Lizzie McGuire - On The Go! (U) 平民天后 歐  ACT 32M
+1222 - Top Gear Rally (E) 超越顛峰越野賽 多國 RCG 64M
+1223 - Batman Rise of Sin Tzu (U) 蝙蝠俠-辛特組的復活 多國 ACT 64M
+1224 - Disneys The Lion King (E) 獅子王 多國 ACT 64M
+1225 - Spyro Attack of the Rhynocs (U) 寶貝龍-瑞諾西斯的攻擊 歐  ACT 64M
+1226 - Tony Hawks Underground (U) 湯尼霍克滑板高手之地下滑板 歐  SPG 64M
+1227 - Operation Armored Liberty (U) 反擊﹗捍衛自由 歐  STG 32M
+1228 - Megaman Zero 2 (E) 洛克人ZERO2 歐  ACT 64M
+1229 - Froggers Journey - The Forgotten Relic (U) 青蛙冒險-古文明之謎 歐  ACT 32M
+1230 - Top Gear Rally (U) 超越顛峰越野賽 歐  RCG 32M
+1231 - Harry Potter - Quidditch World Cup (U) 哈利波特-魁地奇世界杯 多國 SPG 64M
+1232 - Prince of Persia - The Sands of Time (U) 波斯王子-時之砂 多國 ACT 64M
+1233 - Sponge Bob Square Pants Battle for Bikini Bottom (U) 超級海綿寶寶大冒險-比基尼島的冒險 歐  ACT 64M
+1234 - Hugo Bukkazoom (E) 雨果-瓢蟲賽車 多國 RCG 32M
+1235 - Fire Emblem (U) 聖火降魔錄-烈火之劍 歐  SRPG 128M
+1236 - 1236 - Lord of the Rings - The Return of the King (U) 魔戒三部曲-王者再臨 多國 ARPG 128M
+1237 - Pokemon Sapphire v1.1 (E) 神奇寶貝藍寶石 V1.1 歐  RPG 128M
+1238 - FIFA 2004 (U) 國際足盟大賽2004 多國 SPG 64M
+1239 - Sonic Pinball Party (E) 音速小子彈珠台 多國 PUZ 64M
+1240 - Yu-Gi-Oh! The Sacred Cards (U) 遊戲王-神聖的卡片 歐  CRD 128M
+1241 - Disney Brother Bear (U) 迪士尼-熊的傳說 美  ACT 64M
+1242 - Pokemon Ruby v1.1 (E) 神奇寶貝-紅寶石 歐  RPG 128M
+1243 - Fairly Odd Parents Breakin Da Rules (U) 正義雙親之叛逆的懲罰 美  ACT 32M
+1244 - Dr Deuss The Cat in The Hat (U) 魔法靈貓 美  ACT 32M
+1245 - Pokemon Pinball Ruby and Sapphire (E) 神奇寶貝彈珠台-紅寶石和藍寶石 歐  TAB 128M
+1246 - Mario and Luigi - Superstar Saga (E) 瑪莉歐和路易-超巨星傳說 歐  RPG 128M
+1247 - Shanghai (J) 上海 日  TAB 32M
+1248 - Yu-Gi-Oh! Dungeondice Monsters (E) 遊戲王-怪獸龍門骰 歐  TAB 64M
+1249 - Tiger Woods PGA Tour 2004 (U) 老虎伍茲職業高爾夫巡迴賽2004 歐  SPG 128M
+1250 - Buffy Contre Les Vampires - La Colere De Darkhul (F) 吸血鬼殺手巴菲-返回黑暗世界 ACT 64M
+1251 - SSX 3 (U) 疾速滑雪3 歐 SPG 64M
+1252 - Prince of Persia The Sands of Time (E) 波斯王子-時之沙 歐 ACT 64M
+1253 - Beyblade VForce Ultimate Blader Jam (E) 爆轉陀螺王 歐 TAB 64M
+1254 - Slime Morimori Dragon Quest - Shougeki no Shippo Dan (J) 勇者鬥惡龍之元氣史萊姆-衝擊的尾巴團 日 AAVG 64M
+1255 - Minna No Mahjong (J) 全民遊戲系列-全民麻將 日  TAB 32M
+1256 - Sanrio Puroland (J) 三麗鷗漫畫全明星 日  TAB 32M
+1257 - Zooo (J) 動物飼養員 日 TAB 32M
+1258 - Onimusha Tactics (U) 鬼武者戰略版 歐  SLG 64M
+1259 - Justice League Chronicles (U) 正義聯盟歷代記 歐  ACT 64M
+1260 - Cartoon Network Speedway (U) 卡通頻道-高速飆車 歐  RCG 32M
+1261 - Disney's Magical Quest 2 Starring Mickey & Minnie (U) 迪士尼米奇與米妮的魔法冒險2 歐  ACT 32M
+1262 - Crash Nitro Kart (U) 古惑狼賽車 歐  RCG 64M
+1263 - Ultimate Beach Soccer (U) 終極沙灘足球 歐  SPG 32M
+1264 - The Hobbit (U) 魔戒前傳-哈比人歷險記 歐  ARPG 64M
+1265 - Spirit & Spells (U) 幽靈與符咒 歐  ACT 32M
+1266 - Double Dragon Advance (U) 雙截龍 歐  ACT 32M
+1267 - Sword Of Mana (U) 新約聖劍傳說 美 ARPG 128M
+1268 - Harvest Moon - Friends of Mineral Town (U) 牧場物語-礦石鎮的夥伴們 TCG+RPG 64M
+1269 - Finding Nemo (E) 海底總動員-尋找尼莫 多國 ACT 64M
+1270 - Spyro Adventure (E) 寶貝龍-瑞諾西斯的攻擊 多國 ACT 64M
+1271 - Looney Tunes - Back in Action (U) 華納明星總動員 多國 ACT 64M
+1272 - Disneys Magical Quest 3 Starring Mickey and Donald (J) 迪士尼-米老鼠與唐老鴨魔法冒險3 日 ACT 32M
+1273 - Spy Kids 3D - Game Over (E) 小鬼大間諜3D 歐 ACT 64M
+1274 - Disney's Kim Possible - Revenge of Monkey Fist (E) 迪士尼麻辣女孩-猴子的復仇 多國 ACT 64M
+1275 - James Bond 007 Everything or Nothing (U) 詹姆士龐德007-誰與爭鋒 多國 ACT 64M
+1276 - Medal of Honor Infiltrator (U) 榮譽勳章-滲透者 多國 STG 128M
+1277 - Mario & Luigi Superstar Saga (U) 瑪莉歐和路易-超巨星傳說 歐  RPG 128M
+1278 - Terminator 3 Rise Of The Machines (E) 魔鬼終結者3-機器的崛起 多國 ACT 64M
+1279 - Beyblade V-Force Ultimate Blader Jam (U) 爆轉陀螺王 歐 TAB 64M
+1280 - Terminator 3 Rise Of The Machines (U) 魔鬼終結者3-機器的崛起 歐 ACT 64M
+1281 - CIMA The Enemy (U) 半獸敵人 歐  ARPG 64M
+1282 - Star Wars Flight of the Falcon (U) 星際大戰-獵鷹飛行隊 歐  STG 64M
+1283 - Mario and Luigi RPG (J) 瑪莉歐與路易RPG 日  RPG 128M
+1284 - Star Wars Flight of the Falcon (U) 星際大戰-獵鷹飛行隊 多國 STG 64M
+1285 - Harry Potter Quidditch World Cup (J) 哈利波特-魁地奇世界盃 日 SPG 64M
+1286 - Sim City 2000 (E) 模擬城市2000 多國 SLG 32M
+1287 - Mucha Lucha Mascaritas of the Lost Code (U) 穆夏露薩-馬卡三人組丟失的密碼 多國 ACT 32M
+1288 - Dr Seuss Green - Eggs and Ham (U) 蘇斯博士-火腿加綠蛋 歐 TAB 32M
+1289 - American Idol (U) 美國偶像 歐 TAB 128M
+1290 - Teenage Mutant Ninja Turtles (E) 忍者龜 多國 ACT 64M
+1291 - Hot Wheels - World Race (E) 無敵風火輪-世界賽車 歐  RCG 32M
+1292 - F-Zero - Falcon Densetsu (J) 極速傳說-法爾康傳說 日  RCG 128M
+1293 - Crash Nitro Kart (E) 古惑狼賽車 多國 RCG 64M
+1294 - SD Gundam G Generation Advance (J) SD鋼彈超世代 日  SLG 128M
+1295 - Hot Wheels - World Race (U) 無敵風火輪-世界賽車 歐  RCG 32M
+1296 - Oddworld - Munchs Oddysee (G) 阿比逃亡記-奇異世界 德 ACT 64M
+1297 - Dragon Ball Z Taiketsu (U) 七龍珠Z-對決 歐  FTG 64M
+1298 - Crouching Tiger Hidden Dragon (E) 臥虎藏龍 多國 ACT 64M
+1299 - Worms World Party (U) 百戰天蟲 多國 PUZ 32M
+1300 - Dora The Explorer Super Spies (U) 探險家朵拉-超級間諜 歐  ACT 32M
+1301 - Premier Manager 2003-04 (E) 足球經理2003-04 多國 SLG 32M
+1302 - Mission Impossible - Operation Surma (E) 不可能的任務-舍馬行動 多國 ACT 32M
+1303 - Gachasta! Dino Device 2 Dragon (J) 怪獸蛋2-龍 日  RPG 32M
+1304 - Gachasta! Dino Device 2 Phoenix (J) 怪獸蛋2-鳳凰 日  RPG 32M
+1305 - Onimusha Tactics (E) 鬼武者戰略版 歐  SLG 64M
+1306 - Lizzie McGuire (E) 平民天后 多國 ACT 32M
+1307 - Power Pro Kun Pocket 6 (J) 實況野球君口袋版6 日  SLG+SPG 64M
+1308 - Yu Yu Hakusho Spirit Detective (U) 幽游白書-靈界偵探 歐  ACT 64M
+1309 - Sonic Battle (J) 音速小子對戰 日  ACT 128M
+1310 - Pazunin - Uminin No Puzzle de Nimu (J) 魔幻彈力球 日  PUZ 32M
+1311 - Deutschland Sucht Den Superstar (G) 超巨星節拍 德 PUZ 128M
+1312 - The Sims - Bustin Out (U) 模擬市民-純屬意外 多國SLG 128M
+1313 - Ultimate Winter Games (U) 終極冬季運動會 歐 SPG 64M
+1314 - Activision Anthology (U) 亞特遜經典遊戲合集 歐 ECT 64M
+1315 - Game & Watch Gallery 4 (U) Game & Watch遊戲博物館4 歐 ECT 32M
+1316 - Koinu-Chan no Hajimete no Osanpo - Koinu no Kokoro Ikusei Game (J) 可愛小狗養育計畫 日 TCG 64M
+1317 - Cinnamoroll Kokoniiruyo (J) 長耳狗就在這裡 日 PUZ 32M
+1318 - Sitting Ducks (E) 坐坐鴨 多國 ACT 32M
+1319 - RockMan EXE 4 Tournament Blue Moon (J) 洛克人EXE4對抗賽-藍月亮 日 RPG 64M
+1320 - RockMan EXE 4 Tournament Red Sun (J) 洛克人EXE4對抗賽-紅太陽 日 RPG 64M
+1321 - Peter Pan The Movie (U) 小飛俠電影版 歐 ACT 32M
+1322 - Card Captor Sakura - Sakura Card de Mini Game (J) 庫洛魔法使-庫洛的迷你遊戲 日 ETC 32M
+1323 - Konjiki no Gashbell (J) 魔法少年賈修-友情的電擊 日 ACT 64M
+1324 - Bokujou Monogatari - Mineral Town for Girls (J) 牧場物語-礦石鎮的夥伴們-女孩篇 日 RPG+TCG 128M
+1325 - Spy Muppets - License to Croak (U) 芝麻街布偶間諜-特遣青蛙 多國ETC 64M
+1326 - Croket 3 Guranyuoukoku No Nazo (J) 口袋夢幻3-砂糖王國之謎 日 ACT 128M
+1327 - Gegege no Kitarou (J) 鬼太郎 危機一發!妖怪列島 日 RPG 128M
+1328 - The King of Fighters EX2 - Howling Blood (U) 格鬥之王EX2-咆哮之血 歐 FTG 64M
+1329 - Wagamama Fairy Mirumo De Pon - 8 Nin no Toki no Yousei (J) 魔法咪路咪路-八目妖精 日 AVG 64M
+1330 - Super Donkey Kong (J) 超級大金剛 日 ACT 64M
+1331 - Finding Nemo (J) 海底總動員-尋找尼莫 日 ACT 64M
+1332 - Astro Boy - Tetsuwan Atom (J) 原子小金剛-心的秘密 日 ACT 64M
+1333 - Disney Sports Snowboarding (U) 迪士尼明星運動會-滑雪板 歐 SPG 128M
+1334 - Crash Bandicoot Advance 2 - Gurugurusaimin Dai Panic (J) 古惑狼大冒險2 日 ACT 64M
+1335 - Max Payne (U) 江湖本色 歐 ACT 128M
+1336 - Tetris Advance (J) 俄羅斯方塊 日 TAB 32M
+1337 - Ochaken No Heya (J) 綠茶犬的窩 日 TCG 64M
+1338 - Need For Speed Underground (U) 極速快感-飆風再起 多國RCG 64M
+1339 - Silvanian Family Yousei no Stick to Fushigi no Marroine no Onnanoko (J) 妖精之杖-不可思議的大樹 日 AVG 64M
+1340 - Simple 2960 - Vol.4 - The Trump (J) 簡單2960朋友系列第四集-王牌 日 CAG 32M
+1341 - WanWan Meitantei (J) 汪汪名偵探 日 AVG 64M
+1342 - Ashita No Joe (J) 小拳王-燃燒鬥志 日 SPG 128M
+1343 - Sim City 2000 (U) 模擬城市2000 歐 SLG 32M
+1344 - LEGO Racers 2 (E) 樂高賽車2 多國RCG 64M
+1345 - Altered Beast (E) 獸王記-王國的守護者 多國 ACT 64M
+1346 - Tekken Advance (E) 鐵拳 歐 FTG 128M
+1347 - Minna No Ojisama (J) 網球王子大會戰 日 TAB 256M
+1348 - Gekido Advance - Kintaros Revenge (U) 究極截拳道 歐 ACT 64M
+1349 - ESPN International Winter Sports (E) ESPN國際冬季奧運會 歐 SPG 32M
+1350 - Godzilla Domination (J) 酷斯拉怪獸大亂鬥 日 FTG 32M
+1351 - Sonic Battle (U) 音速小子對戰 多國 ACT 128M
+1352 - Hyokkori Hyotanjima Don Gabacho Daikastuyuka no Maki (J) 全民遊戲系列-葫蘆孤島漂流記 日 ACT 32M
+1353 - Shining Soul (U) 光明之魂 歐 ARPG 64M
+1354 - Freekstyle (E) 狂飆機車 多國 RCG 64M
+1355 - Road Rash Jailbreak (E) 公路霸王機車賽 多國 RCG 32M
+1356 - Baldurs Gate - Dark Alliance (U) 柏德之門-黑暗聯盟 歐 ARPG 64M
+1357 - Gyakuten Saiban 3 (J) 逆轉裁判3 日 AVG 64M
+1358 - Tiny Toon Adventure - Wacky Stackers (U) 邦尼兔冒險-古怪蛋方塊 歐 PUZ 32M
+1359 - The Sims (J) 模擬市民-純屬意外 日 SLG 128M
+1360 - Pokemon Fire Red (J) 神奇寶貝火焰紅 日 RPG 128M
+1361 - Super Bubble Pop (E) 超級立體泡泡 多國 PUZ 32M
+1362 - Pokemon Leaf Green (J) 神奇寶貝樹葉綠 日 RPG 128M
+1363 - Scooby-Doo - Mystery Mayhem (E) 史酷比鬼屋歷險-神秘事件 多國 ACT 32M
+1364 - Yu-Gi-Oh! - The Sacred Cards (E) 遊戲王-神聖的卡片 多國 CAG 128M
+1365 - Disney』s Brother Bear (E) 迪士尼-熊的傳說 多國 ACT 64M
+1366 - Yu-Gi-Oh! Duel Monsters Expert 3 (J) 遊戲王Expert 3 多國 CAG 128M
+1367 - SpongeBob SquarePants - Battle for Bikini Bottom (E) 超級海綿寶寶大冒險-比基尼島的冒險 多國 ACT 64M
+1368 - Baldur』s Gate - Dark Alliance (E) 柏德之門-黑暗聯盟 多國 ARPG 64M
+1369 - Mr. Driller 2 (E) 鑽地先生2 歐 PUZ 32M
+1370 - Metroid Zero Mission (U) 銀河戰士-零號任務 歐 ACT 64M
+1371 - Puyo Pop (E) 魔法氣泡大會戰 多國 PUZ 64M
+1372 - Disney Principesse (I) 迪士尼公主 意  ACT 64M
+1373 - Corvette (U) 雪佛蘭科爾維特紀念賽車 多國 RCG 64M
+1374 - Ozzy & Drix (U) 捍胃戰士 歐  ACT 64M
+1375 - Mermaid Melody - Pichipichi Pitch - Pichipichi Party (J) 真珠美人魚-元氣派對 日 ECT 128M
+1376 - Jet Set Radio (E) 噴射小子-街頭塗鴉 歐  SPG 64M
+1377 - Need For Speed - Porsche Unleashed (E) 極速快感-保時捷的榮耀 多國 RCG 32M
+1378 - Yu-Gi-Oh! - World Championship 2004 (U) 遊戲王-世界冠軍錦標賽2004 歐  CAG 128M
+1379 - CT Special Forces (U) CT特種部隊 多國 ACT 32M
+1380 - Bruce Lee - Return of the Legend (U) 李小龍-傳說中的英雄再現 歐  ACT 64M
+1381 - Famicom Mini - Vol 1 - Super Mario Bros. (J) 紅白機復刻遊戲 Vol.01-超級瑪莉兄弟 日  ACT 8M
+1382 - Famicom Mini - Vol 3 - Ice Climber (J) 紅白機復刻遊戲 Vol.03-敲冰塊 日  ACT 8M
+1383 - Famicom Mini - Vol 7 - Xevious (J) 紅白機復刻遊戲 Vol.07-鐵板陣 日  STG 8M
+1384 - Pitfall - The Lost Expedition (E) 皮佛冒險-消失的探險隊 歐  ACT 64M
+1385 - Famicom Mini - Vol 2 - Donkey Kong (J) 紅白機復刻遊戲 Vol.02-超級大金剛 日  ACT 8M
+1386 - Famicom Mini - Vol 5 - Zelda no Densetsu (J) 紅白機復刻遊戲 Vol.05-薩爾達傳說 ARPG
+1387 - Famicom Mini - Vol 8 - Mappy (J) 紅白機復刻遊戲 Vol.08-貓鼠大戰 日  STG
+1388 - Chessmaster (G) 西洋棋大師 德 TAB 32M
+1389 - Harvest Moon - Friends of Mineral Town (G) 牧場物語-礦石鎮的夥伴們 SLG 64M
+1390 - Famicom Mini - Vol 10 - Star Soldier (J)  紅白機復刻遊戲 Vol.10-星際戰士 日  STG 8M
+1391 - Famicom Mini - Vol 4 - Excite Bike (J)  紅白機復刻遊戲 Vol.04-火爆機車賽 日  RCG 8M
+1392 - Famicom Mini - Vol 9 - Bomberman (J)  紅白機復刻遊戲 Vol.09-轟炸超人 日  PUZ 8M
+1393 - Famicom Mini - Vol 6 - Pacman (J)  紅白機復刻遊戲 Vol.06-小精靈 日  PUZ 8M
+1394 - Peter Pan - The Motion Picture (E) 小飛俠電影版 多國 ACT 32M
+1395 - Pitfall - The Lost Expedition (F) 皮佛冒險-消失的探險隊 法  ACT 64M
+1396 - Finding Nemo (E) 海底總動員-尋找尼莫 多國 ACT 64M
+1397 - Gakuen Senki Muryou (J) 學園戰記MURYOU 日  RPG 64M
+1398 - Banjo Kazooie - La vendetta di Grunty (I) 哥倆好大進擊-格朗帝的復仇 意  ACT 64M
+1399 - Monsters Inc. (E) 怪獸電力公司 多國 ACT 32M
+1400 - River City Ransom EX (J) 熱血物語EX 日  ACT 32M
+1401 - Atari Anniversary Advance (E) 雅達利懷舊經典遊戲合集 歐  ETC 32M
+1402 - Snood (E) 怪投射擊方塊 多國 PUZ 32M
+1403 - Megaman Battle Chip Challenge (U) 洛克人-戰鬥晶片 挑戰 歐  RPG 64M
+1404 - Taiketsu Ultra Hero (J) 鹹蛋超人大對決 日  FTG 64M
+1405 - Personal Data Assistant for Gameboy Advance (U) 個人掌上助理 歐  ETC 256M
+1406 - Guilty Gear X Advance Edition (U) 罪惡剋星X進化版 歐  FTG 64M
+1407 - Shining Soul II (E) 光明之魂2 多國 ARPG 128M
+1408 - Splinter Cell Pandora Tomorrow (E) 湯姆特蘭西-間諜遊戲-潘朵拉計劃 多國 ACT 64M
+1409 - One Piece Going Baseball (J) 海賊王-棒球大決鬥 日  SPG 64M
+1410 - Disneys Aladdin (E) 迪士尼-阿拉丁 多國 ACT 32M
+1411 - Pop Idol UK (E) 流行偶像 歐  ETC 128M
+1412 - Sabre Wulf (E) 劍齒虎 歐 ACT 64M
+1413 - Tak and The Power of JuJu (E) 塔克和符咒的神力 歐 ACT 64M
+1414 - Dr Deuss The Cat in The Hat (E) 魔法靈貓 歐 ACT 32M
+1415 - Sword of Mana (E) 新約聖劍傳說 歐  RPG 128M
+1416 - Yu-Gi-Oh Sugoroku No Sugoroku (J) 遊戲王-雙六的骰子 日  CAG 64M
+1417 - Scooby Doo 2 Monsters Unleashed (U) 史酷比2-怪獸出籠 歐 ACT 64M
+1418 - R-Type III (U) 異形戰機3 歐 STG 32M
+1419 - Megaman Battle Chip Challenge (E) 洛克人-戰鬥晶片錦標賽 歐 RPG 64M
+1420 - Dragon Ball Z Taiketsu (E) 七龍珠Z-對決 歐 FTG 64M
+1421 - Max Payne Advance (E) 江湖本色 歐 ACT 128M
+1422 - Sword of Mana (E) 新約聖劍傳說 歐  RPG 128M
+1423 - Disney's Magical Quest 3 Starring Mickey and Donald (E) 迪士尼米老鼠與唐老鴨的魔法冒險3 ACT 32M
+1424 - Wade Hixtons Counter Punch (E) 偉德西斯頓拳擊對抗賽 日 FTG 64M
+1425 - Tantei Gakuen Q Kyukyoku Trick ni Idome (J) 偵探學園Q-挑戰究極殺人事件! 日 AVG 128M
+1426 - Mermaid Melody Pichi Pichi Picchi Pichi Ppichitto Live Start (J) 真珠美人魚-現場元氣演出 日 MUG 128M
+1427 - Dragon Ball Zbukuu Tougeki (J) 七龍珠Z-舞空鬥劇 日  FTG 128M
+1428 - Double Dragon Advance (J) 雙截龍 日  ACT 32M
+1429 - Simple 2960 vol 3 - The Itsudemo Puzzle (J) 簡單2960系列Vol.03-依特蘇德姆
+1430 - Full metal Alchemist (J) 鋼之煉金術士 迷走之輪舞曲 日  ACT 64M
+1431 - Franklin The Turtle(E) 海龜富蘭克林 歐 PUZ 32M
+1432 - Harvest Moon - Friends of Mineral Town (E) 牧場物語-礦石鎮的夥伴們 RPG+TCG 64M
+1433 - The Powerpuff Girls - Mojo JoJo a Go Go (E) 飛天小女警-魔人啾啾A GO GO 歐 ACT 32M
+1434 - Dexters Laboratory - Deesaster Strikes (E) 德克斯特的實驗室 歐 ACT 32M
+1435 - Yu-Gi-Oh! World Championship 2004 (E) 遊戲王-世界冠軍錦標賽2004 歐 CAG 128M
+1436 - Walt Disney's The Jungle Book (U) 迪士尼-森林王子 歐 ACT 64M
+1437 - Street Jam Basketball (U) 街頭籃球 歐 SPG 32M
+1438 - Duel Masters 2 - Invincible Advance (J) 卡片對決高手2 日 CAG 128M
+1439 - Lilliput Kingdom - Lillimoni to issho Puni (J) 小人國遊記 日 AVG 64M
+1440 - Boboboubo Boubobo - 9 Kiwame Senshi Gyagu Yuugou (J) 爆裂鼻毛真拳-9極戰士搞笑融合 日 RPG 128M
+1441 - Digimon Racing (J) 數碼寶貝賽車 日 RCG 64M
+1442 - Antz Extreme Racing (U) 小蟻雄兵賽車 美 32M RCG
+1443 - Animal Snap Rescue Them 2 By 2 (U) 動物方塊-拯救它們 美 16M TAB
+1444 - David Beckham Soccer Proper (U) 大衛貝克漢足球 美 32M SPG
+1445 - CT Special Forces 3 Bioterror (E) CT特種部隊3-生化恐怖行動 歐 64M ACT
+1446 - Demon Drive Time to Burn Rubber (U) 魔鬼賽車手-時間燃燒 32M RAC
+1447 - Mission Impossible Operation Surma (U) 不可能的任務-舍馬行動 64M ACT
+1448 - Home On The Range (U) 牧場是我家 64M ACT
+1449 - Sound of Thunder (E) 雷霆萬鈞 64M AVG
+1450 - Ice Nine (E) 冰凍九號 64M FPS
+1451 - Scooby Doo 2 - Monster Unleashed (E) 史酷比2-怪獸出籠 64M ACT
+1452 - Metroid Zero Mission (E) 銀河戰士-零點任務 64M ACT
+1453 - Pikapika Nurse Monogatari - Nurse Ikusei Game (J) 亮麗護士物語-活潑護士養成遊戲 64M TCG
+1454 - Hoshi no Kirby Kagami no Daimeikyuu (J) 卡比之星-鏡之大迷宮 128M ACT
+1455 - FightBox (E) 戰鬥拳擊 32M ACT
+1456 - Bookworm (U) 書蟲 32M PUZ
+1457 - Rockman Zero 3 (J) 洛克人Zero3 64M ACT
+1458 - Mario Golf Advance Tour (J) 瑪莉歐高爾夫巡迴賽 128M SPG
+1459 - Shifting Gears - Road Trip (U) Q版賽車2 32M RCG
+1460 - Shining Soul II (U) 光明之魂2 128M ARPG
+1461 - Card Captor Sakura - Card Friends (J) 庫洛魔法使-小櫻牌篇 128M AVG
+1462 - Zettai Zetsumei Dangerous Jiisan 2 (J) 走投無路危險爺爺2-哭的1回-絕對服從加倍有沙灘校長 64M RPG
+1463 - Uchu No Stellvia (J) 宇宙學園 64M AVG
+1464 - Pia Carrot e Youkoso 3.3 (J) 愛神有約 3.3 64M AVG
+1465 - Serious Sam Advance (U) 重裝武力 64M FPS
+1466 - Ten Pin Alley 2 (U) 保齡球小館2 32M SPG
+1467 - Digimon Racing (E) 數碼寶貝賽車 64M RAC
+1468 - Super Collapse 2 (U) 超級崩塌方塊2 32M PUZ
+1469 - Naruto Saikyou Ninja Daikessyu 2 (J) 火影忍者-最強忍者大集結2 64M ACT
+1470 - Shining Force - Resurrection of the Dark Dragon (E) 光明與黑暗-黑暗龍的復活 128M S.RPG
+1471 - Lord of the Rings Ou No Kikan (J) 魔戒三部曲-王者再臨 128M A.RPG
+1472 - Shiren Monsters Netsal (J) 怪物戰鬥足球 128M SPG
+1473 - The Prince of Tennis 2004 Stylish Silver (J) 網球王子2004-流行銀 256M SPG
+1474 - The Prince of Tennis 2004 Glorious Gold (J) 網球王子2004-榮耀金 256M SPG
+1475 - Pyuu to Fuku Jogger Byuu to Deru Megane Kun (J) 魔法吹笛手-立體眼鏡遊戲 64M A.RPG
+1476 - One Piece - Ilgop Seomui Daebomu (K) 海賊王-七個島的大祕寶 64M A.RPG
+1477 - Shrek 2 (U) 史瑞克2 64M ACT
+1478 - Van Helsing (U) 凡赫辛 32M ACT
+1479 - Crayon Shin-Chan - Arashi no Yobu Cinema-Land no Daibouken!(J) 蠟筆小新 呼風喚雨-電影島之大冒險! 128M ACT
+1480 - Serious Sam Advance Multi3 (E) 重裝武力 64M FPS
+1481 - Steel Empire (J) 鋼鐵帝國 from HOT.B 32M STG
+1482 - Gundam Seed Battle Assault (J) 機動戰士鋼彈SEED-朋友與你與戰場 64M AVG
+1483 - Boktai - The Sun is in Your Hand (E) 我們的太陽 128M A.RPG
+1484 - Van Helsing (E) 凡赫辛 32M ACT
+1485 - GBA Video - SpongeBob Squarepants Vol.1 (U) 超級海綿大冒險1-GBA電影 256M Video
+1486 - GBA Video - Fairly Odd Parents Vol.2 (U) 超級海綿大冒險2-GBA電影 256M Video
+1487 - GBA Video - SpongeBob Squarepants Vol.2 (U) 正義雙親2-GBA電影 256M Video
+1488 - 007 - Everything or Nothing (J) 詹姆士龐德007-誰與爭鋒 64M ACT
+1489 - Mario Vs Donkey Kong (U) 瑪莉歐對大金剛 128M ACT
+1490 - Sonic Advance 3 (U) 音速小子3 128M AC
+1491 - Gadget Racers (E) Q版賽車2 32M RCG
+1492 - Famicom Mini Vol.19 - TwinBee (J) 紅白機復刻遊戲 Vol.19-兵蜂 32M STG
+1493 - Famicom Mini Vol.13 - Balloon Fight (J) 紅白機復刻遊戲 Vol.13-氣球大戰 32M ACT
+1494 - Famicom Mini Vol.18 - Makai Mura (J) 紅白機復刻遊戲 Vol.18-魔界村 32M ACT
+1495 - Famicom Mini Vol.16 - Dig Dug (J) 紅白機復刻遊戲 Vol.16-鑽地小子 32M ACT
+1496 - Famicom Mini Vol.11 - Mario Brothers (J) 紅白機復刻遊戲 Vol.11-水管瑪莉 32M ACT
+1497 - Famicom Mini Vol.17 - Takahashi Meijin No Boukentou (J) 紅白機復刻遊戲 Vol.17-高橋名人冒險島 32M ACT
+1498 - Famicom Mini Vol.20 - Ganbare Goemon Karakuri Doucyu (J) 紅白機復刻遊戲 Vol.20-大盜伍佑衛門 32M ACT
+1499 - Famicom Mini Vol.14 - Wrecking Crew (J) 紅白機復刻遊戲 Vol.14-拆屋工 32M ACT
+1500 - Famicom Mini Vol.15 - Dr. Mario (J)  紅白機復刻遊戲 Vol.15-瑪莉歐醫生 32M PUZ
+1501 - Famicom Mini Vol.12 - Clu Clu Land (J) 紅白機復刻遊戲 Vol.12-克魯冒險世界 32M ACT
+1502 - River City Ransom EX (U) 熱血物語 EX 32M ACT
+1503 - Harry Potter & the Prisoner of Azkaban (U) 哈利波特-阿茲卡班的逃犯 128M A.RPG+AVG
+1504 - Tokyo Majin Gakuen - Fuju Houroku (J) 東京魔人學園-符咒封錄 128M CAG
+1505 - GBA Video - Dora the Explorer Vol 1 (U) 探險家朵拉1-GBA電影 256M Video
+1506 - Mighty Beanz Pocket Puzzles (U) 大力豆-掌上益智遊戲 128M PUZ
+1507 - GBA Video - Sonic X Volume 1 (U) 音速小子X1-GBA電影 256M Video
+1508 - F-Zero GP Legend Multi5 (E) 極速傳說-法爾康傳說 多國 128M RCG)www.
+1509 - Crash Bandicoot Purple Riptos Rampage (U) 古惑狼暴跳的羅彼 德 128M ACT
+1510 - Spyro Orange The Cortex Conspiracy (U) 寶貝龍-陰謀的本質 128M ACT
+1511 - Duel Masters Sempai Legends (U) 卡片決鬥高手-永恆的傳奇 64M CAG
+1512 - NES Classic - The Legend of Zelda (U) 經典紅白機系列：薩爾達傳說 8M RPG
+1513 - Sonic Battle (E) 音速小子對戰 128M ACT
+1514 - Classic NES Series - Super Mario Bros (U) 經典紅白機系列：超級瑪莉歐 8M ACT
+1515 - GBA Video - Strawberry Shortcake Vol.1 (U) 草莓娃娃1-GBA電影 256M Video
+1516 - Classic NES Series - Bomberman (U) 經典紅白機系列：轟炸超人 8M ACT
+1517 - Classic NES Series - Excite Bike (U) 經典紅白機系列:火爆機車賽 8M
+1518 - Classic NES Series - Xeviuos (U) 經典紅白機系列：鐵板陣 8M STG
+1519 - Classic NES Series - Pacman (U) 經典紅白機系列：小精靈 8M ACT
+1520 - Classic NES Series - Ice-Climber (U) 經典紅白機系列：敲冰塊 8M ACT
+1521 - Classic NES Series - Donkey Kong (U) 經典紅白機系列：超級大金剛 8M ACT
+1522 - GBA Video - Fairly Odd Parents Volume 1 (U) 正義雙親1-GBA電影 256M  Video
+1523 - Ultimate Card Games (U) 終極撲克遊戲 64M PUZ
+1524 - GBA Video - All Grown Up! Volume 1 (U) 尼克卡通-我們都長大了!1-GBA電影 256M Video
+1525 - Jajamaru Jr. Denshouki - Jaleco Memorial (J) 忍者蛇蛇丸傳說 32M ACT
+1526 - Mario Vs Donkey Kong (J) 瑪莉歐對大金剛 128M ACT
+1527 - Medal of Honor (J) 榮譽勳章-滲透者 128M ACT
+1528 - Metroid Zero Mission (J) 銀河戰士-零點任務 64M ACT
+1529 - Sabre Wulf (U) 劍齒虎 64M ACT
+1530 - Shining Force - Resurrection of the dark dragon (U) 光明與黑暗-黑暗龍的復活 128M RPG
+1531 - Mickey no Pocket Resort (J) 米奇的口袋遊戲 128M ACT
+1532 - Wario Land Advance (C) 壞利歐尋寶記 64M ACT
+1533 - Woody Woodpecker in Crazy Castle 5 (U) 啄木鳥伍迪闖瘋狂城堡5 64M ACT
+1534 - XS Moto (U) XS摩托賽 32M RCG
+1535 - Thunder Alley (U) 雷霆越野賽 32M RCG
+1536 - Sonic Advance 3 (J) 音速小子3 128M ACT
+1537 - Asterix and Obelix XXL (E) 美麗新世界-幻想新國度XXL 64M ACT
+1538 - Shrek 2 (E) 史瑞克2 264M ACT
+1539 - Secret Agent Barbie - Royal Jewels Mission (E) 芭比-秘密間諜 32M ACT
+1540 - Donkey Kong Country 2 (E) 超級大金剛2 64M ACT
+1541 - Sonic Advance 3 (E) 音速小子3
+1542 - Spyro Fusion (E) 寶貝龍-陰謀的本質 128M ACT
+1543 - Crash Bandicoot Fusion (E) 古惑狼-暴跳的羅彼德 128M ACT
+1544 - Mario Golf - Advance Tour (U) 瑪莉歐高爾夫 128M SPG
+1545 - Dragon Quest Characters - Toruneko no Daibouken 3 Advance - Fushigi no Dungeon (J) 特魯尼克大冒險3-不可思議的迷宮 128M RPG
+1546 - Harry Potter to Azkaban no Shuujin (J) 哈利波特-阿茲卡班的逃犯 128M A.RPG+AVG
+1547 - Super Chinese 1+2 Advance (J) 超級中國人1+2 32M ACT
+1548 - Dragon Ball Z Supersonic Warriors (U) 七龍珠Z-舞空鬥劇 歐 FTG 128M
+1549 - Pokemon - Volume 2 (U) 神奇寶貝2-GBA電影 歐 MOV 256M
+1550 - Pokemon - Volume 1 (U) 神奇寶貝1-GBA電影 歐 MOV 256M
+1551 - BB Ball (J) BB球 日 RPG 64M
+1552 - Oshare Wanko (J) 俏皮寵物 日 TCG 64M
+1553 - Spider-Man 2 (U) 蜘蛛人2 歐 ACT 128M
+1554 - Megaman Battle Network 4 - Red Sun (U) 洛克人網絡戰鬥4-紅太陽 歐 RPG 64M
+1555 - Megaman Battle Network 4 - Blue Moon (U) 洛克人網絡戰鬥4-藍月亮 歐 ARPG 64M
+1556 - Yu-Gi-Oh - Reshef of Destruction (U) 遊戲王8-毀滅的大邪神 歐 CAG 128M
+1557 - GBA Video - Cartoon Network Collection - Volume 1 (U) 卡通頻道集錦1-GBA電影 歐 MOV 256M
+1558 - GBA Video - Codename Kids Next Door - Volume 1 (U) 小孩大聯盟1-GBA電影 歐 MOV 256M
+1559 - Super Donkey Kong 2 (J) 超級大金剛2 日 ACT 64M
+1560 - Kirby and the Amazing Mirror (E) 卡比之星-鏡之大迷宮 多國 ACT 128M
+1561 - GBA Video - Nicktoons Collection - Volume 1 (U) 尼克卡通集錦1-GBA電影 歐 MOV 256M
+1562 - Around The World In 80 Days (U) 環遊世界80天 歐 ACT 32M
+1563 - Disneys Kim Possible 2 (U) 迪士尼麻辣女孩2 歐 MOV 64M
+1564 - GBA Video - The Adventures of Jimmy Neutron - Volume 1 (E) 天才小子吉米1-GBA電影 歐 MOV 64M
+1565 - Spider-Man 2 (E) 蜘蛛人2 多國 ACT 128M
+1566 - Mario Golf Advance Tour (A) 瑪莉歐高爾夫巡迴賽 歐 SPG 128M
+1567 - Sitting Ducks (U) 坐坐鴨 多國 ACT 32M
+1568 - CT Special Forces 2 - Back in The Trenches (U) CT特種部隊2-重回地獄 多國 ACT 64M
+1569 - Astro Boy - Omega Factor (U) 原子小金剛-心之秘密 多國 ACT 64M
+1570 - Tottoko Hamutaro Hamuhamu Sports (J) 哈姆太郎運動會 多國SPG 128M
+1571 - Kaiketsu Zorori to Mahou no Yuuenchi (J) 惡作劇王大鬧魔法遊樂園 日 ACT 128M
+1572 - Zettai Zetsumei Dangerous Jisan Tsu (J) 走投無路危險爺爺-憤怒的處罰藍調 日 ACT 64M
+1573 - Digicommunication 2 Datou Black Gemagema dan (J) 叮噹貓語錄2-打倒！熊貓少女團 日 SLG 128M
+1574 - Fire Emblem (E) 聖火降魔錄-烈火之劍 多國 S‧RPG 128M
+1575 - Fire Emblem (E) 聖火降魔錄-烈火之劍 多國 S‧RPG 128M
+1576 - Wagamama Fairy Mirumo de Pon Yume no Kakera (J) 魔法咪路咪路-夢之碎片 日 AVG 64M
+1577 - Hamtaro Ham Ham Games (E) 哈姆太郎運動會 多國SPG 128M
+1578 - GBA Video - Teenage Mutant Ninja Turtles - Volume 1 (U) 忍者龜1-GBA電影 歐 MOV 256M
+1579 - Doom 2 (E) 毀滅戰士2 歐 FPS 128M
+1580 - Konjiki no Gashbell Makai no Bookmark (J) 魔法少年賈修!!-魔界的書籤 日 A‧RPG 64M
+1581 - Monster Summoner (J) 怪獸召喚師 日 AVG 64M
+1582 - GBA Video - Yu-Gi-Oh - Yugi vs Joey - Volume 1 (U) 遊戲王-遊戲對決城之內1-GBA電影 歐 MOV 256M
+1583 - Naruto RPG - Uketsugareshi Hi no Ishi (J) 火影忍者RPG 日 RPG 64M
+1584 - Catwoman (U) 貓女 多國 ACT 64M
+1585 - Zoku Bokura no Taiyou - Taiyou Shounen Django (J) 續‧我們的太陽-太陽少年傳奇 日 RPG 128M
+1586 - Duel Masters 2 - Kirifuda Shoubu Version (J) 卡片決鬥高手2-王牌勝舞Ver2 日 CAG 128M
+1587 - Hagane no Renkinjutsushi - Omoide no Soumeikyoku (J) 鋼之煉金術士-回憶之奏鳴曲 日 RPG 128M
+1588 - Croket 4 Bank no Mori no Mamorigami (J) 口袋夢幻4-森林守護神 日 AVG 128M
+1589 - Get Ride AMDriver - Senkou no Hero Tanjyou (J) 武裝特騎-閃光英雄誕生 日 S‧RPG 128M
+1590 - Chaoji Maliou 2 (C) 超級瑪莉2 中 ACT 32M
+1591 - Dragon Ball Z - The Legacy of Goku II International (J) 七龍珠Z-悟空傳說2國際版 日 A‧RPG 64M
+1592 - Puyo Puyo Fever (J) 魔法氣泡-狂熱版 日 TAB 64M
+1593 - Gakkou no Kaidan Hyakuyoubako no Fuuin (J) 學校之怪談-百妖箱的封印 日 AVG 64M
+1594 - Zero One SP (J) 對與錯SP 日 AVG128
+1595 - Power Pro Kun Pocket 1&2 (J) 實況野球君口袋版1‧2 日 TCG 64
+1596 - Legions Yomigaeru Shiren no Shima (J) 玩偶傳說-復甦的試練之島 日 AVG 64M
+1597 - Final Fantasy I - II Advance (J) 太空戰士1+2 日  RPG 128M
+1598 - Dragon Tales - Dragon Adventures (E) 龍的傳奇-歡樂龍冒險 歐 ACT 64M
+1599 - Tak and the Power of JuJu (E) 塔克和符咒的神力 多國 ACT 64M
+1600 - Hanabi Hyakkei Advance (J) 花火百景 日 PUZ 32M
+1601 - Donchan Puzzle Hanabi de Dohn Advance (J) 小咚方塊-煙火大會 日 PUZ 64M
+1602 - SD Gundam Force (J) SD鋼彈軍團 日 FTG 64M
+1603 - Shining Force (J) 光明與黑暗-黑暗龍的復活 日 RPG 64M
+1604 - RockMan EXE 4.5 Real Operation (J) 洛克人EXE4.5真實戰場 日 A‧RPG 64M
+1605 - B-Legend Battle B-Daman Moero B-Damashii (J) 戰鬥彈珠超人-燃燒彈珠魂 日 AVG 64M
+1606 - Doubutsujima no Chobi Gurumi 2 Tamachan Monogatari (J) 可愛動物島2 日 AVG 32M
+1607 - Himawari Doubutsu Byouin Pet no Oishasan Ikusei Game (J) 向日葵獸醫院-寵物醫生養成遊戲  日 TCG 64M
+1608 - Ultra Keibitai Monster Attack (J) 鹹蛋超人警備隊-怪獸攻防戰 日 SLG 64M
+1609 - Densetsu no Stafy 3 (J) 傳說的斯塔菲3 日 ACT 128M
+1610 - Need For Speed Porsche Unleashed (U) 極速快感-保時捷的榮耀 歐 RCG
+1611 - Cartoon Network Block Party (U) 卡通頻道-瘋狂派對 歐 PUZ
+1612 - Gundam Seed - Battle Assault (U) 機動戰士鋼彈SEED格鬥篇 歐 FTG
+1613 - Madden NFL 2005 (U) 勁爆美式足球2005 歐 SPG
+1614 - Thunderbirds (U) 雷鳥神機隊 歐 ACT
+1615 - Famicom Mini Vol 21 Super Mario Bros 2 (J) 紅白機復刻遊戲 Vol.21-超級瑪莉歐2 日 ACT
+1616 - Famicom Mini Vol 22 Nazo no Murasamejou (J) 紅白機復刻遊戲 Vol.22-謎之村雨城 日 ACT
+1617 - Famicom Mini Vol 23 Metroid (J) 紅白機復刻遊戲 VOL.23-銀河戰士 日 ACT
+1618 - Famicom Mini Vol 24 Hikari Shinwa Palthena no Kagami (J) 紅白機復刻遊戲 Vol.24-光神話-巴爾提那之鏡 日 ACT
+1619 - Famicom Mini Vol 25 The Legend of Zelda 2 Link no Bouken (J) 紅白機復刻遊戲 Vol.25-薩爾達傳說2-林克大冒險 日 ARPG
+1620 - Famicom Mini Vol 26 Famicom Mukashibanashi Shin Onigashima Zenkouhen (J) 紅白機復刻遊戲 Vol.26-童話 新．鬼島 日 AVG
+1621 - Famicom Mini Vol 27 Famicom Tantei Club Kieta Koukeisha Zenkouhen (J) 紅白機復刻遊戲 Vol.27-偵探俱樂部 消失的繼承者 前後篇 日 AVG
+1622 - Famicom Mini Vol 28 Famicom Tantei Club Part 2 Ushiro ni Tatsu Syoujo Zenkouhen (J) 紅白機復刻遊戲 Vol.28-偵探俱樂部PARTII 站在身後的少女 前後篇 日 AVG
+1623 - Famicom Mini Vol 29 Akumajou Dracula (J) 紅白機復刻遊戲 Vol.29-惡魔城 日 ACT
+1624 - Famicom Mini Vol 30 SD Gundam World Gachapon Senshi Scramble Wars (J) 紅白機復刻遊戲 Vol.30-SD鋼彈-膠囊戰記 日 SLG
+1625 - GBA Video - SpongeBob SquarePants The Movie (U) 超級海綿大冒險-電影版 歐 ACT
+1626 - Tom Clancys Splinter Cell Pandora Tomorrow (U) 湯姆特蘭西-間諜遊戲-潘朵拉計劃 多國 AVG
+1627 - Pitfall - The Lost Expedition (U) 皮佛冒險-消失的探險隊 歐 ACT
+1628 - Dragon Ball Z Supersonic Warriors (E) 七龍珠Z-舞空鬥劇 歐 FTG
+1629 - Summon Night - Craft Sword Monogatari 2 (J) 召喚之夜-鑄劍物語2 ARPG
+1630 - Super Mario Ball (J) 超級瑪莉歐彈珠台 日 TAB 128M
+1631 - Super Mario Advance 4 (E) v1.1 歐  超級瑪莉歐4 1.1 歐 ACT 64M
+1632 - Crash Bandicoot Bakusou Nitro Cart (J) 古惑狼賽車 日 RCG 64M
+1633 - Digimon Racing (U) 數碼暴龍賽車 多國RCG 64M
+1634 - Rapala Pro Fishing (U) 職業釣魚 歐 SPG 32M
+1635 - Crushed Baseball (U) 熱血棒球 歐 SPG 32M
+1636 - Pokemon Fire Red (U) 神奇寶貝-火焰紅 歐 RPG 128M
+1637 - Pokemon Leaf Green (U) 神奇寶貝-樹葉綠 歐 RPG 12
+1638 - Power Rangers Dino Thunder (U) 金剛戰士-爆龍 歐 ACT 32M
+1639 - Megaman Zero 3 (E) 洛克人Zero3 歐 ACT 64M
+1640 - Tetris Worlds (E) 俄羅斯方塊 多國PUZ 32M
+1641 - Finding Nemo - The Continuing Adventures (U) 海底總動員-冒險再續 歐 AVG 32M
+1642 - Yu-Gi-Oh Reshef of Destruction (E) 遊戲王8-破滅之大邪神 多國CAG 128M
+1643 - Boboboubo Boubobo Bakutou Hajike Taisen (J) 爆裂鼻毛真拳-爆鬥臭屁大戰 日
+1644 - Dragonball Z - Bukuu Tougeki (k) 七龍珠Z-舞空鬥劇 韓 FTG 128M
+1645 - Barbie The Princess And The Pauper (U) 芭比-乞丐公主 歐 AVG 32M
+1646 - DragonBall Z Buus Fury (U) 七龍珠Z-普烏之怒 歐 A‧RPG 64M
+1647 - ZOIDS Legacy (U) 機獸新世紀2-傳說 歐 RPG 64M
+1648 - Home on the Range (E) 牧場是我家 多國 ACT 64M
+1649 - Pokemon Emerald (J) 神奇寶貝-綠寶石 日 RPG 128M
+1650 - GBA SP AV Adaptor (J) GBA影音轉接卡 日 ETC 128M
+1651 - Dragon Ball GT Volume 1 - Gameboy Advance Video (J) 七龍珠GT1-GBA電影 日
+1652 - Jimmy Neutron - Attack of the Twonkies (U) 天才小子吉米-Twonkies的攻擊 歐 ACT 32M
+1653 - Advance Guardian Heroes (U) 守護者列傳 歐 ACT 64M
+1654 - Mario Golf Advance Tour (G) 瑪莉歐高爾夫巡迴賽 德 SPG 128M
+1655 - Mario Golf Advance Tour (I) 瑪莉歐高爾夫巡迴賽 意 SPG 128M
+1656 - Mario Golf Advance Tour (F) 瑪莉歐高爾夫巡迴賽 法 SPG 128M
+1657 - Spider-Man 2 (I) 蜘蛛人2 意 ACT 128M
+1658 - Star Wars Trilogy - Apprentice of the Force (E) 星際大戰三部曲-原力學徒 多國 ACT 64M
+1659 - Star Wars Trilogy - Apprentice of the Force (U) 星際大戰三部曲-原力學徒 多國 ACT 64M
+1660 - Monster Bass Fishing (E) 怪物巴斯釣魚 歐 SPG 32M
+1661 - F-Zero GP Legend (U) 極速傳說-法爾康傳說 歐 RCG 128M
+1662 - Advance Guardian Heros (J) 守護者列傳 日 ACT 64M
+1663 - Angel Collection 2 - Pichimo ni Narou (J) 天使的收藏品2-成為雜誌模特  日 TCG 64M
+1664 - Dan Doh Tobase Shouri no Smile Shot (J) 高爾夫小子-揮出勝利之桿 日 SPG 64M
+1665 - Minna no Soft Series Minna no Shogi (J) 全民軟體系列-全民將棋 日 TAB 32M
+1666 - Hot Potato (E) 火熱的馬鈴薯 歐 ACT 32M
+1667 - Backyard Basketball (U) 後院籃球 歐 SPG 32M
+1668 - Action Man Robo Atak (E) 機動人-機器人攻擊 歐  ACT 32M
+1669 - Around the World in 80 Days (E) 環遊地球80天 歐  ACT 32M
+1670 - Bubble Bobble Old And New (U) 泡泡龍-新版&舊版 美 PUZ 32M
+1671 - Fairly Odd Parents 2 - Shadow Showdown (U) 正義雙親2之暗影決戰 美  ACT 32M
+1672 - Shark Tale (U) 鯊魚黑幫 美 ACT 64M
+1673 - Barbie The Princess And The Pauper (E) 芭比-乞丐公主 歐  ACT 32M
+1674 - Ms Pac-Man Maze Madness (U) 小精靈小姐-瘋狂迷宮 美 ACT 32M
+1675 - Pokemon Rojo Fuego (S) 神奇寶貝-火焰紅 西班牙 RPG 128M
+1676 - Pokemon Verde Hoja (S) 神奇寶貝-樹葉綠 西班牙 RPG 128M
+1677 - Pokemon Leaf Green (G)神奇寶貝-樹葉綠 德 RPG 128M
+1678 - Pokemon Fire Red (G) 神奇寶貝-火焰紅 德 RPG 128M
+1679 - Pokemon Fire Red (F) 神奇寶貝-火焰紅 法  RPG 128M
+1680 - Pokemon Leaf Green (F) 神奇寶貝-樹葉綠 法  RPG 128M
+1681 - Kill Switch (U) 殺戮時刻 美 FPS 32M
+1682 - Nicktoons Freeze Frame Frenzy (U) 尼克卡通系列-瘋狂定格 美 PUZ 32M
+1683 - Pokemon GBA Video Volume 3 (U) 神奇寶貝3-GBA電影 美 Video 256M
+1684 - Pokemon GBA Video Volume 4 (U) 神奇寶貝4-GBA電影 美 Video 256M
+1685 - Pokemon Rosso Fuoco (I) 神奇寶貝-火焰紅 意  RPG 128M
+1686 - Pokemon Verde Foglia (I) 神奇寶貝-樹葉綠 意  RPG 128M
+1687 - Nicktoons Collection Volume 2 (U) 尼克卡通集錦2-GBA電影 Video 256M
+1688 - TV Tuner PAL (E) 電視寶-PAL歐規2.0版(pal制，需外設) 歐  ETC 64M
+1689 - TV TUNER PAL 1.3 (E) 電視寶-PAL歐規1.3版(pal制，需外設) 歐  ETC 8M
+1690 - Mario Golf Advance Tour (S) 瑪莉歐高爾夫 西班牙 SPG 128M
+1691 - Pokemon - Leaf Green v1.1 (U) 神奇寶貝-樹葉綠 v1.1 美 RPG 128M
+1692 - Fire Emblem - Seima no Kouseki (J) 聖火降魔錄-聖魔之光石 日  SLG 128M
+1693 - Tony Hawks Underground 2 (U) 湯尼霍克滑板高手-地下競技2 美 SPG 64M
+1694 - Mario Pinball Land (U) 超級瑪莉歐彈珠台 美 PUZ 64M
+1695 - Pokemon Fire Red v1.1 (U) 神奇寶貝-火焰紅 v1.1 美 RPG 128M
+1696 - Lego Knights Kingdom (U) 樂高騎士王國 美 ARPG 32M
+1697 - Starsky and Hutch Repacked Fixed (U) 搞怪小子迪德夫-百萬競賽 美 RCG 32M
+1698 - Titeuf Mega Compet (F) 警網雙雄 法  PUZ 32M
+1699 - Archer Macleans 3D Pool (U) 擬真撞球 美 SPG 32M
+1700 - Fifa Football 2005 (U) FIFA足球2005 美 SPG 64M
+1701 - Wakeboarding Unleashed (U) 極限水上滑板 美 SPG 64M
+1702 - Megaman Zero 3 (U) 洛克人Zero3 美  ACT 64M
+1703 - Mawaru Made in Wario (J) 轉轉壞莉歐工坊 日  PUZ 128M
+1704 - Tak 2 - The Staff of Dreams (U) 塔克歷險記2-夢之杖 美  ACT 64M
+1705 - Disneys Lilo and Stitch 2 (U) 星際寶貝2 美  ACT 64M
+1706 - Shark Tale (E) 鯊魚黑幫 歐  ACT 64M
+1707 - Lizzie McGuire 2 (U) 平民天后2-麗莎的日記 ACT 32M
+1708 - Thats So Raven (U) 就是這樣的瑞文 ACT 32M
+1709 - Tron 2 Killer App (U) 電子世界爭霸戰2.0-殺手程式 ACT 128M
+1710 - Ty the Tasmanian Tiger 2 (U) 泰思虎奇幻冒險2-灌木救援 ACT 64M
+1711 - GBA Video Cartoon Network Collection Volume 2 (U) 卡通頻道集錦2-GBA電影 Video 256M
+1712 - Action Replay GBX 3.1 (E) GBA金手指工具V3.1 ETC 2M
+1713 - Who Wants To Be A Millionaire 2nd ed (E) 誰想成為百萬富翁？第二集 PUZ 32M
+1714 - SD Gundam Force (U) SD鋼彈軍團  ACT 64M
+1715 - WWE Survivor Series (U) 美國摔角聯盟-爆裂摔角生存系列 SPG 32M
+1716 - Kirby And The Amazing Mirror (U) 卡比之星-鏡之大迷宮 ACT 128M
+1717 - Teenage Mutant Ninja Turtles 2 Battle Nexus (U) 忍者龜2-並肩作戰 ACT 64M
+1718 - F-Zero Climax (J) 極速傳說-巔峰之戰 RCG 128M
+1719 - Boktai 2 Solar Boy Django (U) 我們的太陽2-太陽少年傳奇 ARPG 128M
+1720 - Rugrats All Grown Up (U) 小淘氣-我們都長大了  ACT 32M
+1721 - Lego Knights Kingdom (E) 樂高騎士王國 ARPG 32M
+1722 - 2 Games in 1 - Hot Wheels Gamepack 1 - Velocity X + World Race (E) 二合一遊戲-無敵風火輪賽車遊戲包1-疾速賽車X+世界賽車 RCG 128M
+1723 - Golden Nugget Casino (U) 金塊賭場 TAB 32M
+1724 - Sentouin Yamada Hajime (J) 戰鬥員山田始 ARPG 64M
+1725 - Monster Truck (U) 大腳四驅卡車越野賽 RCG 32M
+1726 - Super Hornet FA 18F (U) 超級大黃蜂FA 18F戰機 STG 32M
+1727 - Hamtaro Rainbow Rescue (E) 哈姆太郎4-彩虹救援大作戰 RPG 128M
+1728 - Grand Theft Auto Advance (U) 俠盜獵車手  ARPG 128M
+1729 - Yu-Gi-Oh Destiny Board Traveler (U) 遊戲王-雙六的遊戲 TAB 64M
+1730 - Fruit Mura No Doubutsutachi (J) 水果村的動物們 RPG 64M
+1731 - Akachan Doubutsuen (J) 動物寶寶樂園 RPG 32M
+1732 - Ochaken Kururin Honwaka Puzzle de Hotto Shiyo (J) 綠茶犬-解謎樂 PUZ 32M
+1733 - Twin Series 2 Oshare Princess 4 and Renai Uranai Daisakusen (J) 雙子系列2-俏皮公主4+戀愛占卜大作戰 TAB 32M
+1734 - Shrek 2 Beg for Mercy (U) 史瑞克2-貓的報恩  ACT 64M
+1735 - Duel Masters Sempai Legends (E) 卡片決鬥高手-永恆的傳奇 CAG 64M
+1736 - Majokko Cream-chan no Gokko Series 2 - Kisekae Angel (J) 小魔女系列-換裝天使 TCG 64M
+1737 - Wanko de Kururin Wancle (J) 小狗轉轉樂園 PUZ 64M
+1738 - Majokko Cream-chan no Gokko Series 1 - Wannyan Idol Gakuen (J) 小魔女系列-偶像學園 TCG 32M
+1739 - Pukupuku Tennen Kairanban Koi no Cupid Daisakusen (J) 狗狗小鎮-愛神邱比特大作戰 RPG 32M
+1740 - Licca-Chan no Oshare Nikki (J) 莉卡的時尚日記  RPG 64M
+1741 - Koinu to Issho 2 (J) 與小狗在一起2 TCG 128M
+1742 - Grand Theft Auto Advance (E) 俠盜獵車手  ARPG 128M
+1743 - The Legend of Zelda Fushigi no Boushi (J) 薩爾達傳說-不可思議的帽子 ARPG 128M
+1744 - Texas Holdem Poker (U) 撲克牌錦標賽 TAB 32M
+1745 - Classic NES Series - The Adventure of Link (U) 經典NES系列-薩爾達傳說2-林克大冒險 ARPG 8M
+1746 - Classic NES Series - Castlevania (U) 經典NES系列-惡魔城 ACT 8M
+1747 - Classic NES Series - Dr. Mario (U) 經典NES系列-瑪莉歐醫生 PUZ 8M
+1748 - Classic NES Series - Metroid (U) 經典NES系列-銀河戰士 ACT 8M
+1749 - The Incredibles (U) 超人特攻隊 ACT 64M
+1750 - Elf - The Movie (U) 精靈總動員 ACT 32M
+1751 - Lord of the Rings Third Age (U) 魔戒-第三紀元 SLG 128M
+1752 - Shrek 2 Puss n Bots (E) 史瑞克2-貓的報恩 ACT 64M
+1753 - Duel Masters Kaijudo Showdown (U) 卡片決鬥高手-最後王牌 CAG 64M
+1754 - The Polar Express (U) 北極特快車 ACT 32M
+1755 - Metal Slug Advance (U) 越南大作戰A ACT 64M
+1756 - Smashing Drive (U) 瘋狂駕駛 RCG 64M
+1757 - The Urbz Sims In The City (E) 模擬市民-上流社會 TCG+RPG 256M
+1758 - Legend Of Zelda Minish Cap (E) 薩爾達傳說-不可思議的帽子 ARPG 128M
+1759 - Fairly Odd Parents 2 Shadow Showdown (G) 正義雙親2之暗影決戰 ACT 32M
+1760 - Horse and Pony  - Mein Pferdehof (E) 牧馬場生活 TCG 32M
+1761 - Finding Nemo - The Continuing Adventures (E) 海底總動員-冒險再續 PUZ 32M
+1762 - Shaman King Master of Spirits (U) 通靈王-精神大師 ACT 128M
+1763 - Codename Kids Next Door - Operation S.O.D.A (U) 小孩大聯盟-蘇打行動 ACT 64M
+1764 - Kingdom Hearts - Chain of Memories (J) 王國之心-記憶之鏈 ARPG 256M
+1765 - Pokemon - Edicion Rubi v1.1 (E) 神奇寶貝-紅寶石 v1.1 RPG 128M
+1766 - Pokemon - Edicion Zafiro v1.1 (E) 神奇寶貝-藍寶石 v1.1 RPG 128M
+1767 - Super Real Mahjong Dousoukai (J) 超級真實麻將-同窗會 TAB 64M
+1768 - Shin Megami Tensei Devil Children Messiah Riser (J) 真．女神轉生惡魔之子-梅西亞．萊沙 RTS 64M
+1769 - Lemony Snickets A Series of Unfortunate Events (U) 波特萊爾的冒險 ACT 128M
+1770 - Nicktoons SpongeBob SquarePants and Friends - Freeze Frame Frenzy (E) 尼克卡通系列-瘋狂定格  PUZ 32M
+1771 - Les Indestructibles (E) 超人特攻隊  ACT 64M
+1772 - Hot Wheels Stunt Track Challenge (U) 無敵風火輪賽車-特技挑戰賽 RCG 64M
+1773 - Cabelas Big Game Hunter 2005 (U) 坎貝拉獵鹿人-2005冒險 STG 32M
+1774 - World Championship Poker (U) 世界撲克牌冠軍賽 TAB 32M
+1775 - Need for Speed - Underground 2 (U) 極速快感-飆風再起2 RCG 64M
+1776 - Donkey Kong Country 2 (U) 超級大金剛2  ACT 64M
+1777 - Mario vs Donkey Kong (E) 瑪莉歐對大金剛  ACT 128M
+1778 - Kill Switch (E) 殺戳時刻 FPS 32M
+1779 - DeFeNdEr Of ThE crown (E) 王冠的守護者 SLG 32M
+1780 - Teenage Mutant Ninja Turtles 2 - Battle Nexus (E) 忍者龜2-並肩作戰 ACT 64M
+1781 - Beyblade G-Revolution (U) 爆轉陀螺王-新衍生 RPG 32M
+1782 - Dragon Ball - Advance Adventure (J) 七龍珠-龍珠大冒險  ACT 128M
+1783 - Yu-Yu-Hakusho Tournament Tactics (U) 幽游白書-暗黑武鬥會 SLG 64M
+1784 - Metal Slug Advance (J) 越南大作戰  ACT 64M
+1785 - Creatures (E) 造物計畫 TCG 32M
+1786 - Fear Factor Unleashed (U) 誰敢來挑戰-解脫 PUZ 64M
+1787 - Moto GP & GT Advance 3 Double Pack (E) 二合一遊戲-GTA3概念賽車+GP摩托 RCG 128M
+1788 - Frogger Kodaibunmei no Nazo (J) 青蛙冒險-古文明之謎 RPG 64M
+1789 - Pac-Man World (U) 小精靈的世界 PUZ 64M
+1790 - 2 Games in 1 - Die Monster AG + Findet Nemo (G) 二合一遊戲-怪獸電力公司+海底總動員 ACT 128M
+1791 - Stadium Games (U) 田徑遊戲 SPG 32M
+1792 - Tomb Raider The Prophecy (U) 古墓奇兵-預言 ARPG 64M
+1793 - The Incredibles (G) 超人特攻隊 ACT 64M
+1794 - Gakuen Alice - Dokidoki Fushigi Taiken (J) 學園愛麗絲-奇妙心跳的體驗 TCG 64M
+1795 - Finding Nemo Arata Naru Bouken (J) 海底總動員-冒險再續 PUZ 32M
+1796 - TRON 2.0 Killer App (E) 電子世界爭霸戰2.0-殺手程式 ARPG 128M
+1797 - Disney's Lilo and Stitch 2 Hamsterveil Havoc (E) 迪士尼星際寶貝2 ACT 64M
+1798 - Beyblade G-Revolution (E) 爆轉陀螺王-新衍生 RPG 32M
+1799 - Super Mario Ball (E) 超級瑪莉歐彈珠台 PUZ 64M
+1800 - Gameboy Wars Advance 1 Plus 2 (J) GB高級戰爭1+2Plus SLG 128M
+1801 - Kidou Senshi Gundam Seed Destiny (J) 機動戰士鋼彈SEED-戰鬥攻擊 FTG 64M
+1802 - Yakusoku no Chi Riviera (J) Riviera-約束之地里費拉 RPG 128M
+1803 - Lemony Snickets - A Series of Unfortunate Events (E) 波特萊爾的冒險 ACT 128M
+1804 - Premiere Manager 2004 - 2005 (E) 足球經理2004-2005  SLG 32M
+1805 - Final Fantasy 1 and 2 - Dawn of Souls(U) 太空戰士1+2 RPG 128M
+1806 - The Incredibles (I) 超人特攻隊 ACT 64M
+1807 - Payback (E) 危險人物 ARPG 64M
+1808 - Ms Pac-Man Maze Madness (E) 小精靈大冒險 ACT 32M
+1809 - Moero Jaleco Collection (J) 燃燒吧!傑力可合輯 SPG 32M
+1810 - Final Fantasy 1 and 2 - Dawn of Souls (E) 太空戰士1+2 RPG 128M
+1811 - Power Pro Kun Pocket 7 (J) 實況野球君口袋版7 TCG+RPG 64M
+1812 - The Urbz Sims in the City (J) 模擬市民-上流社會 TCG+RPG 256M
+1813 - Sylvania Family - Fashion Designer ni Naritai (J) 森林家族-服裝設計師之夢！RPG 64M
+1814 - Cinnamon Yume no Daibouken (J) 長耳狗-夢之大冒險 ACT 32M
+1815 - 2 Games in 1 - Disney Prinzessinnen + Disneys Koenig der Loewen (G) 二合一遊戲-迪士尼公主+獅子王 ACT 128M
+1816 - SpongeBob SquarePants The Movie (E) 海綿寶寶歷險-電影版 ACT 64M
+1817 - Dead To Rights (U) 正義戰警 ACT 64M
+1818 - Dora The Explorer Super Star Adventures (U) 探險家朵拉-超級明星歷險 ACT 32M
+1819 - Monopoly (U) 大富翁-地產大亨 TAB 32M
+1820 - Its Mr. Pants (U) 內褲先生！ PUZ 32M
+1821 - Yoshi no Banyu Inryoku (J) 耀西之萬有引力 ACT 64M
+1822 - Dead To Rights (E) 正義戰警 ACT 64M
+1823 - Pac-Man World (E) 小精靈世界 ACT 64M
+1824 - 2 Games in 1 - SpongeBob SquarePants - SuperSponge + Revenge of the Flying Dutchman (E) 二合一遊戲-超級海綿大冒險遊戲包1
+1825 - 2 Games in 1 - SpongeBob SquarePants - SuperSponge + Battle for Bikini Bottom
+(E) 二合一遊戲-超級海綿大冒險遊戲包2
+1826 - R-Type 3 (E) 異形戰機3 STG 32M
+1827 - 2 Games in 1 - Disney Princesse + The Lion King  (F) 二合一遊戲-迪士尼公主+獅子王
+1828 - Kingdom Hearts - Chain of Memories (U) 王國之心-記憶之鏈 ARPG 256M
+1829 - Futari ha Precure Arienaai Yume no Kuni ha Daimeikyuu (J) 光之美少女-不可能!夢之園是大迷宮
+1830 - Korokke Great Toki no Boukensha (J) 口袋夢幻! 萬歲-時空之冒險者 SLG 128M
+1831 - Pukupuku Tennen Kairanban Youkoso Illusion Land he (J) 狗狗小鎮-歡迎來到幻影樂園
+1832 - Rockman EXE 5 Team of Blues (J) 洛克人EXE5-布魯斯小隊
+1833 - Onmyou Taisenki Zeroshiki (J) 陰陽大戰記-零式
+1834 - Spyro Advance Wakuwaku Tomodachi Daisakusen (J) 寶貝龍-朋友大作戰！ ACT 128M
+1835 - Keroro Gunsou Taiketsu Gekisou Keronprix Daisakusen de Arimasu (J) Keroro軍曹對決-激走青蛙大作戰
+1836 - Hello Idol Debut (J) 偶像出道-童星培養遊戲
+1837 - Crash Bandicoot Advance - Wakuwaku Tomodachi Daisakusen (J) 古惑狼大進擊-朋友大作戰 ACT 128M
+1838 - Boukyaku no Senritsu - The Melody of Oblivion (J) 忘卻的旋律 ACT 64M
+1839 - 2 Games in 1 - Power Rangers - Time Force + Power Rangers - Ninja Storm
+(G) 二合一遊戲-金剛戰士-時空大作戰+忍者風暴 ACT 128M
+1840 - Metal Slug Advance (E) 越南大作戰 ACT 64M
+1841 - Monopoly (E) 大富翁-地產大亨 TAB 32M
+1842 - Duel Masters 3 (J) 決鬥卡片高手3 CAG 64M
+1843 - Zettai Zetsumei Dangerous Jiisan 3 Hateshinaki Mamonogatari (J) 走投無路危險爺爺3-無盡的魔物語 ACT 64M
+1844 - Wagamama Fairy Mirumo de Pon Nazo no Kagi to Shinjitsu no Tobir (J) 魔法咪路咪路-謎之鑰及真實之門 TCG 64M
+1845 - Shingata Medarot Kuwagata Version (J) 真型徽章戰士-鍬型蟲版 RPG 64M
+1846 - Shingata Medarot Kabuto Version (J) 真型徽章戰士-甲蟲版 RPG 64M
+1847 - Little Patissier Cake no Oshiro (J) 小小蛋糕屋之城 TCG 64M
+1848 - V-Rally 3 (U) V-越野賽車3 RAC 32M
+1849 - The Lord of the Rings Nakatsukuni Daisanki (J) SLG 魔戒-第三紀元 128M
+1850 - Konjiki no Gashbell Unare Yuujou no Zakeru 2 (J) A·RPG 魔法少年賈修！友情的電擊2 128M
+1851 - Genseishin Justirisers Souchaku Chikyuu no Senshitachi (J) 幻星神正義戰士-變身!地球的戰士們 128M
+1852 - Garfield The Search For Pooky (E) 加菲貓-尋找泰迪熊 ACT 128M
+1853 - Racing Gears Advance (E) 改裝賽車 RAC 64M
+1854 - Extreme Ghostbusters - Code Ecto-1 (U) 終極魔鬼剋星 代號Ecto-1  ACT 32M
+1855 - Tales of the World - Narikiri Dungeon 3 (J) 時空幻境 世界傳奇-魔幻迷宮3 ARPG 128M
+1856 - James Pond Codename Robocod (E) 詹姆士龐德-代號Robocod  ACT 32M
+1857 - Yu-Gi-Oh！ Duel Monsters - International 2 (J) 遊戲王-怪獸決鬥國際版2 RPG 128M
+1858 - Kiss x Kiss Seirei Gakuen (J) Kiss x Kiss 星鈴學院 AVG 32M
+1859 - Medabots Rokusho Version (U) 徽章戰士-六書版 RPG 64M
+1860 - WTA Tour Tennis (U) 超真實女子網球巡迴賽 SPG 32M
+1861 - An American Tail Fievels Gold Rush (U) 美國鼠譚-淘金記 ACT 32M
+1862 - The Land Before Time Collection (U) 歷險小恐龍 ACT 32M
+1863 - Strawberry Shortcake Summertime Adv (U) 草莓娃娃-夏日歷險 ACT 32M
+1864 - Banjo Pilot (U) 哥倆好大進擊-飛行員 RAC 128M
+1865 - Legend of Zelda - The Minish Cap (U) 薩爾達傳說-不可思議的帽子 ARPG 128M
+1866 - 1866 - Mario Party Advance (J) 瑪莉歐派對 TAB 64M
+1867 - 2 Games in 1 - Brother Bear + The Lion King (E) 迪士尼2合1-熊的傳說+獅子王 128M
+1868 - Vattroller X (J) 球鬥士巴特拉Ｘ  ACT+RPG 64M
+1869 - Hobbit No Bouken Lord Of The Rings Hajimari No Monogatari (J) 魔戒前傳-哈比人歷險記 ARPG 128M
+1870 - Bouken Ou Beet Busters Road (J) 少年冒險王-獵人之王 ARPG 64M
+1871 - Lemony Snickets A Series Of Unfortunate Event (G) 波特萊爾的冒險 128M
+1872 - Disneys Aladdin (U) 阿拉丁  ACT 32M
+1873 - Tantei Jinguuji Saburou Shiroi Kage No Syoujyo (J) 偵探神宮寺三郎 白影少女 AVG 64M
+1874 - Sangokushi Koumeiden (J) 三國誌孔明傳 SLG 64M
+1875 - Sangokushi Eiketsuden (J) 三國誌英傑傳 SLG 32M
+1876 - Ganbare Dodge Fighters (J) 加油！躲避球鬥士 SPG 32M
+1877 - Sega Arcade Gallery (U) 世嘉經典街機回顧 RAC 64M
+1878 - Space Channel 5 (E) 太空頻道5 64M
+1879 - Super Robot Taisen Original Gen 2 (J) 超級機器人大戰OG2 128M
+1880 - Donkey Kong King Of Swing (E) 大金剛-搖擺之王 128M
+1881 - Gremlins Stripe vs Gizmo (U) 菲比小精靈 32M
+1882 - Reign Of Fire (E) 火焰末日 64M
+1883 - Rocky (E) 洛基拳擊 64M
+1884 - Megaman Battle Network 4 Red Sun (E) 洛克人網路戰鬥4-紅太陽 64M
+1885 - Shaman King - Legacy of the Spirits - Soaring Hawk (U) 通靈王-精神遺產 翱翔之鷹 128M
+1886 - Shaman King - Legacy of the Spirits - Sprinting Wolf (U) 通靈王-精神遺產 疾速之狼 128M
+1887 - Winnie the Poohs Rumbly Tumbly Adventure (E) 小熊維尼歷險記 32M
+1888 - International Karate Plus (U) 國際空手道大賽加強版 32M
+1889 - Strike Force Hydra (U) 決戰九頭蛇 32M
+1890 - Super Dropzone (U) 超月面地帶 32M
+1891 - World Tennis Stars (U) 世界明星網球賽 32M
+1892 - Medabots - Metabee Version (U) 徽章戰士-藍蜂版 64M
+1893 - Polly! Pocket - Super Splash Island (U) 波莉的美人魚島 64M
+1894 - Megaman Battle Network 4 - Blue Moon (E) 洛克人戰鬥網路4-藍月亮 64M
+1895 - X-bladez - Inline Skater (U) Ｘ旋風直排輪 32M
+1896 - Robot Wars - Advanced Destruction (U) 遙控機器人大戰-進化毀滅 32M
+1897 - Advance Guardian Heroes (E) 守護者列傳 64M
+1898 - Yu-Gi-Oh! 7 Trials to Glory - World Championship Tournament 2005 (U) 遊戲王之榮耀七考驗-世界冠軍錦標賽2005 64M
+1899 - Banjo Pilot (E) 哥倆好大進擊-飛行員 128M
+1900 - Astro Boy Omega Factor (E) 原子小金剛-心的秘密 128M
+1901 - Power Rangers Dino Thunder (E) 金剛戰士-爆龍 32M
+1902 - Legendz - Sign of Nekuromu (J) 玩偶傳說-奈可洛姆的信號 128M
+1903 - Dr Seuss The Cat in the Hat (U) 魔法靈貓 32M
+1904 - Banjo Kazooie - La Venganza De Grunty (S) 哥倆好大進擊-格朗帝的復仇 64M
+1905 - Zoids Saga Fuzors (J) 機獸新世紀-合體大戰 64M
+1906 - Los Increibles (S) 超人特攻隊 64M
+1907 - Finding Nemo - The Continuing Adventures (E) 海底總動員-冒險再續 64M
+1908 - A sound of thunder (U) 雷霆萬鈞 64M
+1909 - Ace Combat Advance (U) 空戰奇兵 32M
+1910 - Klonoa 2 Dream Champ Tournament (U) 風之克羅蒂亞2-夢之選手巡迴賽 32M
+1911 - Super Army War (U) 超級陸戰 32M
+1912 - Robots (U) 機器人歷險記 128M
+1913 - Playan AV Player (J) 播放君-影音擴充裝置 32M
+1914 - Rockman EXE 5 Team of Carnel (J) 洛克人EXE5-卡尼爾小隊 64M
+1915 - Kong The Animated Series (U) 金剛之旅 64M
+1916 - Digimon Battle Spirit 2 (E) 數碼寶貝-鬥魂傳說2 32M
+1917 - Pokemon Versione Rubino v1.1 (I) 神奇寶貝-紅寶石 v1.1 128M
+1918 - Pokemon Versione Zaffiro v1.1 (I) 神奇寶貝-藍寶石 v1.1 128M
+1919 - Silent Scope (E) 沉默的狙擊手 64M
+1920 - Racing Gears Advance (U) 改裝賽車 64M
+1921 - Shark Tale (I) 鯊魚黑幫 64M
+1922 - Aero the Acro-bat (E) 飛天蝙蝠 32M
+1923 - Yu Yu Hakusho Spirit Detective (E) 幽遊白書-靈界偵探 64M
+1924 - Salt Lake 2002 (E) 鹽湖城2002冬季奧運 32M
+1925 - Winnie the Pooh's - Rumbly Tumbly Adventure (E) 小熊維尼歷險記 32M
+1926 - Robots (E) 機器人歷險記 128M
+1927 - Blades of Thunder (U) 雷霆戰鬥直昇機 64M
+1928 - Top Gun Combat Zones (U) 捍衛戰士-戰區爭霸 32M
+1929 - Rave Master Special Attack Force (U) 聖石小子-光與闇之大決戰2 64M
+1930 - Mezase Koushien (J) 目標！甲子園 64M
+1931 - Contra Advance - The Alien Wars EX (E) 魂斗羅-異形戰爭EX  32M
+1932 - Glory Days - Essence Of A War (E) 超級陸戰 32M
+1933 - Sennen Kazoku (J) 千年家族 128M
+1934 - Rayman Hoodlums Revenge (E) 雷曼超人-暴徒的復仇 64M
+1935 - 2 Games in 1 - SpongeBob SquarePants Gamepack 1 (U) 二合一遊戲-海綿寶寶遊戲包1 128M
+1936 - 2 Games in 1 - Scooby-Doo and the Cyber Chase + Scooby-Doo Mystery Mayhem (U) 二合一遊戲-史酷比鬼屋歷險+神秘事件 128M
+1937 - Kappa no Kai-Kata Katan Daibouken (J) 河童養育法-卡丹大冒險 64M
+1938 - Mario Golf Advance Tour (E) 瑪莉歐高爾夫 128M
+1939 - Disney Princesas (S) 迪士尼公主 64M
+1940 - Disney Princesas and Lizzie McGuire (S) 二合一遊戲-迪士尼公主+平民天后 128M
+1941 - Duel Masters Kaijudo Showdown (E) 卡片決鬥高手-最後王牌 128M
+1942 - 2 Games in 1 - Monstruos SA and Buscanda a Nemo (S) 二合一遊戲-怪獸電力公司+海底總動員 128M
+1943 - Backyard Baseball 2006 (U) 後院棒球2006 32M
+1944 - Rayman - Hoodlums Revenge (U) 雷曼超人-暴徒的反擊 64M
+1945 - Bionicle Maze of Shadows (E) 生化戰士-暗影迷宮 64M
+1946 - Tak 2 The Staff of Dreams (E) 塔克歷險記2-夢之杖 64M
+1947 - Maya The Bee Sweet Gold (E) 瑪雅蜜蜂-甜美的黃金 32M
+1948 - Puyo Pop Fever (E) 魔法氣泡-狂熱版 64M
+1949 - Rugrats Castle Capers (E) 小淘氣-城堡探險 32M
+1950 - Shin Sangoku Musou Advance (J) 真‧三國無雙 128M
+1951 - Nyan Nyan Nyanko no Nyan Collection (J) 喵喵小貓遊戲集 64M
+1952 - Mario Party (U) 瑪莉歐派對 64M
+1953 - LEGO Star Wars The Video Game (U) 樂高星際大戰 128M
+1954 - Shark Tale (J) 鯊魚黑幫 64M
+1955 - 2 Games in 1 - Disney Princess + Lizzie McGuire (E) 二合一遊戲-迪士尼公主+平民天后 128M
+1956 - 2 Games in 1 - Monstres Inc + Finding Nemo (I) 二合一遊戲-怪獸電力公司+海底總動員-尋找尼莫 128M
+1957 - Killer 3D Pool (E) 殺手擬真撞球 32M
+1958 - Mr Driller 2 (U) 鑽地先生2 32M
+1959 - Yu-Gi-Oh - Le Jour du Duelliste - World Championship 2005 (E) 遊戲王之榮耀七考驗-世界冠軍錦標賽2005 128M
+1960 - One Piece Going Baseball Haejeok Yaku (K) 海賊王-棒球大決鬥 64M
+1961 - Dragon Ball Advance Adventure (K) 七龍珠-龍珠大冒險 128M
+1962 - Hugo The Evil Mirror (U) 雨果-邪惡的鏡子 32M
+1963 - Tokyo Xtreme Racer Advance (U) 首都高速賽車 32M
+1964 - SpongeBob SquarePants - Volume 3 - Gameboy Advance Video (U) 超級海綿大冒險3-GBA電影256M
+1965 - Cartoon Network Collection Platinum Edition - Gameboy Advance Video (U) 迪士尼卡通頻道集錦1-GBA電影 256M
+1966 - Disney Channel Collection Volume 1 - Gameboy Advance Video (U) 迪士尼卡通頻道集錦1-GBA電影 256M
+1967 - Yoshi's Universal Gravitation (E) 耀西之萬有引力 128M
+1968 - Super Robot Monkey Team Hyperforce Go! Volume 1 - Game Boy Advance Video (U) 超級機器猴隊1-GBA電影 256M
+1969 - Smashing Drive (E) 瘋狂駕駛 64M
+1970 - Popeye Rush for Spinach (U) 大力水手卜派-菠菜狂奔 32M
+1971 - Rockman Zero 4 (J) 洛克人zero4 128M
+1972 - Brother Bear (E) 熊的傳說 64M
+1973 - Kessakusen Ganbare Goemon 1 and 2 (J) 傑作選！大盜五佑衛門 1+2 雪姬與馬基尼斯 128M
+1974 - Meitantei Conan Akatsuki no Monument (J) 名偵探柯南-黎明之碑 64M
+1975 - Pac Man Pinball Advance (U) 小精靈彈珠檯 32M
+1976 - Ochaken no Yumebouken (J) 綠茶犬的夢冒險 64M
+1977 - One Piece Dragon Dream (J) 海賊王-龍之夢 64M
+1978 - The Tower SP (J) 模擬大樓SP 64M
+1979 - Pokemon Version Saphir v1.1 (F) 神奇寶貝 藍寶石 v1.1 128M
+1980 - Pokemon Version Rubis v1.1 (F) 神奇寶貝 紅寶石 v1.1 128M
+1981 - ESPN Winter X Games Snowboarding 2 (E) ESPN冬季極限滑板2 32M
+1982 - Minna no soft series Happy Trump 20 (J) 全民軟體系列-快樂撲克牌20 32M
+1983 - Mr Incredible (J) 超人特攻隊 64M
+1984 - Pokemon Version Rubin v1.1 PROPER (G) 神奇寶貝-紅寶石 v1.1 128M
+1985 - Pokemon Version Saphir v1.1 PROPER (G) 神奇寶貝-藍寶石 v1.1 128M
+1986 - Pokemon Emerald Version (U) 神奇寶貝-綠寶石 128M
+1987 - Killer 3D Pool (U) 殺手擬真撞球 32M
+1988 - The Proud Family Volume 1 - Game Boy Advance Video (U) 驕傲家族-GBA電影 256M
+1989 - Kingdom Hearts Chain of Memories (E) 王國之心-記憶之鏈 256M
+1990 - Relaxuma na Mainichi (J) 懶懶熊的每一天 32M
+1991 - Konchu Monster Battle Master (J) 昆蟲怪獸戰鬥-大師版 64M
+1992 - Konchu Monster Battle Stadium (J) 昆蟲怪獸戰鬥-競技場 64M
+1993 - Star Wars Episode III - Revenge of the Sith (E) 星際大戰三部曲-西斯大帝的復仇 64M
+1994 - Scrabble Blast (U) 瘋狂拼字遊戲 32M
+1995 - Cartoon Network Collection Limited Edition - Gameboy Advance Video (U) 卡通頻道集錦限量版-GBA電影 256M
+1996 - Who Wants to Be a Millionaire？ (A) 誰想成為百萬富翁 32M
+1997 - Fire Emblem - The Sacred Stones (U) 聖火降魔錄-聖魔之光石 128M
+1998 - Star Wars Episode III (U) 星際大戰三部曲-西斯大帝的復仇 64M
+1999 - 2 Games in 1 - Monstres Inc + Finding Nemo (E) 二合一遊戲-怪獸電力公司+海底總動員-尋找尼莫 128M
+2000 - Wario Ware Twisted (U) 轉轉壞莉歐工坊 128M
+2001 - Kawaii Pet Game Gallery 2 (J) 可愛小狗遊戲集合2 64M
+2002 - Kawaii Koinu Wonderful (J) 完美可愛小狗 64M
+2003 - Wanko Mix Chiwanko World (J) 狗狗的愛情世界 64M
+2004 - Madagascar (U) 馬達加斯加 64M
+2005 - Metal Max 2 Kai Version 1.1 (J) 坦克戰記2改 v1.1 32M
+2006 - Pokemon Ruby Version 1.2 (E) 神奇寶貝紅寶石 v1.2 128M
+2007 - Lego 2 in 1 - Bionicle and Knights Kingdom (E) 樂高2合一-生化戰士和騎士王國 128M
+2008 - Bura Bura Donke (J) 大金剛-搖擺之王 64M
+2009 - 2 in 1 Baerenbrueder and Disneys Prinzessinnen (G) 二合一遊戲-熊的傳說+迪士尼公主 128M
+2010 - 2 Games in 1 - Scooby-Doo! - Mystery Mayhem + Scooby-Doo and the Cyber Chase (E) 二合一遊戲-史酷比鬼屋歷險+神秘事件 128M
+2011 - Pokemon Sapphire v1.2 (E) 神奇寶貝-藍寶石 v1.2 128M
+2012 - 2in1 Hermano Oso and Disney Princesas (S) 二合一遊戲-熊的傳說+迪士尼公主 128M
+2013 - Boktai 2 - Solar Boy Django (E) 我們的太陽2-太陽少年傳奇 128M
+2014 - Mario Party Advance (E) 瑪莉歐派對 128M
+2015 - Megaman Battle Network 5 Team Colonel (E) 洛克人網路戰鬥5-卡尼爾小隊 64M
+2016 - Megaman Battle Network 5 Team Protoman (E) 洛克人網路戰鬥5-布魯斯小隊 64M
+2017 - Muppet Pinball Mayhem (E) 芝麻街彈珠台 32M
+2018 - Shrek - Reekin Havoc (E) 史瑞克-臭氣浩劫 64M
+2019 - Lemony Snicket Una Serie di Sfortunati Eventi (I) 波特萊爾的冒險 128M
+2020 - Wings (E) 長空之翼 64M
+2021 - Batman Begins (U) 蝙蝠俠-開戰時刻 128M
+2022 - Yoshi Topsy Turvy (U) 耀西之萬有引力 64M
+2023 - Dragonball Advanced Adventure (E) 七龍珠-龍珠大冒險 128M
+2024 - Mahou Sensei Negima! - Private Lesson Damedesuu Toshokanjima (J) 魔法老師涅吉！私人課程 圖書館 128M
+2025 - Frogger's Adventures - Temple of the Frog (E) 青蛙冒險-蛙之殿堂 64M
+2026 - Shikakui Atama wo Marukusuru Advance - Kokugo Sansu Rika Shakai (J) 方頭腦腦力修行-国語、算數、社會、理科 32M
+2027 - Bouken Yuuki PlaStar World: Densetsu no PlaStar Gate EX (J) 冒險遊記-未發現的傳說ＥＸ 128M
+2028 - Shikakui Atama wo Marukusuru Advance - Kanji Keisan (J) 方頭腦腦力修行-漢字、計算 32M
+2029 - Power Rangers La Force Du Temps (F) 金剛戰士-時空大作戰 64M
+2030 - 2 in 1 Asterix and Obelix (E) 二合一遊戲-幻想新國度PAF!+XXL 128M
+2031 - Disneys Herbie Fully Loaded (U) 迪士尼-金龜車賀比 64M
+2032 - Megaman Battle Network 5 Team Colonel (U) 洛克人網路戰鬥5-卡尼爾小隊 64M
+2033 - Konchu Ouja Mushiking (J) 甲蟲王者-通往偉大冠軍的道路 256M
+2034 - No no no Puzzle Chailien (J) 旋轉方塊大集合 64M
+2035 - Megaman Battle Network 5 Team Protoman (U) 洛克人網路戰鬥5-布魯斯小隊 64M
+2036 - Disney's Magical Quest 3 - Starring Mickey & Donald (U) 迪士尼米老鼠與唐老鴨的魔法冒險3 64M
+2037 - Madagascar (E) 馬達加斯加 64M
+2038 - Fantastic 4 (U) 驚奇四超人 128M ACT
+2039 - Riviera The Promised Land (U) Riviera-約束之地里費拉 128M
+2040 - Fantastic Children (J) 奇幻歷險  ACT
+2041 - 2 Games in 1 - V-Rally 3 + Stuntman (E) 二合一遊戲-V-越野3+特技人 RAC 64M
+2042 - 2 Games in 1 - Disney Princesas + Disney el Rey Leon (S) 二合一遊戲-迪士尼公主+獅子王 128M
+2043 - Waliou Zhizao (C) 壞莉歐工坊 PUZ 64M
+2044 - Miteluote Lingdian Renwu (C) 銀河戰士-零號任務 64M
+2045 - Momotarou Densetsu G Gold Deck wo Tsukure! (J) 桃太郎電鐵G-創造黃金牌組吧！ 128M
+2046 - 2 Games in 1 - Golden Nugget Casino + Texas Hold'em Poker (J) 二合一遊戲-金塊賭城+撲克牌錦標賽 TAB 128M
+2047 - Erementar Gerad (J) 武器種族傳說-受封印之歌 RPG 64M
+2048 - Marheaven Knockin on Heavens Door (J) MAR魔兵傳奇-叩響天國之門 128M
+2049 - Oshare Princess 5 (J) 俏皮公主5 AVG 64M
+2050 - Fantastic 4 (E) 驚奇四超人 128M
+2051 - Herbie Fully Loaded (E) 迪士尼-金龜車賀比 64M
+2052 - Lego Star Wars (J) 樂高星際大戰 128M
+2053 - 2 Games in 1 - Crash & Spyro Super Pack Volume 1 - Season of Ice & Crash Bandicoot 2 - N-Tranced (E) 二合一遊戲-寶貝龍-冰凍的季節+古惑狼大進擊2 128M
+2054 - 2 Games in 1 - Crash & Spyro Super Pack Volume 2 - Spyro 2 - Season of Flame & Crash Nitro Kart (E) 二合一遊戲-寶貝龍2-火焰的季節+古惑狼大冒險-暴走賽車 128M
+2055 - Dynasty Warriors Advance (U) 真・三國無雙 128M
+2056 - Donkey Kong King of Swing (U) 大金剛-搖擺之王 64M
+2057 - 2 Games in 1 - SpongeBob Squarepants - Supersponge + Rugrats - Go Wild (E) 二合一遊戲-超級海綿寶寶大冒險+小淘氣-野外歷險記 64M
+2058 - Aleck Bordon Adventure Tower and Shaft Advance (J) 阿萊克博頓之塔與橋大冒險 32M
+2059 - Charlie and the Chocolate Factory (U) 查理與巧克力冒險工廠 64M
+2060 - Bleach Advance (J) 死神-染紅的屍魂界 256M
+2061 - Disney's Kim Possible 2 (J)  迪士尼麻辣女孩2 64M
+2062 - Disneys Lilo and Stitch 2 (J) 迪士尼星際寶貝2 64M
+2063 - Haro no Puyo Puyo (J) 機動劇團-哈囉哈囉魔法氣泡 64M
+2064 - Charlie and the Chocolate Factory (E) 查理與巧克力冒險工廠 64M
+2065 - Pinball of the Dead (E) 死亡彈珠台 64M
+2066 - Harvest Moon More Friends of Mineral Town (U) 牧場物語-礦石鎮的新夥伴 128M
+2067 - Futari wa Precure Max Heart Maji! Maji! Fight de IN Janai (J) 光之美少女 Max Heart 64M
+2068 - Konjiki no Gashbell The Card Battle for GBA (J) 魔法少年賈修!!GBA卡片戰鬥 128M
+2069 - Shin Bokura no Taiyou Gyakushuu no Sabata (J) 新．我們的太陽-沙巴特的反攻 128M
+2070 - Disneys Kim Possible 3 - Team Possible (U) 迪士尼麻辣女孩3-團隊任務 64M
+2071 - Twin Series 4 - Hamu Hamu Monster EX + F Puzzle Hamusuta (J) 雙子系列4-黃金鼠怪獸EX+黃金鼠物語-魔法迷宮1-3 64M
+2072 - Twin Series 5 - Wanwan Meitantei EX + Manou no Kuni no Cake House (J) 雙子系列5-汪汪名偵探EX+魔法國度蛋糕店物語 64M
+2073 - Twin Series 6 - Wannyan Idol Gakuen + Koinu to Issho (J) 雙子系列6-貓狗偶像學園+與小狗同樂特別版 64M
+2074 - Disney's Thats So Raven 2 - Supernatural Style (U) 就是這樣的瑞文2 64M
+2075 - Shonen Jumps Shaman King - Master of Spirits 2 (U) 通靈王-精神大師2 128M
+2076 - Zooo (E) 動物飼養員 64M
+2077 - 2 Games In 1 - Power Rangers - La Force du Temps + Power Rangers - Ninja Storm (F) 二合一遊戲-金剛戰士-時空大作戰+忍者風暴 128M
+2078 - Madden NFL 2006 (U) 勁爆美式足球2006 32M
+2079 - Dragon Ball GT Transformation (U) 七龍珠GT-突變 128M
+2080 - Steel Empire (E) 鋼鐵帝國 256M
+2081 - Gumby Versus the Astrobots (U) 格賓VS阿斯特羅伯特 32M
+2082 - 2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Jimmy Neutron - Boy Genius (E) 二合一遊戲-超級海綿大冒險-比基尼島的冒險+天才小子吉米 128M
+2083 - 2 Games in 1 - Shrek 2 + Shark Tale (E) 二合一遊戲-史瑞克2+鯊魚黑幫 128M
+2084 - Madagascar (E) 馬達加斯加 64M
+2085 - Animaniacs - Lights, Camera, Action! (E) 狂歡三寶-燈光，鏡頭，開拍! 64M
+2086 - Premier Manager 2005 2006 (E) 足球經理2005-2006 32M
+2087 - Twin Series 3 - Insect Monster + Super China Labyrinth (J) 雙子系列3-昆蟲怪獸+超級中國人 64M
+2088 - Spy Hunter (E) 間諜飛車 64M
+2089 - Twin Series 7 - Twin Puzzle - Kisekae Wanko EX + Puzzle Rainbow Magic 2 (J) 雙子系列7-變裝小狗EX+彩虹魔術方塊2 32M
+2090 - Sigma Star Saga (U) 西格瑪星際傳說 64M
+2091 - Disney's Lizzie McGuire 3 - Homecoming Havoc (U) 平民天后3 64M
+2092 - Pro Mahjong Tsuwamono Advance (J) 職業麻將「兵」A 32M
+2093 - Pac-Man World 2 (E) 小精靈世界2 32M
+2094 - Mortal Kombat Deadly Alliance (E) 真人快打-致命同盟 128M
+2095 - Risk Battleship Clue (U) 戰國風雲-海戰棋-線索 32M
+2096 - Board Game Classics (U) 經典棋盤遊戲 32M
+2097 - Ed, Edd n Eddy Jawbreakers! (E) 搗蛋三傻-嘮叨的傢伙們 32M
+2098 - Dexter's Laboratory - Chess Challenge (E) 德克斯特的實驗室-西洋棋挑戰賽 64M
+2099 - 2 Games in 1 - Spider-Man & Spider-Man 2 (E) 二合一遊戲-蜘蛛人-電影版+蜘蛛人2 256M
+2100 - 2 Games in 1 - Tony Hawk's Underground & Kelly Slater's Pro Surfer (U) 二合一遊戲-湯尼霍克滑板高手-地下競技+凱利史雷特花式衝浪 128M
+2101 - Pac-Man Pinball Advance (E) 小精靈彈珠台 32M
+2102 - Pinball Tycoon (E) 彈珠台大亨 32M
+2103 - Kunio kun Nekketsu Collection 1 (J) 國夫君熱血紀念館1 32M
+2104 - 2 in 1 - Spider-Man Mysterio's Menace e X-Men 2 Wolverine's Revenge (U) 二合一遊戲-蜘蛛人-未知的威脅+X戰警2-金鋼狼之復仇 128M
+2105 - Madagascar (S) 馬達加斯加 64M
+2106 - Monster Jam: Maximum Destruction (E) 怪物卡車大毀滅 64M
+2107 - Ride Amdriver Shuggeki Battle Party (J) 武裝特騎-戰鬥隊伍出擊 64M
+2108 - Poke Inu - Poket Dogs (J) 口袋小狗 64M
+2109 - Rockman EXE 4 Red Sun v1.1 (J) 洛克人EXE4對抗賽-紅太陽 v1.1 64M
+2110 - Connection Four, Perfection & Trouble (U) 四連環-完美-麻煩 32M
+2111 - Marble Madness & Klax (U) 瘋狂彈珠&立體方塊 32M
+2112 - Centipede, Breakout, Warlords (U) 小遊戲3合一-蟲蟲入侵&突破重圍&戰神 32M
+2113 - Namco Museum 50th Anniversary (U) 拿姆科博物館50週年 64M
+2114 - Paperboy, Rampage (U) 小遊戲2合一 送報童&毀滅金剛 32M
+2115 - Pong, Asteroids, Yars' Revenge (U) 小遊戲3合一 碰碰彈子台&爆破慧星&亞爾斯復仇記 32M
+2116 - Sorry!, Aggravation, Scrabble Junior (U) 小遊戲3合一 可憐蟲!&印度棋&英語棋板 32M
+2117 - Casper (U) 鬼馬小精靈 32M
+2118 - Rebelstar Tactical Command (U) 叛星-戰略指揮官 32M
+2119 - Tim Burton's The Nightmare Before Christmas The Pumpkin King (J) 聖誕夜驚魂-南瓜王 64M
+2120 - Wagamama Fairy Milmo de Pon Dokidoki Memorial Panic (J) 魔法咪路咪路-心跳回憶永久紀念 日 256M
+2121 - Rayman 10th Anniversary - Rayman Advance + Rayman 3 (E) 雷曼超人十週年合輯-雷曼超人+雷曼超人3 歐 128M
+2122 - Board Game Classics (E) 經典棋盤遊戲 歐 32M
+2123 - James Pond: Codename Robocod (U) 詹姆士龐德-代號Robocod 美 64M
+2124 - Fantastic 4 (E) 驚奇四超人 歐 128M
+2125 - Super Robot Taisen (J) 超級機器人大戰J 日 128M
+2126 - Mario Tennis Advance (J) 瑪莉歐網球 日 128M
+2127 - Dr. Mario & Panel de Pon (J) 瑪莉歐醫生&面板方塊 日
+2128 - The Koala Brothers - Outback Adventures (J) 無尾熊兄弟-內陸探險 日
+2129 - MegaMan Zero 4 (E) 洛克人Zero 4 128M
+2130 - Yu-Gi-Oh! Destiny Board Traveler (E) 遊戲王-雙六的遊戲 128M
+2131 - Shaman King Master of Spirits (E) 通靈王-精神大師 ACT 128M
+2132 - Barbie and the Magic of Pegasus (U) 芭比與魔幻飛馬之旅 32M
+2133 - 2 Games in 1 - Scooby-Doo + Scooby-Doo 2 - Desatado (S) 二合一遊戲-史酷比鬼屋歷險-動畫圖片+史酷比2-怪獸出籠 128M
+2134 - 2 Games in 1 - Power Rangers - Time Force + Power Rangers - Ninja Storm (S) 二合一遊戲-金剛戰士-時空大作戰+忍者風暴 128M
+2135 - Scooby-Doo - The Motion Picture (E) 史酷比鬼屋歷險-動畫圖片 ETC
+2136 - Gyakuten Saiban Best Price v1.1 (J) 逆轉裁判 v1.1 64M
+2137 - 2 Games in 1 - Cartoon Network - Block Party + Cartoon Network - Speedway (U) 二合一遊戲-卡通頻道-瘋狂派對&卡通頻道-高速飆車 64M
+2138 - 2 Games in 1 - Monster Trucks + Quad Desert Fury (U) 二合一遊戲-大腳四驅卡車越野賽&沙漠狂暴人競技賽 64M
+2139 - 2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - Time Force (U) 二合一遊戲-金剛戰士-忍者風暴&時空大作戰 128M
+2140 - Bionicle - Maze of Shadows (U) 生化戰士-暗影迷宮 64M
+2141 - Gauntlet & Rampart (U) 鐵腕戰士&堡壘 32M
+2142 - Millipede Super Breakout Lunar Lander (U) 變形蟲&超級突破重圍&月球登陸者 32M
+2143 - Power Rangers SPD (U) 金剛戰士SPD 32M
+2144 - Rayman 10th Anniversary - Rayman Advance + Rayman 3 (U) 雷曼超人十週年合輯-雷曼超人+雷曼超人3 128M
+2145 - Scooby-Doo! Unmasked (U) 史酷比鬼屋歷險-原形畢露 64M
+2146 - Spy Hunter & Super Sprint (U) 間諜飛車&超級衝刺賽 32M
+2147 - Tak The Great Juju Challenge (U) 塔克歷險記-偉大符咒的挑戰 64M
+2148 - 2 Games in 1 - Barbie Secret Agent - Royal Jewels Mission + Barbie Groovy Games (U) 二合一遊戲-芭比-秘密間諜+芭比-益智小遊戲 128M
+2149 - TG Rally (E) 超越顛峰越野賽 32M
+2150 - Danny Phantom - The Ultimate Enemy (U) 幻影丹尼-終極敵人 32M
+2151 - Whac-a-mole (U) 打地鼠 64M
+2152 - Disney's Cinderella - Magical Dreams (U) 迪士尼仙履奇緣-奇幻之夢 64M
+2153 - 2 Games in 1 - Hot Wheels - Velocity X + Hot Wheels - World Race (U) 二合一遊戲-無敵風火輪賽車-疾速賽車X&世界賽車 128M
+2154 - Screw Braker Goushin Drillero (J) 螺旋破碎機-轟振 64M
+2155 - The Berenstain Bears (U) 貝貝熊與老樹精 32M
+2156 - Ultimate Spider-Man (U) 終極蜘蛛人 128M
+2157 - Shonen Jumps One Piece (U) 海賊王-跳耀的少年 64M
+2158 - FIFA 2006 (U) 國際足盟大賽2006 64M
+2159 - Bibi Blocksberg - Der magische Hexenkreis (G) 比比小魔女 128M
+2160 - The Fairly Odd Parents! - Clash with the Anti-World (U) 正義雙親-反物質世界的衝突 32M
+2161 - Super Mario Advance 4 v1.1 (U) 超級瑪莉歐4 v1.1 32M
+2162 - 2 Games in 1 - Barbie Secret Agent - Royal Jewels Mission + Barbie Groovy Games (E) 二合一遊戲-芭比-秘密間諜+芭比-益智小遊戲 64M
+2163 - Pac-Man World 2 (U) 小精靈的世界2 32M
+2164 - Gunstar Super Heroes (J) 超級火槍英雄 64M
+2165 - Pro Action Replay (J) GBA金手指工具 8M
+2166 - Megaman Zero 4 (U) 洛克人zero4 128M
+2167 - Bratz Rock Angelz (U) 貝茲娃娃-搖滾天使 64M
+2168 - Tim Burton's The Nightmare Before Christmas - The Pumpkin King (U) 聖誕夜驚魂-南瓜王 64M
+2169 - Backyard Skateboarding (U) 庭院滑板 32M
+2170 - Ever Girl (U) 時尚女孩 32M
+2171 - Chicken Shoot (E) 獵雞大戰 32M
+2172 - Driv3r (E) 極道車魂3 64M
+2173 - Ultimate Spider-Man (E) 終極蜘蛛人 128M
+2174 - Tsuukin Hitofude (J) 通勤一筆 32M
+2175 - Yu-Gi-Oh! Duel Monsters GX - Mezase Duel King! (J) 遊戲王怪獸對決GX-目標決鬥王! 256M
+2176 - Teen Titans (U) 少年悍將 64M
+2177 - Horse And Pony Lets Ride 2 (E) 牧馬場生活2 256M
+2178 - Pokemon Pinball R&S v1.1 (J) 神奇寶貝彈珠台-紅寶石和藍寶石 v1.1 64M
+2179 - Madagascar (I) 馬達加斯加 64M
+2180 - I Fantastici 4 (I) 驚奇四超人 128M
+2181 - Kid's Cards (U) 兒童撲克 32M
+2182 - GBA VIDEO Cartoon Network Collection Special Edition (U) 卡通頻道集錦特別版-GBA電影 256M
+2183 - Duel Masters Shadow Of The Code (E) 卡片決鬥高手-神影代碼 128M
+2184 - Breakout & Centipede & Warlords (E) 蟲蟲入侵&突破重圍&戰神 128M
+2185 - Pokemon Smaragd (G) 神奇寶貝-綠寶石 128M
+2186 - 2 Games in 1 - Crash & Spyro Super Pack Volume 3 - Spyro 2 - Spyro Fusion & Crash Bandicoot Fusion (E) 二合一遊戲-寶貝龍Fusion+古惑狼Fusion 256M
+2187 - Pokemon Emeraude (F) 神奇寶貝-綠寶石 128M
+2188 - Backyard Football 2006 (U) 熱血美式足球2006 32M
+2189 - Madagascar: Operation Penguin (U) 馬達加斯加-企鵝大行動 64M
+2190 - Pokemon Esmeralda (S) 神奇寶貝-綠寶石 128M
+2191 - World Poker Tour (U) 世界撲克巡迴大賽 32M
+2192 - Duel Masters - Shadow of the Code (U) 卡片決鬥高手-神影代碼 128M
+2193 - SpongeBob SquarePants - Lights, Camera, Pants! (E) 海綿寶寶-燈光、照相、內褲！ 32M
+2194 - Tony Hawk's American Sk8land (U) 湯尼霍克滑板高手-美國SK8Land 64M
+2195 - Compilation Paperboy & Rampage (E) 送報童&毀滅金剛 32M
+2196 - 2 Games in 1 - Crash Bandicoot 2 - N-Tranced + Crash Nitro Kart (U) 二合一遊戲-古惑狼大進擊2+古惑狼大冒險-暴走賽車 256M
+2197 - 2 Games in 1 - Hugo - Bukkazoom! + Hugo - The Evil Mirror Advance (E) 二合一遊戲-雨果-瓢蟲賽車+雨果-邪惡的鏡子 64M
+2198 - Madagascar - Operation Penguin (E) 馬達加斯加-企鵝大行動 64M
+2199 - Gunstar Super Heroes (U) 超級火槍英雄 64M
+2200 - Frontier Stories (J) 開拓戰記 64M
+2201 - Kunio Kun Nekketsu Collection 2 (J) 國夫君熱血紀念館2 32M
+2202 - Barbie and the Magic of Pegasus (E) 芭比與魔幻飛馬之旅 32M
+2203 - Chicken Little (U) 四眼天雞 64M
+2204 - Ultimate Arcade Games (U) 終極街機遊戲 32M
+2205 - The Sims 2 (U) 模擬市民2 256M
+2206 - Care Bears - The Care Quests (E) 愛心熊之愛心任務 32M
+2207 - Pokemon Smeraldo (I) 神奇寶貝-綠寶石 128M
+2208 - Witch (E) 魔力女巫 64M
+2209 - Space Invaders (F) 太空侵略者 32M
+2210 - Driv3r (U)  極道車魂3 64M
+2211 - Nicktoons Unite (U) 尼克卡通系列大集合! 32M
+2212 - Sky Dancers They Magically Fly (U) 舞蹈仙子-魔法飛舞 32M
+2213 - Dr.Mario & Puzzle League (E) 瑪莉歐醫生&面板方塊 64M
+2214 - Donkey Kong Country 3 (E) 超級大金剛3 128M
+2215 - Fire Emblem - The Sacred Stones (E) 聖火降魔錄-聖魔之光石 256M
+2216 - Dog Trainer (E) 小狗訓練員 Mario 64M
+2217 - Gauntlet & Rampart (E) 鐵腕戰士&堡壘 32M
+2218 - 2 Games in 1 - Sonic Pinball Party + Sonic Advance (E) 二合一遊戲-音速小子彈珠派對+音速小子 128M
+2219 - Big Mutha Truckers (U) 瘋狂卡車 32M
+2220 - Donkey Kong Country 3 (U) 超級大金剛3 128M
+2221 - Ty the Tasmanian Tiger 3 (U) 泰思虎奇幻冒險3-魁剛的夜晚 64M
+2222 - Gunstar Future Heroes (E) 超級火槍英雄 64M
+2223 - Harry Potter and the Goblet of Fire (E) 哈利波特-火盃的考驗 256M
+2224 - Shrek: Super Slam (U) 史瑞克-超級撞擊 64M
+2225 - 2 Games in 1 - Columns Crown + Chu Chu Rocket! (E) 二合一遊戲-寶石方塊+啾啾火箭隊! 238M ETC
+2226 - Compilation Marble Madness and Klax (E) 瘋狂彈珠&立體方塊 32M
+2227 - 2 Games in 1 - Sonic Pinball Party + Sonic Battle (E) 二合一遊戲-音速小子彈珠派對+音速小子對戰  256M
+2228 - 2 Games in 1 - Sonic Advance + Sonic Battle (E) 二合一遊戲-音速小子+音速小子對戰  128M
+2229 - The Incredibles Rise Of The Underminer (E) 超人特攻隊 64M
+2230 - 2 Games in 1 - Lilo & Stitch 2 + Peter Pan - Return to Neverland (E) 二合一遊戲-星際寶貝2+小飛俠-回到夢不落帝國 128M
+2231 - The Bible Game (U) 聖經遊戲 64M
+2232 - Action Replay MAX (E) GBA/DS金手指工具MAX 8M
+2233 - King Kong - The Official Game of the Movie (E) 金剛 64M
+2234 - Ford Racing 3 (U) 福特賽車3 32M
+2235 - Tony Hawk's American Sk8land (E) 湯尼霍克滑板高手-美國SK8Land  64M
+2236 - Shrek Super Slam (E) 史瑞克 超級碰撞 64M
+2237 - SpongeBob SquarePants Lights Camera Pants (E) 海綿寶寶-燈光、照相、內褲 64M
+2238 - Fairly Odd Parents Clash With The Anti-Wold (E) 正義雙親-反物質世界的突變 32M
+2239 - Pokemon Fushigi no Dungeon Aka no Kyuujotai (J) 神奇寶貝不可思議的迷宮-赤色救難隊 256M
+2240 - Mario Tennis Advance Power Tour (E) 瑪莉歐網球 128M
+2241 - Atomic Betty (U) 超級貝蒂 64M
+2242 - Hello Kitty - Happy Party Pals (U) 凱蒂貓的開心派對 32M
+2243 - Fantastic 4 - Flame On (U) 驚奇4超人-霹靂火 64M
+2244 - Spy Hunter and Super Sprint (E) 間諜獵人和超級衝刺 32M
+2245 - The Chronicles of Narnia - The Lion, The Witch and The Wardrobe (U) 納尼亞傳奇-獅子‧女巫‧魔衣櫥 128M
+2246 - Super Breakout, Lunar Lander, Millipede (E) 變形蟲&超級突破重圍&月球登陸者 32M
+2247 - Asteroids, Pong, Yars' Revenge (E) 碰碰彈珠台&爆破慧星&亞爾斯復仇記 32M
+2248 - Bratz Rock Angelz (G) 貝茲娃娃-搖滾天使 64M
+2249 - Totally Spies! (E) 校園嬌娃 64M
+2250 - Need for Speed Most Wanted (U) 極速快感-全民公敵 64M
+2251 - The Incredibles Rise of the Underminer (U) 超人特攻隊2 64M
+2252 - Ultimate Puzzle Games (U) 終極益智遊戲 32M
+2253 - RockMan EXE 6 Dennoujuu Faltzer (J) 洛克人EXE6-電腦獸法爾扎 64M
+2254 - RockMan EXE 6 Dennoujuu Grega (J) 洛克任EXE6-電腦獸葛雷加 64M
+2255 - WinX Club (E) 魔法俏佳人 128M
+2256 - My Pet Hotel (E) 我的寵物旅館 64M
+2257 - Shamu's Deep Sea Adventures (U) 海洋世界-夏慕的深海冒險 256M
+2258 - Trollz - Hair Affair! (U) 奇幻漫舞 64M
+2259 - Ottifanten Pinball (G) 大象彈珠台 32M
+2260 - Dynasty Warriors Advance (E) 真‧三國無雙 128M
+2261 - Dr Mario and Puzzle League (U) 瑪莉歐醫生&面板方塊 64M
+2262 - Franklin's Great Adventure (E) 小烏龜富蘭克林的大冒險 32M
+2263 - Madagascar Operation Penguin (E) 馬達加斯加-企鵝大行動 64M
+2264 - Crazy Frog Racer (E) 起笑蛙賽車 32M
+2265 - Franklin the Turtle (U) 小烏龜富蘭克林 32M
+2266 - Care Bears - The Care Quest (U) 愛心熊-愛心任務 32M
+2267 - The Proud Family (U) 驕傲家族 64M
+2268 - Land Before Time Into The Mysterious Beyond (E) 歷險小恐龍-神秘之境 64M
+2269 - Sugar Sugar Rune Heart Ga Ippai Moegi Gakuen (J) 小魔女安野夢洋子-充滿愛心的萌黃學園 64M
+2270 - Super Donkey Kong Country 3 (J) 超級大金剛3 128M
+2271 - Konjiki no Gashbell!! Yuujou no Zakeru Dream Tag Tournament (J) 魔法少年賈修!!-友情的電擊-夢幻搭檔錦標賽 128M
+2272 - Mario Tennis Power Tour (U) 瑪莉歐網球 128M
+2273 - Summon Night Craft Sword Monogatari Hajimari no Ishi (J) 召喚之夜 鑄劍物語-起源之石 256M
+2274 - Final Fantasy IV (J) 太空戰士4 64M
+2275 - Final Fantasy IV (U) 太空戰士4 64M
+2276 - Strawberry Shortcake Ice Cream Island Riding Camp (E) 草莓娃娃-冰淇淋之島 64M
+2277 - Heidi - The Game (E) 小天使 32M
+2278 - Dogz (U) 完美可愛小狗 64M
+2279 - Ed, Edd n Eddy - The Mis-Edventures (U) 搗蛋三傻-混亂大冒險 64M
+2280 - Elf Bowling 1 and 2 (U) 聖誕保齡球1&2 32M
+2281 - Kong The 8th Wonder of the World (U) 金剛 64M
+2282 - Snood 2 On Vacation (E) 怪頭射波2-怪頭假期 32M
+2283 - Totally Spies (U) 校園嬌娃 64M
+2284 - ZatchBell! - Electric Arena (U) 魔法少年賈修!!-友情的電擊 64M
+2285 - Hudson Best Collection 3 (J) 哈德森精選集3 32M
+2286 - Twin Series 1 Mezase Debut! Fashion Designer Monogatari + Kawaii Pet Game Gallery 2 (J) 雙子系列1-流行設計師養成+可愛小狗遊戲集合2 128M
+2287 - Hi Hi Puffy AmiYumi Kaznapped (U) 帕妃二人組 64M
+2288 - 2 In 1 - Dragonball Z 1 And 2 (U) 七龍珠Z-悟空傳說1+2 128M
+2289 - Kong - King of Atlantis (U) 金剛之旅-亞特蘭提斯之王 32M
+2290 - Madagascar Operation Penguin (E) 馬達加斯加-企鵝大行動 64M
+2291 - Garfield - The Search for Pooky (U) 加菲貓-尋找泰迪熊 64M
+2292 - The Amazing Virtual Sea Monkeys (U) 神奇海洋猴精靈 32M
+2293 - Tiny Toon Adventures - Scary Dreams (U) 邦尼兔大冒險-糟糕的夢 32M
+2294 - La famille Delajungle, le film (F) 狂野叢林-電影 32M
+2295 - 2 in 1 - Sonic Advance and Sonic Pinball (U) 二合一遊戲-音速小子彈珠派對+音速小子 128M
+2296 - Ochainu no Bouken Jima (J) 茶犬的冒險島-溫和的夢之島 64M
+2297 - Hi Hi Puffy AmiYumi Kaznapped (J) 帕妃二人組 64M
+2298 - Play-Yan Micro (J) 播放君-GBM專用影音播放器 128M
+2299 - 2 Games in 1 - Castlevania - Harmony of Dissonance + Castlevania - Aria of Sorrow (U) 二合一遊戲-惡魔城-白夜協奏曲+惡魔城-悲傷的詠嘆調 128M
+2300 - Pocket Dogs (U) 口袋小狗 64M
+2301 - WinX Club (U) 魔法俏佳人 128M
+2302 - Yu-Gi-Oh! GX Duel Academy (U) 遊戲王怪獸對決GX-目標決鬥王！ CAG
+*********************************************************************************
+2303 - 2 Games in 1 - Looney Tunes - Dizzy Driving + Looney Tunes - Acme Antics (E) 華納巨星2合1 歐  ACT
+2304 - Greg Hastings Tournament Paintball MAXd (U) 格雷戈哈斯汀-彩彈競技場MAXd 歐
+2305 - Hello Kitty-Happy Party Pals (E) 凱蒂貓-快樂派對 TCG
+2306 - Curious George (U) 好奇猴喬治 歐  ACT
+2307 - Die wilden Fussball Kerle (G) 瘋狂爆裂橄欖球 德 ACT
+2308 - Drill Dozer (U) 轟震鑽頭 歐  ACT
+2309 - Wintersports (E) 冬季運動會 SPG
+2310 - Alien Hominid (E) 外形原人 ACT
+2311 - 2 Games in 1 - Cartoon Network Block Party and Speedway (E) 遊戲2合1-卡通網絡包-黑色聚會和賽車 多國 ACT
+2312 - Big Mutha Truckers (E) 重金屬卡車 RCG
+2313 - Ford Racing 3 (E) 福特賽車3 多國 RCG
+2314 - GBADev 2004Mbit Compeition (U) GBA小遊戲合集 歐  ACT
+2315 - Power Rangers SPD (E) 鳥人戰隊SPD 多國  ACT
+2316 - Global Star Sudoku Fever (U) 拼圖數獨九宮格 歐  PUZ
+2317 - Shaman King-Master Of Spirits 2 (E) 通靈王2-精神大師 A·RPG
+2318 - Spongebob Squarepants And Friends Unite! (E) 超級海綿寶寶和他的朋友們 多國 ACT
+2319 - 2 Games in 1 - Castlevania DoublePack (E) 遊戲2合1-惡魔城合集 多國  A·RPG
+2320 - Tak The Great JuJu Challenge (E) 塔克-偉大的符咒挑戰 多國 ACT
+2321 - 3 Games in 1 - Darts Shuffle Skiball (E) 新遊戲3合1-飛鏢.保齡球.投洞球 多國  PUZ
+2322 - Yu-Gi-Oh Duel Monsters Expert 2006 (J) 遊戲王-決鬥怪獸專家版2006 日 CAG
+2323 - Disney's Kim Possible 2 (E) 迪士尼之麻辣女孩2 多國 ACT
+2324 - Paws and Claws-Pet Resort (U) 我的寵物旅館 歐 TCG
+2325 - 2 Games in 1 - Disney Sportpack (E) 遊戲2合1-迪士尼全明星運動系列足球‧滑板 多國 SPG
+2326 - 2 Games in 1 - Findet Nemo + Die Unglaubichen (G) 遊戲2合1-海底總動員-尋找尼莫和超人特攻隊 德 ACT
+2327 - 2 Games in 1 - Findet Nemo+Findet Nemo-Das Abenteuer geht weiter (G) 遊戲2合1-海底總動員-尋找尼莫和冒險再續 德 ACT
+2328 - Kong-King of Atlantis (E) 金鋼-亞特蘭蒂斯 多國 ACT
+2329 - Yaoxi Dao (C) 神遊之耀西島 ACT
+2330 - Miteluode Ronghe (C) 銀河戰士融合 A·RPG
+2331 - Tales of Phantasia (U) 時空幻境 歐 A·RPG
+2332 - 2 Games in 1 -  Golden Nugget and Texas Poker (E) 遊戲2合1-撲克牌遊戲合集 歐 TAB
+2333 - 2 Games in 1 - Quad Desert + Monster Truck (E) 遊戲2合1-沙漠狂暴人競技賽和怪獸大腳車 歐 RCG
+2334 - Naruto Ninja Council (U) 火影忍者-最強忍者大集合1 歐 ACT
+2335 - Akagi (J) 鬥牌傳說 日 PUZ
+2336 - Hudson Best Collection 6 (J) 任天堂懷舊系列Hudson經典收藏6-冒險島篇 日 ACT
+2337 - Ueki no Housoku (J) 植木的法則-神器炸裂!能力者之戰 日 FTG
+2338 - Scooby-Doo! Unmasked (E) 史諾比-原形畢露 多國 ACT
+2339 - Kunio Kun Nekketsu Collection 3 (J) 國夫君熱血紀念館3 日 SPG
+2340 - Ice Age 2 The Meltdown (U) 冰河歷險記2 歐 ACT
+2341 - 2 Games in 1 - Yu-Gi-Oh The Sacred Cards and Reshef of Destruction (E) 遊戲2合1-遊戲王合集 多國 CAG
+2342 - 2 Games in 1 - Teenage Mutant Ninja Turtles 1+2 (E) 遊戲2合1-忍者龜1+2 多國 ACT
+2343 - Yu-Gi-Oh! Ultimate Masters 2006 (U) 遊戲王-決鬥怪獸專家版2006 歐 CAG
+2344 - Kawa no Nushitsuri 3+4 (J) 新遊戲2合1-川釣太郎3+4 日 A·RPG
+2345 - 3 Games in 1 - Majesco Sports Pack (E) 新遊戲3合1-運動遊戲合集 多國 SPG
+2346 - Yu-Gi-Oh World Championship Tournament 2006 (E) 遊戲王-決鬥怪獸專家版2006 多國 CAG
+2347 - Pawa Poke Dash (J) 實況野球Dash 日 SPG
+2348 - Yggdra Union We'll Never Fight Alone (J) 聖劍同盟 日 S·RPG
+2349 - The Tower SP (U) 模擬大樓SP 歐 SLG
+2350 - Catz (U) 可愛小貓們 歐 TCG
+2351 - Tales of Phantasia (E) 時空幻境 多國 A·RPG
+2352 - Street Racing Syndicate (U) 街頭賽車聯盟 歐 RCG
+2353 - Ice Age 2 - The Meltdown (E) 冰河歷險記2 多國 ACT
+2354 - Top Spin 2 (U) 上旋網球高手2 歐 SPG
+2355 - Lets Ride Dreamer (U) 大家來騎馬-夢想家 歐 TCG
+2356 - Sudoku Fever (E) 拼圖數獨九宮格 多國 PUZ
+2357 - Let's Ride!-Sunshine Stables (U) 大家來騎馬-陽光馬廄 歐 TCG
+2358 - Chaoji Maliou Shijie (C) 超級瑪莉歐世界 ACT
+2359 - World Poker Tour (E) 世界撲克聯合巡迴大賽 多國 PUZ
+2360 - Yu-Gi-Oh!-Duel Monsters International v1.1 (J) 遊戲王-怪獸決鬥國際版1.1版 日  CAG
+2361 - Shinchan-Aventuras en Cineland (S) 蠟筆小新-電影樂園大冒險 ACT
+2362 - Namco Museum 50th Anniversary (E) 拿姆科50周年經典博物館 多國 ETC
+2363 - Polarium Advance (E) 通勤一筆 多國 PUZ
+2364 - Ed Edd n Eddy The Misedventures (E) 搗蛋三傻-混亂大冒險 多國 ACT
+2365 - Elf The Movie (E) 聖誕精靈-電影版 多國 AVG
+2366 - The Wild (U) 迪士尼之野蠻任務 歐 ACT
+2367 - Crayon Shin chan-Densetsu wo Yobu Omake no Miyako Shockgaan (J) 蠟筆小新2-呼喚傳說食玩都冒險 日 ACT
+2368 - 2 Games in 1 - Monstres + Cie+Le Monde de Nemo (F) 遊戲2合1-迪士尼怪獸電力公司和海底總動員-尋找尼莫 法 ACT
+2369 - Fantastic 4 - Flame On (E) 神奇四超人-霹靂火 多國 ACT
+2370 - Eyeshield 21 Devilbats Devildays (J) 光速蒙面俠21-惡魔蝙蝠惡魔日 日 TCG
+2371 - Minna no Soft Series Numpla Advance (J) 大眾遊戲系列-數獨遊戲 PUZ
+2372 - Breath of Fire (E) 龍戰士 多國 RPG
+2373 - Nakayoshi Pet Advance Series 3 - Kawaii Koneko v1.1 (J) 動物伴侶系列三-可愛小貓1.1版 TCG
+2374 - Sonic Advance v1.1 (J) 音速小子大冒險1 1.1版 日 ACT
+2375 - Top Spin Tennis 2 (E) 上旋網球高手2 多國 SPG
+2376 - Scooby Doo Unmasked (E) 史酷比-原形畢露 多國 ACT
+2377 - Mother 3 (J) 地球冒險3 日 RPG
+2378 - Cabbage Patch Kids The Patch Puppy Rescue (U) 捲心菜娃娃 歐 ACT
+2379 - The Land Before Time Into the Mysterious Beyond (U) 歷險小恐龍-神秘之境 歐 ACT 37.75
+2380 - Franklins Great Adventures (U) 小烏龜弗蘭克林的偉大冒險 歐 ETC 29.75
+2381 - Danny Phantom - The Ultimate Enemy (E) 幻影丹尼-終極敵人 多國 ACT 29.75
+2382 - 2 Games in 1 - Titeuf-Ze Gagmachine+Titeuf-Mega Compet' (F) 遊戲2合1 - 壞小子-迪德夫合集 法 ACT 63.00
+2383 - 2006 FIFA World Cup (U) 2006 FIFA足球世界盃 歐 SPG 57.00
+2384 - Konchuu no Mori no Daibouken (J) 昆蟲之森的大冒險 日 TCG 47.00
+2385 - Hudson Best Collection 1 (J) 任天堂懷舊系列Hudson經典收藏1-炸彈人篇 日 ACT 3.75
+2386 - 2 Games in 1 - Finding Nemo + The Incredibles (E) 遊戲2合1-海底總動員-尋找尼莫和超人特攻隊 多國 ACT 127.50
+2387 - Dragon's Rock (E) 龍之巖 多國 ACT 27.50
+2388 - 2 Games in 1 - Prince of Persia + Tomb Raider (E) 遊戲2合1-波斯王子和古墓奇兵 多國 ACT 127.75
+2389 - The Koala Brothers-Outback Adventures (U) 無尾熊兄弟-內陸探險 歐 ACT 47.00
+2390 - Juka and the Monophonic Menace (E) 尤卡和單音威脅 多國 A·RPG 124.75
+2391 - 2 Games in 1 - Pac-Man World+Ms.Pac-Man-Maze Madness (E) 遊戲2合1-小精靈大冒險+小精靈世界 多國 ACT 63.50
+2392 - Dr Sudoku (U) 數獨博士 歐 PUZ 13.50
+2393 - Cartoon Network Collection-Premium Edition (F) GBA電影-卡通頻道珍藏電影-限定版 法 MOV 223.00
+2394 - 2 Games in 1 - Spyro Superpack (U) 遊戲2合1-寶貝龍-冰凍和火焰的季節 歐 ACT 128.00
+2395 - Zoku Bokura no Taiyou-Taiyou Shounen Django v1.1 (J) 我們的太陽2-太陽少年傳奇1.1版 日 A·RPG 110.00
+2396 - Over the Hedge (U) 籬笆牆外-森林保衛戰 歐 ACT 64.00
+2397 - Tringo (U) 方塊連環-環環套 歐 PUZ 12.75
+2398 - Madagascar (J) 馬達加斯加 日 ACT 64.00
+2399 - Hudson Collection Vol.4 - Nazotoki Collection (J) 任天堂懷舊系列Hudson經典收藏4-解迷篇 日 ACT 5.50
+2400 - 2 Games in 1 - Sonic Pinball Party and Sonic Battle (J) 遊戲2合1-音速小子彈珠派對和音速小子戰鬥 日 ACT 252.50
+2401 - 2 Games in 1 - Sonic Battle and Sonic Advance Plus (J) 遊戲2合1-音速小子戰鬥和音速小子大冒險1 Plus版 日 ACT 252.50
+2402 - Candy Land - Chutes and Ladders - Memory (U) 新遊戲3合1-幼兒益智遊戲合集 歐 TAB 16.00
+2403 - 3 in 1 - Life, Yahtzee, Payday (U) 新遊戲3合1-生活&發工資日&擲骰子遊戲 歐 TAB 24.50
+2404 - Mahou Sensei Negima Private Lesson 2 (J) 魔法老師涅吉!私人授課2-打擾啦！天國的Chu 日 RPG 128.00
+2405 - X-Men-The Official Game (U) X戰警-官方遊戲 歐 ACT 61.50
+2406 - Calcio Bit (J) 育成足球-足球創造球會 日 TCG 53.75
+2407 - Animal Yokochou Dokidoki Shinkyu Shiken (J) 動物橫町-心跳心跳升級考試之卷 日 ACT 123.25
+2408 - Hudson Best Collection 2 (J) 任天堂懷舊系列Hudson經典收藏2-智力篇 日 ACT 3.75
+2409 - Animaru Yokochou DokiDoki Kyushutsu Daisakusen! No Maki (J) 動物橫町-心跳心跳救出大作戰之卷 日 ACT 120.25
+2410 - Mirakuru Panzou 7 Tsuno Hosh no Kaizoku (J) 神奇夢幻熊貓警官-七顆星球的宇宙海賊 日 STG 32.00
+2411 - Chicken Shoot 2 (U) 獵雞大戰2 歐 FPS 30.25
+2412 - Backyard Sports Baseball 2007 (U) 兒童後院棒球2007 歐 SPG 31.50
+2413 - Garfield and His Nine Lives (U) 加菲貓的九條命 歐 ACT 32.00
+2414 - B-Legend! Battle B-Daman Fire Spirit! (J) B-傳說!戰鬥比達人炎魂 日 ACT 64.00
+2415 - Cinnamon Fuwafuwa Daisakusen (J) 長耳狗輕飄飄大作戰 日 ACT 32.00
+2416 - X-Men-The Official Game (E) X戰警-官方遊戲 多國 ACT 61.50
+2417 - Final Fantasy IV Advance (E) 太空戰士4 多國 RPG 63.75
+2418 - Chicken Shoot 1 (U) 獵雞大戰1 歐 FPS 31.00
+2419 - Hardcore Pool (E) 核心撞球 多國 TAB 31.75
+2420 - Racing Fever (E) 火熱賽車 多國 RCG 16.00
+2421 - 2 Games in 1 - Crash Bandicoot Purple-Ripto's Revenge + Spyro Orange-The Cortex Conspiracy (U) 遊戲2合1-寶貝龍-陰謀的本質和古惑狼-暴跳的羅彼德 歐 ACT 256.00
+2422 - Ultimate Spiderman (E) 終極蜘蛛人 多國 ACT 128.00
+2423 - Cars (U) 汽車總動員 歐 RCG 61.25
+2424 - Babar-To the Rescue (U) 貝巴去救援 歐 ACT 31.75
+2425 - Tony Hawk's American Sk8land (E) 托尼霍克美式滑板 多國 SPG 64.00
+2426 - Dragon Ball - Advanced (U) 七龍珠大冒險 歐 FTG 107.75
+2427 - Mega Man Battle Network 6 - Cybeast Gregar (U) 洛克人戰鬥網絡6-電腦獸葛雷加 歐 A·RPG 64.00
+2428 - Mega Man Battle Network 6 - Cybeast Gregar (E) 洛克人戰鬥網絡6-電腦獸葛雷加 多國 A·RPG 64.00
+2429 - Mega Man Battle Network 6 - Cybeast Falzar (E) 洛克人戰鬥網絡6-電腦獸法爾扎 多國 A·RPG 64.00
+2430 - Disney's Cinderella Magical Dreams (E) 迪士尼仙履奇緣-奇幻之旅 多國 ACT 64.00
+2431 - Ab durch die Hecke (G) 籬笆牆外-森林保衛戰 德 ACT 64.00
+2432 - Premier Action Soccer (E) 足球經理 多國 SPG 62.50
+2433 - Garfield And His Nine Lives (E) 加菲貓的九條命 多國 ACT 32.00
+2434 - 3 Games in 1 - Rugrats, SpongeBob, Tak (E) 遊戲3合1-小淘氣之我要參加宴會+超級海綿大冒險+塔克和符咒的神力 多國 ACT 118.50
+2435 - Pirates of the Caribbean-Dead Mans Chest (U) 神鬼奇航2-亡靈財寶 歐 ACT 116.75
+2436 - Megaman Battle Network 6 - Cybeast Falzar (U) 洛克人戰鬥網絡6-電腦獸法爾扎 歐 A·RPG 64.00
+2437 - 2 Games in 1 - Yu-Gi-Oh! Double Pack (U) 遊戲2合1-遊戲王合集第一彈 歐 CAG 256.00
+2438 - Pocket Professor Kwik Notes Vol.one (U) 口袋教授-克威克筆記第1部 歐 PUZ 29.75
+2439 - Street Racing Syndicate (E) 街頭賽車聯盟 多國 RAC 32.00
+2440 - Meine Tierarztpraxis (E) 我的獸醫實習 多國 TCG 61.00
+2441 - Madagascar Operacion Pinguino (S) 馬達加斯加-企鵝大行動 ACT 64.00
+2442 - bit Generations Boundish (J) 幾何世代-反彈網球 日 ACT 16.75
+2443 - bit Generations Dialhex (J) 幾何世代-六角形針盤 日 TAB 120.25
+2444 - bit Generations Dotstream (J) 幾何世代-點點潮流 日 ACT 115.25
+2445 - Monster House (U) 怪獸小屋 歐 A·RPG 64.00
+2446 - Vecinos Invasores (S) 籬笆牆外-森林保衛戰 ACT 64.00
+2447 - Chicken Little (J) 四眼天雞 日 ACT 63.50
+2448 - Hudson Best Collection Vol.5 - Shooting Collection (J) 任天堂懷舊系列Hudson經典收藏5 - 飛機篇 日 STG 4.25
+2449 - Cars (J) 汽車總動員 日 RCG 61.75
+2450 - Yu-Gi-Oh! GX-Duel Academy (E) 遊戲王GX-目標決鬥王學院 多國 CAG 256.00
+2451 - bit Generations Soundvoyager (J) 幾何世代-聲音航海家 日 ACT 109.25
+2452 - bit Generations Orbital (J) 幾何世代-軌道牽引 日 ACT 101.25
+2453 - bit Generations Digidrive (J) 幾何世代-數位驅動 日 TAB 128.00
+2454 - bit Generations Coloris (J) 幾何世代-顏色方塊 日 TAB 109.00
+2455 - The Ant Bully (U) 別惹螞蟻 歐 ACT 51.25
+2456 - 2 Games in 1 - Double Pack Sonic Advance & Chuuchu Rocket (J) 遊戲2合1-音速小子大冒險1和咕嚕咕嚕啾啾火箭隊 日 ACT 128.00
+2457 - Hamster Monogatari 3EX4 Special (J) 倉鼠物語 3EX4 特別版 日 TCG 128.00
+2458 - Summon Night-Swordcraft Story (U) 召喚之夜-鑄劍物語1 歐 A·RPG 59.25
+2459 - 2 Games in 1 - Finding Nemo 1 + Finding Nemo 2 (E) 遊戲2合1-海底總動員-尋找尼莫和冒險再續 多國 ACT 96.50
+2460 - Mr. Incredible-Kyouteki Under Minor Toujyou (J) 超人特攻隊 日 ACT 54.00
+2461 - Barnyard (U) 瘋狂農莊 歐 A·RPG 64.00
+2462 - Rhythm Tengoku (J) 節奏天國-旋律天堂 日 ACT 105.25
+2463 - Battle B-Daman (U) B-傳說!戰鬥比達人炎魂 歐 ACT 64.00
+2464 - Scrabble Scramble (E) 混亂拼字遊戲 多國 PUZ 31.75
+2465 - Babar To the Rescue (E) 貝巴去救援 多國 ACT 32.00
+2466 - VeggieTales LarryBoy and the Bad Apple (U) 蔬菜總動員 歐 ACT 23.75
+2467 - Super Robot Taisen-Original Generation (U) 超級機器人大戰OG 歐 SLG 128.00
+2468 - Robots (J) 機器人歷險記 日 ACT 126.25
+2469 - Monster House (E) 怪獸小屋 多國 A·RPG 64.00
+2470 - Games Explosion (U) 遊戲爆發合集 歐 ECT 26.25
+2471 - Madden NFL 2007 (U) 勁爆美式足球2007 歐  32.00
+2472 - 2 Games in 1 - Dragonball Z - Buu's Fury + Dragonball GT (U) 七龍珠Z二合一-普烏之怒+GT突變 歐 ACT 128.00
+2473 - Cars (G) 汽車總動員 德 RCG 61.50
+2474 - Dr Sodoku (E) 數獨博士 多國 PUZ 13.75
+2475 - The Ant Bully (E) 別惹螞蟻 多國 ACT 51.25
+2476 - 2 Games in 1 - Yu-Gi-Oh! Double Pack 2 (U) 遊戲王二合一-雙六的遊戲+怪獸龍門骰 歐 CAG 127.25
+2477 - Cars (I) 汽車總動員 意 RCG 61.50
+2478 - Sword Of Mana (E) 新約聖劍傳說 多國 A·RPG 128.00
+2479 - Lego Star Wars 2 (U) 樂高星際大戰2 歐 ACT 126.00
+2480 - 2 Games in 1 - Disney Principesse & Disney Il Re Leone (I) 遊戲2合1-迪士尼公主和迪士尼獅子王 意 ACT 128.00
+2481 - Little Einstein (U) 迪士尼小愛因斯坦 歐 ACT 62.25
+2482 - The Cheetah Girls (E) 迪士尼花豹美眉 多國 ACT 63.25
+2483 - Pokemon Fushigi no Dungeon Aka no Kyuujotai (U) 神奇寶貝不可思議的迷宮-赤色救難隊 歐 A·RPG
+2484 - Open Season (U) 狩獵季節 歐 ACT
+2485 - Lego Star Wars 2 (E) 樂高星際大戰2 多國 ACT 126.75
+2486 - The Barnyard (E) 瘋狂農莊 多國 A·RPG
+2487 - My Little Pony Crystal Princess (U) 水晶公主-小精靈馬之消失的彩虹 歐 ACT
+2488 - Danny Phantom Urban Jungle (U) 幻影丹尼-都市叢林 歐 ACT
+2489 - Capcom Classics Mini Mix (U) CAPCOM卡普空經典合集Mini Mix 歐 ETC
+2490 - Phil of the Future(U) 菲爾的未來 歐 ACT
+2491 - Dogz Fashion (U) 頑皮狗 歐 TCG
+2492 - FIFA 2007(U) FIFA足球2007 歐 SPG
+2493 - Catz (E) 可愛小貓們 多國 TCG
+2494 - Alex Rider Stormbreaker (U) 旋風特務-風暴突擊者 歐 ACT
+2495 - Backyard Sports Basketball 2007 (U) 後院運動籃球2007 歐 SPG
+2496 - Backyard Sports Football 2007 (U) 後院運動橄欖球2007 歐 SPG
+2497 - Strawberry Shortcake Sweet Dreams (U) 草莓娃娃 歐 ACT
+2498 - Unfabulous (U) 一本正經 歐 ACT
+2499 - Disney's American Dragon-Jake Long, Rise of the Huntsclan (U) 迪士尼美國龍-傑克龍‧亨特斯克蘭的崛起 歐 ACT
+2500 - Bibi Und Tina Ferien Auf Dem Martinshof (G) 比比小魔女和提娜-在牧場的三月假日 德 ACT
+2501 - Ariel - The Little Mermaid (U) (M5) 迪士尼小美人魚 多國 ACT 60.00
+2502 - Final Fantasy V Advance (J) 太空戰士5 日 RPG 57.50
+2503 - 2 Games in 1 - Disney Princesse+Frere des Ours (M8) 遊戲2合1 - 迪士尼白雪公主們和迪士尼小熊的兄弟們 多國CT 128.00
+2504 - Bratz-Rock Angelz (F) 貝茲娃娃-搖滾天使 法 TCG 51.50
+2505 - Dog Trainer 2 (E) 任天狗補充包修改器 歐 ETC 2.75
+2506 - Horse And Pony My Stud Farm (M2) 馬場生活 多國SLG 62.00
+2507 - Battle B-Daman Fire Spirits! (U) B-傳說!戰鬥比達彈珠人炎魂 歐 ACT 64.00
+2508 - Scooby Doo (S) 史酷比鬼屋歷險-真人照片版 AVG 32.00
+2509 - Disney Princess-Royal Adventure (U) 迪士尼公主們-皇家王國冒險 歐 ACT 41.50
+2510 - Naruto Ninja Council 2 (U) 火影忍者-最強忍者大集合2 歐 ACT 64.00
+2511 - Over the Hedge-Hammy Goes Nuts! (U) 籬笆牆外-瘋狂的鬧劇 歐 ACT 64.00
+2512 - Family Feud (U) 全民問答-家庭鬥爭 歐 ETC 19.50
+2513 - Avatar-The Last Airbender (U) 降世神通 歐 A·RPG 57.50
+2514 - 2 Games in 1 - Uno+Skip-Bo (U) 橋牌2合1 歐 TAB 31.00
+2515 - Rock'em Sock'em Robots (U) 格鬥機器人 歐 FTG 29.50
+2516 - Santa Clause 3 -The Escape Clause (U) 聖誕老人3 歐 ACT 64.00
+2517 - Monster Trucks Mayhem (U) 瘋狂大腳四驅賽車 歐 RCG 31.25
+2518 - Original Harlem Globetrotters (U) 美國哈林花式籃球隊 歐 SPG 28.50
+2519 - Ker Plunk! Toss Across-Tip It (U) 新遊戲3合1-抽棒球架&滾球撞方塊&輪盤抽籤 歐 RCG 31.25
+2520 - 3 Games in 1 - ATV Thunder Ridge Riders (U) ATV閃雷電騎士四輪機車 歐 TAB 64.00
+2521 - Barbie in the 12 Dancing Princesses (U) 芭比和十二個跳舞的公主 歐 ACT 16.00
+2522 - 2 Games in 1 - Matchbox Emergency Response+Matchbox Air Land & Sea Rescue (U) 火柴盒任務2合1 歐 ETC 31.75
+2523 - Princess Natasha (U) 娜塔莎公主 歐 ACT 31.75
+2524 - Bratz Forever Diamondz (U) 貝茲娃娃合唱團-永恆之鑽 歐 RCG 63.50
+2525 - Dora the Explorer-Dora's World Adventure! (U) 小冒險家朵拉-世界環球冒險 歐 ETC 31.75
+2526 - 2 Games in 1 - Teenage Mutant Ninja Turtles+Teenage Mutant Ninja Turtles 2 - Battle Nexus (M5) 遊戲2合1-忍者龜合集1+2雙套裝 多國 ACT 128.00
+2527 - Justice League Heroes-The Flash (U) 超人正義同盟 歐 ACT 62.25
+2528 - Noddy-A Day in Toyland (M3) 諾弟在玩具城的一天 多國 ACT 31.25
+2529 - Barbie Diaries - The High School Mystery (U) 芭比奇幻日記-神秘的高校 歐 TCG 63.00
+2530 - Legend of Spyro - The A New Beginning (U) 寶貝龍-嶄新的開端 歐 ACT 105.50
+2531 - Summon Night-Swordcraft Story 2 (U) 召喚之夜-鑄劍物語2 歐 A·RPG 126.50
+2532 - 2 Games in 1 - Shrek 2+Shark Tale (U) 遊戲2合1-鯊魚黑幫和史瑞克2 歐 ACT 126.75
+2533 - SpongeBob SquarePants-Creature from the Krusty Krab (U) 海綿寶寶-來自香酥蟹堡店的生物 歐 ACT 62.50
+2534 - Gang del Bosco,La (I) 籬笆牆外-森林保衛戰 意 ACT 64.00
+2535 - Mummy The (M5) 神鬼傳奇-木乃伊歸來 多國A·RPG 30.25
+2536 - 3 Games in 1 - Mouse Trap-Simon-Operation (U) 新遊戲3合1-設圈套捉老鼠&西蒙&手術 歐 ETC 20.75
+2537 - 2 Games in 1 - Hot Wheels-Stunt Track Challenge+Hot Wheels-World Race (U) 二合一遊戲-無敵風火輪賽車-疾速賽車X+世界賽車 歐 RCG 124.75
+2538 - Flushed Away (U) 鼠國流浪冒險記 歐 ACT 55.00
+2539 - Hunde & Katzen Best Friends (M2) 貓狗好朋友 多國TCG 64.00
+2540 - Over the Hedge-Hammy Goes Nuts! (M6) 籬笆牆外-瘋狂的鬧劇 多國 ACT 64.00
+2541 - GT Racers (M5) GT賽車手 多國RCG 64.00
+2542 - Snood 2 - Snoods on Vacation (U) 怪投射擊方塊2 歐 PUZ 30.50
+2543 - Uno 52 (U) 紙牌撲克52張 歐 TAB 28.75
+2544 - Scurge-Hive (M5) 斯科基病毒-蜂巢 多國 ACT 125.00
+2545 - Legend of Spyro - The A New Beginning (M6) 寶貝龍-嶄新的開端 多國 ACT 105.50
+2546 - Bratz-Forever Diamondz (G) 貝茲娃娃合唱團-永恆之鑽 德 RCG 61.75
+2547 - Teen Titans 2 - The Brotherhood's Revenge (M2) 少年悍將2-兄弟會的復仇 多國 ACT 60.50
+2548 - Foster's Home for Imaginary Friends (U) 親親麻吉 歐 ACT 31.00
+2549 - Nicktoons-Battle for Volcano Island (U) 尼克通-海綿寶寶-火山島之戰 歐 ACT 32.00
+2550 - Suite Life of Zack & Cody - The Tipton Caper (M2) 查克與寇弟的套房生活 多國 ACT 47.75
+2551 - Camp Lazlo Leaky Lake Games (U) 瘋狂夏令營 歐 TCG 31.75
+2552 - 2 Games in 1 - Spider Man + Spider Man 2 (M4) 遊戲2合1-蜘蛛人合集1+2雙套裝 多國 ACT 256.00
+2553 - 3 Games in 1 - Sports Pack Paintball Splat!+Dodgeball Dodge This!+Big Alley Bowling (U) 體育競技三合一 歐 SPG 64.00
+2554 - Marvel Ultimate Alliance (U) 漫畫英雄-美國英雄終極聯盟 歐 ACT 63.5
+2555 - Open Season (M9) 狩獵季節 多國 ACT 56.00
+2556 - Need for Speed Carbon Own the City (M5) 極品飛車-卡本峽谷 多國RCG 63.75
+2557 - 3 Games in 1 - Rec Room Challenge (U) 新遊戲3合1-飛鏢&保齡球&投洞球 歐 PUZ 22.75
+2558 - Rebelstar Tactical Command (M5) 叛星-戰略指揮官 多國SLG 31.00
+2559 - Juka and the Monophonic Menace (M3) 尤卡和單音威脅 多國A·RPG 124.75
+2560 - Scurge Hive (M3) 斯科基病毒-蜂巢 多國 ACT 125.25
+2561 - Tomb Raider Legend (M5) 古墓奇兵-傳奇 多國A·AVG 64.00
+2562 - SpongeBob SquarePants Creature from the Krusty Krab (M8) 海綿寶寶-來自香酥蟹堡店的生物 多國 ACT
+2563 - Tony Hawk's Downhill Jam (U) 托尼霍克滑板下坡 歐 SPG 123.25
+2564 - Final Fantasy V Advance (U) 太空戰士5 歐 RPG 56.50
+2565 - Grim Adventures of Billy & Mandy The (U) 比利和曼迪的過關大冒險 歐 ACT
+2566 - Tom and Jerry Tales (M3) 湯姆與傑瑞-貓和老鼠召集令 多國 ACT
+2567 - Pokemon Fushigi no Dungeon Aka no Kyuujotai (M5) 神奇寶貝不可思議的迷宮-赤色救難隊 多國A·RPG
+2568 - Who Wants to Be a Millionaire Junior (E) 誰想成為百萬富翁 歐 ETC
+2569 - Sims 2 The Pets (U) 模擬人生2-寵物情緣 歐 SLG 255.25
+2570 - 2 Games in 1 - Scooby Doo + Scooby Doo 2 - Monsters Unleashed (U) 遊戲2合1-史酷比1+2 歐 ACT
+2571 - 2 Games in 1 - SpongeBob SquarePants Battle for Bikini Bottom + Nicktoons Freeze Frame Frenzy (U) 遊戲2合1 海綿寶寶-比基尼島的冒險+尼克通瘋狂定格 歐 ACT 96.50
+2572 - 2 Games in 1 - Pac-Man World + Ms. Pac-Man Maze Madness (U) 遊戲2合1-小精靈世界+小精靈小姐 歐 ACT 63.50
+2573 - 2 Games in 1 - Madagascar Operation Penguin + Shrek 2 (U) 遊戲2合1-史瑞克2+馬達加斯加-企鵝大行動 歐 ACT 126.75
+2574 - 2 Games in 1 - Looney Tunes Acme Antics + Looney Tunes Dizzy Driving (U) 華納巨星2合1 歐 ACT 39.75
+2575 - 2 Games in 1 - Cabela's Big Game Hunter 2005 Adventures + Rapala Pro Fishing (U) 狩獵釣魚2合1 歐 ETC 48.50
+2576 - Bionicle Heroes (M6) 樂高生化英雄 多國 ACT 125.75
+2577 - Dogz (M4) 可愛小狗們 多國TCG 73.50
+2578 - Tony Hawk's Downhill Jam (M5) 托尼霍克滑板下坡 多國SPG 123.25
+2579 - Bionicle Heroes (M6) 樂高生化英雄 多國 ACT 125.75
+2580 - Super Robot Taisen Original Generation 2 (U) 超級機器人大戰OG2 歐 SLG 128.00
+2581 - Sonic the Hedgehog Genesis (U) 音速小子SEGA MD移植版 歐 ACT 31.50
+2582 - WinX Club Quest for the Codex (U) 魔法俏佳人 歐 ACT 64.00
+2583 - Hot Wheels Velocity X (E) 無敵風火輪疾速賽車X 多國 RCG 64.00
+2584 - Sims 2 - The Pets (M6) 模擬人生2-寵物情緣 多國SLG 255.25
+2585 - Spider Man Battle for New York (U) 蜘蛛人-紐約之戰 歐 ACT 126.75
+2586 - Eragon (M5) 龍騎士 多國RPG 125.75
+2587 - Eragon (U) 龍騎士 歐 RPG 126.25
+2588 - Hi Hi Puffy AmiYumi-Kaznapped! (E) 嗨嗨帕妃亞美由美 多國 ACT 61.25
+2589 - Tom and Jerry Tales (M5) 湯姆與傑瑞-貓和老鼠召集令 多國 ACT 64.00
+2590 - Happy Feet (M5) 快樂腳 多國 ACT 256.00
+2591 - Justice League Heroes - The Flash (E) 正義聯盟英雄 多國 ACT 64.00
+2592 - Flushed Away (M5) 鼠國流浪冒險記 多國 ACT 70.00
+2593 - Biene Maja Klatschmohnwiese in Gefahr (G) 蜜蜂寶寶-危機中深紅草場的故事 德 ACT 30.50
+2594 - Disney Princess-Royal Adventure (M3) 迪士尼公主們-皇家冒險 多國 ACT 42.75
+2595 - Happy Feet (M2) 快樂腳 多國 ACT 256.00
+2596 - Polarium Advance (U) 通勤一筆 歐 PUZ 22.00
+2597 - Tonka-On the Job (U) 卡車工作 歐 RCG 19.25
+2598 - Yggdra Union We'll Never Fight Alone (U) 聖劍聯盟 歐 S·RPG 256.00
+2599 - Final Fantasy VI Advance (J) 太空戰士6 日 RPG 64.00
+2600 - Tomb Raider-Legend (M5) 古墓奇兵-傳奇 多國A·AVG 64.00
+2601 - Motoracer Advance (U) 摩托英豪 歐 RCG 32.00
+2602 - 2 Games in 1 - Monsters, Inc.+Finding Nemo (U) 2合1遊戲-海底總動員+怪獸電力公司 歐 ACT
+2603 - Lizzie McGuire 2 - Lizzie Diaries Special Edition (M2) 平民天后2-新成長的煩惱 多國 ACT
+2604 - Totally Spies! 2 - Undercover (M2) 校園嬌娃2 多國 ACT 61.50
+2605 - Hot Wheels-All Out (U) 無敵風火輪賽車 歐 RCG 32.00
+2606 - March of the Penguins (U) 帝企鵝日記-企鵝的三月 歐 ACT 29.50
+2607 - World Championship Poker (M5) 世界撲克冠軍錦標賽 多國TAB 32.00
+2608 - 2 Games in 1 - Matchbox Emergency Response + Matchbox Air -  Land & Sea Rescue (M5) 火柴盒任務2合1 多國ETC 32.00
+2609 - Spider-Man-Battle for New York (M5) 蜘蛛人-紐約之戰 多國 ACT 128.00
+2610 - Curious George (M7) 好奇猴喬治 多國 ACT 32.00
+2611 - Charlotte's Web (M5) 夏洛蒂的網 多國 ACT 127.50
+2612 - F24 Stealth Fighter (U) F-24隱形戰鬥機 歐 STG 30.50
+2613 - Shrek-Smash n' Crash Racing (U) 史瑞克賽車 歐 RCG 41.25
+2614 - My Animal Centre in Africa (M5) 我的非洲動物中心 多國SLG 256.00
+2615 - Game Boy Advance Video-Nicktoons-Volume 3 (U) GBA電影-尼克卡通珍藏電影第3卷 歐 MOV 254.75
+2616 - Tringo (M5) 方塊拼圖 多國PUZ 25.75
+2617 - Rayman Raving Rabbids (M3) 雷曼超人 多國 ACT 123.00
+2618 - Superman Returns - Fortress of Solitude (M5) 超人歸來 多國TAB 128.00
+2619 - Final Fantasy IV Advance (J) 太空戰士4 v1.1版 日 RPG 56.00
+2620 - Winx Club Quest for the Codex (M5) 魔法粉紅俏佳人俱樂部-法典任務 多國 ACT 63.75
+2621 - Rayman Raving Rabbids (M6) 雷曼超人-瘋狂兔子 多國 ACT 123.75
+2622 - Mazes of Fates (M5) 命運迷宮 多國RPG 128.00
+2623 - 2 Games in 1 - Winnie the Pooh's-Rumbly Tumbly Adventure+Rayman 3 (M10) 遊戲2合1-小熊維尼-崎嶇的冒險歷程+雷曼超人3-暴徒大破壞 多國 ACT 128.00
+2624 - 2 Games in 1 - SpongeBob SquarePants he Movie + SpongeBob SquarePants and Friends Freeze Frame Frenzy (M6) 遊戲2合1-海綿寶寶電影版和尼克卡通-棉花糖方塊歷險記瘋狂定格 多國 ACT 96.50
+2625 - Sky Dancers - They Magically Fly! (M5) 空中之舞-魔法飛翔 多國 ACT 27.75
+2626 - Chicken Shoot 2 (M5) 獵雞大戰2 多國FPS 30.25
+2627 - Hello Kitty Happy Party Pals (E) 凱蒂貓的開心派對 歐 TCG 28.00
+2628 - Cabbage Patch Kids-The Patch Puppy Rescue (E) 捲心菜娃娃 歐 ACT 32.00
+2629 - Tokyo Xtreme Racer Advance (M5) 東京極限競速賽車 多國RCG 31.75
+2630 - Game Boy Advance Video-Cartoon Network Collection-Premium Edition (U) GBA電影-卡通網絡頻道珍藏電影-限定版 歐 MOV 225.00
+2631 - Agent Hugo Roborumble (M11) 雨果滑板 多國RCG 22.75
+2632 - 2 Game in 1 Spongebob Squarepants + Fairly Odd Parents Double Pack (U) 遊戲2合1-海綿寶寶-比基尼島的冒險+正義雙親之叛逆的懲罰 歐 ACT 96.50
+2633 - Nintendo MP3 Player (M5) 任天堂MP3播放器 多國ETC 31.00
+2634 - Avatar - The Legend of Aang (M4) 降世神通 多國A·RPG 57.50
+2635 - Back to Stone (M2) 重返石器時代 多國A·RPG 32.00
+2636 - Trollz Hair Affair! (M3) 奇幻漫舞 多國ETC 61.75
+2637 - Arthur and the Minimoys (M6) 亞瑟與迷你王國 多國 ACT 256.00
+2638 - King of Fighters EX - Neo Blood (U) 格鬥天王EX-新血 歐 FTG 64.00
+2639 - Bratz Babyz (M3) 貝茲娃娃-頑皮寶寶 多國 ACT 31.75
+2640 - Dogz Fashion (E) 寵物狗時裝秀 歐 TCG 37.00
+2641 - Medal of Honor Underground (M4) 榮譽勳章地下抵抗 多國FPS 62.25
+2642 - Open Season (M4) 狩獵季節 多國 ACT 55.50
+2643 - Ed, Edd n Eddy Jawbreakers! (U) 搗蛋三傻-嘮叨的傢伙們 歐 ACT 31.50
+2644 - 2 Games in 1 - Madagascar+Shrek 2 (U) 二合一遊戲-馬達加斯加+史瑞克2 歐 ACT 126.75
+2645 - Fairly Odd Parents! The Shadow Showdown (E) 正義雙親之暗影決戰 歐 ACT 32.00
+2646 - Bratz Babyz (U) 貝茲娃娃-頑皮寶寶 歐 ACT 31.75
+2647 - Marvel-Ultimate Alliance (M2) 漫畫英雄終極聯盟 多國 ACT 63.50
+2648 - Cars (M2) 汽車總動員 多國RCG 61.75
+2649 - Power Rangers S.P.D. (M3) 金剛戰士SPD 多國 ACT 32.00
+2650 - 2 Games in 1 - Finding Nemo+Finding Nemo-The Continuing Adventures (M5) 遊戲2合1 - 海底總動員-尋找尼莫和冒險再續 多國 ACT 96.50
+2651 - Danny Phantom The Ultimate Enemy (M3) 幻影丹尼-終極敵人 多國 ACT 29.75
+2652 - Monster House (E) 怪獸小屋 歐 A·RPG 64.00
+2653 - 2 Games in 1 - Buscando a Nemo + Increibles, Los (M2) 遊戲2合1-海底總動員-尋找尼莫和超人特攻隊 多國 ACT 127.50
+2654 - Rock'em Sock'em Robots (M5) 機器人競技 多國 FTG 29.75
+2655 - Bratz Rock Angelz (S) 貝茲娃娃-搖滾天使 TCG 51.50
+2656 - Trollz Hair Affair! (M3) 奇幻漫舞 多國 ETC 62.00
+2657 - Original Harlem Globetrotters The (M5) 美國哈林花式籃球隊世界巡迴賽 多國 SPG 29.00
+2658 - Shin chan Contra Los Munecos de Shock Gahn (S) 蠟筆小新2-呼喚傳說食玩都大冒險 ACT 120.50
+2659 - Arthur and the Invisibles (M3) 亞瑟與迷你王國 多國 ACT 256.00
+2660 - 2 Games in 1 - Dora the Explorer Double Pack (U) 冒險家朵拉2合1-超級巨星探險+尋找海盜豬的財寶 歐 ACT 62.50
+2661 - Totally Spies! 2 - Undercover (M6) 校園嬌娃2 多國 ACT 61.75
+2662 - Alex Rider Stormbreaker (M4) 旋風特務-風暴突擊者 多國 ACT 30.25
+2663 - Barbie in the 12 Dancing Princesses (M5) 芭比和十二個跳舞的公主 多國 ACT 26.25
+2664 - Shamu's Deep Sea Adventures (E) 海洋世界夏慕的深海冒險 歐 SPG 256.00
+2665 - Barbie Diaries - The High School Mystery (E) 芭比奇幻日記-神秘的高校 歐 TCG 63.00
+2666 - Noddy A Day in Toyland (M7) 諾弟在玩具世界的一天 多國 ACT 31.25
+2667 - Bratz Forever Diamondz (M4) 貝茲娃娃-永恆之鑽 多國RCG 63.75
+2668 - Dogz (E) 可愛小狗 歐 TCG 128.00
+2669 - Strawberry Shortcake Summertime Adventure-Special Edition (U) 草莓娃娃夏日歷險與草莓娃娃電影 歐 ETC 256.00
+2670 - 2 Games in 1 - Finding Nemo + Incredibles The (M2) 二合一遊戲-海底總動員+超人特攻隊 多國 ACT 127.50
+2671 - 2 Games in 1 - Sonic Advance + Chu Chu Rocket! (M5) 二合一遊戲-音速小子+啾啾火箭隊 多國 ACT 128.00
+2672 - Pippa Funnell Stable Adventure (M2) 馬場精英 多國TCG 26.25
+2673 - Pocket Monsters FireRed (J) 神奇寶貝-火焰紅 v1.1版 日 RPG 122.00
+2674 - Game Boy Advance Video-Cartoon Network Collection-Edition Speciale (F) GBA電影-卡通網絡頻道珍藏電影-限定版 法 MOV 256.00
+2675 - Game Boy Advance Video-Teenage Mutant Ninja Turtles Le Demenagement (F) GBA電影-忍者龜 法 MOV 221.00
+2676 - Game Boy Advance Video Yu-Gi-Oh! Yugi vs. Joey (F) GBA電影-遊戲王！遊戲對決城之內 法 MOV 252.00
+2677 - Nos Voisins Les Hommes (F) 籬笆牆外-森林保衛戰 法 ACT 64.00
+2678 - 2 Games in 1 - Finding Nemo+Incredibles The (M2) 遊戲2合1-海底總動員-尋找尼莫和超人特攻隊 多國 ACT 127.50
+2679 - Best Friends My Horse (M2) 最好的朋友-我的馬兒 多國TCG 50.75
+2680 - Pippa Funnell 2 (M2) 馬場精英2-馬場生活 多國TCG 28.50
+2681 - 2 Games in 1 - Uno+Skip Bo (M5) 遊戲2合1-紙牌聯賽 多國TAB 31.75
+2682 - 2 Games in 1 - SpongeBob Square Pants Super Sponge + SpongeBob SquarePants Battle for Bikini Bottom (E) 遊戲2合1 - 超級海綿寶寶+超級海綿寶寶-比基尼島的冒險 歐 ACT 94.75
+2683 - Scrabble Scramble (E) 混亂拼字遊戲 歐 PUZ 29.50
+2684 - Jimmy Neutron Un Garcon Genial-L'Attaque des Twonkies (F) 吉米小子-Twonkies的攻擊 法 ACT
+2685 - Super Mario Advance 4 (J) 超級瑪莉歐4 v1.2版 日 ACT
+2686 - Princess Natasha (M5) 娜塔莎公主學生秘密特務 多國 ACT
+2687 - Monster Trucks Mayhem (M5) 怪物卡車大 多國 RCG
+2688 - ATV Thunder Ridge Riders (M5) ATV閃雷電騎士四輪機車 多國 RCG
+2689 - Final Fantasy VI Advance (U) 太空戰士6 歐 RPG
+2690 - Polly Pocket!-Super Splash Island (M5) 波利的美人魚島 多國 PUZ
+2691 - All Grown Up!-Express Yourself (M2) 小淘氣 多國 ACT
+2692 - Shrek-Smash n' Crash Racing (M5) 史瑞克賽車 多國 RCG
+2693 - Over the Hedge (E) 籬笆牆外-森林保衛戰 歐 ACT
+2694 - Ghost Rider (M6) 惡靈戰警 多國 ACT
+2695 - 2 Games in 1 - Shrek 2+Madagascar (E) 二合一遊戲-馬達加斯加+史瑞克2 歐 ACT
+2696 - 2 Games in 1 - Finding Nemo + Finding Nemo The Continuing Adventures (M3) 遊戲2合1-海底總動員-尋找尼莫和冒險再續 多國 ACT
+2697 - Charlotte's Web (M5) 夏洛蒂的網 多國 ACT
+2698 - 2 Games in 1 - Scooby-Doo+Scooby-Doo 2 - Les Monstres Se Dechainent (M5) 遊戲2合1-史酷比鬼屋歷險-真人照片版+史酷比2-脫韁的怪物 多國 ACT
+2699 - Cars (M4) 汽車總動員 多國 RCG
+2700 - Trickstar (M5) 賽道明星 多國 RCG
+2701 - Zoey 101 (U) 家庭喜劇-情侶籃球101 歐 ETC
+2702 - Polly Pocket! Super Splash Island (U) 波利的美人魚島 歐 PUZ
+2703 - 2 Games in 1 - Disney Principesse + Koda Fratello Orso (I) 遊戲2合1-迪士尼公主+迪士尼熊的傳說 多國 ACT
+2704 - Kid Paddle (M2) 派托小子 多國 ACT
+2705 - 2 Games in 1 - Finding Nemo The Continuing Adventures + Incredibles The (U) 遊戲2合1-海底總動員-冒險再續和超人特攻隊 歐 ACT
+2706 - Wilden Fussball Kerle - Die Gefahr im Wilde Kerle Land (G) 瘋狂爆裂橄欖球 德 ACT
+2707 - Trollz Hair Affair! (E) 奇幻漫舞 歐 ETC
+2708 - Uno Freefall (U) 紙牌撲克方塊-自由降落 歐 TAB
+2709 - Over the Hedge Beesten bij de Buren (H) 籬笆牆外-森林保衛戰 ACT
+2710 - Hot Wheels - All Out (M5) 無敵風火輪賽車-全部出局 多國 RCG
+2711 - Drake & Josh (M2) 德雷克和喬希的好萊塢之旅 多國 ACT
+2712 - Danny Phantom-Dschungelstadt (G) 幻影丹尼-都市密林 德 ACT
+2713 - T.M.N.T (M3) 忍者龜 多國 ACT
+2714 - 4 Games in 1 - Nickelodeon Vol.1 GBA 4 - Pack (U) 遊戲4合1-超級海綿寶寶+尼克卡通-棉花糖方塊歷險記瘋狂定格+急速動力-零重力滑板賽場+正義雙親之過關斬將 歐 ETC
+2715 - Teenage Mutant Ninja Turtles (E) 忍者龜 多國 ACT 62.50
+2716 - 2 Games in 1 - Scooby Doo + Scooby Doo 2 - Monsters Unleashed (E) 遊戲2合1 - 史酷比鬼屋歷險-真人照片版和史酷比2-脫韁的怪物 歐 ACT 96.50
+2717 - 2 Games in 1 - Shrek 2 + Madagascar Operation Penguin (E) 遊戲2合1-史瑞克2+馬達加斯加-企鵝大行動 歐 ACT 126.75
+2718 - 2 Games in 1 - Monsters en Co.+Finding Nemo (M4) 遊戲2合1-迪士尼怪獸公司+海底總動員-尋找尼莫 多國 ACT 96.00
+2719 - Uno 52 (M5) 紙牌撲克52張 多國TAB 29.50
+2720 - Meet the Robinsons (U) 未來小子 歐 ACT 57.75
+2721 - 2 Games in 1 - Les Razmoket Rencontrent les Delajungle + SpongeBob SquarePants-Super Sponge (M2) 遊戲2合1-超級海綿寶寶+魯加特野外歷險記 多國 ACT 63.00
+2722 - Petz Vet (U) 寵物診療室 歐 TCG 61.25
+2723 - Dogz 2 (U) 可愛小狗2 歐 TCG 77.50
+2724 - Meet the Robinsons (M6) 未來小子 多國 ACT 59.50
+2725 - Britney's Dance Beat (E) 小甜甜布蘭妮之舞蹈節拍 歐 ETC 64.00
+2726 - Dora the Explorer Super Star Adventures! (M3) 探險家朵拉超級明星歷險記 多國 ACT 31.75
+2727 - Final Fantasy V Advance (M5) 太空戰士5 多國RPG 67.00
+2728 - March of the Penguins (M5) 帝企鵝日記-企鵝的三月 多國 ACT 31.25
+2729 - Game Boy Advance Video Cartoon Network Collection Edition Platinum (F) GBA電影-卡通網絡頻道珍藏電影-限定版 法 MOV 238.75
+2730 - Spider Man 3 (G) 蜘蛛人3 德 ACT 64.00
+2731 - Postman Pat and the Greendale Rocket (M3) 郵差叔叔-綠田園火車大翻新 多國 ACT 19.75
+2732 - Spider Man 3 (U) 蜘蛛人3 歐 ACT 64.00
+2733 - Spider Man 3 (E) 蜘蛛人3 歐 ACT 64.00
+2734 - Spider Man 3 (S) 蜘蛛人3)(S)ACT 64.00
+2735 - M & M's Break' Em (U) M & M's巧克力全面破壞 歐 PUZ 32.00
+2736 - Cars (M2) 汽車總動員 多國RCG 61.75
+2737 - Mijn Dierenpension (M2) 我的寵物旅館 多國TCG 64.00
+2738 - Mijn Dierenpraktijk (M2) 我的獸醫實習 多國SLG 61.75
+2739 - Paard & Pony-Mijn Manege (M2) 馬場精英1-陽光馬廄 多國TCG 26.75
+2740 - Paard & Pony-Paard in Galop (M2) 馬場精英2-馬場生活 多國TCG 28.50
+2741 - Spider Man 3 (I) 蜘蛛人3 意 ACT 64.00
+2742 - Shrek the Third (U) 史瑞克3 歐 ACT 64.00
+2743 - 2K Sports Major League Baseball 2K7 (U) 美國職業棒球大聯盟2007 歐 SPG 39.00
+2744 - SpongeBob SquarePants and Friends - Battle for Volcano Island (M6) 海綿寶寶和朋友們-火山島之戰 多國 ACT 32.00
+2745 - 2 Games in 1 - Lion King, The+Disney Princess (M8) 遊戲2合1-迪士尼白雪公主們和迪士尼獅子王 多國 ACT 128.00
+2746 - Cocoto Kart Racer (M5) 小魔怪賽車 多國RCG 32.00
+2747 - Dogz 2 (E) 可愛小狗2 歐 TCG 77.50
+2748 - Uno Free Fall (M5) 紙牌撲克方塊-自由降落 多國 TAB 31.00
+2749 - Surf's Up (U) 衝浪季節 多國 SPG 43.75
+2750 - 2 Games in 1 - Sonic Battle + Chu Chu Rocket! (M6) 遊戲2合1-音速小子戰鬥+啾啾火箭隊 多國 ACT 255.00
+2751 - Shrek the Third (M6) 史瑞克3 多國 ACT 64.00
+2752 - 2 Games in 1 - Sonic Pinball Party + Columns Crown (M6) 遊戲2合1-音速小子彈珠派對+寶石方塊 多國 TAB 128.00
+2753 - Final Fantasy VI Advance (M5) 太空戰士6 多國 RPG 79.50
+2754 - Dogz 2 (M4) 可愛小狗2 多國 TCG 94.25
+2755 - Spider Man 3 (F) 蜘蛛人3 法 ACT 64.00
+2756 - Ratatouille (U) 料理鼠王 歐 ACT 58.75
+2757 - Horsez (U) 模擬養馬 歐 TCG 62.25
+2758 - Dogz (F) 可愛小狗們 法 TCG 64.00
+2759 - Lea-Passion Veterinaire (M2) 我的寵物旅館 多國 TCG 63.50
+2760 - Back to Stone (M2) 重返石頭城 多國 A·RPG 32.00
+2761 - Cocoto Platform Jumper (M5) 小魔怪大冒險 多國 ACT 28.00
+2762 - Harry Potter and the Order of the Phoenix (M7) 哈利波特與鳳凰令 多國 ACT 125.25
+2763 - 2 Games in 1 - Pferd & Pony-Mein Pferdehof + Pferd & Pony-Lass Uns Reiten 2(G) 遊戲2合1 - 馬場精英1陽光馬廄和馬場生活2 德 SLG 60.50
+2764 - Ratatouille (M2) 料理鼠王 多國 ACT 59.25
+2765 - Jisu F-Zero Weilai Saiche (C) 神遊之極速傳說-未來賽車 RCG 32.00
+2766 - Ratatouille (M3) 料理鼠王 多國 ACT 59.75
+2767 - Surf's Up (M5) 衝浪季節 多國 RCG 44.00
+2768 - Crash of the Titans (M2) 古惑狼泰坦 多國 ACT 126.50
+2769 - The Legend of Spyro - The Eternal Night (U) 寶貝龍-無盡之夜 多國 ACT 256.00
+2770 - Arctic Tale (U) 北極故事 歐 ACT 19.75
+2771 - Bratz-The Movie (U) 貝茲娃娃-電影院 歐 TCG 27.25
+2772 - Deal or No Deal (U) 一擲千金 歐 TAB 31.50
+2773 - Puppy Luv Spa and Resort (U) 愛心寵物狗-狗狗療養院 歐 ETC 28.75
+2774 - Avatar-The Last Airbender-The Burning Earth (U) 降世神通-最後氣宗之燃燒的大地 歐 ACT 30.25
+2775 - 4 Games in 1 - Four Pack Racing-GT Advance + GT Advance 2 + GT Advance 3 + Moto GP (M6) 遊戲4合1-GP摩托車賽和GT職業概念錦標車賽1+2+3 多國RCG 256.00
+2776 - Nicktoons-Attack of the Toybots (U) 尼克通海綿寶寶和朋友們-玩具機器人來襲 歐 ACT 31.75
+2777 - SpongeBob's Atlantis Squarepantis (U) 超級海綿寶寶-亞特蘭提斯 歐 ACT 31.50
+2778 - Barbie as the Island Princess (U) 芭比之森林公主 歐 ETC 50.50
+2779 - Bratz-The Movie (G) 貝茲娃娃-電影院 德 TCG 29.25
+2780 - 2 Games in 1 - Disney Princess + Brother Bear (M8) 遊戲2合1-迪士尼公主們和迪士尼熊的傳說 多國 ACT 128.00
+2781 - Crash of the Titans (M6) 古惑狼泰坦 多國 ACT 127.25
+2782 - Bratz-The Movie (M2) 貝茲娃娃-電影院 多國 TCG 29.25
+2783 - Ratatouille (M5) 料理鼠王 多國 ACT 60.00
+2784 - 2 Games in 1 - Crash & Spyro Super Pack-Spyro-Season of Ice + Crash Bandicoot-The Huge Adventure (U) 遊戲2合1-寶貝龍-冰凍的季節+古惑狼1-無盡的冒險 歐 ACT 127.50
+2785 - Surf's Up (M3) 衝浪季節 多國 RCG 43.75
+2786 - Cars Mater National Championship (M2) 汽車總動員之全國大賽 多國 RCG 32.00
+2787 - Petz Hamsterz Life 2 (U) 模擬寵物-倉鼠的生活2 歐 TCG 62.50
+2788 - Enchanted Once Upon Andalasia (M2) 迪士尼曼哈頓奇緣 多國 ACT 59.50
+2789 - Nicktoons Attack of the Toybots (M2) 尼克通海綿寶寶和朋友們-玩具機器人來襲 多國 ACT 32.00
+2790 - High School Musical Livin' the Dream (U) 歌舞青春 歐 ACT 126.00
+2791 - Math Patrol The Kleptoid Threat(U) 算術偵察飛機隊 歐 STG 34.75
+2792 - Avatar-The Last Airbender-The Burning Earth (M2) 降世神通-最後氣宗之燃燒的大地 多國 ACT 30.25
+2793 - Cars Mater National Championshi (E) 汽車總動員-全國大賽 RCG 32M
+2794 - Ignition Collection Volume 1 - Animal Snap + Super Dropzone + World Tennis Stars (E) 燃燒收集-系列一 ETC 128M
+2795 - Bee Game The (U) 大蜜蜂 ACT 32M
+2796 - Legend of Spyro, The - The Eternal Night (E) 寶貝龍-無盡之夜 ACT 256M
+2797 - Harry Potter Collection (E) 哈利波特合集 RPG 256M
+2798 - Iron Kid (K) 鋼鐵小子 ACT 128M
+2799 - Let's Ride! - Friends Foreve (U) 一起去騎馬 永遠的朋友 TCG 64M
+2800 - Word Safari - The Friendship Totems (U) 單詞旅行 友誼圖騰 TBG 64M
+2801 - Best Friends - Dogs & Cats (U) 猫猫狗狗-我們的朋友 TBG 64M
+2802 - Legendz Buhwarhaneun Siryeonyi Seom (K) 甦生-龍王新傳說 RPG 128M
+2803 - Samurai Deeper Kyo (U) 鬼眼狂刀 ACT 64M
+2804 - Madagascar (H) 馬達加斯加 ACT 64M
+2805 - Camp Lazlo - Leaky Lake Games (E) 力克湖遊戲 PZG 64M
+2806 - Foster's Home for Imaginary Friends (E) 鬼馬狂想屋 假想入侵者 ACT 32M
+2807 - Super Robot Taisen Original Generation (E) 超級機器人大戰OG S‧RPG
+2808 - Yggdra Union - We'll Never Fight Alone (E) 聖劍同盟
+2809 - Bratz - The Movie (E) 貝茲娃娃電影版 歐 ACT
+2810 - Pixeline i Pixieland (D) 皮格斯大陸冒險 丹麥 ACT
+2811 - Battle Network Rockman EXE 2 (J) (v1.1) 洛克人EXE2 v1.1 日 ACT
+2812 - Hikaru no Go (J) (v1.1) 棋靈王 v1.1 日 TAB
+2813 - Gakuen Alice Dokidoki Fushigi Taiken (J) (v1.1) 學園愛麗絲-奇妙心跳的體驗 v1.1 日 AVG
+2814 - Manga-ka Debut Monogatari (J) (v1.1) 漫畫家物語 v1.1 日
+2815 - Battle Network Rockman EXE 3 (J) (v1.1) 洛克人EXE 3 v1.1 日 ACT
+2816 - Fruit Mura no Doubutsutachi (J) (v1.2) 水果村的動物們 v1.2 日
+2817 - Super Mario Advance 4 (J) (v1.1) 超級瑪莉歐4 v1.1 日 ACT
+2818 - Densetsu no Stafy 3 (J) (v1.1) 傳說的斯塔飛3 v1.1 日 ACT
+2819 - Rhythm Tengoku (J) (v1.1) 節奏天國 v1.1 日

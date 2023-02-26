@@ -1,0 +1,1416 @@
+ux0:/ROM/GBA/召唤之夜铸剑物语3起源之石.gba
+001 召唤之夜铸剑物语3起源之石
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/CT特种部队.gba
+002 CT特种部队
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/CT特种部队2.gba
+003 CT特种部队2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/DOOM毁灭战士2.gba
+004 DOOM毁灭战士2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/FIFA足球2006.gba
+005 FIFA足球2006
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/GTA职业概念赛车3.gba
+006 GTA职业概念赛车3
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/X战警2狼人之复仇.gba
+007 X战警2狼人之复仇
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/X战警官方游戏.gba
+008 X战警官方游戏
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/奥特曼警备队怪兽袭击.gba
+009 奥特曼警备队怪兽袭击
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/暴力摩托.gba
+010 暴力摩托
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/爆裂陀螺V力量之最终冲击.gba
+011 爆裂陀螺V力量之最终冲击
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/超级大金刚.gba
+012 超级大金刚
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/超级大金刚3.gba
+013 超级大金刚3
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/超级机器人大战A.gba
+014 超级机器人大战A
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/超级机器人大战D.gba
+015 超级机器人大战D
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/超级机器人大战OG2.gba
+016 超级机器人大战OG2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/超级机器人大战R.gba
+017 超级机器人大战R
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/超级街头霸王2复苏.gba
+018 超级街头霸王2复苏
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/超级马里奥3耀奇岛.gba
+019 超级马里奥3耀奇岛
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/超级马里奥4.gba
+020 超级马里奥4
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/超级马里奥A.gba
+021 超级马里奥A
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/吃豆小精灵世界2.gba
+022 吃豆小精灵世界2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/电梯大作战.gba
+023 电梯大作战
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/东京终极赛车手.gba
+024 东京终极赛车手
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/对决奥特曼之激斗英雄.gba
+025 对决奥特曼之激斗英雄
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/俄罗斯方块.gba
+026 俄罗斯方块
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/恶灵骑士.gba
+027 恶灵骑士
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/恶魔城晓月之圆舞曲.gba
+028 恶魔城晓月之圆舞曲
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/恶魔城月之轮回.gba
+029 恶魔城月之轮回
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/光明之魂2.gba
+030 光明之魂2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/鬼武者战略版.gba
+031 鬼武者战略版
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/鬼眼狂刀京.gba
+032 鬼眼狂刀京
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/海贼王少年跳跃.gba
+033 海贼王少年跳跃
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/合金弹头A.gba
+034 合金弹头A
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/华容道.gba
+035 华容道
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/幻影丹尼终极敌人.gba
+036 幻影丹尼终极敌人
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/黄金太阳1开启的封印.gba
+037 黄金太阳1开启的封印
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/火焰纹章封印之剑.gba
+038 火焰纹章封印之剑
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/火焰纹章烈火之剑.gba
+039 火焰纹章烈火之剑
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/火焰纹章圣魔光石.gba
+040 火焰纹章圣魔光石
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/火影忍者木叶战记.gba
+041 火影忍者木叶战记
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/火影忍者最强忍者大结集.gba
+042 火影忍者最强忍者大结集
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/火影忍者最强忍者大结集2.gba
+043 火影忍者最强忍者大结集2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/机动人机器人的攻击.gba
+044 机动人机器人的攻击
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/极品飞车地下狂飙.gba
+045 极品飞车地下狂飙
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/极品飞车地下狂飙2.gba
+046 极品飞车地下狂飙2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/极品飞车卡本峡谷.gba
+047 极品飞车卡本峡谷
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/极品飞车最高通缉.gba
+048 极品飞车最高通缉
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/加菲猫的九条命.gba
+049 加菲猫的九条命
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/加勒比海盗2亡者宝盒.gba
+050 加勒比海盗2亡者宝盒
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/街头篮球.gba
+051 街头篮球
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/街头赛车.gba
+052 街头赛车
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/究级截拳道.gba
+053 究级截拳道
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/恐龙战队雷电.gba
+054 恐龙战队雷电
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/口袋妖怪不可思议的迷宫红色救助队.gba
+055 口袋妖怪不可思议的迷宫红色救助队
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/口袋妖怪火红.gba
+056 口袋妖怪火红
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/口袋妖怪漆黑的魅影DP.gba
+057 口袋妖怪漆黑的魅影DP
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/快打旋风ONE.gba
+058 快打旋风ONE
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/李小龙传说中的英雄再现.gba
+059 李小龙传说中的英雄再现
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/龙战士.gba
+060 龙战士
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/龙战士2使命之子.gba
+061 龙战士2使命之子
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/龙珠GT.gba
+062 龙珠GT
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/龙珠Z对决.gba
+063 龙珠Z对决
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/龙珠Z舞空斗剧.gba
+064 龙珠Z舞空斗剧
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/龙珠Z悟空的遗产2.gba
+065 龙珠Z悟空的遗产2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/龙珠大冒险A.gba
+066 龙珠大冒险A
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/洛克人EXE5普洛特曼之队.gba
+067 洛克人EXE5普洛特曼之队
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/洛克人Zero4.gba
+068 洛克人Zero4
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/马里奥赛车.gba
+069 马里奥赛车
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/马里奥与路易RPG.gba
+070 马里奥与路易RPG
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/迷你赛车.gba
+071 迷你赛车
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/名侦探柯南被狙击的侦探.gba
+072 名侦探柯南被狙击的侦探
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/名侦探柯南黎明之碑.gba
+073 名侦探柯南黎明之碑
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/逆转裁判.gba
+074 逆转裁判
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/逆转裁判2.gba
+075 逆转裁判2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/逆转裁判3.gba
+076 逆转裁判3
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/百战天虫.gba
+077 百战天虫
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/汽车总动员.gba
+078 汽车总动员
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/青蛙冒险2魔法国大冒险.gba
+079 青蛙冒险2魔法国大冒险
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/拳皇EX2咆哮之血2.gba
+080 拳皇EX2咆哮之血2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/拳皇EX新血.gba
+081 拳皇EX新血
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/热血物语EX.gba
+082 热血物语EX
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/玛亚历险记迷失的探险队.gba
+083 玛亚历险记迷失的探险队
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/忍者神龟2.gba
+084 忍者神龟2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/荣誉勋章渗透者.gba
+085 荣誉勋章渗透者
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/塞尔达传说众神的三角力量与四支剑.gba
+086 塞尔达传说众神的三角力量与四支剑
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/三国志.gba
+087 三国志
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/三国志孔明传.gba
+088 三国志孔明传
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/三维台球杀手.gba
+089 三维台球杀手
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/神奇四侠.gba
+090 神奇四侠
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/世嘉街机动作类游戏合集.gba
+091 世嘉街机动作类游戏合集
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/数码宝贝赛车.gba
+092 数码宝贝赛车
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/数码宝贝战斗之魂2.gba
+093 数码宝贝战斗之魂2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/数码宝贝战魂.gba
+094 数码宝贝战魂
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/双截龙.gba
+095 双截龙
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/双截龙A.gba
+096 双截龙A
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/汤姆和杰利逃出地狱欧版.gba
+097 汤姆和杰利逃出地狱欧版
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/铁臂阿童木原子之心的秘密.gba
+098 铁臂阿童木原子之心的秘密
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/铁拳A.gba
+099 铁拳A
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/头文字D另一个故事.gba
+100 头文字D另一个故事
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/无敌风火轮赛车全部出局.gba
+101 无敌风火轮赛车全部出局
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/侠盗猎车A.gba
+102 侠盗猎车A
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/小拳王赤热之战.gba
+103 小拳王赤热之战
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/星球大战3西斯的复仇.gba
+104 星球大战3西斯的复仇
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/星球大战前传II克隆人的进攻.gba
+105 星球大战前传II克隆人的进攻
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/勇者斗恶龙之元气史莱姆冲击的尾巴团.gba
+106 勇者斗恶龙之元气史莱姆冲击的尾巴团
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/CT特种部队3.gba
+107 CT特种部队3
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/游戏王怪兽决斗GX决战王者.gba
+108 游戏王怪兽决斗GX决战王者
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/侦探学院Q挑战最强诡计.gba
+109 侦探学院Q挑战最强诡计
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/真人快打.gba
+110 真人快打
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/真人快打格斗大赛.gba
+111 真人快打格斗大赛
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/真三国无双A.gba
+112 真三国无双A
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/正义联盟英雄.gba
+113 正义联盟英雄
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/正义双亲之过关斩将.gba
+114 正义双亲之过关斩将
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/蜘蛛侠3.gba
+115 蜘蛛侠3
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/指环王王者归来.gba
+116 指环王王者归来
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/致命的天空.gba
+117 致命的天空
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/终极蜘蛛人.gba
+118 终极蜘蛛人
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/重装机兵2改.gba
+119 重装机兵2改
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/重装骑士闪光英雄的诞生.gba
+120 重装骑士闪光英雄的诞生
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/侏罗纪公园3DNA基因.gba
+121 侏罗纪公园3DNA基因
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/最终幻想6.gba
+122 最终幻想6
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/最终幻想5.gba
+123 最终幻想5
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/VR网球.gba
+124 VR网球
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/X战警启示录.gba
+125 X战警启示录
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/波斯王子时之沙.gba
+126 波斯王子时之沙
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/不可能完成任务.gba
+127 不可能完成任务
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/超级火枪英雄.gba
+128 超级火枪英雄
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/雷曼3暴徒大破坏.gba
+129 雷曼3暴徒大破坏
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/超级马里奥2.gba
+130 超级马里奥2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/超级马里奥弹珠台.gba
+131 超级马里奥弹珠台
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/超魔界村R.gba
+132 超魔界村R
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/超人回到地球.gba
+133 超人回到地球
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/超人特工队.gba
+134 超人特工队
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/成龙冒险黑手党传说.gba
+135 成龙冒险黑手党传说
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/纯情房东俏房客.gba
+136 纯情房东俏房客
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/恶魔城白夜协奏曲.gba
+137 恶魔城白夜协奏曲
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/风之克罗诺亚G2.gba
+138 风之克罗诺亚G2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/古惑狼无尽大冒险.gba
+139 古惑狼无尽大冒险
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/古墓丽影预言.gba
+140 古墓丽影预言
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/光明之魂.gba
+141 光明之魂
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/鬼太郎危机一发.gba
+142 鬼太郎危机一发
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/哈利波特和火焰杯.gba
+143 哈利波特和火焰杯
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/海贼王目标赏金之王.gba
+144 海贼王目标赏金之王
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/海贼王热血棒球.gba
+145 海贼王热血棒球
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/核心台球.gba
+146 核心台球
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/幻想传说FINAL.gba
+147 幻想传说FINAL
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/幻影丹尼密林城市.gba
+148 幻影丹尼密林城市
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/皇牌空战A.gba
+149 皇牌空战A
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/黄金太阳2失落的时代.gba
+150 黄金太阳2失落的时代
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/毁灭公爵.gba
+151 毁灭公爵
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/会员.gba
+152 会员
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/火热飞轮世界赛车.gba
+153 火热飞轮世界赛车
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/火热赛车.gba
+154 火热赛车
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/火焔之紋章-聖邪的意志.gba
+155 火焔之紋章-聖邪的意志
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/极道无间3.gba
+156 极道无间3
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/极品飞车宝石捷之旅.gba
+157 极品飞车宝石捷之旅
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/加菲猫寻找波基.gba
+158 加菲猫寻找波基
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/加勒比海盗.gba
+159 加勒比海盗
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/口袋妖怪 火红_2012中文版_最终珍藏版.gba
+160 口袋妖怪 火红_2012中文版_最终珍藏版
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/口袋妖怪 叶绿_2012中文版_最终珍藏版.gba
+161 口袋妖怪 叶绿_2012中文版_最终珍藏版
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/口袋妖怪_红宝石.gba
+162 口袋妖怪_红宝石
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/口袋妖怪--焱の冒险之心魂之羽.gba
+163 口袋妖怪--焱の冒险之心魂之羽
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/雷曼A.gba
+164 雷曼A
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/雷曼疯狂兔子.gba
+165 雷曼疯狂兔子
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/雷神.gba
+166 雷神
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/洛克人Zero.gba
+167 洛克人Zero
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/洛克人Zero2.gba
+168 洛克人Zero2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/洛克人Zero3.gba
+169 洛克人Zero3
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/洛克人与佛鲁迪.gba
+170 洛克人与佛鲁迪
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/洛克人战斗网络6电脑兽法尔扎.gba
+171 洛克人战斗网络6电脑兽法尔扎
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/漫画地带.gba
+172 漫画地带
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/妹妹公主.gba
+173 妹妹公主
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/摩登原始人.gba
+174 摩登原始人
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/牧场物语-女孩版.gba
+175 牧场物语-女孩版
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/棋魂.gba
+176 棋魂
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/青蛙过街伟大的冒险.gba
+177 青蛙过街伟大的冒险
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/全民麻将.gba
+178 全民麻将
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/人形电脑天使心.gba
+179 人形电脑天使心
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/荣誉勋章地下抵抗.gba
+180 荣誉勋章地下抵抗
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/三角洲空军部队2.gba
+181 三角洲空军部队2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/上海.gba
+182 上海
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/射鸡英雄传2.gba
+183 射鸡英雄传2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/神游之极速零式未来赛车.gba
+184 神游之极速零式未来赛车
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/兽王记王国的守卫者.gba
+185 兽王记王国的守卫者
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/松鼠大冒险.gba
+186 松鼠大冒险
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/索尼克.gba
+187 索尼克
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/索尼克A2.gba
+188 索尼克A2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/淘金者.gba
+189 淘金者
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/星球大战三部曲-学徒的原力.gba
+190 星球大战三部曲-学徒的原力
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/瓦力欧寻宝记.gba
+191 瓦力欧寻宝记
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/王国之心_记忆之链.gba
+192 王国之心_记忆之链
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/卧虎藏龙.gba
+193 卧虎藏龙
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/无敌风火轮疾速赛车X.gba
+194 无敌风火轮疾速赛车X
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/舞之刃.gba
+195 舞之刃
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/细胞分裂.gba
+196 细胞分裂
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/蝎子王大地之剑.gba
+197 蝎子王大地之剑
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/新约圣剑传说.gba
+198 新约圣剑传说
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/星球大战新帝国军队.gba
+199 星球大战新帝国军队
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/星之卡比 镜之迷宫.gba
+200 星之卡比 镜之迷宫
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/眼睛君.gba
+201 眼睛君
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/游戏王8_破灭之大邪神.gba
+202 游戏王8_破灭之大邪神
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/召唤之夜_铸剑物语1.0修复版.gba
+203 召唤之夜_铸剑物语1.0修复版
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/侦探学院Q名侦探就是你.gba
+204 侦探学院Q名侦探就是你
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/召唤之夜铸剑物语2.gba
+205 召唤之夜铸剑物语2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/真人快打致命联盟.gba
+206 真人快打致命联盟
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/正义双亲的反斗家族反物质世界的突变.gba
+207 正义双亲的反斗家族反物质世界的突变
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/正义双亲之叛逆的惩罚.gba
+208 正义双亲之叛逆的惩罚
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/蜘蛛人-电影版gba
+209 蜘蛛人-电影版
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/蜘蛛侠2.gba
+210 蜘蛛侠2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/蜘蛛侠-为纽约而战.gba
+211 蜘蛛侠-为纽约而战
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/蜘蛛侠-未知的威胁.gba
+212 蜘蛛侠-未知的威胁
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/指环王第三纪元.gba
+213 指环王第三纪元
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/指环王魔戒现身.gba
+214 指环王魔戒现身
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/指环王双塔.gba
+215 指环王双塔
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/重装骑士出击战斗团队.gba
+216 重装骑士出击战斗团队
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/牧场物语矿石镇的伙伴们.gba
+217 牧场物语矿石镇的伙伴们
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/最终幻想4.gba
+218 最终幻想4
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/实况足球胜利11人.gba
+219 实况足球胜利11人
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/最终幻想1+2.gba
+220 最终幻想1+2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/最终幻想战略版.gba
+221 最终幻想战略版
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/忍者神龟.gba
+222 忍者神龟
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/罪恶装备X.gba
+223 罪恶装备X
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/超级大金刚2.gba
+224 超级大金刚2
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/超级机器人大战OG.gba
+225 超级机器人大战OG
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/超级机器人大战J.gba
+226 超级机器人大战J
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/超人正义同盟.gba
+227 超人正义同盟
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/超人归来.gba
+228 超人归来
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/风之克罗诺亚-梦见帝国.gba
+229 风之克罗诺亚-梦见帝国
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/古惑狼赛车.gba
+230 古惑狼赛车
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/古惑狼暴跳的罗彼德与紫色宝贝龙.gba
+231 古惑狼暴跳的罗彼德与紫色宝贝龙
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/宝贝龙与橙色古惑狼.gba
+232 宝贝龙与橙色古惑狼
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/古惑狼泰坦.gba
+233 古惑狼泰坦
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/古惑狼a友情大作战.gba
+234 古惑狼a友情大作战
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/古墓丽影.gba
+235 古墓丽影
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
+ux0:/ROM/GBA/雷曼阿飞复仇.gba
+236 雷曼阿飞复仇
+app0:/vba_next_libretro.self
+VBA Next
+GBA.lpl
+
