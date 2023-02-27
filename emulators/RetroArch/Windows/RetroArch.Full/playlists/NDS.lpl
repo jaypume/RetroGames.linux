@@ -1,0 +1,2443 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/NDS/99滴眼泪.nds",
+      "label": "99滴眼泪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/ASH 远古封印之炎.nds",
+      "label": "ASH 远古封印之炎",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/DS眼力训练.nds",
+      "label": "DS眼力训练",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/GTA 血战唐人街.nds",
+      "label": "GTA 血战唐人街",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/Jump终极明星大乱斗.nds",
+      "label": "Jump终极明星大乱斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/Q版新世纪福音战士.nds",
+      "label": "Q版新世纪福音战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/阿拉蕾.nds",
+      "label": "阿拉蕾",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/爱相随+.nds",
+      "label": "爱相随+",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/爱相随.nds",
+      "label": "爱相随",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/安妮的工作室 塞拉岛的炼金术士.nds",
+      "label": "安妮的工作室 塞拉岛的炼金术士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/巴哈姆特之血.nds",
+      "label": "巴哈姆特之血",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/北欧女神 负罪者.nds",
+      "label": "北欧女神 负罪者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/便利商店 经营力训练.nds",
+      "label": "便利商店 经营力训练",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/病房1.nds",
+      "label": "病房1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/病房2.nds",
+      "label": "病房2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/波斯王子 堕落之王.nds",
+      "label": "波斯王子 堕落之王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/财宝报道 机械机关的遗产.nds",
+      "label": "财宝报道 机械机关的遗产",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/超级机器人大战K.nds",
+      "label": "超级机器人大战K",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/超级机器人大战L.nds",
+      "label": "超级机器人大战L",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/超级机器人大战W.nds",
+      "label": "超级机器人大战W",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/超级马里奥64 DS.nds",
+      "label": "超级马里奥64 DS",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/超恐怖故事 青之章.nds",
+      "label": "超恐怖故事 青之章",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/超热血高校国夫君 躲避球部.nds",
+      "label": "超热血高校国夫君 躲避球部",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/超时空之轮.nds",
+      "label": "超时空之轮",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/超执刀1.nds",
+      "label": "超执刀1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/超执刀2.nds",
+      "label": "超执刀2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/虫师 天降之里.nds",
+      "label": "虫师 天降之里",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/触摸！卡比.nds",
+      "label": "触摸！卡比",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/创世法典.nds",
+      "label": "创世法典",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/大航海时代4.nds",
+      "label": "大航海时代4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/大剑 银眼的魔女.nds",
+      "label": "大剑 银眼的魔女",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/大神传 小小太阳.nds",
+      "label": "大神传 小小太阳",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/大战略.nds",
+      "label": "大战略",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/代号基亚斯 反叛的鲁鲁修.nds",
+      "label": "代号基亚斯 反叛的鲁鲁修",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/第七龙神.nds",
+      "label": "第七龙神",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/地狱少女 朱蔓.nds",
+      "label": "地狱少女 朱蔓",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/动物园管理员.nds",
+      "label": "动物园管理员",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/动物之森.nds",
+      "label": "动物之森",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/俄罗斯方块聚会豪华版.nds",
+      "label": "俄罗斯方块聚会豪华版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/俄罗斯方块.nds",
+      "label": "俄罗斯方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/恶魔城 被夺的刻印.nds",
+      "label": "恶魔城 被夺的刻印",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/恶魔城 苍月的十字架.nds",
+      "label": "恶魔城 苍月的十字架",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/恶魔城 迷宫的画廊（废墟的肖像）.nds",
+      "label": "恶魔城 迷宫的画廊（废墟的肖像）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/恶魔幸存者2.nds",
+      "label": "恶魔幸存者2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/二之国.nds",
+      "label": "二之国",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/放课后少年.nds",
+      "label": "放课后少年",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/风来的西林1.nds",
+      "label": "风来的西林1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/风来的西林2 沙漠魔城.nds",
+      "label": "风来的西林2 沙漠魔城",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/风来的西林4 神之眼与恶魔的肚脐.nds",
+      "label": "风来的西林4 神之眼与恶魔的肚脐",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/风来的西林5 命运塔与命运的骰子.nds",
+      "label": "风来的西林5 命运塔与命运的骰子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/风雨传说.nds",
+      "label": "风雨传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/富豪街.nds",
+      "label": "富豪街",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/钢之炼金术师 双重共鸣.nds",
+      "label": "钢之炼金术师 双重共鸣",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/钢之羽.nds",
+      "label": "钢之羽",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/高级战争 毁灭日.nds",
+      "label": "高级战争 毁灭日",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/高级战争 双重打击.nds",
+      "label": "高级战争 双重打击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/高速卡片战斗 卡片英雄.nds",
+      "label": "高速卡片战斗 卡片英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/古惑狼 泰坦.nds",
+      "label": "古惑狼 泰坦",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/怪盗瓦里奥 变相七杰.nds",
+      "label": "怪盗瓦里奥 变相七杰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/怪兽传说.nds",
+      "label": "怪兽传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/鬼魂力量 创世纪.nds",
+      "label": "鬼魂力量 创世纪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/国夫君的超热血！大运动会.nds",
+      "label": "国夫君的超热血！大运动会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/国夫君的超热血！足球联盟Plus.nds",
+      "label": "国夫君的超热血！足球联盟Plus",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/海贼王 换挡之魂.nds",
+      "label": "海贼王 换挡之魂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/海贼王 巨人战争1.nds",
+      "label": "海贼王 巨人战争1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/海贼王 巨人战争2 新世界.nds",
+      "label": "海贼王 巨人战争2 新世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/合金弹头7.nds",
+      "label": "合金弹头7",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/红线 命运.nds",
+      "label": "红线 命运",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/弧光之源1.nds",
+      "label": "弧光之源1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/弧光之源2.nds",
+      "label": "弧光之源2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/弧光之源3.nds",
+      "label": "弧光之源3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/幻侠乔伊.nds",
+      "label": "幻侠乔伊",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/幻想水浒传 黄道之轮.nds",
+      "label": "幻想水浒传 黄道之轮",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/欢迎回来！小机器人！开心富裕大扫除！.nds",
+      "label": "欢迎回来！小机器人！开心富裕大扫除！",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/黄昏旅馆 215房间.nds",
+      "label": "黄昏旅馆 215房间",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/黄金太阳 漆黑的黎明.nds",
+      "label": "黄金太阳 漆黑的黎明",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/绘心教室.nds",
+      "label": "绘心教室",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/魂斗罗4.nds",
+      "label": "魂斗罗4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/火焰纹章 新暗黑龙与光之剑.nds",
+      "label": "火焰纹章 新暗黑龙与光之剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/火焰纹章 新纹章之谜 光与影的英雄.nds",
+      "label": "火焰纹章 新纹章之谜 光与影的英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/火影忍者疾风传 忍列传2.nds",
+      "label": "火影忍者疾风传 忍列传2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/火影忍者疾风传 最强忍者大结集5 决战！晓.nds",
+      "label": "火影忍者疾风传 最强忍者大结集5 决战！晓",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/火影忍者疾风传 最强忍者大结集激突！鸣人VS佐助.nds",
+      "label": "火影忍者疾风传 最强忍者大结集激突！鸣人VS佐助",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/火影忍者 忍列传.nds",
+      "label": "火影忍者 忍列传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/火影忍者 最强忍者大结集4 DS.nds",
+      "label": "火影忍者 最强忍者大结集4 DS",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/机动战士高达 OO.nds",
+      "label": "机动战士高达 OO",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/集合！卡比.nds",
+      "label": "集合！卡比",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/机器猫 大雄和绿巨人传.nds",
+      "label": "机器猫 大雄和绿巨人传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/机器人欢歌.nds",
+      "label": "机器人欢歌",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/极限脱出 9小时9人9扇门.nds",
+      "label": "极限脱出 9小时9人9扇门",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/结界师 鸟森妖奇谈.nds",
+      "label": "结界师 鸟森妖奇谈",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/节奏天国 黄金版.nds",
+      "label": "节奏天国 黄金版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/紧急出口 逃脱大师.nds",
+      "label": "紧急出口 逃脱大师",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/金田一少年事件簿 恶魔之杀人航海.nds",
+      "label": "金田一少年事件簿 恶魔之杀人航海",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/卡坦岛.nds",
+      "label": "卡坦岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/克罗罗RPG 骑士和武士和传说的海盗.nds",
+      "label": "克罗罗RPG 骑士和武士和传说的海盗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/恐怖校园 禁锢都市传说.nds",
+      "label": "恐怖校园 禁锢都市传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/口袋妖怪 暗之探险队.nds",
+      "label": "口袋妖怪 暗之探险队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/口袋妖怪 白1.nds",
+      "label": "口袋妖怪 白1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/口袋妖怪 白2.nds",
+      "label": "口袋妖怪 白2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/口袋妖怪 白金.nds",
+      "label": "口袋妖怪 白金",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/口袋妖怪 方块.nds",
+      "label": "口袋妖怪 方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/口袋妖怪 黑1.nds",
+      "label": "口袋妖怪 黑1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/口袋妖怪 黑2.nds",
+      "label": "口袋妖怪 黑2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/口袋妖怪 魂银.nds",
+      "label": "口袋妖怪 魂银",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/口袋妖怪 空之探险队.nds",
+      "label": "口袋妖怪 空之探险队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/口袋妖怪 青之救助队.nds",
+      "label": "口袋妖怪 青之救助队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/口袋妖怪 时之探险队.nds",
+      "label": "口袋妖怪 时之探险队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/口袋妖怪守护者1.nds",
+      "label": "口袋妖怪守护者1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/口袋妖怪守护者2 融合.nds",
+      "label": "口袋妖怪守护者2 融合",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/口袋妖怪守护者3 光之轨迹.nds",
+      "label": "口袋妖怪守护者3 光之轨迹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/口袋妖怪 心金.nds",
+      "label": "口袋妖怪 心金",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/口袋妖怪 信长的野望.nds",
+      "label": "口袋妖怪 信长的野望",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/口袋妖怪 珍珠.nds",
+      "label": "口袋妖怪 珍珠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/口袋妖怪 钻石.nds",
+      "label": "口袋妖怪 钻石",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/来自深渊.nds",
+      "label": "来自深渊",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/蓝龙 PLUS.nds",
+      "label": "蓝龙 PLUS",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/蓝龙 异界巨兽.nds",
+      "label": "蓝龙 异界巨兽",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/狼与香辛料 渡海之风.nds",
+      "label": "狼与香辛料 渡海之风",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/狼与香辛料 我与赫萝的一年.nds",
+      "label": "狼与香辛料 我与赫萝的一年",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/雷顿教授与不可思议的小镇.nds",
+      "label": "雷顿教授与不可思议的小镇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/雷顿教授与恶魔之箱.nds",
+      "label": "雷顿教授与恶魔之箱",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/雷顿教授与魔神之笛.nds",
+      "label": "雷顿教授与魔神之笛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/雷顿教授与最后的时间旅行.nds",
+      "label": "雷顿教授与最后的时间旅行",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/莉娜的工作室 修特拉尔的炼金术士.nds",
+      "label": "莉娜的工作室 修特拉尔的炼金术士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/立体绘图方块.nds",
+      "label": "立体绘图方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/料理妈妈.nds",
+      "label": "料理妈妈",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/灵光守护者.nds",
+      "label": "灵光守护者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/令旗所向.nds",
+      "label": "令旗所向",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/龙珠1.nds",
+      "label": "龙珠1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/龙珠2 突击！红缎带军.nds",
+      "label": "龙珠2 突击！红缎带军",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/龙珠改 究极武斗传.nds",
+      "label": "龙珠改 究极武斗传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/龙珠改 赛亚人来袭.nds",
+      "label": "龙珠改 赛亚人来袭",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/洛克人 ZX Advent.nds",
+      "label": "洛克人 ZX Advent",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/洛克人 ZX.nds",
+      "label": "洛克人 ZX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/绿野仙踪奇遇记.nds",
+      "label": "绿野仙踪奇遇记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/马里奥篮球.nds",
+      "label": "马里奥篮球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/马里奥赛车.nds",
+      "label": "马里奥赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/马里奥与路易RPG2.nds",
+      "label": "马里奥与路易RPG2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/马里奥与路易RPG3.nds",
+      "label": "马里奥与路易RPG3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/马里奥与索尼克在北京奥运会.nds",
+      "label": "马里奥与索尼克在北京奥运会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/冒险岛.nds",
+      "label": "冒险岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/美妙世界.nds",
+      "label": "美妙世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/美少女麻将3.nds",
+      "label": "美少女麻将3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/美少女梦工场4.nds",
+      "label": "美少女梦工场4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/梦幻之星 ZERO.nds",
+      "label": "梦幻之星 ZERO",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/迷失蔚蓝 小岛的大秘密.nds",
+      "label": "迷失蔚蓝 小岛的大秘密",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/名侦探柯南 苍蓝宝石的轮舞曲.nds",
+      "label": "名侦探柯南 苍蓝宝石的轮舞曲",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/名侦探柯南 来自过去的前奏曲.nds",
+      "label": "名侦探柯南 来自过去的前奏曲",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/名侦探柯南 消失的博士与找错之塔.nds",
+      "label": "名侦探柯南 消失的博士与找错之塔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/名侦探柯南与金田一 交错的两位名侦探.nds",
+      "label": "名侦探柯南与金田一 交错的两位名侦探",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/名侦探柯南 侦探力训练.nds",
+      "label": "名侦探柯南 侦探力训练",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/魔法门之英雄交锋.nds",
+      "label": "魔法门之英雄交锋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/魔界战记 魔界王子与赤月.nds",
+      "label": "魔界战记 魔界王子与赤月",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/摸摸瓦里奥制造.nds",
+      "label": "摸摸瓦里奥制造",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/摸摸耀西 云中漫步.nds",
+      "label": "摸摸耀西 云中漫步",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/模拟城市2 由远古向未来的城市.nds",
+      "label": "模拟城市2 由远古向未来的城市",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/模拟人生2 生存游戏.nds",
+      "label": "模拟人生2 生存游戏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/牧场物语 风之集市.nds",
+      "label": "牧场物语 风之集市",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/牧场物语 精灵驿站 男孩版.nds",
+      "label": "牧场物语 精灵驿站 男孩版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/牧场物语 精灵驿站 女孩版.nds",
+      "label": "牧场物语 精灵驿站 女孩版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/牧场物语 闪耀的太阳与伙伴们.nds",
+      "label": "牧场物语 闪耀的太阳与伙伴们",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/牧场物语 双子村.nds",
+      "label": "牧场物语 双子村",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/牧场物语 与你共建小岛.nds",
+      "label": "牧场物语 与你共建小岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/纳米漂移1.nds",
+      "label": "纳米漂移1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/纳米漂移2.nds",
+      "label": "纳米漂移2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/能源小精灵.nds",
+      "label": "能源小精灵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/逆转裁判4.nds",
+      "label": "逆转裁判4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/逆转裁判 复苏的逆转.nds",
+      "label": "逆转裁判 复苏的逆转",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/逆转检事1.nds",
+      "label": "逆转检事1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/逆转检事2.nds",
+      "label": "逆转检事2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/诺拉和时间工房 雾之森的魔女.nds",
+      "label": "诺拉和时间工房 雾之森的魔女",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/喷射脉冲.nds",
+      "label": "喷射脉冲",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/燃烧吧！热血旋律魂 应援团2.nds",
+      "label": "燃烧吧！热血旋律魂 应援团2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/任天狗 吉娃娃.nds",
+      "label": "任天狗 吉娃娃",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/任天狗 拉布拉多.nds",
+      "label": "任天狗 拉布拉多",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/任天狗 腊肠犬.nds",
+      "label": "任天狗 腊肠犬",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/忍者龙剑传 龙剑.nds",
+      "label": "忍者龙剑传 龙剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/塞尔达传说 大地的汽笛（灵魂轨迹）.nds",
+      "label": "塞尔达传说 大地的汽笛（灵魂轨迹）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/塞尔达传说 幻影沙漏.nds",
+      "label": "塞尔达传说 幻影沙漏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/三国志1.nds",
+      "label": "三国志1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/三国志2.nds",
+      "label": "三国志2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/三国志大战 天.nds",
+      "label": "三国志大战 天",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/三国志大战.nds",
+      "label": "三国志大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/沙迦2 秘宝传说.nds",
+      "label": "沙迦2 秘宝传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/沙迦3 时空之霸者.nds",
+      "label": "沙迦3 时空之霸者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/闪电十一人1.nds",
+      "label": "闪电十一人1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/闪电十一人2 威胁的侵略者热焰（日文）.nds",
+      "label": "闪电十一人2 威胁的侵略者热焰（日文）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/闪电十一人3 面向世界的挑战 The王牙.nds",
+      "label": "闪电十一人3 面向世界的挑战 The王牙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/山脊赛车.nds",
+      "label": "山脊赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/上旋高手3.nds",
+      "label": "上旋高手3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/神探伽利略.nds",
+      "label": "神探伽利略",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/生存之子 迷失深蓝1.nds",
+      "label": "生存之子 迷失深蓝1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/生存之子 迷失深蓝2.nds",
+      "label": "生存之子 迷失深蓝2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/生化危机 死寂.nds",
+      "label": "生化危机 死寂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/圣洁传说.nds",
+      "label": "圣洁传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/胜利11人.nds",
+      "label": "胜利11人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/噬魂师 美杜莎的阴谋.nds",
+      "label": "噬魂师 美杜莎的阴谋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/时间空洞 寻找被夺走的过去.nds",
+      "label": "时间空洞 寻找被夺走的过去",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/世界树迷宫1.nds",
+      "label": "世界树迷宫1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/世界树迷宫2 诸王的圣杯.nds",
+      "label": "世界树迷宫2 诸王的圣杯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/失落的魔法.nds",
+      "label": "失落的魔法",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/使命召唤7 黑色行动.nds",
+      "label": "使命召唤7 黑色行动",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/使命召唤8 现代战争3.nds",
+      "label": "使命召唤8 现代战争3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/使命召唤 现代战争.nds",
+      "label": "使命召唤 现代战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/使命召唤 战争世界.nds",
+      "label": "使命召唤 战争世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/数码宝贝 日光.nds",
+      "label": "数码宝贝 日光",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/数码宝贝 月光.nds",
+      "label": "数码宝贝 月光",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/斯隆与马克贝尔的谜之物语1.nds",
+      "label": "斯隆与马克贝尔的谜之物语1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/斯隆与马克贝尔的谜之物语2.nds",
+      "label": "斯隆与马克贝尔的谜之物语2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/死神1 追逐苍天的命运.nds",
+      "label": "死神1 追逐苍天的命运",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/死神2 黑衣闪耀的镇魂歌（日文）.nds",
+      "label": "死神2 黑衣闪耀的镇魂歌（日文）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/死神3 三度幻影（日文）.nds",
+      "label": "死神3 三度幻影（日文）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/死神4 火焰传承者.nds",
+      "label": "死神4 火焰传承者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/死亡笔记 L的继承者.nds",
+      "label": "死亡笔记 L的继承者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/思乡之风.nds",
+      "label": "思乡之风",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/四叶草 圣石之路.nds",
+      "label": "四叶草 圣石之路",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/死于七日（七日死）.nds",
+      "label": "死于七日（七日死）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/索尼克经典合辑.nds",
+      "label": "索尼克经典合辑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/太鼓达人 触摸演奏.nds",
+      "label": "太鼓达人 触摸演奏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/太鼓达人 七岛大冒险.nds",
+      "label": "太鼓达人 七岛大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/太鼓达人 妖怪大决战.nds",
+      "label": "太鼓达人 妖怪大决战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/太空侵略者EX1.nds",
+      "label": "太空侵略者EX1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/太空侵略者EX2.nds",
+      "label": "太空侵略者EX2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/藤堂龙之介侦探日记.nds",
+      "label": "藤堂龙之介侦探日记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/天降之物F 梦幻季节.nds",
+      "label": "天降之物F 梦幻季节",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/天空机器人.nds",
+      "label": "天空机器人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/天使之翼 激斗的轨迹.nds",
+      "label": "天使之翼 激斗的轨迹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/天外魔境2 万字丸.nds",
+      "label": "天外魔境2 万字丸",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/天元突破 红莲之眼.nds",
+      "label": "天元突破 红莲之眼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/天诛 暗影.nds",
+      "label": "天诛 暗影",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/突击队 钢铁灾难.nds",
+      "label": "突击队 钢铁灾难",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/王国之心 358／2天.nds",
+      "label": "王国之心 358／2天",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/为你而生.nds",
+      "label": "为你而生",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/我是航空管制员.nds",
+      "label": "我是航空管制员",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/无名英雄 木马的咆哮.nds",
+      "label": "无名英雄 木马的咆哮",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/无限边境 超级机器人大战OG传说 超越.nds",
+      "label": "无限边境 超级机器人大战OG传说 超越",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/无限边境 超级机器人大战OG传说.nds",
+      "label": "无限边境 超级机器人大战OG传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/西格玛和声.nds",
+      "label": "西格玛和声",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/西游记 金角银角的阴谋.nds",
+      "label": "西游记 金角银角的阴谋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/仙境传说.nds",
+      "label": "仙境传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/小魔女之路.nds",
+      "label": "小魔女之路",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/新彩虹岛.nds",
+      "label": "新彩虹岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/新超级马里奥兄弟.nds",
+      "label": "新超级马里奥兄弟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/心灵传说.nds",
+      "label": "心灵传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/新牧场物语符文工房1.nds",
+      "label": "新牧场物语符文工房1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/新牧场物语符文工房2.nds",
+      "label": "新牧场物语符文工房2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/新牧场物语符文工房3.nds",
+      "label": "新牧场物语符文工房3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/新世纪福音战士 凌波丽育成计划与明日香补完计划.nds",
+      "label": "新世纪福音战士 凌波丽育成计划与明日香补完计划",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/心跳回忆 女生版 初恋.nds",
+      "label": "心跳回忆 女生版 初恋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/心跳回忆 女生版 第二季.nds",
+      "label": "心跳回忆 女生版 第二季",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/刑警J.B. 哈罗德事件簿 杀人俱乐部.nds",
+      "label": "刑警J.B. 哈罗德事件簿 杀人俱乐部",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/刑事J.B. 哈罗德的事件簿 曼哈顿安魂曲 杀意之吻.nds",
+      "label": "刑事J.B. 哈罗德的事件簿 曼哈顿安魂曲 杀意之吻",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/星之卡比超究极豪华版.nds",
+      "label": "星之卡比超究极豪华版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/星之卡比 怪盗洛切团.nds",
+      "label": "星之卡比 怪盗洛切团",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/驯龙师 音魂.nds",
+      "label": "驯龙师 音魂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/押忍！战斗！应援团！.nds",
+      "label": "押忍！战斗！应援团！",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/耀西岛.nds",
+      "label": "耀西岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/野兽刑警 东京同时镇压多起恐怖行动.nds",
+      "label": "野兽刑警 东京同时镇压多起恐怖行动",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/异色代码 双重记忆.nds",
+      "label": "异色代码 双重记忆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/伊苏1.nds",
+      "label": "伊苏1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/伊苏2.nds",
+      "label": "伊苏2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/银河战士 初猎.nds",
+      "label": "银河战士 初猎",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/樱花大战 因为有你.nds",
+      "label": "樱花大战 因为有你",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/英雄战记 烈焰之剑.nds",
+      "label": "英雄战记 烈焰之剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/影之传说2.nds",
+      "label": "影之传说2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/勇者斗恶龙4.nds",
+      "label": "勇者斗恶龙4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/勇者斗恶龙5.nds",
+      "label": "勇者斗恶龙5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/勇者斗恶龙6.nds",
+      "label": "勇者斗恶龙6",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/勇者斗恶龙9.nds",
+      "label": "勇者斗恶龙9",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/勇者斗恶龙 怪兽篇 Joker1.nds",
+      "label": "勇者斗恶龙 怪兽篇 Joker1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/勇者斗恶龙 怪兽篇 Joker2.nds",
+      "label": "勇者斗恶龙 怪兽篇 Joker2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/幽灵诡计.nds",
+      "label": "幽灵诡计",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/右脑达人 爽解 找茬博物馆.nds",
+      "label": "右脑达人 爽解 找茬博物馆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/由我来守护你.nds",
+      "label": "由我来守护你",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/游戏王GX 精灵召唤者.nds",
+      "label": "游戏王GX 精灵召唤者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/游戏王 噩梦的吟游诗人.nds",
+      "label": "游戏王 噩梦的吟游诗人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/游戏王 世界冠军2007.nds",
+      "label": "游戏王 世界冠军2007",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/游戏王 世界冠军2008.nds",
+      "label": "游戏王 世界冠军2008",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/游戏王 世界冠军2011.nds",
+      "label": "游戏王 世界冠军2011",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/游戏王 桃源乡的复仇 世界冠军2010.nds",
+      "label": "游戏王 桃源乡的复仇 世界冠军2010",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/游戏王 星尘驱动者 世界冠军2009.nds",
+      "label": "游戏王 星尘驱动者 世界冠军2009",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/有罪X无罪.nds",
+      "label": "有罪X无罪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/园艺妈妈.nds",
+      "label": "园艺妈妈",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/月球.nds",
+      "label": "月球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/陨石大战.nds",
+      "label": "陨石大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/战火兄弟连.nds",
+      "label": "战火兄弟连",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/召唤之夜X 泪之皇冠.nds",
+      "label": "召唤之夜X 泪之皇冠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/召唤之夜 双生时代 精灵们的共鸣.nds",
+      "label": "召唤之夜 双生时代 精灵们的共鸣",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/真女神转生 奇幻之旅.nds",
+      "label": "真女神转生 奇幻之旅",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/真三国无双 斗士之战.nds",
+      "label": "真三国无双 斗士之战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/重装机兵2重制版.nds",
+      "label": "重装机兵2重制版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/重装机兵3.nds",
+      "label": "重装机兵3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/重装机兵 钢之季节.nds",
+      "label": "重装机兵 钢之季节",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/灼眼的夏娜.nds",
+      "label": "灼眼的夏娜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/最后之窗 真夜中的约束.nds",
+      "label": "最后之窗 真夜中的约束",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/最终幻想12 亡灵之翼.nds",
+      "label": "最终幻想12 亡灵之翼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/最终幻想3.nds",
+      "label": "最终幻想3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/最终幻想4.nds",
+      "label": "最终幻想4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/最终幻想水晶编年史 命运指环.nds",
+      "label": "最终幻想水晶编年史 命运指环",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/最终幻想水晶编年史 时之回声.nds",
+      "label": "最终幻想水晶编年史 时之回声",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/最终幻想外传 光之四战士.nds",
+      "label": "最终幻想外传 光之四战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/最终幻想战略版A2 封穴的魔法书.nds",
+      "label": "最终幻想战略版A2 封穴的魔法书",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    },
+    {
+      "path": "@ROM/NDS/佐贺的超级阿嬷.nds",
+      "label": "佐贺的超级阿嬷",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NDS.lpl"
+    }
+  ]
+}

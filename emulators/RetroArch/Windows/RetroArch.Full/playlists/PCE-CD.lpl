@@ -1,0 +1,523 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/PCE-CD/CD电人.chd",
+      "label": "CD电人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/PC原人3.chd",
+      "label": "PC原人3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/爱 超兄贵.chd",
+      "label": "爱 超兄贵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/白鸭.chd",
+      "label": "白鸭",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/彩虹岛.chd",
+      "label": "彩虹岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/超级太空战斗机1.chd",
+      "label": "超级太空战斗机1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/超级太空战斗机2.chd",
+      "label": "超级太空战斗机2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/超兄贵.chd",
+      "label": "超兄贵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/出击飞龙.chd",
+      "label": "出击飞龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/大地枪声 SX.chd",
+      "label": "大地枪声 SX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/地狱火 S.chd",
+      "label": "地狱火 S",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/电脑骑士 2.chd",
+      "label": "电脑骑士 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/电视秀.chd",
+      "label": "电视秀",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/哆啦A梦 大雄的一千零一夜.chd",
+      "label": "哆啦A梦 大雄的一千零一夜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/恶魔城 血之轮回.chd",
+      "label": "恶魔城 血之轮回",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/疯狂猎杀者 全金属部队.chd",
+      "label": "疯狂猎杀者 全金属部队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/风雾.chd",
+      "label": "风雾",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/风之传说2.chd",
+      "label": "风之传说2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/复仇者.chd",
+      "label": "复仇者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/盖茨杰迪纳.chd",
+      "label": "盖茨杰迪纳",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/改造超人3.chd",
+      "label": "改造超人3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/红色警戒.chd",
+      "label": "红色警戒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/火热的心.chd",
+      "label": "火热的心",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/姐.chd",
+      "label": "姐",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/精灵战士1代.chd",
+      "label": "精灵战士1代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/精灵战士2代.chd",
+      "label": "精灵战士2代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/绝对合体.chd",
+      "label": "绝对合体",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/空战奇兵.chd",
+      "label": "空战奇兵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/快打旋风.chd",
+      "label": "快打旋风",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/狼的纹章.chd",
+      "label": "狼的纹章",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/雷电.chd",
+      "label": "雷电",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/雷霆天翼.chd",
+      "label": "雷霆天翼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/雷霆之门.chd",
+      "label": "雷霆之门",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/雷霆之王.chd",
+      "label": "雷霆之王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/零翼战机.chd",
+      "label": "零翼战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/麻将之剑 公主探险外传.chd",
+      "label": "麻将之剑 公主探险外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/梦幻战士1代.chd",
+      "label": "梦幻战士1代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/梦幻战士2代.chd",
+      "label": "梦幻战士2代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/梦幻战士3代.chd",
+      "label": "梦幻战士3代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/梦幻战士4代.chd",
+      "label": "梦幻战士4代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/棉花小魔女.chd",
+      "label": "棉花小魔女",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/魔洞历险 2.chd",
+      "label": "魔洞历险 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/魔法泡泡.chd",
+      "label": "魔法泡泡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/魔鬼气球.chd",
+      "label": "魔鬼气球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/咆啸神机队.chd",
+      "label": "咆啸神机队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/沙克外传 芙蕾大冒险.chd",
+      "label": "沙克外传 芙蕾大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/神奇男孩3 怪兽巢穴.chd",
+      "label": "神奇男孩3 怪兽巢穴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/失落的世界.chd",
+      "label": "失落的世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/双截龙2 复仇.chd",
+      "label": "双截龙2 复仇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/双麟儿.chd",
+      "label": "双麟儿",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/天外魔境1.chd",
+      "label": "天外魔境1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/天外魔境2.chd",
+      "label": "天外魔境2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/吞食天地.chd",
+      "label": "吞食天地",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/希尔菲亚.chd",
+      "label": "希尔菲亚",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/性感偶像麻将.chd",
+      "label": "性感偶像麻将",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/星际趣味大射击.chd",
+      "label": "星际趣味大射击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/伊贺忍传 凯王.chd",
+      "label": "伊贺忍传 凯王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/异兽王国.chd",
+      "label": "异兽王国",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/伊苏1&2.chd",
+      "label": "伊苏1&2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/伊苏4.chd",
+      "label": "伊苏4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/异形战机.chd",
+      "label": "异形战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/银河妇警伝説.chd",
+      "label": "银河妇警伝説",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/银河刑事.chd",
+      "label": "银河刑事",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    },
+    {
+      "path": "@ROM/PCE-CD/月光少女战士.chd",
+      "label": "月光少女战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE-CD.lpl"
+    }
+  ]
+}

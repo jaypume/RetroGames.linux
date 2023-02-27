@@ -1,0 +1,411 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/LYNX/阿比阿弟的冒险.zip",
+      "label": "阿比阿弟的冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/肮脏拉里 叛徒警察.zip",
+      "label": "肮脏拉里 叛徒警察",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/暴力篮球.zip",
+      "label": "暴力篮球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/蝙蝠侠回归.zip",
+      "label": "蝙蝠侠回归",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/冰球.zip",
+      "label": "冰球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/超级毛球.zip",
+      "label": "超级毛球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/超级障碍赛车.zip",
+      "label": "超级障碍赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/德古拉 不死神.zip",
+      "label": "德古拉 不死神",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/赌场.zip",
+      "label": "赌场",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/方程式赛车.zip",
+      "label": "方程式赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/废品狗.zip",
+      "label": "废品狗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/钢爪.zip",
+      "label": "钢爪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/各多106 突变猴.zip",
+      "label": "各多106 突变猴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/功夫饭馆.zip",
+      "label": "功夫饭馆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/海德拉.zip",
+      "label": "海德拉",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/吉米康纳斯网球.zip",
+      "label": "吉米康纳斯网球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/机器人橄榄球联赛2072.zip",
+      "label": "机器人橄榄球联赛2072",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/机器人战场2084.zip",
+      "label": "机器人战场2084",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/劲爆弹珠台.zip",
+      "label": "劲爆弹珠台",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/狂暴巨兽.zip",
+      "label": "狂暴巨兽",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/雷电.zip",
+      "label": "雷电",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/领土之战.zip",
+      "label": "领土之战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/旅鼠总动员.zip",
+      "label": "旅鼠总动员",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/玛莉布沙滩排球.zip",
+      "label": "玛莉布沙滩排球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/迷宫任务.zip",
+      "label": "迷宫任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/胖波比.zip",
+      "label": "胖波比",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/泡泡危机.zip",
+      "label": "泡泡危机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/全面通缉.zip",
+      "label": "全面通缉",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/忍者龙剑传1.zip",
+      "label": "忍者龙剑传1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/忍者龙剑传3.zip",
+      "label": "忍者龙剑传3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/沙漠风暴 重返海湾.zip",
+      "label": "沙漠风暴 重返海湾",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/世界杯足球.zip",
+      "label": "世界杯足球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/石器时代.zip",
+      "label": "石器时代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/兽之影.zip",
+      "label": "兽之影",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/双截龙.zip",
+      "label": "双截龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/水管工人.zip",
+      "label": "水管工人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/四轮越野赛车.zip",
+      "label": "四轮越野赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/淘金者.zip",
+      "label": "淘金者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/特技赛车.zip",
+      "label": "特技赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/万宝路向前冲.zip",
+      "label": "万宝路向前冲",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/腕刃战士2.zip",
+      "label": "腕刃战士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/维京少年.zip",
+      "label": "维京少年",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/未来战士.zip",
+      "label": "未来战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/威力战士.zip",
+      "label": "威力战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/异形VS铁血战士.zip",
+      "label": "异形VS铁血战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/异形任务.zip",
+      "label": "异形任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/猿人传说.zip",
+      "label": "猿人传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/战车.zip",
+      "label": "战车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/战争地带2000.zip",
+      "label": "战争地带2000",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    },
+    {
+      "path": "@ROM/LYNX/致命搏击 最终比赛.zip",
+      "label": "致命搏击 最终比赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LYNX.lpl"
+    }
+  ]
+}

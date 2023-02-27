@@ -1,0 +1,747 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/WSC/FLASH恋人.zip",
+      "label": "FLASH恋人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/SD高达 G世代2.zip",
+      "label": "SD高达 G世代2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/SD高达 独眼高达.zip",
+      "label": "SD高达 独眼高达",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/SD高达 年代战记UC.zip",
+      "label": "SD高达 年代战记UC",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/SD高达英雄传 骑士传说.zip",
+      "label": "SD高达英雄传 骑士传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/SD高达英雄传 武者传说.zip",
+      "label": "SD高达英雄传 武者传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/X 命运卡片.zip",
+      "label": "X 命运卡片",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/奥特曼 光之国的使者.zip",
+      "label": "奥特曼 光之国的使者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/半熟英雄.zip",
+      "label": "半熟英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/爆钻小英雄.zip",
+      "label": "爆钻小英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/超级机器人大战Compact彩色版.zip",
+      "label": "超级机器人大战Compact彩色版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/超级机器人大战 精华版1.zip",
+      "label": "超级机器人大战 精华版1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/超级机器人大战 精华版3.zip",
+      "label": "超级机器人大战 精华版3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/东风庄.zip",
+      "label": "东风庄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/动感娃娃.zip",
+      "label": "动感娃娃",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/俄罗斯方块.zip",
+      "label": "俄罗斯方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/格雷斯塔战记.zip",
+      "label": "格雷斯塔战记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/哈姆太郎3.zip",
+      "label": "哈姆太郎3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/海贼王 财宝大战2.zip",
+      "label": "海贼王 财宝大战2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/海贼王 财宝大战.zip",
+      "label": "海贼王 财宝大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/海贼王 彩虹岛传说.zip",
+      "label": "海贼王 彩虹岛传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/海贼王 乔巴大冒险.zip",
+      "label": "海贼王 乔巴大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/海贼王 伟大之战.zip",
+      "label": "海贼王 伟大之战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/黑暗之眼 战斗闸门.zip",
+      "label": "黑暗之眼 战斗闸门",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/幻想魔传最游记 阳炎之所.zip",
+      "label": "幻想魔传最游记 阳炎之所",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/回忆之恋.zip",
+      "label": "回忆之恋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/火影忍者.zip",
+      "label": "火影忍者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/机动战士高达 基连的野望特别篇 苍星之霸者.zip",
+      "label": "机动战士高达 基连的野望特别篇 苍星之霸者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/机动战士高达Seed.zip",
+      "label": "机动战士高达Seed",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/机动战士高达Vol.1 Side7.zip",
+      "label": "机动战士高达Vol.1 Side7",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/机动战士高达Vol.2 Jaburo.zip",
+      "label": "机动战士高达Vol.2 Jaburo",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/机动战士高达Vol.3  阿巴瓦空.zip",
+      "label": "机动战士高达Vol.3  阿巴瓦空",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/激斗!冲击齿轮加强版齿轮 冠军联盟.zip",
+      "label": "激斗!冲击齿轮加强版齿轮 冠军联盟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/机器猫.zip",
+      "label": "机器猫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/筋肉人二世 超人圣战史.zip",
+      "label": "筋肉人二世 超人圣战史",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/筋肉人二世 梦幻组合.zip",
+      "label": "筋肉人二世 梦幻组合",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/经典高尔夫.zip",
+      "label": "经典高尔夫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/恐怖传说2.zip",
+      "label": "恐怖传说2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/狂野卡片.zip",
+      "label": "狂野卡片",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/蓝天之翼.zip",
+      "label": "蓝天之翼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/浪漫沙加.zip",
+      "label": "浪漫沙加",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/炼金术士玛莉&艾莉.zip",
+      "label": "炼金术士玛莉&艾莉",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/连锁翻翻乐.zip",
+      "label": "连锁翻翻乐",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/另一天堂 记忆中的日子.zip",
+      "label": "另一天堂 记忆中的日子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/陆行鸟大冒险.zip",
+      "label": "陆行鸟大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/洛克人EXE N1大战.zip",
+      "label": "洛克人EXE N1大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/洛克人EXE.zip",
+      "label": "洛克人EXE",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/落雀.zip",
+      "label": "落雀",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/名侦探柯南 黄昏时的皇女.zip",
+      "label": "名侦探柯南 黄昏时的皇女",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/魔界塔士.zip",
+      "label": "魔界塔士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/南梦宫超级战争.zip",
+      "label": "南梦宫超级战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/七龙珠.zip",
+      "label": "七龙珠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/前线任务.zip",
+      "label": "前线任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/犬夜叉 风云绘卷.zip",
+      "label": "犬夜叉 风云绘卷",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/犬夜叉 戈薇的梦日记.zip",
+      "label": "犬夜叉 戈薇的梦日记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/犬夜叉 戈薇的战国日记.zip",
+      "label": "犬夜叉 戈薇的战国日记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/全职猎人 抉择.zip",
+      "label": "全职猎人 抉择",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/全职猎人 贪婪岛.zip",
+      "label": "全职猎人 贪婪岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/全职猎人 引导者.zip",
+      "label": "全职猎人 引导者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/三毛猫探案.zip",
+      "label": "三毛猫探案",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/审判银剑.zip",
+      "label": "审判银剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/圣斗士星矢 黄金传说篇.zip",
+      "label": "圣斗士星矢 黄金传说篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/数码宝贝 02 D1计时器.zip",
+      "label": "数码宝贝 02 D1计时器",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/数码宝贝 D计划.zip",
+      "label": "数码宝贝 D计划",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/数码宝贝 格斗天王.zip",
+      "label": "数码宝贝 格斗天王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/数码宝贝 格斗之魂.zip",
+      "label": "数码宝贝 格斗之魂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/数码宝贝 卡片版.zip",
+      "label": "数码宝贝 卡片版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/数码宝贝 数码混合.zip",
+      "label": "数码宝贝 数码混合",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/数码宝贝 阴阳极版.zip",
+      "label": "数码宝贝 阴阳极版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/数码宝贝 勇敢驯兽师.zip",
+      "label": "数码宝贝 勇敢驯兽师",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/嗦噜球.zip",
+      "label": "嗦噜球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/通灵王子 未来的意志.zip",
+      "label": "通灵王子 未来的意志",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/骰子方块.zip",
+      "label": "骰子方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/骰子骑士.zip",
+      "label": "骰子骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/丸町战神 回到地球.zip",
+      "label": "丸町战神 回到地球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/巫术1 狂王的试炼场.zip",
+      "label": "巫术1 狂王的试炼场",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/仙界传2.zip",
+      "label": "仙界传2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/线条方块EX.zip",
+      "label": "线条方块EX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/星辰战士.zip",
+      "label": "星辰战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/妖精战士 机神复活.zip",
+      "label": "妖精战士 机神复活",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/与你同在.zip",
+      "label": "与你同在",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/宇宙战舰大和号.zip",
+      "label": "宇宙战舰大和号",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/约束之地.zip",
+      "label": "约束之地",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/战斧.zip",
+      "label": "战斧",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/钻地小子.zip",
+      "label": "钻地小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/罪恶装备Petit 1.zip",
+      "label": "罪恶装备Petit 1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/罪恶装备Petit 2.zip",
+      "label": "罪恶装备Petit 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/最后的生存者.zip",
+      "label": "最后的生存者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/最后一圈 特别版.zip",
+      "label": "最后一圈 特别版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/最终幻想I.zip",
+      "label": "最终幻想I",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/最终幻想II.zip",
+      "label": "最终幻想II",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    },
+    {
+      "path": "@ROM/WSC/最终幻想IV.zip",
+      "label": "最终幻想IV",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "WSC.lpl"
+    }
+  ]
+}

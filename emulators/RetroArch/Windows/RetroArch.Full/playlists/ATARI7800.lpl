@@ -1,0 +1,555 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/ATARI7800/32合1.7z",
+      "label": "32合1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/F-14 雄猫.7z",
+      "label": "F-14 雄猫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/F-18 大黄蜂.7z",
+      "label": "F-18 大黄蜂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/爆破彗星.7z",
+      "label": "爆破彗星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/超级滑板小子.7z",
+      "label": "超级滑板小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/超级休伊 UH-IX.7z",
+      "label": "超级休伊 UH-IX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/城堡保卫战.7z",
+      "label": "城堡保卫战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/成龙踢馆.7z",
+      "label": "成龙踢馆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/吃豆女士.7z",
+      "label": "吃豆女士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/大金刚Jr..7z",
+      "label": "大金刚Jr.",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/大金刚.7z",
+      "label": "大金刚",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/打空气.7z",
+      "label": "打空气",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/大蜜蜂.7z",
+      "label": "大蜜蜂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/达阵橄榄球.7z",
+      "label": "达阵橄榄球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/碟中谍.7z",
+      "label": "碟中谍",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/顶尖车手2.7z",
+      "label": "顶尖车手2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/冬季运动会.7z",
+      "label": "冬季运动会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/反应堆熔毁.7z",
+      "label": "反应堆熔毁",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/废料厂小伙.7z",
+      "label": "废料厂小伙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/飞天蜈蚣.7z",
+      "label": "飞天蜈蚣",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/疯狂摩托.7z",
+      "label": "疯狂摩托",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/疯狂摔跤挑战.7z",
+      "label": "疯狂摔跤挑战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/谷仓守卫.7z",
+      "label": "谷仓守卫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/滚球大战.7z",
+      "label": "滚球大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/黑暗地牢.7z",
+      "label": "黑暗地牢",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/横冲直撞.7z",
+      "label": "横冲直撞",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/激斗篮球.7z",
+      "label": "激斗篮球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/机械创元2084.7z",
+      "label": "机械创元2084",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/加托级潜艇.7z",
+      "label": "加托级潜艇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/救援行动.7z",
+      "label": "救援行动",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/角斗士.7z",
+      "label": "角斗士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/决战之夜.7z",
+      "label": "决战之夜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/空手道.7z",
+      "label": "空手道",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/狂欢方块.7z",
+      "label": "狂欢方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/立体方块.7z",
+      "label": "立体方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/马里奥兄弟.7z",
+      "label": "马里奥兄弟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/帽子戏法.7z",
+      "label": "帽子戏法",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/冥王星.7z",
+      "label": "冥王星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/鸟骑士.7z",
+      "label": "鸟骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/怒之战士.7z",
+      "label": "怒之战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/皮特罗斯棒球.7z",
+      "label": "皮特罗斯棒球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/破壳.7z",
+      "label": "破壳",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/青蛙爬塔.7z",
+      "label": "青蛙爬塔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/忍者高尔夫.7z",
+      "label": "忍者高尔夫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/瑞可和维姬.7z",
+      "label": "瑞可和维姬",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/杀出火地狱.7z",
+      "label": "杀出火地狱",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/沙漠猎鹰.7z",
+      "label": "沙漠猎鹰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/哨兵.7z",
+      "label": "哨兵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/神射手威廉.7z",
+      "label": "神射手威廉",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/食物大战.7z",
+      "label": "食物大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/双截龙.7z",
+      "label": "双截龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/水橇滑水.7z",
+      "label": "水橇滑水",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/坦克指挥官.7z",
+      "label": "坦克指挥官",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/天狼星.7z",
+      "label": "天狼星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/铁板阵.7z",
+      "label": "铁板阵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/突击队员.7z",
+      "label": "突击队员",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/外星战争.7z",
+      "label": "外星战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/王牌飞行员.7z",
+      "label": "王牌飞行员",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/午夜怪人.7z",
+      "label": "午夜怪人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/夏季运动会.7z",
+      "label": "夏季运动会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/行星破坏者.7z",
+      "label": "行星破坏者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/一对一篮球.7z",
+      "label": "一对一篮球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/异形任务.7z",
+      "label": "异形任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/真实棒球.7z",
+      "label": "真实棒球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/致命狂飙.7z",
+      "label": "致命狂飙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/直升机大战.7z",
+      "label": "直升机大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/职业摔跤冠军赛.7z",
+      "label": "职业摔跤冠军赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    },
+    {
+      "path": "@ROM/ATARI7800/终极18杆高尔夫.7z",
+      "label": "终极18杆高尔夫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI7800.lpl"
+    }
+  ]
+}

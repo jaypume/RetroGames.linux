@@ -1,0 +1,1035 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/3DS/Hey!皮克敏.3ds",
+      "label": "Hey!皮克敏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/苍翼默示录 连续变换2.cci",
+      "label": "苍翼默示录 连续变换2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/铲子骑士 无主珍宝.cci",
+      "label": "铲子骑士 无主珍宝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/超级宝可梦大纷争.cci",
+      "label": "超级宝可梦大纷争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/超级机器人大战BX.cci",
+      "label": "超级机器人大战BX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/超级机器人大战UX.3ds",
+      "label": "超级机器人大战UX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/超级街头霸王4 3D.3ds",
+      "label": "超级街头霸王4 3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/超级马里奥 3D大陆.cci",
+      "label": "超级马里奥 3D大陆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/大逆转裁判1 成步堂龙之介的冒险.cci",
+      "label": "大逆转裁判1 成步堂龙之介的冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/大逆转裁判2 成步堂龙之介的觉悟.cci",
+      "label": "大逆转裁判2 成步堂龙之介的觉悟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/第七龙神3 代号VFD.cci",
+      "label": "第七龙神3 代号VFD",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/洞窟物语2D.cci",
+      "label": "洞窟物语2D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/洞窟物语3D.cci",
+      "label": "洞窟物语3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/恶魔城 暗影之王 命运之镜.cci",
+      "label": "恶魔城 暗影之王 命运之镜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/符文工房4.cci",
+      "label": "符文工房4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/公主代码.cci",
+      "label": "公主代码",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/怪物猎人3G.cci",
+      "label": "怪物猎人3G",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/怪物猎人4G.cci",
+      "label": "怪物猎人4G",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/怪物猎人XX.cci",
+      "label": "怪物猎人XX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/怪物猎人物语.cci",
+      "label": "怪物猎人物语",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/幻想生活Link 汉化版.cci",
+      "label": "幻想生活Link 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/皇牌空战3D 战火纷飞+.cci",
+      "label": "皇牌空战3D 战火纷飞+",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/火焰纹章 IF.cci",
+      "label": "火焰纹章 IF",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/火焰纹章 回声 另一位英雄王.cci",
+      "label": "火焰纹章 回声 另一位英雄王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/火焰纹章 觉醒.cci",
+      "label": "火焰纹章 觉醒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/火焰纹章 无双.cci",
+      "label": "火焰纹章 无双",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/极限脱出2 善人死亡.cci",
+      "label": "极限脱出2 善人死亡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/极限脱出3 零时困境.cci",
+      "label": "极限脱出3 零时困境",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/交叉领域计划.cci",
+      "label": "交叉领域计划",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/解放少女.cci",
+      "label": "解放少女",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/节奏天国 经典荟萃 The Best+.cci",
+      "label": "节奏天国 经典荟萃 The Best+",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/禁忌的玛古那.cci",
+      "label": "禁忌的玛古那",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/卡比斗士Z.cci",
+      "label": "卡比斗士Z",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/口袋妖怪 X.cci",
+      "label": "口袋妖怪 X",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/口袋妖怪 Y.cci",
+      "label": "口袋妖怪 Y",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/口袋妖怪 究极红宝石.cci",
+      "label": "口袋妖怪 究极红宝石",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/口袋妖怪 究极日.cci",
+      "label": "口袋妖怪 究极日",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/口袋妖怪 究极月.cci",
+      "label": "口袋妖怪 究极月",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/口袋妖怪 始源蓝宝石.cci",
+      "label": "口袋妖怪 始源蓝宝石",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/雷顿教授 VS 逆转裁判.cci",
+      "label": "雷顿教授 VS 逆转裁判",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/雷顿教授与超文明A的遗产.cci",
+      "label": "雷顿教授与超文明A的遗产",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/雷顿教授与奇迹假面plus.3ds",
+      "label": "雷顿教授与奇迹假面plus",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/雷顿女士 富豪王的阴谋.cci",
+      "label": "雷顿女士 富豪王的阴谋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/龙珠 融合.cci",
+      "label": "龙珠 融合",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/路易吉鬼屋1.cci",
+      "label": "路易吉鬼屋1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/路易吉鬼屋2.cci",
+      "label": "路易吉鬼屋2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/马里奥聚会 The Top 100 迷你游戏合集.cci",
+      "label": "马里奥聚会 The Top 100 迷你游戏合集",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/马里奥聚会 空岛之旅.cci",
+      "label": "马里奥聚会 空岛之旅",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/马里奥聚会 群星冲刺.cci",
+      "label": "马里奥聚会 群星冲刺",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/马里奥赛车7.cci",
+      "label": "马里奥赛车7",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/马里奥网球 OPEN.cci",
+      "label": "马里奥网球 OPEN",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/马里奥与路易吉RPG 纸片马里奥MIX.cci",
+      "label": "马里奥与路易吉RPG 纸片马里奥MIX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/马里奥与路易吉RPG1 DX.cci",
+      "label": "马里奥与路易吉RPG1 DX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/马里奥与路易吉RPG3 DX.cci",
+      "label": "马里奥与路易吉RPG3 DX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/马里奥与路易吉RPG4.cci",
+      "label": "马里奥与路易吉RPG4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/马里奥制造.cci",
+      "label": "马里奥制造",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/毛线卡比 Plus.cci",
+      "label": "毛线卡比 Plus",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/蘑菇队长.cci",
+      "label": "蘑菇队长",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/牧场物语 连接新天地.3ds",
+      "label": "牧场物语 连接新天地",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/牧场物语 起源的大地.cci",
+      "label": "牧场物语 起源的大地",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/牧场物语 三个村庄的重要伙伴们.cci",
+      "label": "牧场物语 三个村庄的重要伙伴们",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/牧场物语 双子村+.cci",
+      "label": "牧场物语 双子村+",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/脑锻炼 5分钟魔鬼特训.cci",
+      "label": "脑锻炼 5分钟魔鬼特训",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/逆转裁判123 成步堂精选集.cci",
+      "label": "逆转裁判123 成步堂精选集",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/逆转裁判4.cci",
+      "label": "逆转裁判4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/逆转裁判5.cci",
+      "label": "逆转裁判5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/逆转裁判6.cci",
+      "label": "逆转裁判6",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/女神异闻录Q 迷宫暗影.cci",
+      "label": "女神异闻录Q 迷宫暗影",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/热血物语SP.cci",
+      "label": "热血物语SP",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/任天堂明星大乱斗.cci",
+      "label": "任天堂明星大乱斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/塞尔达传说 姆祖拉的假面.cci",
+      "label": "塞尔达传说 姆祖拉的假面",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/塞尔达传说 三角力量英雄.cci",
+      "label": "塞尔达传说 三角力量英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/塞尔达传说 时之笛3D.cci",
+      "label": "塞尔达传说 时之笛3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/塞尔达传说 众神的三角力量2.cci",
+      "label": "塞尔达传说 众神的三角力量2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/塞尔达无双 海拉尔全明星.cci",
+      "label": "塞尔达无双 海拉尔全明星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/桑塔与海盗的诅咒.cci",
+      "label": "桑塔与海盗的诅咒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/山脊赛车3D.cci",
+      "label": "山脊赛车3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/生化危机 启示录.cci",
+      "label": "生化危机 启示录",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/世界树迷宫4 传承的巨神.cci",
+      "label": "世界树迷宫4 传承的巨神",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/世界树与不可思议的迷宫.cci",
+      "label": "世界树与不可思议的迷宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/死或生 多重维度.cci",
+      "label": "死或生 多重维度",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/索尼克世代 青之冒险.cci",
+      "label": "索尼克世代 青之冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/太鼓达人1 小龙与神秘宝珠.cci",
+      "label": "太鼓达人1 小龙与神秘宝珠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/太鼓达人3 神秘大冒险.cci",
+      "label": "太鼓达人3 神秘大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/泰拉瑞亚3D.cci",
+      "label": "泰拉瑞亚3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/瓦里奥制造 豪华版.cci",
+      "label": "瓦里奥制造 豪华版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/王国之心 梦中陨落.cci",
+      "label": "王国之心 梦中陨落",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/未解决事件搜查科 遥远的记忆.cci",
+      "label": "未解决事件搜查科 遥远的记忆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/为我而生2 七星的引导和马兹尔的噩梦.cci",
+      "label": "为我而生2 七星的引导和马兹尔的噩梦",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/新爱相随+.cci",
+      "label": "新爱相随+",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/新超级马里奥兄弟2 黄金版.cci",
+      "label": "新超级马里奥兄弟2 黄金版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/新光之神话.cci",
+      "label": "新光之神话",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/星光幻歌.cci",
+      "label": "星光幻歌",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/星际火狐64 3D.cci",
+      "label": "星际火狐64 3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/星之卡比 皇家大乱斗.cci",
+      "label": "星之卡比 皇家大乱斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/星之卡比 机械星球.3ds",
+      "label": "星之卡比 机械星球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/星之卡比 三重彩.cci",
+      "label": "星之卡比 三重彩",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/星之卡比 吸入大作战.cci",
+      "label": "星之卡比 吸入大作战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/血污 月之诅咒.cci",
+      "label": "血污 月之诅咒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/压碎空间3D.cci",
+      "label": "压碎空间3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/妖怪手表1.cci",
+      "label": "妖怪手表1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/妖怪手表2 元祖.cci",
+      "label": "妖怪手表2 元祖",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/妖怪手表2 真打.cci",
+      "label": "妖怪手表2 真打",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/遗产传说.cci",
+      "label": "遗产传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/异度之刃3D.cci",
+      "label": "异度之刃3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/一起来吧!动物之森 amiibo+.cci",
+      "label": "一起来吧!动物之森 amiibo+",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/以撒的结合 重生.cci",
+      "label": "以撒的结合 重生",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/银河战士 萨姆斯归来.cci",
+      "label": "银河战士 萨姆斯归来",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/永恒绿洲.cci",
+      "label": "永恒绿洲",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/勇气默示录1.cci",
+      "label": "勇气默示录1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/勇气默示录2.cci",
+      "label": "勇气默示录2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/勇者斗恶龙1.cci",
+      "label": "勇者斗恶龙1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/勇者斗恶龙11.cci",
+      "label": "勇者斗恶龙11",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/勇者斗恶龙2.cci",
+      "label": "勇者斗恶龙2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/勇者斗恶龙3.cci",
+      "label": "勇者斗恶龙3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/勇者斗恶龙7.cci",
+      "label": "勇者斗恶龙7",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/勇者斗恶龙8.cci",
+      "label": "勇者斗恶龙8",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/勇者斗恶龙 怪兽篇1.cci",
+      "label": "勇者斗恶龙 怪兽篇1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/勇者斗恶龙 怪兽篇2.cci",
+      "label": "勇者斗恶龙 怪兽篇2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/勇者斗恶龙 怪兽篇Joker3 专家版.cci",
+      "label": "勇者斗恶龙 怪兽篇Joker3 专家版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/真女神转生4 Final.cci",
+      "label": "真女神转生4 Final",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/真女神转生 恶魔召唤师 灵魂黑客.cci",
+      "label": "真女神转生 恶魔召唤师 灵魂黑客",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/真女神转生 深渊奇妙之旅.cci",
+      "label": "真女神转生 深渊奇妙之旅",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/蒸汽世界 大劫掠.cci",
+      "label": "蒸汽世界 大劫掠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/纸片马里奥 超级贴纸.cci",
+      "label": "纸片马里奥 超级贴纸",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/纸箱战机.cci",
+      "label": "纸箱战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/重装机兵4.cci",
+      "label": "重装机兵4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    },
+    {
+      "path": "@ROM/3DS/最终幻想 探索者.cci",
+      "label": "最终幻想 探索者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "3DS.lpl"
+    }
+  ]
+}

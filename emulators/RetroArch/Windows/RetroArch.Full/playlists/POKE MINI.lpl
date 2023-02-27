@@ -1,0 +1,147 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/POKE MINI/[BIOS] Nintendo Pokemon Mini (World).zip",
+      "label": "[BIOS] Nintendo Pokemon Mini (World)",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "POKE MINI.lpl"
+    },
+    {
+      "path": "@ROM/POKE MINI/宝可梦弹珠台（欧版）.zip",
+      "label": "宝可梦弹珠台（欧版）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "POKE MINI.lpl"
+    },
+    {
+      "path": "@ROM/POKE MINI/宝可梦弹珠台（日版）.zip",
+      "label": "宝可梦弹珠台（日版）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "POKE MINI.lpl"
+    },
+    {
+      "path": "@ROM/POKE MINI/宝可梦俄罗斯方块（欧版）.zip",
+      "label": "宝可梦俄罗斯方块（欧版）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "POKE MINI.lpl"
+    },
+    {
+      "path": "@ROM/POKE MINI/宝可梦俄罗斯方块（日版）.zip",
+      "label": "宝可梦俄罗斯方块（日版）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "POKE MINI.lpl"
+    },
+    {
+      "path": "@ROM/POKE MINI/宝可梦竞速（日版）.zip",
+      "label": "宝可梦竞速（日版）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "POKE MINI.lpl"
+    },
+    {
+      "path": "@ROM/POKE MINI/宝可梦卡牌大作战（欧版）.zip",
+      "label": "宝可梦卡牌大作战（欧版）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "POKE MINI.lpl"
+    },
+    {
+      "path": "@ROM/POKE MINI/宝可梦卡牌大作战（日版）.zip",
+      "label": "宝可梦卡牌大作战（日版）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "POKE MINI.lpl"
+    },
+    {
+      "path": "@ROM/POKE MINI/宝可梦派对（日版）.zip",
+      "label": "宝可梦派对（日版）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "POKE MINI.lpl"
+    },
+    {
+      "path": "@ROM/POKE MINI/宝可梦拼图系列 Vol. 2（日版）.zip",
+      "label": "宝可梦拼图系列 Vol. 2（日版）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "POKE MINI.lpl"
+    },
+    {
+      "path": "@ROM/POKE MINI/宝可梦拼图系列（欧版）.zip",
+      "label": "宝可梦拼图系列（欧版）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "POKE MINI.lpl"
+    },
+    {
+      "path": "@ROM/POKE MINI/宝可梦拼图系列（日版）.zip",
+      "label": "宝可梦拼图系列（日版）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "POKE MINI.lpl"
+    },
+    {
+      "path": "@ROM/POKE MINI/宝可梦饲养员（日版）.zip",
+      "label": "宝可梦饲养员（日版）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "POKE MINI.lpl"
+    },
+    {
+      "path": "@ROM/POKE MINI/波可比的大冒险（日版）.zip",
+      "label": "波可比的大冒险（日版）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "POKE MINI.lpl"
+    },
+    {
+      "path": "@ROM/POKE MINI/卡比兽的午餐时间（欧版）.zip",
+      "label": "卡比兽的午餐时间（欧版）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "POKE MINI.lpl"
+    },
+    {
+      "path": "@ROM/POKE MINI/卡比兽的午餐时间（日版）.zip",
+      "label": "卡比兽的午餐时间（日版）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "POKE MINI.lpl"
+    },
+    {
+      "path": "@ROM/POKE MINI/皮丘兄弟（日版）.zip",
+      "label": "皮丘兄弟（日版）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "POKE MINI.lpl"
+    }
+  ]
+}

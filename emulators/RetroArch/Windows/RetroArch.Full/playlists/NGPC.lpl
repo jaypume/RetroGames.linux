@@ -1,0 +1,683 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/NGPC/NEO机皇杯足球98 PLUS.zip",
+      "label": "NEO机皇杯足球98 PLUS",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/NEO机皇杯足球98.zip",
+      "label": "NEO机皇杯足球98",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/Neo 21点 皇家赌场系列.zip",
+      "label": "Neo 21点 皇家赌场系列",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/Neo 百家乐 皇家赌场系列.zip",
+      "label": "Neo 百家乐 皇家赌场系列",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/Neo 老虎机大师 真实赌场系列.zip",
+      "label": "Neo 老虎机大师 真实赌场系列",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/Neo 扑克大师 真实赌场系列.zip",
+      "label": "Neo 扑克大师 真实赌场系列",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/Neo 赛马大师.zip",
+      "label": "Neo 赛马大师",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/NeoPoke 棒球.zip",
+      "label": "NeoPoke 棒球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/SNK vs Capcom 卡牌斗士1 CAPCOM篇 汉化版.zip",
+      "label": "SNK vs Capcom 卡牌斗士1 CAPCOM篇 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/SNK vs Capcom 卡牌斗士1 SNK篇 汉化版.zip",
+      "label": "SNK vs Capcom 卡牌斗士1 SNK篇 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/SNK vs Capcom 卡牌斗士2.zip",
+      "label": "SNK vs Capcom 卡牌斗士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/SNK vs Capcom 千禧之战 汉化版 HACK.zip",
+      "label": "SNK vs Capcom 千禧之战 汉化版 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/SNK vs Capcom 千禧之战 汉化版.zip",
+      "label": "SNK vs Capcom 千禧之战 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/棒球之星.zip",
+      "label": "棒球之星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/超写真麻将.zip",
+      "label": "超写真麻将",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/吃豆人.zip",
+      "label": "吃豆人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/大联盟高尔夫球.zip",
+      "label": "大联盟高尔夫球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/电车GO! 2.zip",
+      "label": "电车GO! 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/饿狼传说.zip",
+      "label": "饿狼传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/法赛雷.zip",
+      "label": "法赛雷",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/古惑轮滑.zip",
+      "label": "古惑轮滑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/合金弹头 1号任务 HACK.zip",
+      "label": "合金弹头 1号任务 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/合金弹头 1号任务.zip",
+      "label": "合金弹头 1号任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/合金弹头 2号任务 HACK.zip",
+      "label": "合金弹头 2号任务 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/合金弹头 2号任务.zip",
+      "label": "合金弹头 2号任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/黑暗兵器 野兽梦魇 汉化版 HACK.zip",
+      "label": "黑暗兵器 野兽梦魇 汉化版 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/黑暗兵器 野兽梦魇 汉化版.zip",
+      "label": "黑暗兵器 野兽梦魇 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/皇家骑士团外传  赞诺比亚的皇子 汉化版.zip",
+      "label": "皇家骑士团外传  赞诺比亚的皇子 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/绘画拼图.zip",
+      "label": "绘画拼图",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/机甲世纪1.zip",
+      "label": "机甲世纪1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/机甲世纪2.zip",
+      "label": "机甲世纪2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/加油!NGP君.zip",
+      "label": "加油!NGP君",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/将棋达人.zip",
+      "label": "将棋达人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/聚会邮扑克.zip",
+      "label": "聚会邮扑克",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/口袋黑白棋.zip",
+      "label": "口袋黑白棋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/口袋酷滑板.zip",
+      "label": "口袋酷滑板",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/口袋帕青哥必胜法.zip",
+      "label": "口袋帕青哥必胜法",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/口袋帕青嫂王国 Azteca.zip",
+      "label": "口袋帕青嫂王国 Azteca",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/口袋帕青嫂王国 DH2.zip",
+      "label": "口袋帕青嫂王国 DH2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/口袋帕青嫂王国 Delsol 2.zip",
+      "label": "口袋帕青嫂王国 Delsol 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/口袋帕青嫂王国 E cup.zip",
+      "label": "口袋帕青嫂王国 E cup",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/口袋帕青嫂王国 Oohanabi.zip",
+      "label": "口袋帕青嫂王国 Oohanabi",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/口袋帕青嫂王国 Porcano 2.zip",
+      "label": "口袋帕青嫂王国 Porcano 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/口袋帕青嫂王国 Ward Of Lights.zip",
+      "label": "口袋帕青嫂王国 Ward Of Lights",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/口袋网球.zip",
+      "label": "口袋网球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/酷酷!杰姆.zip",
+      "label": "酷酷!杰姆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/老虎机.zip",
+      "label": "老虎机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/联结方块1.zip",
+      "label": "联结方块1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/联结方块2.zip",
+      "label": "联结方块2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/龙之荒野.zip",
+      "label": "龙之荒野",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/洛克人 热斗战士.zip",
+      "label": "洛克人 热斗战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/迷宫逃脱.zip",
+      "label": "迷宫逃脱",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/迷你戀情if.zip",
+      "label": "迷你戀情if",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/棉花小魔女.zip",
+      "label": "棉花小魔女",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/魔法宝石.zip",
+      "label": "魔法宝石",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/目标!汉字王.zip",
+      "label": "目标!汉字王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/泡泡龙.zip",
+      "label": "泡泡龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/噗哟噗哟通.zip",
+      "label": "噗哟噗哟通",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/秋之回忆.zip",
+      "label": "秋之回忆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/拳皇 R1 HACK.zip",
+      "label": "拳皇 R1 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/拳皇 R1.zip",
+      "label": "拳皇 R1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/拳皇 R2 HACK.zip",
+      "label": "拳皇 R2 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/拳皇 R2.zip",
+      "label": "拳皇 R2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/拳皇 少女格斗家 HACK.zip",
+      "label": "拳皇 少女格斗家 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/拳皇 少女格斗家.zip",
+      "label": "拳皇 少女格斗家",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/拳皇 战斗天堂.zip",
+      "label": "拳皇 战斗天堂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/三角变形.zip",
+      "label": "三角变形",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/上海.zip",
+      "label": "上海",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/神机世界 进化.zip",
+      "label": "神机世界 进化",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/侍魂1.zip",
+      "label": "侍魂1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/侍魂2.zip",
+      "label": "侍魂2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/索尼克 口袋冒险.zip",
+      "label": "索尼克 口袋冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/无限治愈.zip",
+      "label": "无限治愈",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/下潜警报 贝基篇.zip",
+      "label": "下潜警报 贝基篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/下潜警报 马特篇.zip",
+      "label": "下潜警报 马特篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/仙魔大战2000.zip",
+      "label": "仙魔大战2000",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/小瓜子成长日记.zip",
+      "label": "小瓜子成长日记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/妖怪写真馆.zip",
+      "label": "妖怪写真馆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/月华剑士.zip",
+      "label": "月华剑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/在此挑战!花牌道场.zip",
+      "label": "在此挑战!花牌道场",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/职业棒球.zip",
+      "label": "职业棒球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/职业摔跤大赛.zip",
+      "label": "职业摔跤大赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/どこでも麻雀.zip",
+      "label": "どこでも麻雀",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    },
+    {
+      "path": "@ROM/NGPC/コイコイ麻雀.zip",
+      "label": "コイコイ麻雀",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NGPC.lpl"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/MAME ACT/阿尔戈斯战士 汉化版.zip",
+      "label": "阿尔戈斯战士 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/阿拉伯魔法 汉化版.zip",
+      "label": "阿拉伯魔法 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/出击飞龙2.zip",
+      "label": "出击飞龙2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/coh3002c.zip",
+      "label": "coh3002c",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/大决战 大西洋的动乱.zip",
+      "label": "大决战 大西洋的动乱",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/电精(盗版).zip",
+      "label": "电精(盗版)",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/功里金团 汉化版.zip",
+      "label": "功里金团 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/光明使者 中文版.zip",
+      "label": "光明使者 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/极之暴力.zip",
+      "label": "极之暴力",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/kov2nl.zip",
+      "label": "kov2nl",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/快打刑事.zip",
+      "label": "快打刑事",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/快打旋风3(盗版).zip",
+      "label": "快打旋风3(盗版)",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/雷狐战士 汉化版.zip",
+      "label": "雷狐战士 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/龙与地下城 2 - 暗黑秘影 汉化版.zip",
+      "label": "龙与地下城 2 - 暗黑秘影 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/美女大冒险 汉化版.zip",
+      "label": "美女大冒险 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/名将 汉化版.zip",
+      "label": "名将 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/orleg2.zip",
+      "label": "orleg2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/qsound_hle.7z",
+      "label": "qsound_hle",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/三国战纪2 盖世英雄.zip",
+      "label": "三国战纪2 盖世英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/三国战纪3.zip",
+      "label": "三国战纪3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/三国志2 汉化版.zip",
+      "label": "三国志2 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/segabill.zip",
+      "label": "segabill",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/森林守护神 汉化版.zip",
+      "label": "森林守护神 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/stvbios.zip",
+      "label": "stvbios",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/王者水晶.zip",
+      "label": "王者水晶",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/武田信玄.zip",
+      "label": "武田信玄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/西游释厄传2.zip",
+      "label": "西游释厄传2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/新西兰物语 汉化版.zip",
+      "label": "新西兰物语 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/永远的蝙蝠侠.zip",
+      "label": "永远的蝙蝠侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    },
+    {
+      "path": "@ROM/MAME ACT/圆桌骑士(汉化版).zip",
+      "label": "圆桌骑士(汉化版)",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME ACT.lpl"
+    }
+  ]
+}

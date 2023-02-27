@@ -1,0 +1,4387 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/ATARI2600/500英里大奖赛.7z",
+      "label": "500英里大奖赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/E.T.外星人.7z",
+      "label": "E.T.外星人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/F-14 雄猫.7z",
+      "label": "F-14 雄猫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/L5作战.7z",
+      "label": "L5作战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/PONG合集.7z",
+      "label": "PONG合集",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/Q伯特的魔方.7z",
+      "label": "Q伯特的魔方",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/Q伯特.7z",
+      "label": "Q伯特",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/X任务.7z",
+      "label": "X任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/X战警.7z",
+      "label": "X战警",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/阿尔法光束.7z",
+      "label": "阿尔法光束",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/爱心小熊.7z",
+      "label": "爱心小熊",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/安古纳冒险2600.7z",
+      "label": "安古纳冒险2600",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/奥贝里克斯.7z",
+      "label": "奥贝里克斯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/奥斯卡捡垃圾.7z",
+      "label": "奥斯卡捡垃圾",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/百慕大三角.7z",
+      "label": "百慕大三角",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/白雪公主.7z",
+      "label": "白雪公主",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/百叶窗.7z",
+      "label": "百叶窗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/鲍比回家.7z",
+      "label": "鲍比回家",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/暴风雪.7z",
+      "label": "暴风雪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/保护者.7z",
+      "label": "保护者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/保龄球.7z",
+      "label": "保龄球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/爆破彗星.7z",
+      "label": "爆破彗星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/包围.7z",
+      "label": "包围",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/爆炸啦.7z",
+      "label": "爆炸啦",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/贝贝熊.7z",
+      "label": "贝贝熊",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/北极星潜艇.7z",
+      "label": "北极星潜艇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/本垒打棒球.7z",
+      "label": "本垒打棒球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/哔哔鸟.7z",
+      "label": "哔哔鸟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/壁球.7z",
+      "label": "壁球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/冰川巡逻.7z",
+      "label": "冰川巡逻",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/饼干怪兽大冒险.7z",
+      "label": "饼干怪兽大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/冰球.7z",
+      "label": "冰球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/不死鸟.7z",
+      "label": "不死鸟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/彩色立方.7z",
+      "label": "彩色立方",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/踩踏.7z",
+      "label": "踩踏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/操控机器人.7z",
+      "label": "操控机器人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/草莓派 音乐对决.7z",
+      "label": "草莓派 音乐对决",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/查克诺里斯飞踢.7z",
+      "label": "查克诺里斯飞踢",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/铲除地鼠.7z",
+      "label": "铲除地鼠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/超级棒球.7z",
+      "label": "超级棒球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/超级打砖块.7z",
+      "label": "超级打砖块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/超级力量.7z",
+      "label": "超级力量",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/超级男孩.7z",
+      "label": "超级男孩",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/超级挑战棒球.7z",
+      "label": "超级挑战棒球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/超级挑战橄榄球.7z",
+      "label": "超级挑战橄榄球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/超级眼镜蛇直升机.7z",
+      "label": "超级眼镜蛇直升机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/超级足球.7z",
+      "label": "超级足球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/超人.7z",
+      "label": "超人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/乘风破浪.7z",
+      "label": "乘风破浪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/成龙踢馆.7z",
+      "label": "成龙踢馆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/吃豆女士.7z",
+      "label": "吃豆女士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/吃豆人Jr..7z",
+      "label": "吃豆人Jr.",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/吃豆人.7z",
+      "label": "吃豆人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/池塘青蛙.7z",
+      "label": "池塘青蛙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/冲刺大师.7z",
+      "label": "冲刺大师",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/冲击.7z",
+      "label": "冲击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/创 历险记.7z",
+      "label": "创 历险记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/创世纪3D.7z",
+      "label": "创世纪3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/创 死亡游戏.7z",
+      "label": "创 死亡游戏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/锤老鼠.7z",
+      "label": "锤老鼠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/丛林狂热 小镇骑士.7z",
+      "label": "丛林狂热 小镇骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/丛林狩猎.7z",
+      "label": "丛林狩猎",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/打败并吃掉.7z",
+      "label": "打败并吃掉",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/打地鼠.7z",
+      "label": "打地鼠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/打豆豆.7z",
+      "label": "打豆豆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/大金刚Jr..7z",
+      "label": "大金刚Jr.",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/大金刚.7z",
+      "label": "大金刚",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/打空气.7z",
+      "label": "打空气",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/大力水手.7z",
+      "label": "大力水手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/大鸟接蛋.7z",
+      "label": "大鸟接蛋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/大逃亡.7z",
+      "label": "大逃亡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/打砖块IV.7z",
+      "label": "打砖块IV",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/打砖墙.7z",
+      "label": "打砖墙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/袋鼠营救.7z",
+      "label": "袋鼠营救",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/单词游戏.7z",
+      "label": "单词游戏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/蛋糕步道.7z",
+      "label": "蛋糕步道",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/弹球撞击.7z",
+      "label": "弹球撞击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/单身派对 燃烧欲望.7z",
+      "label": "单身派对 燃烧欲望",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/单身派对.7z",
+      "label": "单身派对",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/弹珠射击.7z",
+      "label": "弹珠射击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/导弹指令.7z",
+      "label": "导弹指令",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/德州电锯杀人狂.7z",
+      "label": "德州电锯杀人狂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/地牢冒险.7z",
+      "label": "地牢冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/地球于尖叫中毁灭.7z",
+      "label": "地球于尖叫中毁灭",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/地下空间.7z",
+      "label": "地下空间",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/地穴埋葬.7z",
+      "label": "地穴埋葬",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/电视反射锻炼.7z",
+      "label": "电视反射锻炼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/电视慢跑游戏.7z",
+      "label": "电视慢跑游戏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/电梯大战.7z",
+      "label": "电梯大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/电子魔方.7z",
+      "label": "电子魔方",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/电子生活.7z",
+      "label": "电子生活",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/钓鱼大赛.7z",
+      "label": "钓鱼大赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/顶尖车手1.7z",
+      "label": "顶尖车手1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/顶盘子.7z",
+      "label": "顶盘子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/动荡.7z",
+      "label": "动荡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/冬季运动会.7z",
+      "label": "冬季运动会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/动物园游戏.7z",
+      "label": "动物园游戏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/赌场.7z",
+      "label": "赌场",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/嘟先生的城堡.7z",
+      "label": "嘟先生的城堡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/嘟先生.7z",
+      "label": "嘟先生",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/对抗.7z",
+      "label": "对抗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/堆芯熔毁.7z",
+      "label": "堆芯熔毁",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/夺宝奇兵.7z",
+      "label": "夺宝奇兵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/躲开他们.7z",
+      "label": "躲开他们",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/躲猫猫.7z",
+      "label": "躲猫猫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/夺旗.7z",
+      "label": "夺旗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/恶魔攻击.7z",
+      "label": "恶魔攻击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/恶魔钻石.7z",
+      "label": "恶魔钻石",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/鳄鱼变.7z",
+      "label": "鳄鱼变",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/二十一点.7z",
+      "label": "二十一点",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/法老的诅咒.7z",
+      "label": "法老的诅咒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/反斗星.7z",
+      "label": "反斗星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/番茄复仇.7z",
+      "label": "番茄复仇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/反应堆.7z",
+      "label": "反应堆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/翻转棋.7z",
+      "label": "翻转棋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/放火者.7z",
+      "label": "放火者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/飞碟敢死队.7z",
+      "label": "飞碟敢死队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/飞碟.7z",
+      "label": "飞碟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/飞盘射击.7z",
+      "label": "飞盘射击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/飞鼠洛基冒险记.7z",
+      "label": "飞鼠洛基冒险记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/飞天蜈蚣.7z",
+      "label": "飞天蜈蚣",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/飞鱼导弹.7z",
+      "label": "飞鱼导弹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/凤凰猎人.7z",
+      "label": "凤凰猎人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/疯狂攀爬.7z",
+      "label": "疯狂攀爬",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/伏击战术.7z",
+      "label": "伏击战术",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/伽马攻击.7z",
+      "label": "伽马攻击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/橄榄球.7z",
+      "label": "橄榄球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/刚果冒险.7z",
+      "label": "刚果冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/高尔夫球.7z",
+      "label": "高尔夫球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/高速埃迪.7z",
+      "label": "高速埃迪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/高速公路.7z",
+      "label": "高速公路",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/高速赛车.7z",
+      "label": "高速赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/格罗弗音乐制作.7z",
+      "label": "格罗弗音乐制作",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/公路赛车.7z",
+      "label": "公路赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/公路追逐赛.7z",
+      "label": "公路追逐赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/公元3000任务.7z",
+      "label": "公元3000任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/谷仓风暴.7z",
+      "label": "谷仓风暴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/怪物西斯.7z",
+      "label": "怪物西斯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/冠军足球.7z",
+      "label": "冠军足球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/光枪3D.7z",
+      "label": "光枪3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/光束骑士.7z",
+      "label": "光束骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/光束枪手.7z",
+      "label": "光束枪手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/鬼恋.7z",
+      "label": "鬼恋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/鬼屋3D.7z",
+      "label": "鬼屋3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/刽子手.7z",
+      "label": "刽子手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/国际汽车大奖赛.7z",
+      "label": "国际汽车大奖赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/国际象棋.7z",
+      "label": "国际象棋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/国际足球.7z",
+      "label": "国际足球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/海底冒险.7z",
+      "label": "海底冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/海怪.7z",
+      "label": "海怪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/海军战争.7z",
+      "label": "海军战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/海上狩猎.7z",
+      "label": "海上狩猎",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/海豚冒险.7z",
+      "label": "海豚冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/海洋大战.7z",
+      "label": "海洋大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/海鹰战斗机.7z",
+      "label": "海鹰战斗机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/汉堡时间.7z",
+      "label": "汉堡时间",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/航天飞机 太空之旅.7z",
+      "label": "航天飞机 太空之旅",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/航天飞机.7z",
+      "label": "航天飞机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/好多蛇.7z",
+      "label": "好多蛇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/浩劫3D.7z",
+      "label": "浩劫3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/赫比切分.7z",
+      "label": "赫比切分",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/河流巡逻.7z",
+      "label": "河流巡逻",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/黑暗地牢.7z",
+      "label": "黑暗地牢",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/黑暗洞穴.7z",
+      "label": "黑暗洞穴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/黑帮小巷.7z",
+      "label": "黑帮小巷",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/横冲直撞.7z",
+      "label": "横冲直撞",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/后宫.7z",
+      "label": "后宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/滑板小子.7z",
+      "label": "滑板小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/滑雪大亨.7z",
+      "label": "滑雪大亨",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/滑雪道.7z",
+      "label": "滑雪道",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/滑雪.7z",
+      "label": "滑雪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/坏鸭子.7z",
+      "label": "坏鸭子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/幻影坦克.7z",
+      "label": "幻影坦克",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/荒岛惊魂.7z",
+      "label": "荒岛惊魂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/慌乱厨师.7z",
+      "label": "慌乱厨师",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/荒野求生.7z",
+      "label": "荒野求生",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/混沌地牢.7z",
+      "label": "混沌地牢",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/混沌战场.7z",
+      "label": "混沌战场",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/火球.7z",
+      "label": "火球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/基础编程.7z",
+      "label": "基础编程",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/基础数学.7z",
+      "label": "基础数学",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/基地攻击.7z",
+      "label": "基地攻击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/基地突击.7z",
+      "label": "基地突击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/基弗斯.7z",
+      "label": "基弗斯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/激光爆破.7z",
+      "label": "激光爆破",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/激光镭射.7z",
+      "label": "激光镭射",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/激光守卫.7z",
+      "label": "激光守卫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/记忆比赛.7z",
+      "label": "记忆比赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/加菲猫.7z",
+      "label": "加菲猫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/嘉年华.7z",
+      "label": "嘉年华",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/加州运动会.7z",
+      "label": "加州运动会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/尖兵.7z",
+      "label": "尖兵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/间谍猎人.7z",
+      "label": "间谍猎人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/剑斗士.7z",
+      "label": "剑斗士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/尖峰时刻.7z",
+      "label": "尖峰时刻",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/坚果.7z",
+      "label": "坚果",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/践踏之龙.7z",
+      "label": "践踏之龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/建造冰屋.7z",
+      "label": "建造冰屋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/建筑大师.7z",
+      "label": "建筑大师",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/交叉力量.7z",
+      "label": "交叉力量",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/街机高尔夫.7z",
+      "label": "街机高尔夫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/街机射击.7z",
+      "label": "街机射击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/接礼物.7z",
+      "label": "接礼物",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/街头赛车.7z",
+      "label": "街头赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/金刚.7z",
+      "label": "金刚",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/金拱门冒险.7z",
+      "label": "金拱门冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/紧急下潜.7z",
+      "label": "紧急下潜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/金塔纳罗奥冒险.7z",
+      "label": "金塔纳罗奥冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/警察抓小偷.7z",
+      "label": "警察抓小偷",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/惊恐的鱼.7z",
+      "label": "惊恐的鱼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/精灵历险.7z",
+      "label": "精灵历险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/井字棋3D.7z",
+      "label": "井字棋3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/巨大虫.7z",
+      "label": "巨大虫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/决战猩球.7z",
+      "label": "决战猩球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/军阀之战.7z",
+      "label": "军阀之战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/卡波伯.7z",
+      "label": "卡波伯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/卡斯特的复仇.7z",
+      "label": "卡斯特的复仇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/开瓶器.7z",
+      "label": "开瓶器",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/克拉克斯.7z",
+      "label": "克拉克斯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/科学怪人.7z",
+      "label": "科学怪人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/空海作战.7z",
+      "label": "空海作战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/空手道.7z",
+      "label": "空手道",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/空袭警报.7z",
+      "label": "空袭警报",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/空袭.7z",
+      "label": "空袭",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/空中急转.7z",
+      "label": "空中急转",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/空中袭击.7z",
+      "label": "空中袭击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/库尔援助人.7z",
+      "label": "库尔援助人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/快步跳跃.7z",
+      "label": "快步跳跃",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/快餐.7z",
+      "label": "快餐",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/快枪手.7z",
+      "label": "快枪手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/狂奔.7z",
+      "label": "狂奔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/矿工大冒险2.7z",
+      "label": "矿工大冒险2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/矿工大冒险.7z",
+      "label": "矿工大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/狂战士.7z",
+      "label": "狂战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/困惑迷宫.7z",
+      "label": "困惑迷宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/蓝精灵 格格巫城堡.7z",
+      "label": "蓝精灵 格格巫城堡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/蓝精灵 快乐的一天.7z",
+      "label": "蓝精灵 快乐的一天",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/篮球.7z",
+      "label": "篮球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/兰斯洛特爵士.7z",
+      "label": "兰斯洛特爵士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/蓝图.7z",
+      "label": "蓝图",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/老虎机.7z",
+      "label": "老虎机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/雷达锁定.7z",
+      "label": "雷达锁定",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/雷霆.7z",
+      "label": "雷霆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/立体壁球.7z",
+      "label": "立体壁球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/立体方块.7z",
+      "label": "立体方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/立体空战.7z",
+      "label": "立体空战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/丽险记.7z",
+      "label": "丽险记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/龙守卫.7z",
+      "label": "龙守卫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/龙焰.7z",
+      "label": "龙焰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/陆军野战医院.7z",
+      "label": "陆军野战医院",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/伦敦闪电战.7z",
+      "label": "伦敦闪电战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/掠夺者.7z",
+      "label": "掠夺者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/马拉盖.7z",
+      "label": "马拉盖",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/马里奥兄弟.7z",
+      "label": "马里奥兄弟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/马球.7z",
+      "label": "马球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/马戏团.7z",
+      "label": "马戏团",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/猫狗大战.7z",
+      "label": "猫狗大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/猫屋蓝调.7z",
+      "label": "猫屋蓝调",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/昴星团.7z",
+      "label": "昴星团",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/门槛.7z",
+      "label": "门槛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/蒙特祖玛的复仇.7z",
+      "label": "蒙特祖玛的复仇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/迷宫奔跑.7z",
+      "label": "迷宫奔跑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/迷宫幻想.7z",
+      "label": "迷宫幻想",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/迷宫老鼠.7z",
+      "label": "迷宫老鼠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/迷宫赛车.7z",
+      "label": "迷宫赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/迷宫挑战.7z",
+      "label": "迷宫挑战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/迷宫追踪.7z",
+      "label": "迷宫追踪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/麋鹿袭击.7z",
+      "label": "麋鹿袭击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/密码破译.7z",
+      "label": "密码破译",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/秘密任务.7z",
+      "label": "秘密任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/米诺斯矿山.7z",
+      "label": "米诺斯矿山",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/米奇之魔法师学徒.7z",
+      "label": "米奇之魔法师学徒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/魔法师.7z",
+      "label": "魔法师",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/魔方3D.7z",
+      "label": "魔方3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/魔幻历险.7z",
+      "label": "魔幻历险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/末日之屋.7z",
+      "label": "末日之屋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/摩天地狱.7z",
+      "label": "摩天地狱",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/摩托竞技表演赛.7z",
+      "label": "摩托竞技表演赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/摩西分海.7z",
+      "label": "摩西分海",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/木筏骑士.7z",
+      "label": "木筏骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/闹鬼凶宅.7z",
+      "label": "闹鬼凶宅",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/脑力游戏.7z",
+      "label": "脑力游戏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/尼克萨挑战.7z",
+      "label": "尼克萨挑战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/鸟骑士.7z",
+      "label": "鸟骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/农家乐.7z",
+      "label": "农家乐",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/怒之战士.7z",
+      "label": "怒之战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/欧米茄赛车.7z",
+      "label": "欧米茄赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/派对游戏组合.7z",
+      "label": "派对游戏组合",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/庞贝古城.7z",
+      "label": "庞贝古城",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/炮兵对决.7z",
+      "label": "炮兵对决",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/泡泡.7z",
+      "label": "泡泡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/喷火战斗机.7z",
+      "label": "喷火战斗机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/披萨厨师.7z",
+      "label": "披萨厨师",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/皮特罗斯棒球.7z",
+      "label": "皮特罗斯棒球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/拼字游戏.7z",
+      "label": "拼字游戏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/破坏者.7z",
+      "label": "破坏者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/破壳.7z",
+      "label": "破壳",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/破碎机.7z",
+      "label": "破碎机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/葡萄酒.7z",
+      "label": "葡萄酒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/企鹅推冰.7z",
+      "label": "企鹅推冰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/企鹅寻宝.7z",
+      "label": "企鹅寻宝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/奇妙航行.7z",
+      "label": "奇妙航行",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/潜水冒险.7z",
+      "label": "潜水冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/潜水游戏.7z",
+      "label": "潜水游戏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/潜艇气闸室.7z",
+      "label": "潜艇气闸室",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/潜艇扫描.7z",
+      "label": "潜艇扫描",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/潜艇指令.7z",
+      "label": "潜艇指令",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/前线战争.7z",
+      "label": "前线战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/千足虫.7z",
+      "label": "千足虫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/桥牌.7z",
+      "label": "桥牌",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/切片蛋糕.7z",
+      "label": "切片蛋糕",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/青蛙过河2.7z",
+      "label": "青蛙过河2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/青蛙过河官方版.7z",
+      "label": "青蛙过河官方版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/青蛙过河.7z",
+      "label": "青蛙过河",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/青蛙抓苍蝇.7z",
+      "label": "青蛙抓苍蝇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/拳击.7z",
+      "label": "拳击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/权力之王.7z",
+      "label": "权力之王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/燃烧欲望.7z",
+      "label": "燃烧欲望",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/人间大炮.7z",
+      "label": "人间大炮",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/扔蛋大战.7z",
+      "label": "扔蛋大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/蠕虫吃豆.7z",
+      "label": "蠕虫吃豆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/蠕虫大战1.7z",
+      "label": "蠕虫大战1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/赛车对决.7z",
+      "label": "赛车对决",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/赛马游戏.7z",
+      "label": "赛马游戏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/三只小猪.7z",
+      "label": "三只小猪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/扫过月球.7z",
+      "label": "扫过月球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/扫描战机.7z",
+      "label": "扫描战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/森林.7z",
+      "label": "森林",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/沙漠猎鹰.7z",
+      "label": "沙漠猎鹰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/沙丘.7z",
+      "label": "沙丘",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/山魔王.7z",
+      "label": "山魔王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/上上下下.7z",
+      "label": "上上下下",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/哨兵.7z",
+      "label": "哨兵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/射击场.7z",
+      "label": "射击场",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/深海探索.7z",
+      "label": "深海探索",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/神经错乱.7z",
+      "label": "神经错乱",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/神秘盗贼.7z",
+      "label": "神秘盗贼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/神射手威廉.7z",
+      "label": "神射手威廉",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/深水炸弹.7z",
+      "label": "深水炸弹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/渗透.7z",
+      "label": "渗透",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/史丹利与猴子.7z",
+      "label": "史丹利与猴子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/时间错位.7z",
+      "label": "时间错位",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/时间飞行员.7z",
+      "label": "时间飞行员",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/世界尽头.7z",
+      "label": "世界尽头",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/失控.7z",
+      "label": "失控",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/史努比与红男爵.7z",
+      "label": "史努比与红男爵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/石器时代.7z",
+      "label": "石器时代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/十项全能增强版.7z",
+      "label": "十项全能增强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/十项全能.7z",
+      "label": "十项全能",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/守卫堡垒.7z",
+      "label": "守卫堡垒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/守卫者.7z",
+      "label": "守卫者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/数学竞赛.7z",
+      "label": "数学竞赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/双截龙.7z",
+      "label": "双截龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/双陆棋.7z",
+      "label": "双陆棋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/水晶城堡.7z",
+      "label": "水晶城堡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/水世界冒险.7z",
+      "label": "水世界冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/斯芬克斯之谜.7z",
+      "label": "斯芬克斯之谜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/私家侦探.7z",
+      "label": "私家侦探",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/斯派克爬山.7z",
+      "label": "斯派克爬山",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/死亡陷阱.7z",
+      "label": "死亡陷阱",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/思维迷宫.7z",
+      "label": "思维迷宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/斯沃克.7z",
+      "label": "斯沃克",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/溯溪女郎.7z",
+      "label": "溯溪女郎",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/索拉力星.7z",
+      "label": "索拉力星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/索罗斯之剑.7z",
+      "label": "索罗斯之剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/塔兹.7z",
+      "label": "塔兹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/太空变种人.7z",
+      "label": "太空变种人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/太空大师X-7.7z",
+      "label": "太空大师X-7",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/太空大战.7z",
+      "label": "太空大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/太空洞穴.7z",
+      "label": "太空洞穴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/太空噩梦.7z",
+      "label": "太空噩梦",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/太空攻击.7z",
+      "label": "太空攻击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/太空牡蛎.7z",
+      "label": "太空牡蛎",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/太空骑士.7z",
+      "label": "太空骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/太空侵略者.7z",
+      "label": "太空侵略者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/太空隧道.7z",
+      "label": "太空隧道",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/太空猪小姐.7z",
+      "label": "太空猪小姐",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/太空追逐.7z",
+      "label": "太空追逐",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/太阳风暴.7z",
+      "label": "太阳风暴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/太阳系战机.7z",
+      "label": "太阳系战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/太阳之狐.7z",
+      "label": "太阳之狐",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/唐老鸭快艇.7z",
+      "label": "唐老鸭快艇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/逃离心灵迷宫.7z",
+      "label": "逃离心灵迷宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/逃税者.7z",
+      "label": "逃税者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/特工.7z",
+      "label": "特工",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/特技击球.7z",
+      "label": "特技击球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/特技摩托.7z",
+      "label": "特技摩托",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/特技演员.7z",
+      "label": "特技演员",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/特种部队 眼镜蛇崛起.7z",
+      "label": "特种部队 眼镜蛇崛起",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/田径运动会.7z",
+      "label": "田径运动会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/天空船长.7z",
+      "label": "天空船长",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/天空巡回.7z",
+      "label": "天空巡回",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/跳棋.7z",
+      "label": "跳棋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/跳伞运动员.7z",
+      "label": "跳伞运动员",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/铁板阵.7z",
+      "label": "铁板阵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/铁头.7z",
+      "label": "铁头",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/骰子游戏.7z",
+      "label": "骰子游戏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/兔八哥.7z",
+      "label": "兔八哥",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/突击队员.7z",
+      "label": "突击队员",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/突击.7z",
+      "label": "突击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/图坦卡门.7z",
+      "label": "图坦卡门",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/兔兔冒险.7z",
+      "label": "兔兔冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/突袭危机.7z",
+      "label": "突袭危机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/秃鹰袭击.7z",
+      "label": "秃鹰袭击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/兔子跳跃.7z",
+      "label": "兔子跳跃",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/瓦比特.7z",
+      "label": "瓦比特",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/外星人迷宫.7z",
+      "label": "外星人迷宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/外星人.7z",
+      "label": "外星人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/外星危机.7z",
+      "label": "外星危机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/万圣节.7z",
+      "label": "万圣节",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/网球.7z",
+      "label": "网球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/卫星杀手.7z",
+      "label": "卫星杀手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/文字游戏.7z",
+      "label": "文字游戏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/涡轮增压.7z",
+      "label": "涡轮增压",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/蜗牛与松鼠.7z",
+      "label": "蜗牛与松鼠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/无法逃脱.7z",
+      "label": "无法逃脱",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/无路可退.7z",
+      "label": "无路可退",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/巫师沃尔.7z",
+      "label": "巫师沃尔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/巫师.7z",
+      "label": "巫师",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/午夜狂飙.7z",
+      "label": "午夜狂飙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/午夜魔法.7z",
+      "label": "午夜魔法",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/侠盗罗宾汉.7z",
+      "label": "侠盗罗宾汉",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/峡谷轰炸.7z",
+      "label": "峡谷轰炸",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/夏季运动会.7z",
+      "label": "夏季运动会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/先睹为快.7z",
+      "label": "先睹为快",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/陷阱I 丛林冒险.7z",
+      "label": "陷阱I 丛林冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/陷阱II 失落洞穴.7z",
+      "label": "陷阱II 失落洞穴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/相互保证毁灭.7z",
+      "label": "相互保证毁灭",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/相位巡查.7z",
+      "label": "相位巡查",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/小白脸.7z",
+      "label": "小白脸",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/消防员.7z",
+      "label": "消防员",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/小飞象的飞行马戏团.7z",
+      "label": "小飞象的飞行马戏团",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/小鸡过路.7z",
+      "label": "小鸡过路",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/小轮车赛.7z",
+      "label": "小轮车赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/小蜜蜂.7z",
+      "label": "小蜜蜂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/小魔怪.7z",
+      "label": "小魔怪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/小兔跳跳.7z",
+      "label": "小兔跳跳",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/小镇骑士.7z",
+      "label": "小镇骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/邪恶进攻.7z",
+      "label": "邪恶进攻",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/心灵打砖块.7z",
+      "label": "心灵打砖块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/心灵感应.7z",
+      "label": "心灵感应",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/星爆.7z",
+      "label": "星爆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/腥风血雨.7z",
+      "label": "腥风血雨",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/星际飞船 外太空.7z",
+      "label": "星际飞船 外太空",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/星际火狐.7z",
+      "label": "星际火狐",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/星际旅行者.7z",
+      "label": "星际旅行者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/星际迷航 恒星轨迹.7z",
+      "label": "星际迷航 恒星轨迹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/星际迷航 模拟战略行动.7z",
+      "label": "星际迷航 模拟战略行动",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/星际突击.7z",
+      "label": "星际突击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/星际之门.7z",
+      "label": "星际之门",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/星际尊者.7z",
+      "label": "星际尊者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/行李丢失.7z",
+      "label": "行李丢失",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/星枪.7z",
+      "label": "星枪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/星球打击.7z",
+      "label": "星球打击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/星球大战 帝国反击战.7z",
+      "label": "星球大战 帝国反击战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/星球大战 街机版.7z",
+      "label": "星球大战 街机版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/星球大战 绝地竞技场.7z",
+      "label": "星球大战 绝地竞技场",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/星球外传 死星之战.7z",
+      "label": "星球外传 死星之战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/星球巡逻队.7z",
+      "label": "星球巡逻队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/行星飞行.7z",
+      "label": "行星飞行",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/行星据点.7z",
+      "label": "行星据点",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/星旋.7z",
+      "label": "星旋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/星战外传 伊沃克人历险记.7z",
+      "label": "星战外传 伊沃克人历险记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/巡航导弹.7z",
+      "label": "巡航导弹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/循环.7z",
+      "label": "循环",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/寻剑1 地世界.7z",
+      "label": "寻剑1 地世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/寻剑2 火世界.7z",
+      "label": "寻剑2 火世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/寻剑3 水世界.7z",
+      "label": "寻剑3 水世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/牙斑攻击.7z",
+      "label": "牙斑攻击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/牙齿保卫者.7z",
+      "label": "牙齿保卫者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/雅达利弹球.7z",
+      "label": "雅达利弹球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/雅达利跳棋.7z",
+      "label": "雅达利跳棋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/亚尔斯的复仇.7z",
+      "label": "亚尔斯的复仇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/亚特兰蒂斯1.7z",
+      "label": "亚特兰蒂斯1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/亚特兰蒂斯2.7z",
+      "label": "亚特兰蒂斯2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/严酷考验.7z",
+      "label": "严酷考验",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/遥控坦克.7z",
+      "label": "遥控坦克",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/椰菜娃娃 公园冒险.7z",
+      "label": "椰菜娃娃 公园冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/野餐.7z",
+      "label": "野餐",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/野人托马克.7z",
+      "label": "野人托马克",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/意大利面.7z",
+      "label": "意大利面",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/一号行星救援.7z",
+      "label": "一号行星救援",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/伊克西翁.7z",
+      "label": "伊克西翁",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/伊莱爬梯.7z",
+      "label": "伊莱爬梯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/一球双扣.7z",
+      "label": "一球双扣",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/异形任务.7z",
+      "label": "异形任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/翼之战机.7z",
+      "label": "翼之战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/银行劫案.7z",
+      "label": "银行劫案",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/银河系轨道机械部队.7z",
+      "label": "银河系轨道机械部队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/音速戈登.7z",
+      "label": "音速戈登",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/音乐机器.7z",
+      "label": "音乐机器",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/萤火虫.7z",
+      "label": "萤火虫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/英雄.7z",
+      "label": "英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/邮差先生.7z",
+      "label": "邮差先生",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/油老虎.7z",
+      "label": "油老虎",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/幽灵庄园.7z",
+      "label": "幽灵庄园",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/宇宙的巨人希曼.7z",
+      "label": "宇宙的巨人希曼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/宇宙方舟.7z",
+      "label": "宇宙方舟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/宇宙潜行.7z",
+      "label": "宇宙潜行",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/宇宙通勤者.7z",
+      "label": "宇宙通勤者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/宇宙蚁群.7z",
+      "label": "宇宙蚁群",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/宇宙战争.7z",
+      "label": "宇宙战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/原子粉碎.7z",
+      "label": "原子粉碎",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/乐队逃离.7z",
+      "label": "乐队逃离",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/月球机器人.7z",
+      "label": "月球机器人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/月球巡逻队.7z",
+      "label": "月球巡逻队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/越野摩托赛.7z",
+      "label": "越野摩托赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/越野摩托.7z",
+      "label": "越野摩托",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/越野耐力赛.7z",
+      "label": "越野耐力赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/运河大战2.7z",
+      "label": "运河大战2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/运河大战.7z",
+      "label": "运河大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/炸窝.7z",
+      "label": "炸窝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/战斗任务2.7z",
+      "label": "战斗任务2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/战斗任务.7z",
+      "label": "战斗任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/战略X.7z",
+      "label": "战略X",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/詹姆斯邦德007.7z",
+      "label": "詹姆斯邦德007",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/战争地带.7z",
+      "label": "战争地带",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/真实棒球.7z",
+      "label": "真实棒球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/真实橄榄球.7z",
+      "label": "真实橄榄球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/真实排球.7z",
+      "label": "真实排球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/真实拳击.7z",
+      "label": "真实拳击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/真实网球.7z",
+      "label": "真实网球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/真实足球.7z",
+      "label": "真实足球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/拯救鲸鱼.7z",
+      "label": "拯救鲸鱼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/拯救玛丽.7z",
+      "label": "拯救玛丽",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/拯救我们的船.7z",
+      "label": "拯救我们的船",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/正义前锋.7z",
+      "label": "正义前锋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/指环王 瑞文戴尔之旅.7z",
+      "label": "指环王 瑞文戴尔之旅",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/智力记忆.7z",
+      "label": "智力记忆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/芝麻开门.7z",
+      "label": "芝麻开门",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/致命狂飙.7z",
+      "label": "致命狂飙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/直升机指令.7z",
+      "label": "直升机指令",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/职业摔跤冠军赛.7z",
+      "label": "职业摔跤冠军赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/蜘蛛猎手.7z",
+      "label": "蜘蛛猎手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/蜘蛛迷宫.7z",
+      "label": "蜘蛛迷宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/蜘蛛侠.7z",
+      "label": "蜘蛛侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/中国综合症.7z",
+      "label": "中国综合症",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/祝你好运 查理布朗.7z",
+      "label": "祝你好运 查理布朗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/猪小弟.7z",
+      "label": "猪小弟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/猪小姐的婚礼.7z",
+      "label": "猪小姐的婚礼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/撞墙.7z",
+      "label": "撞墙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/追捕粉红豹.7z",
+      "label": "追捕粉红豹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/追逐马车.7z",
+      "label": "追逐马车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/捉鬼敢死队2.7z",
+      "label": "捉鬼敢死队2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/捉鬼敢死队.7z",
+      "label": "捉鬼敢死队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/自取灭亡.7z",
+      "label": "自取灭亡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    },
+    {
+      "path": "@ROM/ATARI2600/走迷宫.7z",
+      "label": "走迷宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "ATARI2600.lpl"
+    }
+  ]
+}

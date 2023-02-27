@@ -1,0 +1,459 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/PC-FX/ACT-鬼神童子FX-金刚炎斗.chd",
+      "label": "ACT-鬼神童子FX-金刚炎斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ACT-路路里拉路拉 英文字幕版.chd",
+      "label": "ACT-路路里拉路拉 英文字幕版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ACT-史莱姆汽泡姊妹.chd",
+      "label": "ACT-史莱姆汽泡姊妹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ACT-天外魔境 电脑络缲格斗传.chd",
+      "label": "ACT-天外魔境 电脑络缲格斗传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ACT-战斗英雄.chd",
+      "label": "ACT-战斗英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ADV-重返魔域.chd",
+      "label": "ADV-重返魔域",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ADV-大小姐搜查网.chd",
+      "label": "ADV-大小姐搜查网",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ADV-火舞女子缠组.chd",
+      "label": "ADV-火舞女子缠组",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ADV-蓝色芝加哥/menu.m3u",
+      "label": "ADV-蓝色芝加哥",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ADV-乐天少女俱乐部.chd",
+      "label": "ADV-乐天少女俱乐部",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ADV-邻居公主罗尔菲.chd",
+      "label": "ADV-邻居公主罗尔菲",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ADV-迷你宝贝.chd",
+      "label": "ADV-迷你宝贝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ADV-声优乐园/menu.m3u",
+      "label": "ADV-声优乐园",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ADV-天地无用！魉皇鬼FX/menu.m3u",
+      "label": "ADV-天地无用！魉皇鬼FX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ADV-甜心战士FX.chd",
+      "label": "ADV-甜心战士FX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ADV-我的女神/menu.m3u",
+      "label": "ADV-我的女神",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ADV-无罪制裁.chd",
+      "label": "ADV-无罪制裁",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ADV-银河公主传说优奈FX-哀伤的海妖塞壬.chd",
+      "label": "ADV-银河公主传说优奈FX-哀伤的海妖塞壬",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ANIME-动漫美少女大集合 Vol.1.chd",
+      "label": "ANIME-动漫美少女大集合 Vol.1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ANIME-动漫美少女大集合 Vol.2.chd",
+      "label": "ANIME-动漫美少女大集合 Vol.2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ANIME-动漫美少女大集合 Vol.3.chd",
+      "label": "ANIME-动漫美少女大集合 Vol.3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ANIME-动漫美少女大集合 Vol.4.chd",
+      "label": "ANIME-动漫美少女大集合 Vol.4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ANIME-动漫美少女大集合 Vol.5/menu.m3u",
+      "label": "ANIME-动漫美少女大集合 Vol.5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/ANIME-动漫美少女大集合 Vol.6/menu.m3u",
+      "label": "ANIME-动漫美少女大集合 Vol.6",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/COL-PCE粉丝特别CD-ROM收藏专辑1.chd",
+      "label": "COL-PCE粉丝特别CD-ROM收藏专辑1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/COL-PCE粉丝特别CD-ROM收藏专辑2.chd",
+      "label": "COL-PCE粉丝特别CD-ROM收藏专辑2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/COL-PCE粉丝特别CD-ROM收藏专辑3.chd",
+      "label": "COL-PCE粉丝特别CD-ROM收藏专辑3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/RPG-安琪莉可-天空的镇魂歌.chd",
+      "label": "RPG-安琪莉可-天空的镇魂歌",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/RPG-边界之门-王国的女儿.chd",
+      "label": "RPG-边界之门-王国的女儿",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/RPG-纯爱游侠-剑之微笑.chd",
+      "label": "RPG-纯爱游侠-剑之微笑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/RPG-龙骑士4.chd",
+      "label": "RPG-龙骑士4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/RPG-魔剑道Z.chd",
+      "label": "RPG-魔剑道Z",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/RPG-奇迹-最后的启示.chd",
+      "label": "RPG-奇迹-最后的启示",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/RPG-王子最终传承/menu.m3u",
+      "label": "RPG-王子最终传承",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/RPG-侠客游FX.chd",
+      "label": "RPG-侠客游FX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/SLG-安琪莉可特别版1.chd",
+      "label": "SLG-安琪莉可特别版1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/SLG-安琪莉可特别版2.chd",
+      "label": "SLG-安琪莉可特别版2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/SLG-绀碧之舰队.chd",
+      "label": "SLG-绀碧之舰队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/SLG-古大陆物语FX 英文字幕版.chd",
+      "label": "SLG-古大陆物语FX 英文字幕版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/SLG-惑星攻机队-小猫.chd",
+      "label": "SLG-惑星攻机队-小猫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/SLG-漫画家之路.chd",
+      "label": "SLG-漫画家之路",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/SLG-梦幻模拟战2 FX 汉化版.chd",
+      "label": "SLG-梦幻模拟战2 FX 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/SLG-女神天国2.chd",
+      "label": "SLG-女神天国2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/SLG-闪光羽翼.chd",
+      "label": "SLG-闪光羽翼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/SLG-特勤机甲队FX.chd",
+      "label": "SLG-特勤机甲队FX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/SLG-续初恋物语-修学旅行/menu.m3u",
+      "label": "SLG-续初恋物语-修学旅行",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/SLG-亚尔芭蕾亚的少女.chd",
+      "label": "SLG-亚尔芭蕾亚的少女",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/SPT-超级职棒联盟FX.chd",
+      "label": "SPT-超级职棒联盟FX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/SPT-全日本女子职业摔角/menu.m3u",
+      "label": "SPT-全日本女子职业摔角",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/STG-超神兵器 英文字幕版.chd",
+      "label": "STG-超神兵器 英文字幕版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/STG-虚空漂流-尼鲁格恩斯.chd",
+      "label": "STG-虚空漂流-尼鲁格恩斯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/TBL-柏青夫君FX-幻之岛大决战.chd",
+      "label": "TBL-柏青夫君FX-幻之岛大决战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/TBL-不可思议之国的安琪莉可.chd",
+      "label": "TBL-不可思议之国的安琪莉可",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/TBL-麻将悟空-天竺.chd",
+      "label": "TBL-麻将悟空-天竺",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/TBL-上海-万里长城.chd",
+      "label": "TBL-上海-万里长城",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    },
+    {
+      "path": "@ROM/PC-FX/TBL-小红帽恰恰.chd",
+      "label": "TBL-小红帽恰恰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PC-FX.lpl"
+    }
+  ]
+}

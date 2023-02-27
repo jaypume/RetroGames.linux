@@ -1,0 +1,331 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/MD-32X/3D战机.zip",
+      "label": "3D战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/FIFA足球96.zip",
+      "label": "FIFA足球96",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/NBA锦标赛.zip",
+      "label": "NBA锦标赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/RBI棒球95.zip",
+      "label": "RBI棒球95",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/VR仓鼠.zip",
+      "label": "VR仓鼠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/VR赛车.zip",
+      "label": "VR赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/VR战士.zip",
+      "label": "VR战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/X战警.zip",
+      "label": "X战警",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/冲破火网.zip",
+      "label": "冲破火网",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/动物快打.zip",
+      "label": "动物快打",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/恶汉争霸.zip",
+      "label": "恶汉争霸",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/疯狂摔角.zip",
+      "label": "疯狂摔角",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/蜂鸟.zip",
+      "label": "蜂鸟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/蜂侠.zip",
+      "label": "蜂侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/橄榄球俱乐部.zip",
+      "label": "橄榄球俱乐部",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/高尔夫大赛.zip",
+      "label": "高尔夫大赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/海豚历险记.zip",
+      "label": "海豚历险记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/黑色荆棘.zip",
+      "label": "黑色荆棘",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/恒星突击.zip",
+      "label": "恒星突击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/毁灭战士.zip",
+      "label": "毁灭战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/金属领袖战士.zip",
+      "label": "金属领袖战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/灵魂战机X.zip",
+      "label": "灵魂战机X",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/玛雅历险记.zip",
+      "label": "玛雅历险记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/摩托车越野赛.zip",
+      "label": "摩托车越野赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/母体战机2000.zip",
+      "label": "母体战机2000",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/赛车手.zip",
+      "label": "赛车手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/三国志4.zip",
+      "label": "三国志4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/世界棒球赛.zip",
+      "label": "世界棒球赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/世界摔角联盟.zip",
+      "label": "世界摔角联盟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/索尼克.zip",
+      "label": "索尼克",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/太空哈利.zip",
+      "label": "太空哈利",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/武装鹫狮.zip",
+      "label": "武装鹫狮",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/星际突击队.zip",
+      "label": "星际突击队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/星舰迷航 星云学会.zip",
+      "label": "星舰迷航 星云学会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/星球大战.zip",
+      "label": "星球大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/音频测试.zip",
+      "label": "音频测试",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/宇宙大屠杀.zip",
+      "label": "宇宙大屠杀",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/原始之怒.zip",
+      "label": "原始之怒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/真人快打2.zip",
+      "label": "真人快打2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    },
+    {
+      "path": "@ROM/MD-32X/蜘蛛侠 网络之火.zip",
+      "label": "蜘蛛侠 网络之火",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MD-32X.lpl"
+    }
+  ]
+}

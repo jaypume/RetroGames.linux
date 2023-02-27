@@ -1,0 +1,571 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/N64/007黄金眼.v64",
+      "label": "007黄金眼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/1080度滑雪.n64",
+      "label": "1080度滑雪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/F1国际赛车大奖赛.n64",
+      "label": "F1国际赛车大奖赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/班卓熊大冒险1.n64",
+      "label": "班卓熊大冒险1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/班卓熊大冒险2.n64",
+      "label": "班卓熊大冒险2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/爆破推土机.n64",
+      "label": "爆破推土机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/不可思议的迷宫 风来的西林2.n64",
+      "label": "不可思议的迷宫 风来的西林2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/超级机器人大战64.n64",
+      "label": "超级机器人大战64",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/超级杰克龙3.n64",
+      "label": "超级杰克龙3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/超级杰克龙64.n64",
+      "label": "超级杰克龙64",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/超级马里奥64.z64",
+      "label": "超级马里奥64",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/大盗伍佑卫门1.n64",
+      "label": "大盗伍佑卫门1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/大盗伍佑卫门2.n64",
+      "label": "大盗伍佑卫门2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/大金刚64.n64",
+      "label": "大金刚64",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/迪迪刚赛车.n64",
+      "label": "迪迪刚赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/电流急急棒.n64",
+      "label": "电流急急棒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/动物之森.z64",
+      "label": "动物之森",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/恶魔城 默示录外传.n64",
+      "label": "恶魔城 默示录外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/恶魔城 默示录.n64",
+      "label": "恶魔城 默示录",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/飞行俱乐部64.n64",
+      "label": "飞行俱乐部64",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/格斗传承1.n64",
+      "label": "格斗传承1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/格斗传承2.n64",
+      "label": "格斗传承2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/硅谷太空站.n64",
+      "label": "硅谷太空站",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/皇家骑士团64.n64",
+      "label": "皇家骑士团64",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/毁灭磁浮赛车64.n64",
+      "label": "毁灭磁浮赛车64",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/混沌天堂.n64",
+      "label": "混沌天堂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/火箭 滑轮机器人.n64",
+      "label": "火箭 滑轮机器人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/恐龙猎人1.n64",
+      "label": "恐龙猎人1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/恐龙猎人2 邪恶的种子.n64",
+      "label": "恐龙猎人2 邪恶的种子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/雷电战机3D.n64",
+      "label": "雷电战机3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/雷曼2 胜利大逃亡.n64",
+      "label": "雷曼2 胜利大逃亡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/洛克人Dash 钢铁之心.n64",
+      "label": "洛克人Dash 钢铁之心",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/马里奥高尔夫64.n64",
+      "label": "马里奥高尔夫64",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/马里奥派对64.v64",
+      "label": "马里奥派对64",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/马里奥赛车64.z64",
+      "label": "马里奥赛车64",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/马里奥网球64.n64",
+      "label": "马里奥网球64",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/马里奥医生64.z64",
+      "label": "马里奥医生64",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/魔法米老鼠俄罗斯方块.n64",
+      "label": "魔法米老鼠俄罗斯方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/牧场物语64.n64",
+      "label": "牧场物语64",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/喷射力量 双子星.n64",
+      "label": "喷射力量 双子星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/任天堂明星大乱斗.z64",
+      "label": "任天堂明星大乱斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/人猿泰山.n64",
+      "label": "人猿泰山",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/塞尔达传说 梅祖拉的假面.n64",
+      "label": "塞尔达传说 梅祖拉的假面",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/塞尔达传说 时之笛.z64",
+      "label": "塞尔达传说 时之笛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/山脊赛车64.n64",
+      "label": "山脊赛车64",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/神奇计划J2 科鲁罗之森的朱赛特.z64",
+      "label": "神奇计划J2 科鲁罗之森的朱赛特",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/世界车手竞标赛.n64",
+      "label": "世界车手竞标赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/水上摩托64.z64",
+      "label": "水上摩托64",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/松鼠库克倒霉的一天.n64",
+      "label": "松鼠库克倒霉的一天",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/唐老鸭大冒险 嘎嘎攻击.n64",
+      "label": "唐老鸭大冒险 嘎嘎攻击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/特技赛车64.n64",
+      "label": "特技赛车64",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/跳跳虎的蜂蜜狩猎.n64",
+      "label": "跳跳虎的蜂蜜狩猎",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/玩具总动员2.n64",
+      "label": "玩具总动员2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/完美黑暗.n64",
+      "label": "完美黑暗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/未来赛车 F-Zero X.z64",
+      "label": "未来赛车 F-Zero X",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/围水方块.n64",
+      "label": "围水方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/新俄罗斯方块.n64",
+      "label": "新俄罗斯方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/星际火狐64.z64",
+      "label": "星际火狐64",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/星际战士 失落的地球.n64",
+      "label": "星际战士 失落的地球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/星际争霸64.n64",
+      "label": "星际争霸64",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/星球大战 侠盗中队.n64",
+      "label": "星球大战 侠盗中队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/星之卡比64 水晶碎片.n64",
+      "label": "星之卡比64 水晶碎片",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/耀西的故事.z64",
+      "label": "耀西的故事",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/越野机车64.z64",
+      "label": "越野机车64",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/炸弹人64 二次冲击.n64",
+      "label": "炸弹人64 二次冲击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/炸弹人64.n64",
+      "label": "炸弹人64",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/炸弹人英雄.n64",
+      "label": "炸弹人英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/纸片马里奥.z64",
+      "label": "纸片马里奥",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/组合机器人.z64",
+      "label": "组合机器人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    },
+    {
+      "path": "@ROM/N64/罪与罚 地球的继承者.z64",
+      "label": "罪与罚 地球的继承者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "N64.lpl"
+    }
+  ]
+}

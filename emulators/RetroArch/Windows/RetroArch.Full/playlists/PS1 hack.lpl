@@ -1,0 +1,491 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/PS1 hack/Capcom VS SNK PRO2000 HACK.chd",
+      "label": "Capcom VS SNK PRO2000 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/阿兰多拉 HACK.chd",
+      "label": "阿兰多拉 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/北斗神拳 世纪末救世主传说 HACK.chd",
+      "label": "北斗神拳 世纪末救世主传说 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/北欧女神 HACK/menu.m3u",
+      "label": "北欧女神 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/超级机器人大战F HACK.chd",
+      "label": "超级机器人大战F HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/超级机器人大战F完结篇 HACK.chd",
+      "label": "超级机器人大战F完结篇 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/超级机器人大战α HACK.chd",
+      "label": "超级机器人大战α HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/出击飞龙2 HACK.chd",
+      "label": "出击飞龙2 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/大航海时代2 HACK.chd",
+      "label": "大航海时代2 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/第2次超级机器人大战 HACK.chd",
+      "label": "第2次超级机器人大战 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/独臂擎天 HACK.chd",
+      "label": "独臂擎天 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/饿狼传说3D 野望 HACK.chd",
+      "label": "饿狼传说3D 野望 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/恶魔城X月下夜想曲 HACK.chd",
+      "label": "恶魔城X月下夜想曲 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/恶魔城X月下夜想曲 平衡版 HACK.chd",
+      "label": "恶魔城X月下夜想曲 平衡版 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/恶魔城历代记 HACK.chd",
+      "label": "恶魔城历代记 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/公主西娜 HACK.chd",
+      "label": "公主西娜 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/合金装备 HACK/menu.m3u",
+      "label": "合金装备 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/魂斗罗进化 HACK.chd",
+      "label": "魂斗罗进化 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/魂斗罗战争遗产 HACK.chd",
+      "label": "魂斗罗战争遗产 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/寄生前夜1 HACK/menu.m3u",
+      "label": "寄生前夜1 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/寄生前夜2 HACK/menu.m3u",
+      "label": "寄生前夜2 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/街头霸王EX plus alpha HACK.chd",
+      "label": "街头霸王EX plus alpha HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/街头霸王EX2 Plus HACK.chd",
+      "label": "街头霸王EX2 Plus HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/恐龙危机2 HACK.chd",
+      "label": "恐龙危机2 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/雷电DX HACK.chd",
+      "label": "雷电DX HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/镭射风暴 HACK.chd",
+      "label": "镭射风暴 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/雷霆战机5 HACK.chd",
+      "label": "雷霆战机5 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/洛克人8 HACK.chd",
+      "label": "洛克人8 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/洛克人X4 HACK.chd",
+      "label": "洛克人X4 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/洛克人X5 HACK.chd",
+      "label": "洛克人X5 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/洛克人X6 HACK.chd",
+      "label": "洛克人X6 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/洛克人传奇合集 HACK.chd",
+      "label": "洛克人传奇合集 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/启示录 HACK.chd",
+      "label": "启示录 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/枪手天堂 HACK.chd",
+      "label": "枪手天堂 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/热力公园 HACK.chd",
+      "label": "热力公园 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/热血亲子 HACK.chd",
+      "label": "热血亲子 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/荣誉勋章 HACK.chd",
+      "label": "荣誉勋章 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/三国志2 霸王的大陆 HACK.chd",
+      "label": "三国志2 霸王的大陆 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/三国志2 赤壁之战 HACK.chd",
+      "label": "三国志2 赤壁之战 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/生化危机1 重制版 HACK.chd",
+      "label": "生化危机1 重制版 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/生化危机2 导剪版 HACK/menu.m3u",
+      "label": "生化危机2 导剪版 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/生化危机3 导剪版 HACK.chd",
+      "label": "生化危机3 导剪版 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/侍魂新章 剑客异闻录 HACK.chd",
+      "label": "侍魂新章 剑客异闻录 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/实况足球2000 HACK.chd",
+      "label": "实况足球2000 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/实况足球2002 HACK.chd",
+      "label": "实况足球2002 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/铁拳2 HACK.chd",
+      "label": "铁拳2 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/铁拳3 HACK.chd",
+      "label": "铁拳3 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/未来战警 HACK.chd",
+      "label": "未来战警 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/武藏传 HACK.chd",
+      "label": "武藏传 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/武装战斗车1 HACK.chd",
+      "label": "武装战斗车1 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/武装战斗车2 HACK.chd",
+      "label": "武装战斗车2 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/异形战机 HACK.chd",
+      "label": "异形战机 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/尤特娜英雄战记 泪指轮传说 HACK.chd",
+      "label": "尤特娜英雄战记 泪指轮传说 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/宇宙巡航舰外传 HACK.chd",
+      "label": "宇宙巡航舰外传 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/真魔装机神 HACK.chd",
+      "label": "真魔装机神 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/装甲勇士 全金属狂潮 HACK.chd",
+      "label": "装甲勇士 全金属狂潮 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/最终幻想2 HACK.chd",
+      "label": "最终幻想2 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/最终幻想7 HACK/menu.m3u",
+      "label": "最终幻想7 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/最终幻想8 HACK/menu.m3u",
+      "label": "最终幻想8 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    },
+    {
+      "path": "@ROM/PS1 hack/最终幻想9 HACK/menu.m3u",
+      "label": "最终幻想9 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PS1 hack.lpl"
+    }
+  ]
+}

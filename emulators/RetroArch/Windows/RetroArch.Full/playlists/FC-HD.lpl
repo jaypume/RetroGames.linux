@@ -1,0 +1,267 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/FC-HD/爱的小屋.zip",
+      "label": "爱的小屋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/兵锋1.zip",
+      "label": "兵锋1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/超级马里奥兄弟1 3D版.zip",
+      "label": "超级马里奥兄弟1 3D版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/超级马里奥兄弟1 Flash版.zip",
+      "label": "超级马里奥兄弟1 Flash版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/超级马里奥兄弟1 蘑菇版.zip",
+      "label": "超级马里奥兄弟1 蘑菇版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/超级马里奥兄弟1 纸片版.zip",
+      "label": "超级马里奥兄弟1 纸片版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/超级马里奥兄弟2 碧姬公主高清版.zip",
+      "label": "超级马里奥兄弟2 碧姬公主高清版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/成龙踢馆.zip",
+      "label": "成龙踢馆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/吃豆人.zip",
+      "label": "吃豆人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/大金刚Jr..zip",
+      "label": "大金刚Jr.",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/大金刚.zip",
+      "label": "大金刚",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/打鸭子.zip",
+      "label": "打鸭子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/恶魔城1 16BIT.zip",
+      "label": "恶魔城1 16BIT",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/恶魔城1 HD.zip",
+      "label": "恶魔城1 HD",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/恶魔城1 MSX.zip",
+      "label": "恶魔城1 MSX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/恶魔城3.zip",
+      "label": "恶魔城3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/魂斗罗1 高清第一关.zip",
+      "label": "魂斗罗1 高清第一关",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/魂斗罗1 音乐替换.zip",
+      "label": "魂斗罗1 音乐替换",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/警技射击.zip",
+      "label": "警技射击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/洛克人1 16BIT.zip",
+      "label": "洛克人1 16BIT",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/洛克人1.zip",
+      "label": "洛克人1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/马戏团.zip",
+      "label": "马戏团",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/梦之勇士.zip",
+      "label": "梦之勇士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/敲冰块.zip",
+      "label": "敲冰块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/忍者龙剑传1.zip",
+      "label": "忍者龙剑传1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/忍者龙剑传2 暗黑邪神剑.zip",
+      "label": "忍者龙剑传2 暗黑邪神剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/塞尔达传说1.zip",
+      "label": "塞尔达传说1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/坦克大战.zip",
+      "label": "坦克大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/唐老鸭大冒险2  黛拉版.zip",
+      "label": "唐老鸭大冒险2  黛拉版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/特救指令.zip",
+      "label": "特救指令",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/银河战士.zip",
+      "label": "银河战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    },
+    {
+      "path": "@ROM/FC-HD/炸弹人.zip",
+      "label": "炸弹人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FC-HD.lpl"
+    }
+  ]
+}

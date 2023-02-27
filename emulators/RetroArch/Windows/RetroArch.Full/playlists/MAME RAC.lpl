@@ -1,0 +1,291 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/MAME RAC/A 级方程式赛车2.zip",
+      "label": "A 级方程式赛车2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/A 级方程式赛车.zip",
+      "label": "A 级方程式赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/GTI俱乐部.zip",
+      "label": "GTI俱乐部",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/VR 赛车.zip",
+      "label": "VR 赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/超酷赛车手.zip",
+      "label": "超酷赛车手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/环绕方程式.zip",
+      "label": "环绕方程式",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/环绕越野赛车 Track-Pak.zip",
+      "label": "环绕越野赛车 Track-Pak",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/环绕越野赛车.zip",
+      "label": "环绕越野赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/火焰车轮.zip",
+      "label": "火焰车轮",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/技术驱动.zip",
+      "label": "技术驱动",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/加速.zip",
+      "label": "加速",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/劲风赛车.zip",
+      "label": "劲风赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/口袋赛车.zip",
+      "label": "口袋赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/m1comm.zip",
+      "label": "m1comm",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/马赫 GO GO GO.zip",
+      "label": "马赫 GO GO GO",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/摩托风暴.zip",
+      "label": "摩托风暴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/model1io.zip",
+      "label": "model1io",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/namcoc65.7z",
+      "label": "namcoc65",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/namcoc68.zip",
+      "label": "namcoc68",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/namcoc74.zip",
+      "label": "namcoc74",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/namcoc75.7z",
+      "label": "namcoc75",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/namcoc76.7z",
+      "label": "namcoc76",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/呯嘭客车.zip",
+      "label": "呯嘭客车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/犰狳赛跑.zip",
+      "label": "犰狳赛跑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/赛车巡回锦标赛.zip",
+      "label": "赛车巡回锦标赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/segabill.zip",
+      "label": "segabill",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/山脊赛车 2.zip",
+      "label": "山脊赛车 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/山脊赛车93.zip",
+      "label": "山脊赛车93",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/山脊赛车95.zip",
+      "label": "山脊赛车95",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/说明.txt",
+      "label": "说明",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/送报男孩.zip",
+      "label": "送报男孩",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/tms32031.zip",
+      "label": "tms32031",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/未来骑士.zip",
+      "label": "未来骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/越野车队.zip",
+      "label": "越野车队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    },
+    {
+      "path": "@ROM/MAME RAC/最后冲剌 R.zip",
+      "label": "最后冲剌 R",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME RAC.lpl"
+    }
+  ]
+}

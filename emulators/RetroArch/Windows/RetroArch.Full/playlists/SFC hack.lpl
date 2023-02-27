@@ -1,0 +1,3715 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/SFC hack/ACT BB鸟 大野狼与BB鸟.zip",
+      "label": "ACT BB鸟 大野狼与BB鸟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT BB鸟.zip",
+      "label": "ACT BB鸟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT CB世界.zip",
+      "label": "ACT CB世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT GS美神.zip",
+      "label": "ACT GS美神",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT SD英雄大战3.zip",
+      "label": "ACT SD英雄大战3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT SD英雄大战外传2.zip",
+      "label": "ACT SD英雄大战外传2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT X战警 变种末世录.zip",
+      "label": "ACT X战警 变种末世录",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 阿拉丁.zip",
+      "label": "ACT 阿拉丁",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 邦卡猫大冒险.zip",
+      "label": "ACT 邦卡猫大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 鲍比的世界.zip",
+      "label": "ACT 鲍比的世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 暴力刑警.zip",
+      "label": "ACT 暴力刑警",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 蝙蝠侠重现江湖.zip",
+      "label": "ACT 蝙蝠侠重现江湖",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 蝙蝠侠与罗宾的大冒险.zip",
+      "label": "ACT 蝙蝠侠与罗宾的大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 变相怪杰.zip",
+      "label": "ACT 变相怪杰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 兵蜂.zip",
+      "label": "ACT 兵蜂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 波斯王子.zip",
+      "label": "ACT 波斯王子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 超级大金刚1.zip",
+      "label": "ACT 超级大金刚1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 超级大金刚2.zip",
+      "label": "ACT 超级大金刚2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 超级大金刚3.zip",
+      "label": "ACT 超级大金刚3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 超级恶魔城4.zip",
+      "label": "ACT 超级恶魔城4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 超级马里奥全明星+世界强化.zip",
+      "label": "ACT 超级马里奥全明星+世界强化",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 超级马里奥全明星.zip",
+      "label": "ACT 超级马里奥全明星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 超级马里奥世界强化.zip",
+      "label": "ACT 超级马里奥世界强化",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 超级马里奥世界无敌.zip",
+      "label": "ACT 超级马里奥世界无敌",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 超级冒险岛1.zip",
+      "label": "ACT 超级冒险岛1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 超级冒险岛2.zip",
+      "label": "ACT 超级冒险岛2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 超级梦幻战士4.zip",
+      "label": "ACT 超级梦幻战士4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 超级星球大战帝国反击.zip",
+      "label": "ACT 超级星球大战帝国反击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 超级星球大战绝地归来.zip",
+      "label": "ACT 超级星球大战绝地归来",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 超级原人1.zip",
+      "label": "ACT 超级原人1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 超级原人2.zip",
+      "label": "ACT 超级原人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 超人.zip",
+      "label": "ACT 超人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 传说战士.zip",
+      "label": "ACT 传说战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 大盗伍佑卫门1.zip",
+      "label": "ACT 大盗伍佑卫门1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 大盗伍佑卫门2.zip",
+      "label": "ACT 大盗伍佑卫门2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 大盗伍佑卫门3.zip",
+      "label": "ACT 大盗伍佑卫门3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 大盗伍佑卫门4.zip",
+      "label": "ACT 大盗伍佑卫门4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 大力工头阿源君.zip",
+      "label": "ACT 大力工头阿源君",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 第一武士.zip",
+      "label": "ACT 第一武士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 电精强化版.zip",
+      "label": "ACT 电精强化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 电精.zip",
+      "label": "ACT 电精",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 恶魔城XX.zip",
+      "label": "ACT 恶魔城XX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 恶魔少年1.zip",
+      "label": "ACT 恶魔少年1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 恶魔少年2.zip",
+      "label": "ACT 恶魔少年2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 恶魔少年3.zip",
+      "label": "ACT 恶魔少年3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 飞毛腿.zip",
+      "label": "ACT 飞毛腿",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 飞天蝙蝠2.zip",
+      "label": "ACT 飞天蝙蝠2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 钢铁战士.zip",
+      "label": "ACT 钢铁战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 古城救美.zip",
+      "label": "ACT 古城救美",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 怪兽之王1.zip",
+      "label": "ACT 怪兽之王1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 怪兽之王2.zip",
+      "label": "ACT 怪兽之王2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 怪物三人行.zip",
+      "label": "ACT 怪物三人行",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 鬼神童子烈斗雷传.zip",
+      "label": "ACT 鬼神童子烈斗雷传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 黑水海盗.zip",
+      "label": "ACT 黑水海盗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 火箭骑士.zip",
+      "label": "ACT 火箭骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 机动战士高达V.zip",
+      "label": "ACT 机动战士高达V",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 极恶双雄.zip",
+      "label": "ACT 极恶双雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 机甲警察.zip",
+      "label": "ACT 机甲警察",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 迦楼罗王.zip",
+      "label": "ACT 迦楼罗王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 假面骑士.zip",
+      "label": "ACT 假面骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 金刚狼.zip",
+      "label": "ACT 金刚狼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 绝岭雄风.zip",
+      "label": "ACT 绝岭雄风",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 凯伦的疯狂追逐.zip",
+      "label": "ACT 凯伦的疯狂追逐",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 科学怪人的冒险.zip",
+      "label": "ACT 科学怪人的冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 恐龙王国大冒险.zip",
+      "label": "ACT 恐龙王国大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 恐龙战队电影版.zip",
+      "label": "ACT 恐龙战队电影版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 恐龙战队.zip",
+      "label": "ACT 恐龙战队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 快打刑事1.zip",
+      "label": "ACT 快打刑事1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 快打刑事2 乱.zip",
+      "label": "ACT 快打刑事2 乱",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 快打刑事3 修罗.zip",
+      "label": "ACT 快打刑事3 修罗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 快打旋风1.zip",
+      "label": "ACT 快打旋风1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 快打旋风2.zip",
+      "label": "ACT 快打旋风2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 快打旋风3超级hack1.zip",
+      "label": "ACT 快打旋风3超级hack1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 快打旋风3超级hack2.zip",
+      "label": "ACT 快打旋风3超级hack2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 狂野特攻队.zip",
+      "label": "ACT 狂野特攻队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 雷恩与史地皮1疯狂家庭.zip",
+      "label": "ACT 雷恩与史地皮1疯狂家庭",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 雷恩与史地皮2扭曲时间.zip",
+      "label": "ACT 雷恩与史地皮2扭曲时间",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 雷克斯龙冒险.zip",
+      "label": "ACT 雷克斯龙冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 龙王战士.zip",
+      "label": "ACT 龙王战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 露卡大冒险.zip",
+      "label": "ACT 露卡大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 洛可的摩登生活.zip",
+      "label": "ACT 洛可的摩登生活",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 美丽新世界2.zip",
+      "label": "ACT 美丽新世界2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 美女与野兽.zip",
+      "label": "ACT 美女与野兽",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 美少女战士R.zip",
+      "label": "ACT 美少女战士R",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 美食战队.zip",
+      "label": "ACT 美食战队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 魅影.zip",
+      "label": "ACT 魅影",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 米奇狂热.zip",
+      "label": "ACT 米奇狂热",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 名将.zip",
+      "label": "ACT 名将",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 摩登原始人.zip",
+      "label": "ACT 摩登原始人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 魔法大进击.zip",
+      "label": "ACT 魔法大进击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 魔法剑.zip",
+      "label": "ACT 魔法剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 魔剑道1.zip",
+      "label": "ACT 魔剑道1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 魔力小马.zip",
+      "label": "ACT 魔力小马",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 南国少年.zip",
+      "label": "ACT 南国少年",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 庞克勇士.zip",
+      "label": "ACT 庞克勇士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 皮克急速大冒险.zip",
+      "label": "ACT 皮克急速大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 奇多豹野外大冒险.zip",
+      "label": "ACT 奇多豹野外大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 忍者龙剑传巴.zip",
+      "label": "ACT 忍者龙剑传巴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 忍者神龟4.zip",
+      "label": "ACT 忍者神龟4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 忍者蛙与双截龙.zip",
+      "label": "ACT 忍者蛙与双截龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 忍者战士牙.zip",
+      "label": "ACT 忍者战士牙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 闪灵悍将.zip",
+      "label": "ACT 闪灵悍将",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 少年邦德.zip",
+      "label": "ACT 少年邦德",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 少年忍者佐助.zip",
+      "label": "ACT 少年忍者佐助",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 神探加吉特.zip",
+      "label": "ACT 神探加吉特",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 圣诞老人大进击.zip",
+      "label": "ACT 圣诞老人大进击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 时空特警.zip",
+      "label": "ACT 时空特警",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 史莱姆大冒险.zip",
+      "label": "ACT 史莱姆大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 狮子王.zip",
+      "label": "ACT 狮子王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 双截龙归来(超级双截龙).zip",
+      "label": "ACT 双截龙归来(超级双截龙)",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 松鼠大战.zip",
+      "label": "ACT 松鼠大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 唐老鸭魔法之法螺.zip",
+      "label": "ACT 唐老鸭魔法之法螺",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 踢克超人.zip",
+      "label": "ACT 踢克超人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 天龙斩.zip",
+      "label": "ACT 天龙斩",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 铁臂阿童木.zip",
+      "label": "ACT 铁臂阿童木",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 铁钩船长.zip",
+      "label": "ACT 铁钩船长",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 兔宝宝大冒险.zip",
+      "label": "ACT 兔宝宝大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 玩具总动员.zip",
+      "label": "ACT 玩具总动员",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 无敌铁金刚Z.zip",
+      "label": "ACT 无敌铁金刚Z",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 无路可退.zip",
+      "label": "ACT 无路可退",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 辛普森霸子的幻想.zip",
+      "label": "ACT 辛普森霸子的幻想",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 新热血硬派国夫的挽歌.zip",
+      "label": "ACT 新热血硬派国夫的挽歌",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 修罗战士钢.zip",
+      "label": "ACT 修罗战士钢",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 岩球先生.zip",
+      "label": "ACT 岩球先生",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 异次元来访者.zip",
+      "label": "ACT 异次元来访者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 异神战士.zip",
+      "label": "ACT 异神战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 音速超人1.zip",
+      "label": "ACT 音速超人1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 音速超人2.zip",
+      "label": "ACT 音速超人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 永远的蝙蝠侠.zip",
+      "label": "ACT 永远的蝙蝠侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 幽浮假面战士.zip",
+      "label": "ACT 幽浮假面战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 原始人大进击.zip",
+      "label": "ACT 原始人大进击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 圆桌骑士.zip",
+      "label": "ACT 圆桌骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 战斗原始人1.zip",
+      "label": "ACT 战斗原始人1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 战斗原始人2.zip",
+      "label": "ACT 战斗原始人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 战斗原始人3.zip",
+      "label": "ACT 战斗原始人3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 战国传承.zip",
+      "label": "ACT 战国传承",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 蜘蛛侠与X战警.zip",
+      "label": "ACT 蜘蛛侠与X战警",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 蜘蛛侠与毒液.zip",
+      "label": "ACT 蜘蛛侠与毒液",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 蜘蛛侠.zip",
+      "label": "ACT 蜘蛛侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 猪小弟的万圣节冒险.zip",
+      "label": "ACT 猪小弟的万圣节冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/ACT 足球小子.zip",
+      "label": "ACT 足球小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/AVG 美少女梦工场.zip",
+      "label": "AVG 美少女梦工场",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/AVG 赛马大亨2.zip",
+      "label": "AVG 赛马大亨2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/AVG 赛马英雄.zip",
+      "label": "AVG 赛马英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/AVG 无人岛物语.zip",
+      "label": "AVG 无人岛物语",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/AVG 育马物语2.zip",
+      "label": "AVG 育马物语2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/AVG 真一获千金.zip",
+      "label": "AVG 真一获千金",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY SD高达2.zip",
+      "label": "FLY SD高达2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 超级地球防卫军.zip",
+      "label": "FLY 超级地球防卫军",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 超级异形战机.zip",
+      "label": "FLY 超级异形战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 超级战鹰.zip",
+      "label": "FLY 超级战鹰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 超时空要塞.zip",
+      "label": "FLY 超时空要塞",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 垂直作战.zip",
+      "label": "FLY 垂直作战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 大流士战机.zip",
+      "label": "FLY 大流士战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 飞行英雄.zip",
+      "label": "FLY 飞行英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 风云战机.zip",
+      "label": "FLY 风云战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 极上沙罗曼蛇.zip",
+      "label": "FLY 极上沙罗曼蛇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 究极合体战机.zip",
+      "label": "FLY 究极合体战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 雷电传说.zip",
+      "label": "FLY 雷电传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 雷霆机器人.zip",
+      "label": "FLY 雷霆机器人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 棉花小魔女.zip",
+      "label": "FLY 棉花小魔女",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 沙漠风暴.zip",
+      "label": "FLY 沙漠风暴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 闪电出击.zip",
+      "label": "FLY 闪电出击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 生化金属战机.zip",
+      "label": "FLY 生化金属战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 四国战机.zip",
+      "label": "FLY 四国战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 太空争霸 美版.zip",
+      "label": "FLY 太空争霸 美版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 太空争霸 日版.zip",
+      "label": "FLY 太空争霸 日版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 外星大眼小蜜蜂强化.zip",
+      "label": "FLY 外星大眼小蜜蜂强化",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 外星大眼小蜜蜂.zip",
+      "label": "FLY 外星大眼小蜜蜂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 异形战机3.zip",
+      "label": "FLY 异形战机3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 银河风暴.zip",
+      "label": "FLY 银河风暴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 宇宙骑士.zip",
+      "label": "FLY 宇宙骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 宇宙巡航机3.zip",
+      "label": "FLY 宇宙巡航机3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 战区88.zip",
+      "label": "FLY 战区88",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FLY 重装战机.zip",
+      "label": "FLY 重装战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 超级街头霸王2.zip",
+      "label": "FTG 超级街头霸王2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 超级重拳.zip",
+      "label": "FTG 超级重拳",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 超兄贵 爆裂乱斗篇.zip",
+      "label": "FTG 超兄贵 爆裂乱斗篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 大力水手.zip",
+      "label": "FTG 大力水手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 斗姬传.zip",
+      "label": "FTG 斗姬传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 对决!!黄金决战.zip",
+      "label": "FTG 对决!!黄金决战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 饿狼传说特别版.zip",
+      "label": "FTG 饿狼传说特别版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 格斗大亨.zip",
+      "label": "FTG 格斗大亨",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 豪血寺一族.zip",
+      "label": "FTG 豪血寺一族",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 花之庆次 云之彼方.zip",
+      "label": "FTG 花之庆次 云之彼方",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 街头霸王2加速版.zip",
+      "label": "FTG 街头霸王2加速版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 街头霸王2.zip",
+      "label": "FTG 街头霸王2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 街头霸王5.zip",
+      "label": "FTG 街头霸王5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 究极战士简化.zip",
+      "label": "FTG 究极战士简化",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 究极战士.zip",
+      "label": "FTG 究极战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 空手女神龙.zip",
+      "label": "FTG 空手女神龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 龙珠Z超武斗传1.zip",
+      "label": "FTG 龙珠Z超武斗传1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 龙珠Z超武斗传3.zip",
+      "label": "FTG 龙珠Z超武斗传3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 乱马 超技乱舞篇.zip",
+      "label": "FTG 乱马 超技乱舞篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 乱马 町内激斗篇.zip",
+      "label": "FTG 乱马 町内激斗篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 魔剑道2简化.zip",
+      "label": "FTG 魔剑道2简化",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 魔剑道2.zip",
+      "label": "FTG 魔剑道2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 双截龙格斗.zip",
+      "label": "FTG 双截龙格斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 松村邦洋传.zip",
+      "label": "FTG 松村邦洋传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 新机动战记高达W.zip",
+      "label": "FTG 新机动战记高达W",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 秀逗泰山.zip",
+      "label": "FTG 秀逗泰山",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 押忍空手部简化.zip",
+      "label": "FTG 押忍空手部简化",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 押忍空手部.zip",
+      "label": "FTG 押忍空手部",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 幽游白书2.zip",
+      "label": "FTG 幽游白书2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 幽游白书终篇简化.zip",
+      "label": "FTG 幽游白书终篇简化",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 幽游白书终篇.zip",
+      "label": "FTG 幽游白书终篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 正义联盟特遣部队.zip",
+      "label": "FTG 正义联盟特遣部队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/FTG 制服传说.zip",
+      "label": "FTG 制服传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/PUZ 360度滚球.zip",
+      "label": "PUZ 360度滚球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/PUZ SD弹珠台.zip",
+      "label": "PUZ SD弹珠台",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/PUZ 超级PANG.zip",
+      "label": "PUZ 超级PANG",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/PUZ 超级豆豆君.zip",
+      "label": "PUZ 超级豆豆君",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/PUZ 超级麻将大会.zip",
+      "label": "PUZ 超级麻将大会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/PUZ 超级铁球大战.zip",
+      "label": "PUZ 超级铁球大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/PUZ 超级炸弹人2.zip",
+      "label": "PUZ 超级炸弹人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/PUZ 超级炸弹人3.zip",
+      "label": "PUZ 超级炸弹人3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/PUZ 超写实麻雀.zip",
+      "label": "PUZ 超写实麻雀",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/PUZ 达摩道场.zip",
+      "label": "PUZ 达摩道场",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/PUZ 赌城大攻略.zip",
+      "label": "PUZ 赌城大攻略",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/PUZ 海腹川背.zip",
+      "label": "PUZ 海腹川背",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/PUZ 轰炸汽车.zip",
+      "label": "PUZ 轰炸汽车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/PUZ 轰炸忍者超人.zip",
+      "label": "PUZ 轰炸忍者超人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/PUZ 卡通天蚕变.zip",
+      "label": "PUZ 卡通天蚕变",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/PUZ 立体跳方块3.zip",
+      "label": "PUZ 立体跳方块3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/PUZ 旅鼠总动员2.zip",
+      "label": "PUZ 旅鼠总动员2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/PUZ 泡泡龙.zip",
+      "label": "PUZ 泡泡龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/PUZ 上海3.zip",
+      "label": "PUZ 上海3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/PUZ 邪鬼破坏弹珠台.zip",
+      "label": "PUZ 邪鬼破坏弹珠台",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/PUZ 炸弹动物大会.zip",
+      "label": "PUZ 炸弹动物大会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RAC 94中岛悟赛车.zip",
+      "label": "RAC 94中岛悟赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RAC 超次元地带.zip",
+      "label": "RAC 超次元地带",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RAC 超级疯狂机车赛.zip",
+      "label": "RAC 超级疯狂机车赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RAC 超级追踪HQ.zip",
+      "label": "RAC 超级追踪HQ",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RAC 超越巅峰1.zip",
+      "label": "RAC 超越巅峰1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RAC 超越巅峰2.zip",
+      "label": "RAC 超越巅峰2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RAC 车神大赛.zip",
+      "label": "RAC 车神大赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RAC 高智能方程式.zip",
+      "label": "RAC 高智能方程式",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RAC 竞速天龙.zip",
+      "label": "RAC 竞速天龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RAC 零式赛车.zip",
+      "label": "RAC 零式赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RAC 全日本GT赛车.zip",
+      "label": "RAC 全日本GT赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RAC 摇滚赛车.zip",
+      "label": "RAC 摇滚赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RAC 野外大赛车.zip",
+      "label": "RAC 野外大赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 46亿年物语.zip",
+      "label": "RPG 46亿年物语",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 阿蕾莎1.zip",
+      "label": "RPG 阿蕾莎1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 阿蕾莎2.zip",
+      "label": "RPG 阿蕾莎2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 阿蕾莎外传.zip",
+      "label": "RPG 阿蕾莎外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 白痴殿下总动员.zip",
+      "label": "RPG 白痴殿下总动员",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 弁庆外传 沙之章.zip",
+      "label": "RPG 弁庆外传 沙之章",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 超级伊忍道.zip",
+      "label": "RPG 超级伊忍道",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 超级中国人世界1.zip",
+      "label": "RPG 超级中国人世界1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 超级中国人世界2.zip",
+      "label": "RPG 超级中国人世界2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 超级中国人世界3.zip",
+      "label": "RPG 超级中国人世界3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 超魔法大陆.zip",
+      "label": "RPG 超魔法大陆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 超魔界大战.zip",
+      "label": "RPG 超魔界大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 创世封魔录.zip",
+      "label": "RPG 创世封魔录",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 创世纪恐龙帝国.zip",
+      "label": "RPG 创世纪恐龙帝国",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 创世纪神秘的美德.zip",
+      "label": "RPG 创世纪神秘的美德",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 大贝兽物语.zip",
+      "label": "RPG 大贝兽物语",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 大航海时代2.zip",
+      "label": "RPG 大航海时代2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 大和战神火皇子.zip",
+      "label": "RPG 大和战神火皇子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 地底魔神.zip",
+      "label": "RPG 地底魔神",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 钓鱼太郎1.zip",
+      "label": "RPG 钓鱼太郎1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 钓鱼太郎2.zip",
+      "label": "RPG 钓鱼太郎2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 斗人魔境4.zip",
+      "label": "RPG 斗人魔境4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 翡翠龙.zip",
+      "label": "RPG 翡翠龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 盖亚幻想纪.zip",
+      "label": "RPG 盖亚幻想纪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 歌舞伎洛克斯.zip",
+      "label": "RPG 歌舞伎洛克斯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 怪兽制造厂3.zip",
+      "label": "RPG 怪兽制造厂3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 鬼神降临传.zip",
+      "label": "RPG 鬼神降临传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 黑暗领域.zip",
+      "label": "RPG 黑暗领域",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 幻史世界记.zip",
+      "label": "RPG 幻史世界记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 幻想传说.zip",
+      "label": "RPG 幻想传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 毁灭武器.zip",
+      "label": "RPG 毁灭武器",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 甲龙传说.zip",
+      "label": "RPG 甲龙传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 剑王之王2.zip",
+      "label": "RPG 剑王之王2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 剑勇传说.zip",
+      "label": "RPG 剑勇传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 晶沙之城堡探险.zip",
+      "label": "RPG 晶沙之城堡探险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 旧约女神转生速升.zip",
+      "label": "RPG 旧约女神转生速升",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 旧约女神转生.zip",
+      "label": "RPG 旧约女神转生",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 科学冒险岛.zip",
+      "label": "RPG 科学冒险岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 浪漫沙加1.zip",
+      "label": "RPG 浪漫沙加1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 浪漫沙加2能力.zip",
+      "label": "RPG 浪漫沙加2能力",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 浪漫沙加2武器.zip",
+      "label": "RPG 浪漫沙加2武器",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 浪漫沙加3强化.zip",
+      "label": "RPG 浪漫沙加3强化",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 浪漫沙加3.zip",
+      "label": "RPG 浪漫沙加3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 雷莎出击1.zip",
+      "label": "RPG 雷莎出击1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 雷莎出击2.zip",
+      "label": "RPG 雷莎出击2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 炼金术士.zip",
+      "label": "RPG 炼金术士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 灵魂与剑.zip",
+      "label": "RPG 灵魂与剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 龙战士1.zip",
+      "label": "RPG 龙战士1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 龙战士2.zip",
+      "label": "RPG 龙战士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 龙珠Z超悟空传觉醒篇.zip",
+      "label": "RPG 龙珠Z超悟空传觉醒篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 龙珠Z超悟空传突激篇.zip",
+      "label": "RPG 龙珠Z超悟空传突激篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 鲁多拉秘宝.zip",
+      "label": "RPG 鲁多拉秘宝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 乱马 朱猫团的财宝.zip",
+      "label": "RPG 乱马 朱猫团的财宝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 美少女剑士梅尔.zip",
+      "label": "RPG 美少女剑士梅尔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 美少女亲卫队.zip",
+      "label": "RPG 美少女亲卫队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 美少女战士外传.zip",
+      "label": "RPG 美少女战士外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 魔法骑士雷阿斯.zip",
+      "label": "RPG 魔法骑士雷阿斯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 魔法与剑.zip",
+      "label": "RPG 魔法与剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 魔界佣兵2.zip",
+      "label": "RPG 魔界佣兵2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 魔天传说.zip",
+      "label": "RPG 魔天传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 热血大陆.zip",
+      "label": "RPG 热血大陆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 如梦似幻.zip",
+      "label": "RPG 如梦似幻",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 三星幻界.zip",
+      "label": "RPG 三星幻界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 沙克传说.zip",
+      "label": "RPG 沙克传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 神秘的约柜.zip",
+      "label": "RPG 神秘的约柜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 神圣纪2.zip",
+      "label": "RPG 神圣纪2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 圣剑传说2.zip",
+      "label": "RPG 圣剑传说2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 圣灵珠传说2.zip",
+      "label": "RPG 圣灵珠传说2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 史记英雄传.zip",
+      "label": "RPG 史记英雄传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 四狂神传说1.zip",
+      "label": "RPG 四狂神传说1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 四狂神传说2.zip",
+      "label": "RPG 四狂神传说2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 特鲁尼克大冒险.zip",
+      "label": "RPG 特鲁尼克大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 天使之诗.zip",
+      "label": "RPG 天使之诗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 魍魉战记2.zip",
+      "label": "RPG 魍魉战记2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 亚克斯传说.zip",
+      "label": "RPG 亚克斯传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 亚瑟王 骑士传说.zip",
+      "label": "RPG 亚瑟王 骑士传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 伊苏3.zip",
+      "label": "RPG 伊苏3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 伊苏4.zip",
+      "label": "RPG 伊苏4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 伊苏5.zip",
+      "label": "RPG 伊苏5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 英雄传说2.zip",
+      "label": "RPG 英雄传说2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 永恒的秘密.zip",
+      "label": "RPG 永恒的秘密",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 永远的法莲娜.zip",
+      "label": "RPG 永远的法莲娜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 勇者斗恶龙5.zip",
+      "label": "RPG 勇者斗恶龙5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 勇者斗恶龙6.zip",
+      "label": "RPG 勇者斗恶龙6",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 勇者机器人.zip",
+      "label": "RPG 勇者机器人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 育龙战记2.zip",
+      "label": "RPG 育龙战记2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 真女神转生2.zip",
+      "label": "RPG 真女神转生2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 真女神转生IF.zip",
+      "label": "RPG 真女神转生IF",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 直到世界末日.zip",
+      "label": "RPG 直到世界末日",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG中文 超时空之轮.zip",
+      "label": "RPG中文 超时空之轮",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG中文 风来之西林 不可思议的迷宫2.zip",
+      "label": "RPG中文 风来之西林 不可思议的迷宫2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG中文 牧场物语.zip",
+      "label": "RPG中文 牧场物语",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG中文 塞尔达传说.zip",
+      "label": "RPG中文 塞尔达传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG中文 圣剑传说3.zip",
+      "label": "RPG中文 圣剑传说3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG中文 时空勇士.zip",
+      "label": "RPG中文 时空勇士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG中文 天地创造.zip",
+      "label": "RPG中文 天地创造",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG中文 勇者斗恶龙1+2.zip",
+      "label": "RPG中文 勇者斗恶龙1+2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG中文 重装机兵2.zip",
+      "label": "RPG中文 重装机兵2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG中文 重装机兵R商店修改.zip",
+      "label": "RPG中文 重装机兵R商店修改",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG中文 重装机兵R最强之魂.zip",
+      "label": "RPG中文 重装机兵R最强之魂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG中文 重装机兵R.zip",
+      "label": "RPG中文 重装机兵R",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG中文 重装机兵R0.96红狼纪念版.zip",
+      "label": "RPG中文 重装机兵R0.96红狼纪念版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG中文 最终幻想6.zip",
+      "label": "RPG中文 最终幻想6",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 资讯骑士2.zip",
+      "label": "RPG 资讯骑士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 最后的圣经3.zip",
+      "label": "RPG 最后的圣经3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 最后决战.zip",
+      "label": "RPG 最后决战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 最终幻想4.zip",
+      "label": "RPG 最终幻想4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/RPG 最终幻想5.zip",
+      "label": "RPG 最终幻想5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 苍狼与白鹿 元朝秘史.zip",
+      "label": "SLG 苍狼与白鹿 元朝秘史",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 超级机器人大战EX.zip",
+      "label": "SLG 超级机器人大战EX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 超魔兽大战.zip",
+      "label": "SLG 超魔兽大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 绀碧之舰队.zip",
+      "label": "SLG 绀碧之舰队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 钢铁骑士1.zip",
+      "label": "SLG 钢铁骑士1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 钢铁骑士2.zip",
+      "label": "SLG 钢铁骑士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 航海世界.zip",
+      "label": "SLG 航海世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 横山光辉三国志.zip",
+      "label": "SLG 横山光辉三国志",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 皇家骑士团1.zip",
+      "label": "SLG 皇家骑士团1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 皇家骑士团2.zip",
+      "label": "SLG 皇家骑士团2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 火线冲突.zip",
+      "label": "SLG 火线冲突",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 火焰之纹章4 完美成长全特技.zip",
+      "label": "SLG 火焰之纹章4 完美成长全特技",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 机动战士高达0079.zip",
+      "label": "SLG 机动战士高达0079",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 机动战士高达F91.zip",
+      "label": "SLG 机动战士高达F91",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 剑士法兰多2.zip",
+      "label": "SLG 剑士法兰多2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 金属战队.zip",
+      "label": "SLG 金属战队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 梦幻模拟战Der.zip",
+      "label": "SLG 梦幻模拟战Der",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 秘密行动.zip",
+      "label": "SLG 秘密行动",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 魔神转生1.zip",
+      "label": "SLG 魔神转生1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 魔神转生2.zip",
+      "label": "SLG 魔神转生2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 魔兽大战.zip",
+      "label": "SLG 魔兽大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 魔装机神.zip",
+      "label": "SLG 魔装机神",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 女子学园社团战记.zip",
+      "label": "SLG 女子学园社团战记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 前线任务.zip",
+      "label": "SLG 前线任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 三国志4.zip",
+      "label": "SLG 三国志4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 三国志英杰传.zip",
+      "label": "SLG 三国志英杰传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 赏金剑客.zip",
+      "label": "SLG 赏金剑客",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 树帝战记.zip",
+      "label": "SLG 树帝战记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 太阁立志传.zip",
+      "label": "SLG 太阁立志传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 提督的决断2.zip",
+      "label": "SLG 提督的决断2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 天地无用.zip",
+      "label": "SLG 天地无用",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 天使之翼3.zip",
+      "label": "SLG 天使之翼3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 天使之翼4.zip",
+      "label": "SLG 天使之翼4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 天使之翼5.zip",
+      "label": "SLG 天使之翼5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 条码战记战士出击.zip",
+      "label": "SLG 条码战记战士出击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 新SD战国传大将军列传.zip",
+      "label": "SLG 新SD战国传大将军列传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 银河骑兵机器人.zip",
+      "label": "SLG 银河骑兵机器人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 英雄圣战1.zip",
+      "label": "SLG 英雄圣战1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 英雄圣战2.zip",
+      "label": "SLG 英雄圣战2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 战斗机器人烈传.zip",
+      "label": "SLG 战斗机器人烈传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 正义的纹章.zip",
+      "label": "SLG 正义的纹章",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG 织田信长.zip",
+      "label": "SLG 织田信长",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG中文 第3次超级机器人大战.zip",
+      "label": "SLG中文 第3次超级机器人大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG中文 第4次超级机器人大战.zip",
+      "label": "SLG中文 第4次超级机器人大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG中文 火焰之纹章3 纹章之谜.zip",
+      "label": "SLG中文 火焰之纹章3 纹章之谜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG中文 火焰之纹章4 圣战之系谱.zip",
+      "label": "SLG中文 火焰之纹章4 圣战之系谱",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG中文 火焰之纹章5 多拉基亚776.zip",
+      "label": "SLG中文 火焰之纹章5 多拉基亚776",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG中文 火焰之纹章5 强化.zip",
+      "label": "SLG中文 火焰之纹章5 强化",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG中文 剑士法兰多1.zip",
+      "label": "SLG中文 剑士法兰多1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SLG中文 三国志3.zip",
+      "label": "SLG中文 三国志3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SPG 超级职业棒球2.zip",
+      "label": "SPG 超级职业棒球2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SPG 灌篮高手2.zip",
+      "label": "SPG 灌篮高手2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SPG 劲爆NBA篮球.zip",
+      "label": "SPG 劲爆NBA篮球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SPG 实况足球2.zip",
+      "label": "SPG 实况足球2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/SPG 兔八哥篮球.zip",
+      "label": "SPG 兔八哥篮球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG SD高达1.zip",
+      "label": "STG SD高达1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG SD英雄大战1.zip",
+      "label": "STG SD英雄大战1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG SD英雄大战4.zip",
+      "label": "STG SD英雄大战4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG SD英雄大战5.zip",
+      "label": "STG SD英雄大战5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG X革命.zip",
+      "label": "STG X革命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 超级联合部队.zip",
+      "label": "STG 超级联合部队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 超级忍者君.zip",
+      "label": "STG 超级忍者君",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 超级瓦强大冒险.zip",
+      "label": "STG 超级瓦强大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 超级银河战士.zip",
+      "label": "STG 超级银河战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 超级战士1.zip",
+      "label": "STG 超级战士1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 超级战士2.zip",
+      "label": "STG 超级战士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 超魔界村女版.zip",
+      "label": "STG 超魔界村女版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 超魔界村.zip",
+      "label": "STG 超魔界村",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 达菲鸭火星任务.zip",
+      "label": "STG 达菲鸭火星任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 哆啦A梦3.zip",
+      "label": "STG 哆啦A梦3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 钢炮部队.zip",
+      "label": "STG 钢炮部队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 鬼太郎 复活!天魔大王.zip",
+      "label": "STG 鬼太郎 复活!天魔大王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 鬼屋历险.zip",
+      "label": "STG 鬼屋历险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 黄金龙战记.zip",
+      "label": "STG 黄金龙战记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 荒野双枪.zip",
+      "label": "STG 荒野双枪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 魂斗罗3欧版.zip",
+      "label": "STG 魂斗罗3欧版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 魂斗罗3日版.zip",
+      "label": "STG 魂斗罗3日版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 吉姆大展神威.zip",
+      "label": "STG 吉姆大展神威",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 机械战警3.zip",
+      "label": "STG 机械战警3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 机械战警对终结者.zip",
+      "label": "STG 机械战警对终结者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 精英军团.zip",
+      "label": "STG 精英军团",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 绝地大屠杀2.zip",
+      "label": "STG 绝地大屠杀2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 猎杀红色十月号.zip",
+      "label": "STG 猎杀红色十月号",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 零式特攻队.zip",
+      "label": "STG 零式特攻队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 领域.zip",
+      "label": "STG 领域",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 洛克人7.zip",
+      "label": "STG 洛克人7",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 洛克人X1疯狂版.zip",
+      "label": "STG 洛克人X1疯狂版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 洛克人X2疯狂版.zip",
+      "label": "STG 洛克人X2疯狂版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 洛克人X3疯狂版.zip",
+      "label": "STG 洛克人X3疯狂版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 洛克人与福尔特疯狂版.zip",
+      "label": "STG 洛克人与福尔特疯狂版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 落日骑士.zip",
+      "label": "STG 落日骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 绿野仙踪.zip",
+      "label": "STG 绿野仙踪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 灭火英雄.zip",
+      "label": "STG 灭火英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 魔法师.zip",
+      "label": "STG 魔法师",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 魔法提琴手.zip",
+      "label": "STG 魔法提琴手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 魔界村外传 纹章篇.zip",
+      "label": "STG 魔界村外传 纹章篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 魔兽王.zip",
+      "label": "STG 魔兽王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 奇奇怪界1.zip",
+      "label": "STG 奇奇怪界1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 奇奇怪界2.zip",
+      "label": "STG 奇奇怪界2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 神奇女孩.zip",
+      "label": "STG 神奇女孩",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 死亡游戏之电视斗士.zip",
+      "label": "STG 死亡游戏之电视斗士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 万能麦斯.zip",
+      "label": "STG 万能麦斯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 未来骑警R2.zip",
+      "label": "STG 未来骑警R2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 未来水世界.zip",
+      "label": "STG 未来水世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 星际之门.zip",
+      "label": "STG 星际之门",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 亚蒙世界.zip",
+      "label": "STG 亚蒙世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 伊莉雅.zip",
+      "label": "STG 伊莉雅",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 异形3.zip",
+      "label": "STG 异形3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 真实的谎言.zip",
+      "label": "STG 真实的谎言",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 致命武器.zip",
+      "label": "STG 致命武器",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 终结者2.zip",
+      "label": "STG 终结者2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 重装机兵瓦尔肯.zip",
+      "label": "STG 重装机兵瓦尔肯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    },
+    {
+      "path": "@ROM/SFC hack/STG 紫炎.zip",
+      "label": "STG 紫炎",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SFC hack.lpl"
+    }
+  ]
+}

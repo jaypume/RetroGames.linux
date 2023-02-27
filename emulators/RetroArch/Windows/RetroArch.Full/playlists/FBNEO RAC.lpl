@@ -1,0 +1,499 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/FBNEO RAC/1000英里大师赛车2.zip",
+      "label": "1000英里大师赛车2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/1000 英里大师赛车.zip",
+      "label": "1000 英里大师赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/F-1大奖赛之星2.zip",
+      "label": "F-1大奖赛之星2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/F-1大奖赛之星.zip",
+      "label": "F-1大奖赛之星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/F1 巡回赛.zip",
+      "label": "F1 巡回赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/Neo拉力赛车.zip",
+      "label": "Neo拉力赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/飙风拉力.zip",
+      "label": "飙风拉力",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/飙风追逐.zip",
+      "label": "飙风追逐",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/布鲁比拉力赛车.zip",
+      "label": "布鲁比拉力赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/超级摩托车大赛.zip",
+      "label": "超级摩托车大赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/冲刺野郎.zip",
+      "label": "冲刺野郎",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/冲撞赛车.zip",
+      "label": "冲撞赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/大追捕 - 罪恶终结者.zip",
+      "label": "大追捕 - 罪恶终结者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/道路风暴2011.zip",
+      "label": "道路风暴2011",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/道路风暴.zip",
+      "label": "道路风暴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/地面效应.zip",
+      "label": "地面效应",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/动力甩尾.zip",
+      "label": "动力甩尾",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/恶土.zip",
+      "label": "恶土",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/飞空骑警.zip",
+      "label": "飞空骑警",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/飞越巅峰.zip",
+      "label": "飞越巅峰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/风速英雄.zip",
+      "label": "风速英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/公路热击.zip",
+      "label": "公路热击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/环球世界.zip",
+      "label": "环球世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/环游世界大赛车.zip",
+      "label": "环游世界大赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/环游世界极速版.zip",
+      "label": "环游世界极速版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/极速狂飙.zip",
+      "label": "极速狂飙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/极速马力.zip",
+      "label": "极速马力",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/极速英豪.zip",
+      "label": "极速英豪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/假面骑士俱乐部.zip",
+      "label": "假面骑士俱乐部",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/警车热击.zip",
+      "label": "警车热击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/竞速英雄.zip",
+      "label": "竞速英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/快车道.zip",
+      "label": "快车道",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/狂野环绕赛车.zip",
+      "label": "狂野环绕赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/勒芒24小时.zip",
+      "label": "勒芒24小时",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/铃鹿8小时 2.zip",
+      "label": "铃鹿8小时 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/铃鹿8小时.zip",
+      "label": "铃鹿8小时",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/摩托车大赛精简版.zip",
+      "label": "摩托车大赛精简版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/气流.zip",
+      "label": "气流",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/赛车迷宫.zip",
+      "label": "赛车迷宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/世嘉摩托车大赛.zip",
+      "label": "世嘉摩托车大赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/世嘉越野机车赛.zip",
+      "label": "世嘉越野机车赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/世界拉力赛 2-双倍马力.zip",
+      "label": "世界拉力赛 2-双倍马力",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/世界拉力赛.zip",
+      "label": "世界拉力赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/抬头向前衝.zip",
+      "label": "抬头向前衝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/投弹手的进击.zip",
+      "label": "投弹手的进击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/午夜道路赛车2.zip",
+      "label": "午夜道路赛车2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/野外大赛车.zip",
+      "label": "野外大赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/一级方程式 GP 大赛 2.zip",
+      "label": "一级方程式 GP 大赛 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/一级方程式 GP 大赛.zip",
+      "label": "一级方程式 GP 大赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/一级方程式超级争霸战.zip",
+      "label": "一级方程式超级争霸战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/一级方程式赛车.zip",
+      "label": "一级方程式赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/银狐 - 方程式赛车.zip",
+      "label": "银狐 - 方程式赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/音速小子欢乐警车.zip",
+      "label": "音速小子欢乐警车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/越野房车大赛.zip",
+      "label": "越野房车大赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/越野机车.zip",
+      "label": "越野机车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/越野赛车94.zip",
+      "label": "越野赛车94",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/越野赛车.zip",
+      "label": "越野赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/越野沙滩车.zip",
+      "label": "越野沙滩车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/追踪HQ.zip",
+      "label": "追踪HQ",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/最高时速.zip",
+      "label": "最高时速",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO RAC/最后一公里.zip",
+      "label": "最后一公里",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO RAC.lpl"
+    }
+  ]
+}

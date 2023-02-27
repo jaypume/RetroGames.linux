@@ -1,0 +1,843 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/DC/Capcom格斗合集.chd",
+      "label": "Capcom格斗合集",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/Capcom vs SNK 2 街霸对拳皇2.chd",
+      "label": "Capcom vs SNK 2 街霸对拳皇2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/Capcom vs SNK 千禧合集.chd",
+      "label": "Capcom vs SNK 千禧合集",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/D之食卓2 英文版/menu.m3u",
+      "label": "D之食卓2 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/NBA 2k2.chd",
+      "label": "NBA 2k2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/NEO XYX.cdi",
+      "label": "NEO XYX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/NEO格斗竞技场.chd",
+      "label": "NEO格斗竞技场",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/VR网球2.chd",
+      "label": "VR网球2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/VR战警2.chd",
+      "label": "VR战警2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/VR战士3.chd",
+      "label": "VR战士3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/扳机之心 艾塞莉卡.chd",
+      "label": "扳机之心 艾塞莉卡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/班凯奥 Bangai-O.chd",
+      "label": "班凯奥 Bangai-O",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/爆裂无敌.chd",
+      "label": "爆裂无敌",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/病血 汉化版.cdi",
+      "label": "病血 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/彩虹小魔女 英文版.chd",
+      "label": "彩虹小魔女 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/超级街头霸王2X.chd",
+      "label": "超级街头霸王2X",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/超级漫画英雄VS卡普空2.chd",
+      "label": "超级漫画英雄VS卡普空2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/超能力格斗2012.chd",
+      "label": "超能力格斗2012",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/城堡幻想曲 圣魔大战 汉化版.cdi",
+      "label": "城堡幻想曲 圣魔大战 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/大都会街道赛.chd",
+      "label": "大都会街道赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/弹幕装甲2 虚构之未来.chd",
+      "label": "弹幕装甲2 虚构之未来",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/电脑战机.chd",
+      "label": "电脑战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/东京巴士指南 汉化版.cdi",
+      "label": "东京巴士指南 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/哆啦A梦 汉化版.cdi",
+      "label": "哆啦A梦 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/饿狼传说 狼之印记.chd",
+      "label": "饿狼传说 狼之印记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/俄罗斯方块4D 汉化版.cdi",
+      "label": "俄罗斯方块4D 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/飞空之舞.chd",
+      "label": "飞空之舞",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/风暴 Sturmwind.chd",
+      "label": "风暴 Sturmwind",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/疯狂出租车1.chd",
+      "label": "疯狂出租车1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/疯狂出租车2.chd",
+      "label": "疯狂出租车2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/伏尔加维京.cdi",
+      "label": "伏尔加维京",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/格斗力量2.chd",
+      "label": "格斗力量2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/格斗之蛇2.chd",
+      "label": "格斗之蛇2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/格兰蒂亚2 汉化版.cdi",
+      "label": "格兰蒂亚2 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/哥斯拉新世代.chd",
+      "label": "哥斯拉新世代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/鬼屋魔影 新的梦魇 英文版.chd",
+      "label": "鬼屋魔影 新的梦魇 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/海豚大冒险 未来守护者.chd",
+      "label": "海豚大冒险 未来守护者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/黑色矩阵 日文版/menu.m3u",
+      "label": "黑色矩阵 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/魂之战士.chd",
+      "label": "魂之战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/机动战士高达0079外传.chd",
+      "label": "机动战士高达0079外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/机动战士高达 联邦VS吉翁/menu.m3u",
+      "label": "机动战士高达 联邦VS吉翁",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/剑风传奇 汉化版.cdi",
+      "label": "剑风传奇 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/街头涂鸦.chd",
+      "label": "街头涂鸦",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/精英中队 Fast Striker.cdi",
+      "label": "精英中队 Fast Striker",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/啾啾火箭队 汉化版.cdi",
+      "label": "啾啾火箭队 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/凯恩的遗产 噬魂者.chd",
+      "label": "凯恩的遗产 噬魂者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/恐龙危机 汉化版.cdi",
+      "label": "恐龙危机 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/蓝刺 汉化版.chd",
+      "label": "蓝刺 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/蓝海豚.cdi",
+      "label": "蓝海豚",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/乐芒赛车.chd",
+      "label": "乐芒赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/雷曼2 胜利大逃亡.chd",
+      "label": "雷曼2 胜利大逃亡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/雷神之锤3.chd",
+      "label": "雷神之锤3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/雷兹 Rez.chd",
+      "label": "雷兹 Rez",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/力量5.chd",
+      "label": "力量5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/猎头者/menu.m3u",
+      "label": "猎头者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/灵魂能力.chd",
+      "label": "灵魂能力",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/铃木机车赛.chd",
+      "label": "铃木机车赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/罗德岛战记 汉化版.cdi",
+      "label": "罗德岛战记 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/毛皮斗士.chd",
+      "label": "毛皮斗士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/梦幻之星online ver.1.chd",
+      "label": "梦幻之星online ver.1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/梦幻之星online ver.2.chd",
+      "label": "梦幻之星online ver.2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/梦游美国.chd",
+      "label": "梦游美国",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/魔剑X 英文版.chd",
+      "label": "魔剑X 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/姆沙皮的巧克力记录 汉化版.cdi",
+      "label": "姆沙皮的巧克力记录 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/能量宝石1.chd",
+      "label": "能量宝石1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/能量宝石2.chd",
+      "label": "能量宝石2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/枪王 GunLord.cdi",
+      "label": "枪王 GunLord",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/青之六号 英文版.chd",
+      "label": "青之六号 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/拳皇2000.chd",
+      "label": "拳皇2000",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/拳皇2001.chd",
+      "label": "拳皇2001",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/拳皇2002.chd",
+      "label": "拳皇2002",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/拳皇98.chd",
+      "label": "拳皇98",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/拳皇99.chd",
+      "label": "拳皇99",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/拳皇新浪潮.chd",
+      "label": "拳皇新浪潮",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/拳兽.chd",
+      "label": "拳兽",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/燃烧吧！正义学院.chd",
+      "label": "燃烧吧！正义学院",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/桑巴沙锤.chd",
+      "label": "桑巴沙锤",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/莎木1  最终版 英字日音/menu.m3u",
+      "label": "莎木1  最终版 英字日音",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/莎木2  汉化版/menu.m3u",
+      "label": "莎木2  汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/神机世界2 汉化版.cdi",
+      "label": "神机世界2 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/神枪机兵.chd",
+      "label": "神枪机兵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/生化危机 代号维罗妮卡 汉化版.chd",
+      "label": "生化危机 代号维罗妮卡 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/世嘉GT.chd",
+      "label": "世嘉GT",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/世嘉嘉嘉 汉化版.cdi",
+      "label": "世嘉嘉嘉 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/世嘉拉力锦标赛2.chd",
+      "label": "世嘉拉力锦标赛2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/首都高赛车2 汉化版.chd",
+      "label": "首都高赛车2 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/死或生2 限定版.chd",
+      "label": "死或生2 限定版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/私立正义学院2.chd",
+      "label": "私立正义学院2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/索尼克大冒险1.chd",
+      "label": "索尼克大冒险1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/索尼克大冒险2 汉化版.chd",
+      "label": "索尼克大冒险2 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/太空频道5 Part1.chd",
+      "label": "太空频道5 Part1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/太空频道5 Part2.chd",
+      "label": "太空频道5 Part2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/天翔骑兵 胜利铁骑 汉化版.cdi",
+      "label": "天翔骑兵 胜利铁骑 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/托尼霍克职业滑板2.chd",
+      "label": "托尼霍克职业滑板2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/威力扫荡（生体兵器）.chd",
+      "label": "威力扫荡（生体兵器）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/午夜凶铃 汉化版.cdi",
+      "label": "午夜凶铃 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/星际斗士2.chd",
+      "label": "星际斗士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/刑事快打.chd",
+      "label": "刑事快打",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/虚幻竞技场.chd",
+      "label": "虚幻竞技场",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/永恒的阿卡迪亚 汉化版/menu.m3u",
+      "label": "永恒的阿卡迪亚 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/月华剑士2 汉化版.cdi",
+      "label": "月华剑士2 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/再生侠 汉化版.cdi",
+      "label": "再生侠 汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/重金属格斗.chd",
+      "label": "重金属格斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "@ROM/DC/最后的希望 粉红子弹.cdi",
+      "label": "最后的希望 粉红子弹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    }
+  ]
+}

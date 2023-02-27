@@ -1,0 +1,299 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/DC hack/Capcom vs SNK 2 街霸对拳皇2 简化版.cdi",
+      "label": "Capcom vs SNK 2 街霸对拳皇2 简化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/NEO格斗竞技场 简化版.chd",
+      "label": "NEO格斗竞技场 简化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/扳机之心 艾塞莉卡 加强版.cdi",
+      "label": "扳机之心 艾塞莉卡 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/斑鸠 加强版1.cdi",
+      "label": "斑鸠 加强版1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/斑鸠 加强版2.cdi",
+      "label": "斑鸠 加强版2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/病血 加强版.cdi",
+      "label": "病血 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/超级街头霸王2X 加强版.cdi",
+      "label": "超级街头霸王2X 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/超级街头霸王2X 简化版.cdi",
+      "label": "超级街头霸王2X 简化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/超级漫画英雄VS卡普空2 简化版.cdi",
+      "label": "超级漫画英雄VS卡普空2 简化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/沉默的狙击手 加强版.cdi",
+      "label": "沉默的狙击手 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/电波少年 加强版.cdi",
+      "label": "电波少年 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/疯狂出租车2 加强版.cdi",
+      "label": "疯狂出租车2 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/合金弹头6 加强版.cdi",
+      "label": "合金弹头6 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/机密任务 加强版.cdi",
+      "label": "机密任务 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/剑风传奇 加强版.chd",
+      "label": "剑风传奇 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/街头霸王3 3.0 简化版.cdi",
+      "label": "街头霸王3 3.0 简化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/卡普空VS彩京 麻将 加强版.cdi",
+      "label": "卡普空VS彩京 麻将 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/灵魂能力 加强版.cdi",
+      "label": "灵魂能力 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/罗德岛战记 加强版.cdi",
+      "label": "罗德岛战记 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/美少女雀士 加强版.cdi",
+      "label": "美少女雀士 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/梦游美国 加强版.cdi",
+      "label": "梦游美国 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/丧尸复仇 加强版.cdi",
+      "label": "丧尸复仇 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/神机世界2 快速升级.cdi",
+      "label": "神机世界2 快速升级",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/神枪机兵 加强版.cdi",
+      "label": "神枪机兵 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/生化危机3 加强版.cdi",
+      "label": "生化危机3 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/生化危机 代号维罗妮卡 汉化加强版/menu.m3u",
+      "label": "生化危机 代号维罗妮卡 汉化加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/圣铠传说 加强版.cdi",
+      "label": "圣铠传说 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/侍魂6 简化版.cdi",
+      "label": "侍魂6 简化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/式神之城2 加强版.cdi",
+      "label": "式神之城2 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/死或生2 加强版.chd",
+      "label": "死或生2 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/死亡之屋2 加强版.cdi",
+      "label": "死亡之屋2 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/天翔骑兵 胜利铁骑 加强版.cdi",
+      "label": "天翔骑兵 胜利铁骑 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/武装飞鸟2 加强版.cdi",
+      "label": "武装飞鸟2 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/新三国战纪 七星转生 吕布版.chd",
+      "label": "新三国战纪 七星转生 吕布版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/刑事快打2 加强版.chd",
+      "label": "刑事快打2 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    },
+    {
+      "path": "@ROM/DC hack/钻地小子 无限命.cdi",
+      "label": "钻地小子 无限命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "DC hack.lpl"
+    }
+  ]
+}

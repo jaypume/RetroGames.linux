@@ -1,0 +1,4083 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/SS plus/3D弹珠台.chd",
+      "label": "3D弹珠台",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/3D旅鼠.chd",
+      "label": "3D旅鼠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/3D使命射击 入围.chd",
+      "label": "3D使命射击 入围",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/3X3只眼 吸精公主 S/menu.m3u",
+      "label": "3X3只眼 吸精公主 S",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/51区.chd",
+      "label": "51区",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/A.M.O.K.chd",
+      "label": "A.M.O.K",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/DX人生游戏 游戏人生1.chd",
+      "label": "DX人生游戏 游戏人生1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/DX人生游戏 游戏人生2.chd",
+      "label": "DX人生游戏 游戏人生2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/DX 日本特急旅行游戏 让我们一起去日本旅行.chd",
+      "label": "DX 日本特急旅行游戏 让我们一起去日本旅行",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/EVA 第2印象.chd",
+      "label": "EVA 第2印象",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/EVA 钢铁女友/menu.m3u",
+      "label": "EVA 钢铁女友",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/EVA 数码卡片博物馆.chd",
+      "label": "EVA 数码卡片博物馆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/EVA 愉快的同伴们.chd",
+      "label": "EVA 愉快的同伴们",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/EVA.chd",
+      "label": "EVA",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/FIST格斗.chd",
+      "label": "FIST格斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/Falcom合集1/menu.m3u",
+      "label": "Falcom合集1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/Falcom合集2.chd",
+      "label": "Falcom合集2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/G战机.chd",
+      "label": "G战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/J联盟 创造球会2 日文版.chd",
+      "label": "J联盟 创造球会2 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/J联盟 创造球会 日文版.chd",
+      "label": "J联盟 创造球会 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/J联盟 胜利足球'97 日文版.chd",
+      "label": "J联盟 胜利足球'97 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/Junclassic C.C. & Rope高尔夫俱乐部.chd",
+      "label": "Junclassic C.C. & Rope高尔夫俱乐部",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/K-1格斗 幻影翔.chd",
+      "label": "K-1格斗 幻影翔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/M 把爱传递给你.chd",
+      "label": "M 把爱传递给你",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/NBA Action‘98 英文版.chd",
+      "label": "NBA Action‘98 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/NBA Jam 极限 日文版.chd",
+      "label": "NBA Jam 极限 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/NBA 实况’98 英文版.chd",
+      "label": "NBA 实况’98 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/NHL冰球98 英文版.chd",
+      "label": "NHL冰球98 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/NHL 全明星冰球’98 英文版.chd",
+      "label": "NHL 全明星冰球’98 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/Q版赛车公园.chd",
+      "label": "Q版赛车公园",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/RPG工具.chd",
+      "label": "RPG工具",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/Rox 6=Six.chd",
+      "label": "Rox 6=Six",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/SD高达 G世代S.chd",
+      "label": "SD高达 G世代S",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/Savaki.chd",
+      "label": "Savaki",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/VR赌场.chd",
+      "label": "VR赌场",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/VR 开幕网球 日文版.chd",
+      "label": "VR 开幕网球 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/VR 排球 日文版.chd",
+      "label": "VR 排球 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/WWF 狂热摔角街机版 日文版.chd",
+      "label": "WWF 狂热摔角街机版 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/Z零4杯赛车 类型R.chd",
+      "label": "Z零4杯赛车 类型R",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/Z 英文版.chd",
+      "label": "Z 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/阿鲁卡那战记 Texthoth Ludo.chd",
+      "label": "阿鲁卡那战记 Texthoth Ludo",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/阿鲁卡那战记.chd",
+      "label": "阿鲁卡那战记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/阿斯特拉 超级之星.chd",
+      "label": "阿斯特拉 超级之星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/埃及艳后宝石方块.chd",
+      "label": "埃及艳后宝石方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/安得雷蒂赛车.chd",
+      "label": "安得雷蒂赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/安琪莉可 特别篇1.chd",
+      "label": "安琪莉可 特别篇1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/安琪莉可 特别篇2.chd",
+      "label": "安琪莉可 特别篇2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/暗之追击者.chd",
+      "label": "暗之追击者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/巴洛克 日文版/menu.m3u",
+      "label": "巴洛克 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/百物语/menu.m3u",
+      "label": "百物语",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/百战天虫.chd",
+      "label": "百战天虫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/半龙少女外传.chd",
+      "label": "半龙少女外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/半龙少女.chd",
+      "label": "半龙少女",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/爆裂方块 世界动物园管理员大赛.chd",
+      "label": "爆裂方块 世界动物园管理员大赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/爆裂方块.chd",
+      "label": "爆裂方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/爆破间.chd",
+      "label": "爆破间",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/必杀!.chd",
+      "label": "必杀!",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/蝙蝠狼.chd",
+      "label": "蝙蝠狼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/便利店 独占那条街的市场.chd",
+      "label": "便利店 独占那条街的市场",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/病毒/menu.m3u",
+      "label": "病毒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/兵蜂合集 豪华公园.chd",
+      "label": "兵蜂合集 豪华公园",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/彩虹镇的逻辑谜题.chd",
+      "label": "彩虹镇的逻辑谜题",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/策略格斗.chd",
+      "label": "策略格斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/超级赌场 特别版.chd",
+      "label": "超级赌场 特别版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/超级方块霸王2X.chd",
+      "label": "超级方块霸王2X",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/超级复仇.chd",
+      "label": "超级复仇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/超级节拍.chd",
+      "label": "超级节拍",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/超现实主义者 隐藏的七道光芒.chd",
+      "label": "超现实主义者 隐藏的七道光芒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/超兄贵 究极 逆袭之男.chd",
+      "label": "超兄贵 究极 逆袭之男",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/超真实麻将 夏日华尔兹 在海边.chd",
+      "label": "超真实麻将 夏日华尔兹 在海边",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/成为魔法使的方法.chd",
+      "label": "成为魔法使的方法",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/虫虫战士1.chd",
+      "label": "虫虫战士1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/虫虫战士2.chd",
+      "label": "虫虫战士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/创造职业棒球队!日文版.chd",
+      "label": "创造职业棒球队!日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/春风战队/menu.m3u",
+      "label": "春风战队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/大毁灭.chd",
+      "label": "大毁灭",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/大恐怖.chd",
+      "label": "大恐怖",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/大力神的冒险.chd",
+      "label": "大力神的冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/大牌砦.chd",
+      "label": "大牌砦",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/打破日本职业麻将联盟 公认的道场.chd",
+      "label": "打破日本职业麻将联盟 公认的道场",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/大头拳击F Plus 日文版.chd",
+      "label": "大头拳击F Plus 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/大头拳击F 日文版.chd",
+      "label": "大头拳击F 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/大小姐 特急/menu.m3u",
+      "label": "大小姐 特急",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/大运动会.chd",
+      "label": "大运动会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/大战略 钢铁战风.chd",
+      "label": "大战略 钢铁战风",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/大战略 强硬风格.chd",
+      "label": "大战略 强硬风格",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/大战略 作战方案.chd",
+      "label": "大战略 作战方案",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/大追逐者 竞速.chd",
+      "label": "大追逐者 竞速",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/代号R.chd",
+      "label": "代号R",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/蛋蛋乐.chd",
+      "label": "蛋蛋乐",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/弹珠台 网络时代.chd",
+      "label": "弹珠台 网络时代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/弹珠台.chd",
+      "label": "弹珠台",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/道化师杀人事件.chd",
+      "label": "道化师杀人事件",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/蒂尔克 来自蓝色大海的少女.chd",
+      "label": "蒂尔克 来自蓝色大海的少女",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/地窖杀手.chd",
+      "label": "地窖杀手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/地牢大师 连结.chd",
+      "label": "地牢大师 连结",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/电波少年的游戏.chd",
+      "label": "电波少年的游戏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/电车GO!EX.chd",
+      "label": "电车GO!EX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/电脑天使SS.chd",
+      "label": "电脑天使SS",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/电脑战机.chd",
+      "label": "电脑战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/电梯大盗 回归.chd",
+      "label": "电梯大盗 回归",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/钓鱼甲子园.chd",
+      "label": "钓鱼甲子园",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/碟形世界1.chd",
+      "label": "碟形世界1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/碟形世界2.chd",
+      "label": "碟形世界2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/顶级垂钓者 超级钓鱼大战2.chd",
+      "label": "顶级垂钓者 超级钓鱼大战2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/冬季奥运会 日文版.chd",
+      "label": "冬季奥运会 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/东京暗影/menu.m3u",
+      "label": "东京暗影",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/豆豆君S.chd",
+      "label": "豆豆君S",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/斗龙传说.chd",
+      "label": "斗龙传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/斗神传S.chd",
+      "label": "斗神传S",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/斗神传URA.chd",
+      "label": "斗神传URA",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/斗士历史.chd",
+      "label": "斗士历史",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/俄罗斯方块Plus.chd",
+      "label": "俄罗斯方块Plus",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/俄罗斯方块S.chd",
+      "label": "俄罗斯方块S",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/恶魔召唤师 灵魂黑客/menu.m3u",
+      "label": "恶魔召唤师 灵魂黑客",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/恶魔召唤师 灵魂黑客 额外迷宫.chd",
+      "label": "恶魔召唤师 灵魂黑客 额外迷宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/恶神传.chd",
+      "label": "恶神传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/法国世界杯98 胜利之路 日文版.chd",
+      "label": "法国世界杯98 胜利之路 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/反射对战.chd",
+      "label": "反射对战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/反重力赛车XL.chd",
+      "label": "反重力赛车XL",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/犯罪高潮.chd",
+      "label": "犯罪高潮",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/犯罪巡逻队.chd",
+      "label": "犯罪巡逻队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/方程式锦标赛 模拟团队运营.chd",
+      "label": "方程式锦标赛 模拟团队运营",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/飞毛腿 英文版.chd",
+      "label": "飞毛腿 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/肥瘦大盗 2度归来.chd",
+      "label": "肥瘦大盗 2度归来",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/疯狂的伊凡.chd",
+      "label": "疯狂的伊凡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/疯狂枪支.chd",
+      "label": "疯狂枪支",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/钢铁侠 重金属之战.chd",
+      "label": "钢铁侠 重金属之战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/高速 山地赛车挑战.chd",
+      "label": "高速 山地赛车挑战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/高塔.chd",
+      "label": "高塔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/格斗之蛇.chd",
+      "label": "格斗之蛇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/格兰蒂亚数字博物馆.chd",
+      "label": "格兰蒂亚数字博物馆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/哥斯拉 列岛震撼.chd",
+      "label": "哥斯拉 列岛震撼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/公路飚车.chd",
+      "label": "公路飚车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/公元1999 法老的复活.chd",
+      "label": "公元1999 法老的复活",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/公主任务.chd",
+      "label": "公主任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/古大陆传说.chd",
+      "label": "古大陆传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/古大陆物语 破亡之舞.chd",
+      "label": "古大陆物语 破亡之舞",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/古怪幻想.chd",
+      "label": "古怪幻想",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/古墓丽影.chd",
+      "label": "古墓丽影",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/怪兽大师 新时代.chd",
+      "label": "怪兽大师 新时代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/怪物拆楼 英文版.chd",
+      "label": "怪物拆楼 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/光暗包围战.chd",
+      "label": "光暗包围战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/光明力量3 特典.chd",
+      "label": "光明力量3 特典",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/鬼马小精灵.chd",
+      "label": "鬼马小精灵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/鬼太郎 幻冬怪奇谭.chd",
+      "label": "鬼太郎 幻冬怪奇谭",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/鬼屋魔影2 日文版.chd",
+      "label": "鬼屋魔影2 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/鬼屋魔影2 英文版.chd",
+      "label": "鬼屋魔影2 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/龟有公园前派出所.chd",
+      "label": "龟有公园前派出所",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/海物语 有你相伴.chd",
+      "label": "海物语 有你相伴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/航海大冒险 圣埃尔莫斯的奇迹.chd",
+      "label": "航海大冒险 圣埃尔莫斯的奇迹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/航空大亨’96.chd",
+      "label": "航空大亨’96",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/和吻相比.chd",
+      "label": "和吻相比",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/黑暗猎手(上) 异次元学院.chd",
+      "label": "黑暗猎手(上) 异次元学院",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/黑暗猎手(下) 妖魔之森.chd",
+      "label": "黑暗猎手(下) 妖魔之森",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/黑暗之盅1.chd",
+      "label": "黑暗之盅1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/黑暗之盅2.chd",
+      "label": "黑暗之盅2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/黑暗坠落.chd",
+      "label": "黑暗坠落",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/黑巴斯钓鱼1.chd",
+      "label": "黑巴斯钓鱼1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/黑巴斯钓鱼2.chd",
+      "label": "黑巴斯钓鱼2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/黑金战机.chd",
+      "label": "黑金战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/横断美国问答.chd",
+      "label": "横断美国问答",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/后院摔角 日文版.chd",
+      "label": "后院摔角 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/虎胆龙威三部曲.chd",
+      "label": "虎胆龙威三部曲",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/华丽击坠王.chd",
+      "label": "华丽击坠王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/花式滑雪 日文版.chd",
+      "label": "花式滑雪 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/花式撞球3 日文版.chd",
+      "label": "花式撞球3 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/踝兄弟剧场 第一卷 麻将篇.chd",
+      "label": "踝兄弟剧场 第一卷 麻将篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/幻想水浒传.chd",
+      "label": "幻想水浒传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/皇龙三国演义.chd",
+      "label": "皇龙三国演义",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/毁灭战士 英文版.chd",
+      "label": "毁灭战士 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/辉水晶传说.chd",
+      "label": "辉水晶传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/魂斗罗 战争的遗产 英文版.chd",
+      "label": "魂斗罗 战争的遗产 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/混沌控制Remix.chd",
+      "label": "混沌控制Remix",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/魂兽女忍传一番 加强版/menu.m3u",
+      "label": "魂兽女忍传一番 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/火爆摔角 炽热龙卷风.chd",
+      "label": "火爆摔角 炽热龙卷风",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/火爆职业摔跤S 六人争夺战 日文版.chd",
+      "label": "火爆职业摔跤S 六人争夺战 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/火凤凰3D.chd",
+      "label": "火凤凰3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/火热火热 怪物篇.chd",
+      "label": "火热火热 怪物篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/火热火热噗呦噗呦迷宫.chd",
+      "label": "火热火热噗呦噗呦迷宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/惑星强袭1.chd",
+      "label": "惑星强袭1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/惑星强袭2/menu.m3u",
+      "label": "惑星强袭2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/机动战舰抚子号 空白3年/menu.m3u",
+      "label": "机动战舰抚子号 空白3年",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/机动战舰抚子号 最后还是爱赢了.chd",
+      "label": "机动战舰抚子号 最后还是爱赢了",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/机动战士高达 基连的野望.chd",
+      "label": "机动战士高达 基连的野望",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/机动战士高达 基连野望 攻略指令书.chd",
+      "label": "机动战士高达 基连野望 攻略指令书",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/机动战士高达外传1 战栗的深蓝.chd",
+      "label": "机动战士高达外传1 战栗的深蓝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/机动战士高达外传2 青色继承者.chd",
+      "label": "机动战士高达外传2 青色继承者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/机动战士高达外传3 谁是审判者.chd",
+      "label": "机动战士高达外传3 谁是审判者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/机动战士高达.chd",
+      "label": "机动战士高达",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/机甲战士2.chd",
+      "label": "机甲战士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/机器猫 大雄与复活之星.chd",
+      "label": "机器猫 大雄与复活之星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/极上Q版沙罗曼蛇.chd",
+      "label": "极上Q版沙罗曼蛇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/剑与魔杖.chd",
+      "label": "剑与魔杖",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/戒备状态5.chd",
+      "label": "戒备状态5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/结婚.chd",
+      "label": "结婚",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/杰克龙.chd",
+      "label": "杰克龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/街头霸王2 动画版/menu.m3u",
+      "label": "街头霸王2 动画版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/街头霸王2 十五周年纪念版.chd",
+      "label": "街头霸王2 十五周年纪念版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/街头霸王 电影版.chd",
+      "label": "街头霸王 电影版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/街头霸王 合集/menu.m3u",
+      "label": "街头霸王 合集",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/金牌女警S.chd",
+      "label": "金牌女警S",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/金田一少年事件簿 星见岛悲伤的复仇鬼.chd",
+      "label": "金田一少年事件簿 星见岛悲伤的复仇鬼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/究极虎2 Plus.chd",
+      "label": "究极虎2 Plus",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/巨大的打击.chd",
+      "label": "巨大的打击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/掘尸乐团.chd",
+      "label": "掘尸乐团",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/卡牌召唤师.chd",
+      "label": "卡牌召唤师",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/科乐美MSX游戏合集.chd",
+      "label": "科乐美MSX游戏合集",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/克苏鲁传说 南极冰怪.chd",
+      "label": "克苏鲁传说 南极冰怪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/恐龙岛(大负荷).chd",
+      "label": "恐龙岛(大负荷)",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/恐龙佣兵.chd",
+      "label": "恐龙佣兵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/空想科学世界/menu.m3u",
+      "label": "空想科学世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/骷髅战士 英文版.chd",
+      "label": "骷髅战士 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/库罗斯侦探物语/menu.m3u",
+      "label": "库罗斯侦探物语",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/昆腾之门.chd",
+      "label": "昆腾之门",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/蜡笔女神.chd",
+      "label": "蜡笔女神",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/蓝色破坏者.chd",
+      "label": "蓝色破坏者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/雷电风暴道路爆炸机/menu.m3u",
+      "label": "雷电风暴道路爆炸机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/雷曼.chd",
+      "label": "雷曼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/雷鸟黄金包1.chd",
+      "label": "雷鸟黄金包1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/雷鸟黄金包2.chd",
+      "label": "雷鸟黄金包2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/雷神之锤 英文版.chd",
+      "label": "雷神之锤 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/雷亚战机1.chd",
+      "label": "雷亚战机1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/雷亚战机2.chd",
+      "label": "雷亚战机2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/立方体画廊 Edy&Disy.chd",
+      "label": "立方体画廊 Edy&Disy",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/立体战士 安娜的故事.chd",
+      "label": "立体战士 安娜的故事",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/立体战士 翔的故事.chd",
+      "label": "立体战士 翔的故事",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/恋爱麻雀二合一 可爱的流行.chd",
+      "label": "恋爱麻雀二合一 可爱的流行",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/恋爱热线 3 并非数码/menu.m3u",
+      "label": "恋爱热线 3 并非数码",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/恋爱物语/menu.m3u",
+      "label": "恋爱物语",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/恋爱物语 特别版 恋爱与魔法的学园生活.chd",
+      "label": "恋爱物语 特别版 恋爱与魔法的学园生活",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/恋爱夏日幻想 奥菜惠.chd",
+      "label": "恋爱夏日幻想 奥菜惠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/炼金术士 玛丽的工作室.chd",
+      "label": "炼金术士 玛丽的工作室",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/练习曲 序章 动摇的心情.chd",
+      "label": "练习曲 序章 动摇的心情",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/恋之千年王国.chd",
+      "label": "恋之千年王国",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/烈风赛车.chd",
+      "label": "烈风赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/临界战斗.chd",
+      "label": "临界战斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/零式格斗 最终编辑版.chd",
+      "label": "零式格斗 最终编辑版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/另一个回忆.chd",
+      "label": "另一个回忆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/龙的五千年.chd",
+      "label": "龙的五千年",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/龙之心 火与钢.chd",
+      "label": "龙之心 火与钢",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/乱步谜案/menu.m3u",
+      "label": "乱步谜案",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/乱斗赛车.chd",
+      "label": "乱斗赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/轮舞曲/menu.m3u",
+      "label": "轮舞曲",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/逻辑绘图方块.chd",
+      "label": "逻辑绘图方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/掠夺者.chd",
+      "label": "掠夺者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/麻雀大会2 特别版.chd",
+      "label": "麻雀大会2 特别版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/麦斯超级机车赛.chd",
+      "label": "麦斯超级机车赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/满弹枪手.chd",
+      "label": "满弹枪手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/冒险活剧 物物.chd",
+      "label": "冒险活剧 物物",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/美国橄榄球联盟‘97 英文版.chd",
+      "label": "美国橄榄球联盟‘97 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/美少女画线SS.chd",
+      "label": "美少女画线SS",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/美少女梦工场1.chd",
+      "label": "美少女梦工场1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/美少女梦工场2.chd",
+      "label": "美少女梦工场2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/每天都会更换的解谜节目 365解谜.chd",
+      "label": "每天都会更换的解谜节目 365解谜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/猛冲!滑雪板 '98 日文版.chd",
+      "label": "猛冲!滑雪板 '98 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/猛冲的戴比.chd",
+      "label": "猛冲的戴比",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/梦幻脚步.chd",
+      "label": "梦幻脚步",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/梦幻侠影.chd",
+      "label": "梦幻侠影",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/蒙面黑客.chd",
+      "label": "蒙面黑客",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/梦想时代.chd",
+      "label": "梦想时代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/秘密战队V.chd",
+      "label": "秘密战队V",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/迷你四驱车 超级工厂.chd",
+      "label": "迷你四驱车 超级工厂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/迷失之城.chd",
+      "label": "迷失之城",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/谜之魔界村.chd",
+      "label": "谜之魔界村",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/命令与征服/menu.m3u",
+      "label": "命令与征服",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/明尼苏达的胖子 台球 日文版.chd",
+      "label": "明尼苏达的胖子 台球 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/明星保龄球 日文版/menu.m3u",
+      "label": "明星保龄球 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/明星之梦.chd",
+      "label": "明星之梦",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/魔导物语.chd",
+      "label": "魔导物语",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/魔法彩球1.chd",
+      "label": "魔法彩球1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/魔法彩球2.chd",
+      "label": "魔法彩球2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/魔法彩球3.chd",
+      "label": "魔法彩球3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/魔法草蠓.chd",
+      "label": "魔法草蠓",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/魔法气泡叠叠乐.chd",
+      "label": "魔法气泡叠叠乐",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/魔法少女莎美 心的感觉.chd",
+      "label": "魔法少女莎美 心的感觉",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/魔法少女莎美.chd",
+      "label": "魔法少女莎美",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/魔法学院 露娜.chd",
+      "label": "魔法学院 露娜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/魔鬼高尔夫球场 日文版.chd",
+      "label": "魔鬼高尔夫球场 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/魔剑美神1.chd",
+      "label": "魔剑美神1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/魔剑美神2.chd",
+      "label": "魔剑美神2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/模拟城市2000.chd",
+      "label": "模拟城市2000",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/模拟动物园.chd",
+      "label": "模拟动物园",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/魔物危机.chd",
+      "label": "魔物危机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/纳斯卡赛车98 英文版.chd",
+      "label": "纳斯卡赛车98 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/南方珀堂登场/menu.m3u",
+      "label": "南方珀堂登场",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/脑死亡 13.chd",
+      "label": "脑死亡 13",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/逆鳞弹.chd",
+      "label": "逆鳞弹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/帕尼尔塔大冒险.chd",
+      "label": "帕尼尔塔大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/啪啪方块.chd",
+      "label": "啪啪方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/潘神迷宫.chd",
+      "label": "潘神迷宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/泡泡龙1.chd",
+      "label": "泡泡龙1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/泡泡龙2X.chd",
+      "label": "泡泡龙2X",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/泡泡龙3.chd",
+      "label": "泡泡龙3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/朋友们 青春的光辉/menu.m3u",
+      "label": "朋友们 青春的光辉",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/平成天才笨蛋波恩.chd",
+      "label": "平成天才笨蛋波恩",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/破发点网球 日文版.chd",
+      "label": "破发点网球 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/噗哟噗哟 Sun.chd",
+      "label": "噗哟噗哟 Sun",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/噗哟噗哟通.chd",
+      "label": "噗哟噗哟通",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/七彩梦 虹色町的奇迹.chd",
+      "label": "七彩梦 虹色町的奇迹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/企鹅忍满丸.chd",
+      "label": "企鹅忍满丸",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/七龙珠Z 伟大龙珠传说.chd",
+      "label": "七龙珠Z 伟大龙珠传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/七之秘馆/menu.m3u",
+      "label": "七之秘馆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/青涩之恋/menu.m3u",
+      "label": "青涩之恋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/青涩之恋 第一扇窗.chd",
+      "label": "青涩之恋 第一扇窗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/庆应游击队 无忧无虑的玉手箱.chd",
+      "label": "庆应游击队 无忧无虑的玉手箱",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/蚯蚓吉姆2.chd",
+      "label": "蚯蚓吉姆2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/球转界.chd",
+      "label": "球转界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/雀帝/menu.m3u",
+      "label": "雀帝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/忍空 火爆的家伙们 大冲突.chd",
+      "label": "忍空 火爆的家伙们 大冲突",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/人造人间.chd",
+      "label": "人造人间",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/忍者茶茶丸 鬼斩忍法帖金.chd",
+      "label": "忍者茶茶丸 鬼斩忍法帖金",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/日本超经典钓鲈 '96.chd",
+      "label": "日本超经典钓鲈 '96",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/日本代表队监督!足球RPG 日文版.chd",
+      "label": "日本代表队监督!足球RPG 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/日产展示 超越驾驶.chd",
+      "label": "日产展示 超越驾驶",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/荣格节律.chd",
+      "label": "荣格节律",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/赛马大亨3 程序'98.chd",
+      "label": "赛马大亨3 程序'98",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/赛马风'96 武丰育马游戏.chd",
+      "label": "赛马风'96 武丰育马游戏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/赛马冠军2 最强马传说.chd",
+      "label": "赛马冠军2 最强马传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/赛马冠军 GI完全称霸之路.chd",
+      "label": "赛马冠军 GI完全称霸之路",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/三国志4 威力加强版.chd",
+      "label": "三国志4 威力加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/三国志 回归.chd",
+      "label": "三国志 回归",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/三国志 孔明传.chd",
+      "label": "三国志 孔明传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/闪电出击2.chd",
+      "label": "闪电出击2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/山顶赛车1.chd",
+      "label": "山顶赛车1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/山顶赛车2.chd",
+      "label": "山顶赛车2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/上海 万里长城.chd",
+      "label": "上海 万里长城",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/上海 伟大的时刻.chd",
+      "label": "上海 伟大的时刻",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/上升2 复活.chd",
+      "label": "上升2 复活",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/少年佣兵团.chd",
+      "label": "少年佣兵团",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/少女革命 终将迎来革命的故事/menu.m3u",
+      "label": "少女革命 终将迎来革命的故事",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/神宫寺三郎 梦的终结.chd",
+      "label": "神宫寺三郎 梦的终结",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/神秘岛2/menu.m3u",
+      "label": "神秘岛2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/神秘的世界EL HAZARD.chd",
+      "label": "神秘的世界EL HAZARD",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/神秘医院.chd",
+      "label": "神秘医院",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/神奇传说2 时空道标.chd",
+      "label": "神奇传说2 时空道标",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/生物冲击/menu.m3u",
+      "label": "生物冲击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/生物冲击 特别版/menu.m3u",
+      "label": "生物冲击 特别版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/声音幻想曲S 失去的声音力量/menu.m3u",
+      "label": "声音幻想曲S 失去的声音力量",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/侍魂真说 武士道烈传.chd",
+      "label": "侍魂真说 武士道烈传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/世嘉观览车大赛.chd",
+      "label": "世嘉观览车大赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/世嘉经典 宝石方块合集.chd",
+      "label": "世嘉经典 宝石方块合集",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/世嘉经典 梦幻之星合集 日文版.chd",
+      "label": "世嘉经典 梦幻之星合集 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/世嘉三四郎 真剑游戏.chd",
+      "label": "世嘉三四郎 真剑游戏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/世嘉土星上发现!蛋仔公园.chd",
+      "label": "世嘉土星上发现!蛋仔公园",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/世嘉足球世界杯’98 日文版.chd",
+      "label": "世嘉足球世界杯’98 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/时空侦探DD 幻之罗蕾莱/menu.m3u",
+      "label": "时空侦探DD 幻之罗蕾莱",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/实况F-1.chd",
+      "label": "实况F-1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/实况力量棒球 95开幕版 日文版.chd",
+      "label": "实况力量棒球 95开幕版 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/实况力量棒球S 日文版.chd",
+      "label": "实况力量棒球S 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/失落的世界之侏罗纪公园.chd",
+      "label": "失落的世界之侏罗纪公园",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/失落的维京人2.chd",
+      "label": "失落的维京人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/尸体杀手 墓地版/menu.m3u",
+      "label": "尸体杀手 墓地版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/室友 W 2个人/menu.m3u",
+      "label": "室友 W 2个人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/室友 井上凉子3 风的闪耀清晨.chd",
+      "label": "室友 井上凉子3 风的闪耀清晨",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/室友 井上凉子.chd",
+      "label": "室友 井上凉子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/室友 凉子在暑假.chd",
+      "label": "室友 凉子在暑假",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/十字军 英文版.chd",
+      "label": "十字军 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/守护力量.chd",
+      "label": "守护力量",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/数码弹珠台 亡灵之书.chd",
+      "label": "数码弹珠台 亡灵之书",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/数码弹珠台 最后的斗士.chd",
+      "label": "数码弹珠台 最后的斗士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/数码弹珠台.chd",
+      "label": "数码弹珠台",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/数码怪兽 Ver.S.chd",
+      "label": "数码怪兽 Ver.S",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/双调转术 英文版/menu.m3u",
+      "label": "双调转术 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/水浒传 天导108星.chd",
+      "label": "水浒传 天导108星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/水浒传 天命之誓.chd",
+      "label": "水浒传 天命之誓",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/水獭大冒险.chd",
+      "label": "水獭大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/四国战机.chd",
+      "label": "四国战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/死亡扼杀 逃离被隔绝的城市.chd",
+      "label": "死亡扼杀 逃离被隔绝的城市",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/死亡火枪.chd",
+      "label": "死亡火枪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/死亡逻辑.chd",
+      "label": "死亡逻辑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/死亡面具/menu.m3u",
+      "label": "死亡面具",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/松方弘树的超级钓鱼.chd",
+      "label": "松方弘树的超级钓鱼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/苏醒的勇者 飞翔篇/menu.m3u",
+      "label": "苏醒的勇者 飞翔篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/苏醒的勇者 觉醒篇/menu.m3u",
+      "label": "苏醒的勇者 觉醒篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/塔克拉玛干 敦煌传奇.chd",
+      "label": "塔克拉玛干 敦煌传奇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/太平洋之岚2.chd",
+      "label": "太平洋之岚2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/泰坦战争.chd",
+      "label": "泰坦战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/太阳罪恶.chd",
+      "label": "太阳罪恶",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/桃太郎道中记.chd",
+      "label": "桃太郎道中记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/特搜机动队.chd",
+      "label": "特搜机动队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/提督决断2.chd",
+      "label": "提督决断2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/提督决断3 加强版.chd",
+      "label": "提督决断3 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/天地无用!登校无用/menu.m3u",
+      "label": "天地无用!登校无用",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/天地无用!连锁必要.chd",
+      "label": "天地无用!连锁必要",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/天空战记1.chd",
+      "label": "天空战记1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/天空战记2.chd",
+      "label": "天空战记2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/天空战记世界 苍空之翼/menu.m3u",
+      "label": "天空战记世界 苍空之翼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/天下制霸.chd",
+      "label": "天下制霸",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/铁球 真实弹珠.chd",
+      "label": "铁球 真实弹珠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/铁翼雄风.chd",
+      "label": "铁翼雄风",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/痛快!槽射!.chd",
+      "label": "痛快!槽射!",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/涂鸦弹珠台.chd",
+      "label": "涂鸦弹珠台",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/涂鸦天使S 你的侧脸.chd",
+      "label": "涂鸦天使S 你的侧脸",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/秃子岛.chd",
+      "label": "秃子岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/挖金子 回归版.chd",
+      "label": "挖金子 回归版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/挖金子 加强版.chd",
+      "label": "挖金子 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/外卖骑士.chd",
+      "label": "外卖骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/湾岸赛车 真实改编/menu.m3u",
+      "label": "湾岸赛车 真实改编",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/湾岸赛车.chd",
+      "label": "湾岸赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/玩具比赛车.chd",
+      "label": "玩具比赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/王国传说1.chd",
+      "label": "王国传说1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/王国传说2.chd",
+      "label": "王国传说2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/网络世界.chd",
+      "label": "网络世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/危机世代.chd",
+      "label": "危机世代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/未解之谜/menu.m3u",
+      "label": "未解之谜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/维新之岚.chd",
+      "label": "维新之岚",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/文明.chd",
+      "label": "文明",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/我的梦/menu.m3u",
+      "label": "我的梦",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/我亲爱的6英寸.chd",
+      "label": "我亲爱的6英寸",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/舞动的偶像.chd",
+      "label": "舞动的偶像",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/无尽的爱 想要遇见你/menu.m3u",
+      "label": "无尽的爱 想要遇见你",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/巫师哈莫妮1.chd",
+      "label": "巫师哈莫妮1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/巫师哈莫妮2.chd",
+      "label": "巫师哈莫妮2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/巫术 6+7.chd",
+      "label": "巫术 6+7",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/巫术 起点传说.chd",
+      "label": "巫术 起点传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/巫术天罚 冒险之卷/menu.m3u",
+      "label": "巫术天罚 冒险之卷",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/乌鸦2 天使之城.chd",
+      "label": "乌鸦2 天使之城",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/乌鸦 热血高校.chd",
+      "label": "乌鸦 热血高校",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/午夜风暴S.chd",
+      "label": "午夜风暴S",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/武装斗士.chd",
+      "label": "武装斗士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/小鳄鱼 哥布斯传说.chd",
+      "label": "小鳄鱼 哥布斯传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/小玉 冒险球迷宫.chd",
+      "label": "小玉 冒险球迷宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/新海底战舰 钢铁的孤独.chd",
+      "label": "新海底战舰 钢铁的孤独",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/信使危机.chd",
+      "label": "信使危机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/心跳回忆 对战方块.chd",
+      "label": "心跳回忆 对战方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/心跳回忆 解谜方块.chd",
+      "label": "心跳回忆 解谜方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/心跳回忆外传1 虹色青春.chd",
+      "label": "心跳回忆外传1 虹色青春",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/心跳回忆外传2 彩之爱歌/menu.m3u",
+      "label": "心跳回忆外传2 彩之爱歌",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/心跳回忆外传3 旅立之诗/menu.m3u",
+      "label": "心跳回忆外传3 旅立之诗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/心跳回忆 永远和你在一起.chd",
+      "label": "心跳回忆 永远和你在一起",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/信长之野望 回归.chd",
+      "label": "信长之野望 回归",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/信长之野望 将星录.chd",
+      "label": "信长之野望 将星录",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/信长之野望 天翔记 加强版.chd",
+      "label": "信长之野望 天翔记 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/信长之野望 战国群雄传.chd",
+      "label": "信长之野望 战国群雄传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/新主题公园.chd",
+      "label": "新主题公园",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/刑警哈罗德 蓝色芝加哥/menu.m3u",
+      "label": "刑警哈罗德 蓝色芝加哥",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/星球杰克.chd",
+      "label": "星球杰克",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/行星攻击SS.chd",
+      "label": "行星攻击SS",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/续 豆豆君.chd",
+      "label": "续 豆豆君",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/虚拟梦幻仙境.chd",
+      "label": "虚拟梦幻仙境",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/雪人方块.chd",
+      "label": "雪人方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/学校的恐怖故事 花子来了!.chd",
+      "label": "学校的恐怖故事 花子来了!",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/学校怪谈.chd",
+      "label": "学校怪谈",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/血腥工厂.chd",
+      "label": "血腥工厂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/亚特兰蒂斯 失落的传说 英文版/menu.m3u",
+      "label": "亚特兰蒂斯 失落的传说 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/妖霸天下.chd",
+      "label": "妖霸天下",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/妖精猎手1/menu.m3u",
+      "label": "妖精猎手1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/妖精魔法宝石.chd",
+      "label": "妖精魔法宝石",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/异形三部曲.chd",
+      "label": "异形三部曲",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/银河少女警察/menu.m3u",
+      "label": "银河少女警察",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/银河少女警察 2086.chd",
+      "label": "银河少女警察 2086",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/银河英雄传说 PLUS.chd",
+      "label": "银河英雄传说 PLUS",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/银河英雄传说.chd",
+      "label": "银河英雄传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/樱花大战 帝国华击团队员名单.chd",
+      "label": "樱花大战 帝国华击团队员名单",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/樱花大战 花组方块.chd",
+      "label": "樱花大战 花组方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/樱花大战 花组通信.chd",
+      "label": "樱花大战 花组通信",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/樱花大战 蒸汽广播歌谣秀/menu.m3u",
+      "label": "樱花大战 蒸汽广播歌谣秀",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/樱桃小丸子 对战解谜方块.chd",
+      "label": "樱桃小丸子 对战解谜方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/英雄传说 1+2.chd",
+      "label": "英雄传说 1+2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/英雄传说 白发魔女/menu.m3u",
+      "label": "英雄传说 白发魔女",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/英雄志愿.chd",
+      "label": "英雄志愿",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/永恒的蝙蝠侠.chd",
+      "label": "永恒的蝙蝠侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/永远的毁灭公爵3D.chd",
+      "label": "永远的毁灭公爵3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/悠久的小箱.chd",
+      "label": "悠久的小箱",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/悠久幻想曲1.chd",
+      "label": "悠久幻想曲1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/悠久幻想曲2.chd",
+      "label": "悠久幻想曲2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/悠久幻想曲合唱版1.chd",
+      "label": "悠久幻想曲合唱版1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/悠久幻想曲合唱版2.chd",
+      "label": "悠久幻想曲合唱版2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/幽灵/menu.m3u",
+      "label": "幽灵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/游咪咪.chd",
+      "label": "游咪咪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/优诺牌DX.chd",
+      "label": "优诺牌DX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/游戏的青春.chd",
+      "label": "游戏的青春",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/游戏天国.chd",
+      "label": "游戏天国",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/与你同在/menu.m3u",
+      "label": "与你同在",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/宇宙骑警/menu.m3u",
+      "label": "宇宙骑警",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/宇宙巡航机合集.chd",
+      "label": "宇宙巡航机合集",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/圆石滩高尔夫球场 斯塔德勒的挑战 日文版.chd",
+      "label": "圆石滩高尔夫球场 斯塔德勒的挑战 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/元祖爆烈猎人/menu.m3u",
+      "label": "元祖爆烈猎人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/约翰尼 巴祖卡.chd",
+      "label": "约翰尼 巴祖卡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/月花雾幻谭/menu.m3u",
+      "label": "月花雾幻谭",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/月面摇篮/menu.m3u",
+      "label": "月面摇篮",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/越野车 异世界拦截.chd",
+      "label": "越野车 异世界拦截",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/在海边听牌.chd",
+      "label": "在海边听牌",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/炸弹人 战争.chd",
+      "label": "炸弹人 战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/战斗怪物.chd",
+      "label": "战斗怪物",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/真女神转生 恶魔召唤师 恶魔全书 第二集.chd",
+      "label": "真女神转生 恶魔召唤师 恶魔全书 第二集",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/真女神转生 恶魔召唤师 恶魔全书 第一集.chd",
+      "label": "真女神转生 恶魔召唤师 恶魔全书 第一集",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/真女神转生 恶魔召唤师.chd",
+      "label": "真女神转生 恶魔召唤师",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/真人快打2.chd",
+      "label": "真人快打2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/真人快打3 英文版.chd",
+      "label": "真人快打3 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/真人快打 三部曲 英文版.chd",
+      "label": "真人快打 三部曲 英文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/真说梦见馆.chd",
+      "label": "真说梦见馆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/真像之夜.chd",
+      "label": "真像之夜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/政界立志传.chd",
+      "label": "政界立志传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/蒸汽齿轮.chd",
+      "label": "蒸汽齿轮",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/正午.chd",
+      "label": "正午",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/正义之纹章 重置版.chd",
+      "label": "正义之纹章 重置版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/智力大战Q.chd",
+      "label": "智力大战Q",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/职业棒球 最强9人‘98 日文版.chd",
+      "label": "职业棒球 最强9人‘98 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/指针解谜.chd",
+      "label": "指针解谜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/中环拳击.chd",
+      "label": "中环拳击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/重装甲少女组.chd",
+      "label": "重装甲少女组",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/专家兔.chd",
+      "label": "专家兔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/撞击赛车.chd",
+      "label": "撞击赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/自我中心派 东京麻将乐园.chd",
+      "label": "自我中心派 东京麻将乐园",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/足球英雄S 日文版.chd",
+      "label": "足球英雄S 日文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/卒业专辑.chd",
+      "label": "卒业专辑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    },
+    {
+      "path": "@ROM/SS plus/最喜欢你/menu.m3u",
+      "label": "最喜欢你",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SS plus.lpl"
+    }
+  ]
+}

@@ -1,0 +1,1787 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/FBNEO ETC/1 on 1.zip",
+      "label": "1 on 1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/1992欧洲冠军.zip",
+      "label": "1992欧洲冠军",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/2对2冰上曲棍球公开赛.zip",
+      "label": "2对2冰上曲棍球公开赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/94国际杯.zip",
+      "label": "94国际杯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/MVP棒球.zip",
+      "label": "MVP棒球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/Makochan破碎机.zip",
+      "label": "Makochan破碎机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/NBA 背靠背.zip",
+      "label": "NBA 背靠背",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/NBA极限滞空.zip",
+      "label": "NBA极限滞空",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/NBA嘉年华锦标赛.zip",
+      "label": "NBA嘉年华锦标赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/NBA嘉年华.zip",
+      "label": "NBA嘉年华",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/NBA跑轰2.zip",
+      "label": "NBA跑轰2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/NBA跑轰.zip",
+      "label": "NBA跑轰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/NEO大联盟高尔夫.zip",
+      "label": "NEO大联盟高尔夫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/Tecmo 世界杯足球.zip",
+      "label": "Tecmo 世界杯足球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/阿尔卑斯滑雪 2.zip",
+      "label": "阿尔卑斯滑雪 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/爱情岛.zip",
+      "label": "爱情岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/棒棒球.zip",
+      "label": "棒棒球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/棒球英雄96.zip",
+      "label": "棒球英雄96",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/棒球之星 2.zip",
+      "label": "棒球之星 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/暴力冰上曲棍球.zip",
+      "label": "暴力冰上曲棍球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/暴力溜冰.zip",
+      "label": "暴力溜冰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/宝石方块2 穿越时空的旅程.zip",
+      "label": "宝石方块2 穿越时空的旅程",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/宝石方块竞赛版.zip",
+      "label": "宝石方块竞赛版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/宝石方块.zip",
+      "label": "宝石方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/宝石砖块.zip",
+      "label": "宝石砖块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/爆笑保龄球.zip",
+      "label": "爆笑保龄球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/壁球.zip",
+      "label": "壁球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/bombeplus/neobombe.zip",
+      "label": "bombeplus",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/彩虹岛-特别版.zip",
+      "label": "彩虹岛-特别版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/彩虹岛.zip",
+      "label": "彩虹岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/长江.zip",
+      "label": "长江",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/超级比 2.zip",
+      "label": "超级比 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/超级比 2000.zip",
+      "label": "超级比 2000",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/超级比 3.zip",
+      "label": "超级比 3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/超级比.zip",
+      "label": "超级比",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/超级方块战士2.zip",
+      "label": "超级方块战士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/超级魔法气泡.zip",
+      "label": "超级魔法气泡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/超级泡泡2003.zip",
+      "label": "超级泡泡2003",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/超级泡泡龙 MD.zip",
+      "label": "超级泡泡龙 MD",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/超级视觉足球：欧洲世嘉杯.zip",
+      "label": "超级视觉足球：欧洲世嘉杯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/超级徐徐大作战.zip",
+      "label": "超级徐徐大作战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/超级砖块对对碰.zip",
+      "label": "超级砖块对对碰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/超酷迷你游戏.zip",
+      "label": "超酷迷你游戏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/超能运动会2.zip",
+      "label": "超能运动会2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/超能运动会.zip",
+      "label": "超能运动会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/超强魔法泡泡.zip",
+      "label": "超强魔法泡泡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/城市大金刚.zip",
+      "label": "城市大金刚",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/重重危机.zip",
+      "label": "重重危机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/宠物方块.zip",
+      "label": "宠物方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/锤锤帮.zip",
+      "label": "锤锤帮",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/大家来找碴.zip",
+      "label": "大家来找碴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/大力扣杀2.zip",
+      "label": "大力扣杀2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/大力扣杀.zip",
+      "label": "大力扣杀",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/大眼蛙 一起来玩吧.zip",
+      "label": "大眼蛙 一起来玩吧",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/打砖块回归.zip",
+      "label": "打砖块回归",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/得点王1.zip",
+      "label": "得点王1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/得点王2.zip",
+      "label": "得点王2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/得点王3.zip",
+      "label": "得点王3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/得点王4.zip",
+      "label": "得点王4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/电车 GO! 2 高速编.zip",
+      "label": "电车 GO! 2 高速编",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/电车 GO.zip",
+      "label": "电车 GO",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/点球大战V2.zip",
+      "label": "点球大战V2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/叮当猫大冒险.zip",
+      "label": "叮当猫大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/冬季11项竞技.zip",
+      "label": "冬季11项竞技",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/动作好莱坞.zip",
+      "label": "动作好莱坞",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/豆豆君大冒险.zip",
+      "label": "豆豆君大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/嘟!先生.zip",
+      "label": "嘟!先生",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/赌马大亨.zip",
+      "label": "赌马大亨",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/盾牌大战.zip",
+      "label": "盾牌大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/俄罗斯方块+ 2.zip",
+      "label": "俄罗斯方块+ 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/俄罗斯方块+.zip",
+      "label": "俄罗斯方块+",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/俄罗斯方块 - 黑洞.zip",
+      "label": "俄罗斯方块 - 黑洞",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/俄罗斯方块大师 2.zip",
+      "label": "俄罗斯方块大师 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/俄罗斯方块.zip",
+      "label": "俄罗斯方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/飞拳小子.zip",
+      "label": "飞拳小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/飞头小子.zip",
+      "label": "飞头小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/疯狂弹珠.zip",
+      "label": "疯狂弹珠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/疯狂爬梯者 2.zip",
+      "label": "疯狂爬梯者 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/橄榄球英雄.zip",
+      "label": "橄榄球英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/干酪追逐.zip",
+      "label": "干酪追逐",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/干支物语.zip",
+      "label": "干支物语",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/管它.zip",
+      "label": "管它",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/光速飞跃车.zip",
+      "label": "光速飞跃车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/鬼精灵投球手.zip",
+      "label": "鬼精灵投球手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/海洋巴斯鲈钓.zip",
+      "label": "海洋巴斯鲈钓",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/合金救助者.zip",
+      "label": "合金救助者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/黑暗之塔.zip",
+      "label": "黑暗之塔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/花式桌球.zip",
+      "label": "花式桌球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/滑翔飞行.zip",
+      "label": "滑翔飞行",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/欢乐六合一.zip",
+      "label": "欢乐六合一",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/黄金开球 2000.zip",
+      "label": "黄金开球 2000",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/黄金开球 3D.zip",
+      "label": "黄金开球 3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/黄金开球经典版.zip",
+      "label": "黄金开球经典版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/绘本国大冒险.zip",
+      "label": "绘本国大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/火爆群龙 - 守门大对决.zip",
+      "label": "火爆群龙 - 守门大对决",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/机皇杯98.zip",
+      "label": "机皇杯98",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/机器人足球大赛.zip",
+      "label": "机器人足球大赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/急速跳跳乐.zip",
+      "label": "急速跳跳乐",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/极限滑雪板.zip",
+      "label": "极限滑雪板",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/建造师.zip",
+      "label": "建造师",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/解谜！虫姬玉.zip",
+      "label": "解谜！虫姬玉",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/街头大灌篮.zip",
+      "label": "街头大灌篮",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/街头篮球 96.zip",
+      "label": "街头篮球 96",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/街头篮球.zip",
+      "label": "街头篮球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/进了！进了！进了！.zip",
+      "label": "进了！进了！进了！",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/卡琳魔宝.zip",
+      "label": "卡琳魔宝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/卡普空世界2.zip",
+      "label": "卡普空世界2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/卡普空运动俱乐部.zip",
+      "label": "卡普空运动俱乐部",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/开心射门-5对5迷你足球.zip",
+      "label": "开心射门-5对5迷你足球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/科乐美运动会84.zip",
+      "label": "科乐美运动会84",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/科乐美运动会88.zip",
+      "label": "科乐美运动会88",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/狼人王.zip",
+      "label": "狼人王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/老鼠射击 GoGo.zip",
+      "label": "老鼠射击 GoGo",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/乐乐小子.zip",
+      "label": "乐乐小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/力量斗球.zip",
+      "label": "力量斗球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/立体方块.zip",
+      "label": "立体方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/立体空间方块.zip",
+      "label": "立体空间方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/铃铛王子.zip",
+      "label": "铃铛王子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/琉球.zip",
+      "label": "琉球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/龙之谜题.zip",
+      "label": "龙之谜题",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/孪球.zip",
+      "label": "孪球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/逻辑 PRO.zip",
+      "label": "逻辑 PRO",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/骆驼珠.zip",
+      "label": "骆驼珠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/梦想足球'94.zip",
+      "label": "梦想足球'94",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/魔法宝石.zip",
+      "label": "魔法宝石",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/魔法方块.zip",
+      "label": "魔法方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/魔法公主.zip",
+      "label": "魔法公主",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/魔法气泡3.zip",
+      "label": "魔法气泡3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/魔法气泡海中对战.zip",
+      "label": "魔法气泡海中对战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/魔法气泡.zip",
+      "label": "魔法气泡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/魔幻星座.zip",
+      "label": "魔幻星座",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/脑力震荡2.zip",
+      "label": "脑力震荡2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/牌砦 II 复仇外传.zip",
+      "label": "牌砦 II 复仇外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/泡泡龙1.zip",
+      "label": "泡泡龙1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/泡泡龙2.zip",
+      "label": "泡泡龙2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/泡泡龙3.zip",
+      "label": "泡泡龙3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/泡泡龙4.zip",
+      "label": "泡泡龙4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/泡泡龙.zip",
+      "label": "泡泡龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/泡泡鱼2.zip",
+      "label": "泡泡鱼2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/碰碰球大战.zip",
+      "label": "碰碰球大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/皮皮和比比 电梯作战.zip",
+      "label": "皮皮和比比 电梯作战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/破纪录者.zip",
+      "label": "破纪录者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/浦吉克拉-宝石王国的世界.zip",
+      "label": "浦吉克拉-宝石王国的世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/噗哟噗哟2.zip",
+      "label": "噗哟噗哟2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/噗哟噗哟.zip",
+      "label": "噗哟噗哟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/企鹅兄弟.zip",
+      "label": "企鹅兄弟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/气球兄弟.zip",
+      "label": "气球兄弟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/曲吉鼠解谜1.zip",
+      "label": "曲吉鼠解谜1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/曲吉鼠解谜2.zip",
+      "label": "曲吉鼠解谜2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/曲吉鼠解谜3.zip",
+      "label": "曲吉鼠解谜3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/雀国志：霸王的采牌.zip",
+      "label": "雀国志：霸王的采牌",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/热血高校躲避球.zip",
+      "label": "热血高校躲避球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/赛马大亨2.zip",
+      "label": "赛马大亨2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/赛马大亨.zip",
+      "label": "赛马大亨",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/三个奇迹.zip",
+      "label": "三个奇迹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/三刻志.zip",
+      "label": "三刻志",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/上海3.zip",
+      "label": "上海3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/世嘉俄罗斯方块.zip",
+      "label": "世嘉俄罗斯方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/世界级保龄球DX.zip",
+      "label": "世界级保龄球DX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/石头球.zip",
+      "label": "石头球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/搜寻之眼 2.zip",
+      "label": "搜寻之眼 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/搜寻之眼.zip",
+      "label": "搜寻之眼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/太东力量足球.zip",
+      "label": "太东力量足球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/探求不可思议的误差.zip",
+      "label": "探求不可思议的误差",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/淘金者1.zip",
+      "label": "淘金者1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/淘金者2 帝国逆袭.zip",
+      "label": "淘金者2 帝国逆袭",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/淘金者3 黄金迷宫.zip",
+      "label": "淘金者3 黄金迷宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/淘金者4 帝国脱出.zip",
+      "label": "淘金者4 帝国脱出",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/淘金者5 挖掘战斗.zip",
+      "label": "淘金者5 挖掘战斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/特库摩世界足球赛96.zip",
+      "label": "特库摩世界足球赛96",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/天蚕变.zip",
+      "label": "天蚕变",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/田径运动会.zip",
+      "label": "田径运动会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/跳跳球 - 动物方块.zip",
+      "label": "跳跳球 - 动物方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/兔与龟.zip",
+      "label": "兔与龟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/鸵鸟骑士.zip",
+      "label": "鸵鸟骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/托托归来.zip",
+      "label": "托托归来",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/脱线行大运.zip",
+      "label": "脱线行大运",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/维兹超人.zip",
+      "label": "维兹超人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/问答殿祥之野望2.zip",
+      "label": "问答殿祥之野望2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/午夜噩梦.zip",
+      "label": "午夜噩梦",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/吸尘器小子2001.zip",
+      "label": "吸尘器小子2001",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/吸尘器小子.zip",
+      "label": "吸尘器小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/咸蛋超人俱乐部.zip",
+      "label": "咸蛋超人俱乐部",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/仙境故事.zip",
+      "label": "仙境故事",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/仙人掌兄弟.zip",
+      "label": "仙人掌兄弟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/小鸡益智方块.zip",
+      "label": "小鸡益智方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/新热血高校躲避球.zip",
+      "label": "新热血高校躲避球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/心愿猫咪对战.zip",
+      "label": "心愿猫咪对战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/新炸弹人.zip",
+      "label": "新炸弹人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/星星大战.zip",
+      "label": "星星大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/徐徐大作战.zip",
+      "label": "徐徐大作战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/雪板锦标赛.zip",
+      "label": "雪板锦标赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/雪人兄弟1.zip",
+      "label": "雪人兄弟1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/雪人兄弟2.zip",
+      "label": "雪人兄弟2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/雪人兄弟3.zip",
+      "label": "雪人兄弟3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/夜盗 X.zip",
+      "label": "夜盗 X",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/野外飞盘.zip",
+      "label": "野外飞盘",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/意大利足球赛 1997.zip",
+      "label": "意大利足球赛 1997",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/益智保龄球.zip",
+      "label": "益智保龄球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/益智迷你游戏 加强版.zip",
+      "label": "益智迷你游戏 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/益智迷你游戏.zip",
+      "label": "益智迷你游戏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/英雄物语.zip",
+      "label": "英雄物语",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/炸弹人方块.zip",
+      "label": "炸弹人方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/炸弹人机皇版.zip",
+      "label": "炸弹人机皇版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/炸弹人.zip",
+      "label": "炸弹人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/炸弹小子.zip",
+      "label": "炸弹小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/战斗原始人 归来.zip",
+      "label": "战斗原始人 归来",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/战旗船长.zip",
+      "label": "战旗船长",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/真实乒乓球.zip",
+      "label": "真实乒乓球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/智力循环2.zip",
+      "label": "智力循环2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/中国龙2.zip",
+      "label": "中国龙2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/中国龙 2001.zip",
+      "label": "中国龙 2001",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/中国龙3.zip",
+      "label": "中国龙3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/终极打气球.zip",
+      "label": "终极打气球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/终极电流急急棒.zip",
+      "label": "终极电流急急棒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/终极网球.zip",
+      "label": "终极网球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/重力抽杀.zip",
+      "label": "重力抽杀",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/抓到了！.zip",
+      "label": "抓到了！",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/足球盛况2.zip",
+      "label": "足球盛况2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/卒业证书.zip",
+      "label": "卒业证书",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/罪恶之街.zip",
+      "label": "罪恶之街",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ETC/尊尊教的野望.zip",
+      "label": "尊尊教的野望",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ETC.lpl"
+    }
+  ]
+}

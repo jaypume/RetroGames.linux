@@ -1,0 +1,731 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/PCE/1943改.pce",
+      "label": "1943改",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/F1大赛车.pce",
+      "label": "F1大赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/F1竞技场92 音速.pce",
+      "label": "F1竞技场92 音速",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/PC电人.pce",
+      "label": "PC电人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/PC原人1.pce",
+      "label": "PC原人1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/PC原人2.pce",
+      "label": "PC原人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/PC原人3.pce",
+      "label": "PC原人3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/Q版沙罗曼蛇.pce",
+      "label": "Q版沙罗曼蛇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/爆笑人.pce",
+      "label": "爆笑人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/兵蜂.pce",
+      "label": "兵蜂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/超级网球.pce",
+      "label": "超级网球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/超级星际战士.pce",
+      "label": "超级星际战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/成龙之龙.pce",
+      "label": "成龙之龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/城市猎人.pce",
+      "label": "城市猎人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/吃豆人.pce",
+      "label": "吃豆人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/冲破火网2.pce",
+      "label": "冲破火网2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/大地纹章.pce",
+      "label": "大地纹章",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/大魔界村.pce",
+      "label": "大魔界村",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/大旋风.pce",
+      "label": "大旋风",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/地狱之旅.pce",
+      "label": "地狱之旅",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/电脑小奇侠.pce",
+      "label": "电脑小奇侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/都市计划.pce",
+      "label": "都市计划",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/夺命战士2.pce",
+      "label": "夺命战士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/飞装骑兵.pce",
+      "label": "飞装骑兵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/腐尸之屋.pce",
+      "label": "腐尸之屋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/改造超人1.pce",
+      "label": "改造超人1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/改造超人2.pce",
+      "label": "改造超人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/功夫.pce",
+      "label": "功夫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/工人战记.pce",
+      "label": "工人战记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/户外大飙车.pce",
+      "label": "户外大飙车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/虎之路.pce",
+      "label": "虎之路",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/机战兵团.pce",
+      "label": "机战兵团",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/街头霸王2 冠军版.pce",
+      "label": "街头霸王2 冠军版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/究极虎.pce",
+      "label": "究极虎",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/卡达叙传说.pce",
+      "label": "卡达叙传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/雷电.pce",
+      "label": "雷电",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/龙魂.pce",
+      "label": "龙魂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/龙之刃.pce",
+      "label": "龙之刃",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/冒险岛.pce",
+      "label": "冒险岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/美国职业篮球.pce",
+      "label": "美国职业篮球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/梦幻战机.pce",
+      "label": "梦幻战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/迷宫塔.pce",
+      "label": "迷宫塔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/魔动王.pce",
+      "label": "魔动王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/魔洞战记.pce",
+      "label": "魔洞战记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/魔法大追击.pce",
+      "label": "魔法大追击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/魔境传说1.pce",
+      "label": "魔境传说1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/魔境传说2.pce",
+      "label": "魔境传说2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/魔神英雄传.pce",
+      "label": "魔神英雄传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/女武神传说.pce",
+      "label": "女武神传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/欧坦救美.pce",
+      "label": "欧坦救美",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/霹雳风云.pce",
+      "label": "霹雳风云",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/霹雳游侠.pce",
+      "label": "霹雳游侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/凄狂传说.pce",
+      "label": "凄狂传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/奇奇怪界.pce",
+      "label": "奇奇怪界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/青色杜马.pce",
+      "label": "青色杜马",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/燃烧天使.pce",
+      "label": "燃烧天使",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/热血高校躲避球部 PC番外篇.pce",
+      "label": "热血高校躲避球部 PC番外篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/热血高校躲避球部 PC足球篇.pce",
+      "label": "热血高校躲避球部 PC足球篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/忍者龙剑传.pce",
+      "label": "忍者龙剑传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/沙罗曼蛇.pce",
+      "label": "沙罗曼蛇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/射击天狗.pce",
+      "label": "射击天狗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/神奇女孩.pce",
+      "label": "神奇女孩",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/世界冒险记1.pce",
+      "label": "世界冒险记1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/世界冒险记2.pce",
+      "label": "世界冒险记2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/兽王记.pce",
+      "label": "兽王记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/太极球.pce",
+      "label": "太极球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/太空哈利.pce",
+      "label": "太空哈利",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/太空侵略者 复活之日.pce",
+      "label": "太空侵略者 复活之日",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/太空战斗机Plus.pce",
+      "label": "太空战斗机Plus",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/汤姆历险记.pce",
+      "label": "汤姆历险记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/桃太郎传说1 加强版.pce",
+      "label": "桃太郎传说1 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/桃太郎传说2.pce",
+      "label": "桃太郎传说2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/西游记2.pce",
+      "label": "西游记2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/小蜜蜂88.pce",
+      "label": "小蜜蜂88",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/邪圣剑.pce",
+      "label": "邪圣剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/新冒险岛.pce",
+      "label": "新冒险岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/血狼.pce",
+      "label": "血狼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/妖怪道中记.pce",
+      "label": "妖怪道中记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/宇宙双鹰.pce",
+      "label": "宇宙双鹰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/宇宙巡航机.pce",
+      "label": "宇宙巡航机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/源平讨魔传系列卷二.pce",
+      "label": "源平讨魔传系列卷二",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/炸弹人93.pce",
+      "label": "炸弹人93",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/炸弹人94.pce",
+      "label": "炸弹人94",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/炸弹人.pce",
+      "label": "炸弹人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/战斗神兵.pce",
+      "label": "战斗神兵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/遮阳伞之星.pce",
+      "label": "遮阳伞之星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/终级赛车.pce",
+      "label": "终级赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/追踪H.Q..pce",
+      "label": "追踪H.Q.",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/最后的忍道.pce",
+      "label": "最后的忍道",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    },
+    {
+      "path": "@ROM/PCE/最终战机.pce",
+      "label": "最终战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "PCE.lpl"
+    }
+  ]
+}

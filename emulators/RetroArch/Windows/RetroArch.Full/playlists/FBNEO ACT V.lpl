@@ -1,0 +1,67 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/FBNEO ACT V/必杀无赖拳.zip",
+      "label": "必杀无赖拳",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ACT V.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ACT V/城市快打.zip",
+      "label": "城市快打",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ACT V.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ACT V/黄金鹰之剑.zip",
+      "label": "黄金鹰之剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ACT V.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ACT V/neogeo.zip",
+      "label": "neogeo",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ACT V.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ACT V/pgm.zip",
+      "label": "pgm",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ACT V.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ACT V/神话战士.zip",
+      "label": "神话战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ACT V.lpl"
+    },
+    {
+      "path": "@ROM/FBNEO ACT V/stvbios.zip",
+      "label": "stvbios",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "FBNEO ACT V.lpl"
+    }
+  ]
+}

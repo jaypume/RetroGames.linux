@@ -1,0 +1,843 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "sort_mode": "2",
+  "items": [
+    {
+      "path": "@ROM/LIGHT GUN/Vs. 猎鸭.zip",
+      "label": "Vs. 猎鸭",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/Vs. 强盗射击.zip",
+      "label": "Vs. 强盗射击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/Vs. 自由武装.zip",
+      "label": "Vs. 自由武装",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/暗黑神枪.zip",
+      "label": "暗黑神枪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/靶场射击.zip",
+      "label": "靶场射击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/百发百中 - 趣味射击.zip",
+      "label": "百发百中 - 趣味射击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/保镖狙击手.zip",
+      "label": "保镖狙击手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/必射电视.zip",
+      "label": "必射电视",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/bsmt2000.zip",
+      "label": "bsmt2000",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/cchip.zip",
+      "label": "cchip",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/触控游戏 2.zip",
+      "label": "触控游戏 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/触控游戏 3.zip",
+      "label": "触控游戏 3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/触控游戏 4.zip",
+      "label": "触控游戏 4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/触控游戏 5.zip",
+      "label": "触控游戏 5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/触控游戏 6.zip",
+      "label": "触控游戏 6",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/触控游戏 7.zip",
+      "label": "触控游戏 7",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/触摸大师 1.zip",
+      "label": "触摸大师 1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/触摸大师 2000.zip",
+      "label": "触摸大师 2000",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/触摸大师 3000.zip",
+      "label": "触摸大师 3000",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/触摸大师 4000.zip",
+      "label": "触摸大师 4000",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/触摸大师 5000.zip",
+      "label": "触摸大师 5000",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/触摸大师 7000.zip",
+      "label": "触摸大师 7000",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/触摸大师 8000.zip",
+      "label": "触摸大师 8000",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/大革命 X.zip",
+      "label": "大革命 X",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/大力锤.zip",
+      "label": "大力锤",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/盗尸者之神.zip",
+      "label": "盗尸者之神",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/反恐精英 2.zip",
+      "label": "反恐精英 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/反恐精英.zip",
+      "label": "反恐精英",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/飞跃颠峰.zip",
+      "label": "飞跃颠峰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/疯狂打靶.zip",
+      "label": "疯狂打靶",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/疯狂马雷特.zip",
+      "label": "疯狂马雷特",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/鬼魂射击.zip",
+      "label": "鬼魂射击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/化解危机.zip",
+      "label": "化解危机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/火鸡狩猎 美国.zip",
+      "label": "火鸡狩猎 美国",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/火线行动 - 爆弹野郎.zip",
+      "label": "火线行动 - 爆弹野郎",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/鸡蛋趣味射击.zip",
+      "label": "鸡蛋趣味射击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/机动战士钢弹 - 最后射击 0079.zip",
+      "label": "机动战士钢弹 - 最后射击 0079",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/机枪双雄.zip",
+      "label": "机枪双雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/僵尸突袭.zip",
+      "label": "僵尸突袭",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/金字塔坟墓.zip",
+      "label": "金字塔坟墓",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/警匪双枪.zip",
+      "label": "警匪双枪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/konamigx.zip",
+      "label": "konamigx",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/骷髅 13 - 奇迹的弹道.zip",
+      "label": "骷髅 13 - 奇迹的弹道",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/骷髅 13.zip",
+      "label": "骷髅 13",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/立方射击 1.zip",
+      "label": "立方射击 1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/立方射击 4.zip",
+      "label": "立方射击 4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/立方射击 5.zip",
+      "label": "立方射击 5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/猎鹿 USA.zip",
+      "label": "猎鹿 USA",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/零式枪战 2.zip",
+      "label": "零式枪战 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/零式枪战.zip",
+      "label": "零式枪战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/灵异双枪.zip",
+      "label": "灵异双枪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/m68705p5.zip",
+      "label": "m68705p5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/麻烦泡泡 - 古灵!精怪! 2.zip",
+      "label": "麻烦泡泡 - 古灵!精怪! 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/毛骨悚然.zip",
+      "label": "毛骨悚然",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/microtouch.zip",
+      "label": "microtouch",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/命中率.zip",
+      "label": "命中率",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/命中目标.zip",
+      "label": "命中目标",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/魔鬼终结者 2 - 审判之日.zip",
+      "label": "魔鬼终结者 2 - 审判之日",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/魔龙.zip",
+      "label": "魔龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/namcoc65.zip",
+      "label": "namcoc65",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/namcoc68.zip",
+      "label": "namcoc68",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/namcoc75.7z",
+      "label": "namcoc75",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/纽约绑匪.zip",
+      "label": "纽约绑匪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/枪火贵族.zip",
+      "label": "枪火贵族",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/枪火之下.zip",
+      "label": "枪火之下",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/枪林弹雨 2.zip",
+      "label": "枪林弹雨 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/枪林弹雨.zip",
+      "label": "枪林弹雨",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/侵略者 - 绑架者.zip",
+      "label": "侵略者 - 绑架者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/任务-彩弹准备.zip",
+      "label": "任务-彩弹准备",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/赛恩警长 - 大逃犯枪战.zip",
+      "label": "赛恩警长 - 大逃犯枪战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/segabill.zip",
+      "label": "segabill",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/sente6vb.zip",
+      "label": "sente6vb",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/射击大师.zip",
+      "label": "射击大师",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/射击乐园.zip",
+      "label": "射击乐园",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/神枪手.zip",
+      "label": "神枪手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/生物打击.zip",
+      "label": "生物打击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/石弓岛.zip",
+      "label": "石弓岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/狩猎大奖赛 - 熊 & 鹿.zip",
+      "label": "狩猎大奖赛 - 熊 & 鹿",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/树精双枪.zip",
+      "label": "树精双枪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/stvbios.zip",
+      "label": "stvbios",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/速射.zip",
+      "label": "速射",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/太空神枪.zip",
+      "label": "太空神枪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/天生拳霸.zip",
+      "label": "天生拳霸",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/铁道逃生 2.zip",
+      "label": "铁道逃生 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/铁道逃生.zip",
+      "label": "铁道逃生",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/tms32032.zip",
+      "label": "tms32032",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/土耳其射击.zip",
+      "label": "土耳其射击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/乌兹冲锋枪 1.zip",
+      "label": "乌兹冲锋枪 1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/乌兹冲锋枪 2.zip",
+      "label": "乌兹冲锋枪 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/乌兹冲锋枪 3.zip",
+      "label": "乌兹冲锋枪 3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/星球大战-克隆人战争.zip",
+      "label": "星球大战-克隆人战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/野鸟射击锦标赛.zip",
+      "label": "野鸟射击锦标赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/野兽突袭.zip",
+      "label": "野兽突袭",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/野外飞靶.zip",
+      "label": "野外飞靶",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/异形 3 - 射击版.zip",
+      "label": "异形 3 - 射击版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/ym2608.zip",
+      "label": "ym2608",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/游乐场枪神.zip",
+      "label": "游乐场枪神",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/幽灵猎人.zip",
+      "label": "幽灵猎人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/战斗任务 - 武力支援.zip",
+      "label": "战斗任务 - 武力支援",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/战警双枪.zip",
+      "label": "战警双枪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/致命法理.zip",
+      "label": "致命法理",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/致命双枪 II.zip",
+      "label": "致命双枪 II",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/致命双枪.zip",
+      "label": "致命双枪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    },
+    {
+      "path": "@ROM/LIGHT GUN/侏罗纪公园.zip",
+      "label": "侏罗纪公园",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "LIGHT GUN.lpl"
+    }
+  ]
+}
