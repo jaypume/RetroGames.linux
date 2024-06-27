@@ -41,9 +41,11 @@ https://buildbot.libretro.com/stable/
 
 2. 拷贝到对应机器SD卡
 ```
-rsync -aL './emulators/RetroArch/Windows/RetroArch.Test'  '/Volumes/<your drive>/RetroArch.Test'
+rsync -atPL './emulators/RetroArch/Windows/RetroArch.Test'  '/Volumes/<your drive>/RetroArch.Test'
 ```
 `-aL`表示会把符号链接的原始内容进行拷贝，而不是符号链接本身。
+
+rsync -ratPl '/Volumes/RetroGames/test'  '/Volumes/RetroGames/'
 
 
 ## 可以实现什么样的效果？(TODO)
